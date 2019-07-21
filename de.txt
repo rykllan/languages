@@ -38,7 +38,7 @@ no█Nein
 got_it█Habs!
 confirm█Bestätigen
 enter_text█Text eingeben...
-none_text█Nix
+none_text█Nichts
 details_text█Einzelheiten
 create_text█Mitwirkenden
 upgrade_text█Erweitern
