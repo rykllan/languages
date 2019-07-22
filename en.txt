@@ -1,4 +1,4 @@
-﻿welcome_notification█Hello, <color=#64B5F6>{0}</color>!&%I see you've finally set up the rocket company you mentioned before. "<color=#64B5F6>{1}</color>" is actually a cool name! I have to tell you, you're very brave.&%&%Big companies that have a monopoly on launching rockets have not invested in newer technology for years. They've been using some inefficient boosters on obsolete engines all the time. What if they could land their rockets back on earth? Then it would be possible to send even a few payloads with only 1 rocket! I hope you can build a landing rocket or even a side booster rocket in few years.&%&%Good luck!
+﻿welcome_notification█Hello, <color=#64B5F6>{0}</color>!&%I see you've finally set up the rocket company you've mentioned before. "<color=#64B5F6>{1}</color>" is actually a cool name! I have to tell you, you're very brave.&%&%Big companies that have a monopoly on the launch provider market have not invested in newer technology for years. They're still using inefficient boosters and obsolete engines. What if they could land their rockets back on Earth? Then it would be possible to send even a few payloads with only 1 rocket! I hope you can build a landing rocket or even a side booster rocket in few years.&%&%Good luck!
 ---Main Menu---█---Main Menu---
 menu_btn_play█Play
 menu_btn_settings█Settings
@@ -8,7 +8,7 @@ menu_btn_continue█Continue
 menu_btn_return█Return
 menu_btn_save█Save
 menu_btn_mainmenu█Main Menu
-menu_exit_confirm█You really want to leave this game? You will lose all your unsaved progress!
+menu_exit_confirm█You really want to leave the game? You will lose all unsaved progress!
 sett_graphics_quality█Graphics quality
 sett_low█Low
 sett_medium█Medium
@@ -49,7 +49,7 @@ inmenu_bank█Bank
 inmenu_company█Company
 inmenu_contracts█Contracts
 ---Rockets Tab---█---Rockets Tab---
-no_rockets█[You don't have any projects yet!]&%Create new project by clicking on "Create new project"!
+no_rockets█[You don't have any projects yet!]&%Create a new project by clicking on "Create new project"!
 new_variant█New rocket
 create_new_project█Create new project
 build_rocket█Build rocket
@@ -58,14 +58,14 @@ launch_rocket█Launch rocket
 repair_rocket█Repair rocket
 rocket_notbuilt█Not built yet
 rocket_buildingnow█Under construction...
-rocket_repairingnow█Under repairing...
+rocket_repairingnow█Under repair...
 rocket_buildquality█Build quality ({0}%)
 rocket_durability█Durability ({0}%)
 rocket_capability█Max Payload/Orbit: <color=#64B5F6><b>{0}/{1}</b></color> | <color=#64B5F6><b>{2}</b></color>
 rocket_disponsable█Disposable
 rocket_reusable█Reusable
 rocket_launch_text█Ready to fly
-rockets_project_remove_has_rockets█You can't remove this project, because there are rockets in it!
+rockets_project_remove_has_rockets█You can't remove this project because there are rockets in it!
 rockets_project_remove_confirm█Are you sure you want remove this project?
 missions_header█Missions
 mission_testflight█Test Flight
@@ -74,7 +74,7 @@ mission_details█Details
 q_rocket_building█You are already building that rocket!
 q_rocket_repairing█You are already repairing that rocket!
 q_rocket_no_hangars█You don't own any hangars to repair rockets.
-q_rocket_cant_remove_building█You can't remove that rocket, because you're building it now!
+q_rocket_cant_remove_building█You can't remove that rocket because you're still building it!
 ---Other---█---Other---
 rocket_deploy█Rocket Payload Deploy
 q_not_money_add█You made {0} <color=#16A085>$</color>! - {1}
@@ -95,13 +95,13 @@ mdl_l_fueltank█Large Fuel Tank,Max Payload/Orbit: Large/GEO
 ---Computers---█---Computers---
 mdl_s_computer█Simple On-Board Computer,Max Payload/Orbit: Medium/MEO
 mdl_a_computer█Advanced On-Board Computer,Max Payload/Orbit: Large/GEO
-mdl_s_battery█Simple Battery,Max Payload/Orbit: Large/LEO
+mdl_s_battery█Small Battery,Max Payload/Orbit: Large/LEO
 mdl_a_battery█Advanced Battery,Max Payload/Orbit: Large/GEO
 mdl_gps█GPS,Max Payload/Orbit: Large/GEO
 ---Fairings---█---Fairings---
-mdl_s_fairings█Small Fairings,Max Payload/Orbit: Small/GEO
-mdl_m_fairings█Medium Fairings,Max Payload/Orbit: Medium/GEO
-mdl_l_fairings█Large Fairings,Max Payload/Orbit: Large/GEO
+mdl_s_fairings█Small Fairing,Max Payload/Orbit: Small/GEO
+mdl_m_fairings█Medium Fairing,Max Payload/Orbit: Medium/GEO
+mdl_l_fairings█Large Fairing,Max Payload/Orbit: Large/GEO
 ---Landing Stuff---█---Landing Stuff---
 mdl_a_gridfins█Aluminium Grid Fins,Max Payload/Orbit: Large/GEO
 mdl_t_gridfins█Titanium Grid Fins,Max Payload/Orbit: Large/GEO
@@ -120,10 +120,10 @@ tooltip_btn_research█Research
 tooltip_btn_bank█Bank
 tooltip_btn_company█Company
 tooltip_btn_contracts█Contracts
-tooltip_btn_create_new_project█You have to unlock at least one of the Computers, Engines, Fuel Tanks and Fairings modules!
+tooltip_btn_create_new_project█You have to unlock at least one Computer, Engine, Fuel Tank and Fairing module!
 create_new_rocket█Create new rocket
 rck_creator_group_name█<b>{0}</b> - <color=#64B5F6>{1}</color>
-rck_creator_no_module_selected█No module is selected
+rck_creator_no_module_selected█No module selected
 component_info_requirements_text█Requirements
 r&d_window_header█Research & development
 r&d_category_rck_tech_btn█Rocket modules
@@ -164,9 +164,9 @@ bank_overview_year_summary_profit_minus█<color=#E74C3C>{0} $</color>
 bank_overview_year_comparison_header█Year comparison (funds)
 bank_loans_header█Choose plan
 bank_loans_plan_name█Plan {0}
-bank_loans_take_btn█Take this loan
+bank_loans_take_btn█Take loan
 bank_loans_payback_btn█Payback
-bank_loans_take_notification█You took out a loan. You will repay {0} <color=#16A085>$</color> each quarter until you repay the loan. ({1} quarters)
+bank_loans_take_notification█You took out a loan. You will pay {0} <color=#16A085>$</color> each quarter until you repay the loan. ({1} quarters)
 bank_loans_payment_text█Loan repayment ({0})
 bank_loans_payback_no_money█You don't have enough money to pay this loan back!
 bank_loans_payback_notification█The loan you took was repaid, thank you!
@@ -211,16 +211,16 @@ company_manager_employees_labs█Laboratory workers
 company_manager_employees_hangar█Hangar workers
 company_manager_buildings_header█Buildings
 company_manager_achivements█Achievements
-exp_manager_skill_points_add_notification█You made {0} skill points!
+exp_manager_skill_points_add_notification█You gained {0} skill points!
 exp_manager_skill_points_take_notification█You spent {0} skill points!
-exp_manager_exp_add_notification█You made {0} experience!
+exp_manager_exp_add_notification█You gained {0} experience!
 exp_manager_level_up_notification█Level up!
 exp_manager_level_string█<color=#FF9F43>Level {0}</color> <color=#FFC48B><size=10>({1}/{2})</size></color>
 exp_manager_level_serious_company█<color=#FF9F43>Serious Company</color>
 building_manager_workers█{0} workers
 building_manager_upgrade_notification█Building upgraded!
 building_manager_header█Manage building
-building_manager_open_btn█Open buildings manager
+building_manager_open_btn█Open building manager
 building_manager_workers_header█Building workers
 building_manager_upgrades_header█Building upgrades
 building_manager_upgrade_default_name█Default
@@ -237,8 +237,8 @@ building_panel_manage_btn█Manage
 employees_manager_employees_pay█Employees pay ({0})
 employees_manager_available_employees█Available: {0} <color=#c5c5c5><size=10>/{1}</size></color>
 employees_manager_available_workers█Available workers | Factory: {0} <color=#c5c5c5><size=10>/{1}</size></color>   ,   Office: {2} <color=#c5c5c5><size=10>/{3}</size></color>   ,   Laboratory: {4} <color=#c5c5c5><size=10>/{5}</size></color>   ,   Hangar: {6} <color=#c5c5c5><size=10>/{7}</size></color>
-achivements_manager_notification_title█Achievement reached!
-achivements_manager_notification_content█You've reached the <color=#64B5F6>{0}</color> achivement.&%{1}
+achivements_manager_notification_title█Achievement unlocked!
+achivements_manager_notification_content█You've unlocked the <color=#64B5F6>{0}</color> achivement.&%{1}
 contracts_manager_header█Contracts
 contracts_manager_menu_available_btn█Available
 contracts_manager_info_payload_header█Payloads
@@ -253,30 +253,30 @@ contract_taken_pending_desc█<b>{0}</b>&%<size=10>{1} missions | Payloads <colo
 contract_name_text█<b>{0}</b>&%<size=12>{1} missions</size>
 contract_desc_text█{0} mission&%<size=10><b><color=#E57373>Deadline: {3} Q{4}</color></b> | {1}/{2}</size>
 contract_finance_text█<size=13>Each successful flight:</size> <b>+{0} <color=#16A085>$</color></b>&%<size=13>Each fine (crash):</size> <b>-{1} <color=#E57373>$</color></b>&%<size=13>Each fine (deadline):</size> <b>-{2} <color=#E57373>$</color></b>
-contract_cannot_take_notification█You can't take this contract, because your trust level is too low!
+contract_cannot_take_notification█You can't take this contract because your trust level is too low!
 contract_deadline_passed_notification_name█You're too late!
-contract_deadline_passed_notification_content█Removing <color=#64B5F6>{0}</color> contract, because one of its mission passed the deadline.&%You will be punished!
-contract_deadline_penalty_notification█You've lost a contract, because deadline of one of its missions has passed.
-contract_deadline_reminder_notification_name█Those missions will expire soon!
+contract_deadline_passed_notification_content█Removing <color=#64B5F6>{0}</color> contract, because one of its mission passed the deadline.&%You will be fined!
+contract_deadline_penalty_notification█You've lost a contract because deadline of one of its missions has passed.
+contract_deadline_reminder_notification_name█These missions will expire soon!
 contract_deadline_reminder_notification_content█You need to complete&%<color=#64B5F6>{0}</color>missions in order to save the taken contracts.&%You will be punished once you pass the deadline!
 contract_details_btn█Details
 tutorial_stop_confirm█Are you sure you want to stop the tutorial?
 tutorial_0█Unlock 4 modules×The first 4 rocket modules are required to build your first rocket.
 tutorial_1█Upgrades×Here, you can upgrade your company and the modules in the future! Close this window now.
-tutorial_2█Build mode×In the build mode you can build buildings you need. Offices are searching for contracts, factories are building rockets, hangars are storing rockets and labs are researching. All buildings are very important!
-tutorial_3█Build now×Now build your first 2 factories and 1 hangar, then turn off the build mode!
+tutorial_2█Build mode×In the build mode you can build buildings that you need. Offices are searching for contracts, factories are building rockets, hangars are storing rockets and labs are researching. All buildings are very important!
+tutorial_3█Build now×Now build your first 2 factories and a hangar, then turn off the build mode!
 tutorial_4█Setup the company×In the company manager you can set up your company and the buildings.
 tutorial_5█Manage employees×In the employees tab you can hire and assing the employees to 4 worker groups.
 tutorial_6█Hire employees×Hire some employees first.
 tutorial_7█Assing employees×Assign the hired employees to the worker groups first. Every group is important.
-tutorial_8█Allocate workers×Allocate the workers to the buildings now. The more the building has employees in it, the faster the work is.
+tutorial_8█Allocate workers×Allocate the workers to the buildings now. The more employees a building has, the faster it works.
 tutorial_9█Open rockets manager×In this window you can create, build and launch your rockets.
-tutorial_10█Create new project×Create the rocket blueprint first. Every rocket has its capability. Your first rocket will be Small/LEO, which means that it can care small payload to the Low Earth's Orbit.
+tutorial_10█Create new project×Create the rocket blueprint first. Every rocket has its capability. Your first rocket will be Small/LEO, which means that it can only carry small payload to the Low Earth Orbit.
 tutorial_11█Create new rocket×In the rocket project panel you can create new rocket. You can create and remove as many rockets you want.
-tutorial_12█Build rocket×You can abort the build at any time, but you won't getting your money back.
+tutorial_12█Build rocket×You can stop the production at any time, but you won't getting your money back.
 tutorial_13█Assign factories×Now assign your factories to the rocket modules and wait. You can do it manually or by clicking the green button above.
 tutorial_14█Open rockets manager×Do it again!
-tutorial_15█Launch rocket×Launch the rocket you've just built. You have to test flight it to get some trust. After that you will be able to take contracts and earn money!
+tutorial_15█Launch rocket×Launch the rocket you've just built. You have to test flight it to gain some trust. After that you will be able to take contracts and earn money!
 mission_details_payload█Payload
 mission_details_client█Client
 mission_details_size█Size
@@ -302,16 +302,16 @@ payload_size_large█Large
 orbit_leo█LEO
 orbit_meo█MEO
 orbit_geo█GEO
-launchpad_full_notification█You are already launching rocket from this launch pad!
+launchpad_full_notification█You are already launching a rocket from this launch pad!
 mission_manager_max_year_launch_exceeded_notification█You've launched the maximum amount of rockets this year.
 mission_manager_simultaneous_launch_exceeded_notification█You can't launch so many rockets at the same time. You need to upgrade your company in the research tree!
-mission_manager_reusable_launch_denied_notification█You can't launch reusable rocket, because you don't have permission to do that. You need to upgrade your company in the research tree!
-mission_manager_three_stage_launch_denied_notification█You can't launch 3-cores rocket, because you don't have permission to do that. You need upgrade your company in the research tree!
-mission_manager_rocket_preparation_notification█Rocket was refuelled and prepared to take off
+mission_manager_reusable_launch_denied_notification█You can't launch a reusable rocket because you don't have the approval for that. You need to upgrade your company in the research tree!
+mission_manager_three_stage_launch_denied_notification█You can't launch a 3-core rocket, because you don't have approval for that. You need upgrade your company in the research tree!
+mission_manager_rocket_preparation_notification█Rocket was refueled and prepared to launch again
 context_menu_title█Select
-context_menu_no_factory█[No factory is available now.]
+context_menu_no_factory█[No factory is currently available.]
 context_menu_rocket_info█<b>{0}</b>&%<color=#64B5F6><size=10>> {1} | Payload: {2}/{3}</size></color>
-context_menu_no_rocket█[You don't have any rockets or they're just too bad for this mission.]
+context_menu_no_rocket█[You don't have any rockets or they cannot carry out this mission.]
 build_slot_remove_factory_working_notification█This factory is working. You can't remove it.
 build_slot_remove_confirmation█Are you sure you want to remove this building?
 build_slot_building_sold_notification█Building has been sold
@@ -327,17 +327,17 @@ build_slot_rocket_repaired█The {0} rocket was repaired!
 build_slot_building_built█Building was built
 build_slot_timeline_entry█{0} built
 modules_manager_new_modules_notification_title█Check the research tree
-modules_manager_new_modules_notification_content█You can now unlock following modules:&%&%<color=#64B5F6>{0}</color>&% You can unlock them in the research tree window!
+modules_manager_new_modules_notification_content█You can now unlock following modules:&%&%<color=#64B5F6>{0}</color>&% in the research tree window!
 research_panel_unknow_text█Unknown
-research_panel_cannot_unlock_notification█You don't have the required level or required amount of skill points or required amount of money!
+research_panel_cannot_unlock_notification█You don't have the required level, amount of skill points or enough money!
 research_panel_unlock_module_text█Unlock
 launch_control_deploy_success_notification_title█Deploy successful
 launch_control_deploy_success_notification_content█{0} rocket carried the customer payload to the target orbit.&%The <color=#64B5F6>{1}</color> mission has succeeded.&%Customer paid you {2} <color=#16A085>$</color>!
-launch_control_deploy_success_notification_content_landing█{0} rocket carried the customer payload to the target orbit.&%The <color=#64B5F6>{1}</color> mission has succeeded.&%Customer paid you {2} <color=#16A085>$</color>!&%The {0} rocket will now try to land on the surface.
+launch_control_deploy_success_notification_content_landing█{0} rocket carried the customer payload to the target orbit.&%The <color=#64B5F6>{1}</color> mission has succeeded.&%Customer paid you {2} <color=#16A085>$</color>!&%The {0} rocket will now attempt a landing back on Earth.
 launch_control_landing_success_notification_title█Landing successful
-launch_control_landing_success_notification_content█{0} rocket landed back on the ground.&%The <color=#64B5F6>{1}</color> mission has succeeded.&%You can now reuse the {0} rocket for the next mission!
+launch_control_landing_success_notification_content█{0} rocket landed back on the ground.&%The <color=#64B5F6>{1}</color> mission has succeeded.&%You can now reuse the {0} rocket for other missions!
 launch_control_mission_fail_notification_title█Mission failed
-launch_control_mission_fail_notification_content█{0} rocket exploded.&%The <color=#64B5F6>{1}</color> mission has failed.&%You have to pay {2} <color=#E74C3C>$</color>, because you've lost customer payload.&%&%To prevent rocket explosions, build them more often and static fire your rockets before they fly!
+launch_control_mission_fail_notification_content█{0} rocket had an anomaly.&%The <color=#64B5F6>{1}</color> mission has failed.&%You have to pay {2} <color=#E74C3C>$</color>, because you've lost customer payload.&%&%To prevent future anomalies, build them more often to increase reliability and static fire your rockets before the launch!
 launch_control_mission_fail_notification_money█Mission failed, payload lost!
 projects_module_panel_employees█{0} employees
 projects_module_panel_queue█In queue... ({0})
@@ -369,7 +369,7 @@ building_factory_desc█Build modules
 building_hangar_text█<b><color=#FF9F43>Hangar</color></b> | 215 000 <color=#16A085>$</color>
 building_hangar_desc█Store rockets
 building_lab_text█<b><color=#FF9F43>Laboratory</color></b> | 715 000 <color=#16A085>$</color>
-building_lab_desc█Make skillpoints
+building_lab_desc█Gain skillpoints
 launch_pad_cape_canaveral█Cape Canaveral
 launch_pad_cape_canaveral_desc█Florida
 launch_pad_vandenberg█Vandenberg
@@ -388,7 +388,7 @@ module_panel_select_factory_btn█Select factory
 module_panel_build_btn█Build
 module_panel_stop_build_btn█Stop building
 achivement_amateur█Amateur×Launch 5 rockets.
-achivement_bancrupt█And Again!×Bancrupt.
+achivement_bancrupt█And Again!×Bankrupt.
 achivement_bad_day█Bad Day×Fail launches 3 times in a row.
 achivement_best_of_the_best█You're Good×Achieve the highest reputation.
 achivement_everyone_makes_mistakes█Everyone Makes Mistakes×Fail launches 10 times overall.
@@ -406,7 +406,7 @@ credits_blur█Blur shader created by <color=#64B5F6>Justin Garza</color>
 credits_icons█Rocket module icons by <color=#64B5F6>lqdev</color>
 credits_music█Background music by <color=#64B5F6>.xrmmusic</color>
 credits_models█Building models by <color=#64B5F6>BroTT</color>
-credits_additional_icons█Icons credit: (all from flaticon.com)&%https://www.flaticon.com/authors/smashicons&%https://www.flaticon.com/authors/dave-gandy&%https://www.freepik.com&%https://www.flaticon.com/authors/vectors-market&%https://www.flaticon.com/authors/google&%https://www.flaticon.com/authors/roundicons&%https://www.flaticon.com/authors/alfredo-hernandez&%https://www.flaticon.com/authors/pixel-perfect&%https://www.flaticon.com/authors/lucy-g&%https://www.flaticon.com/authors/gregor-cresnar&%https://www.flaticon.com/authors/nhor-phai&%https://www.flaticon.com/authors/bogdan-rosu&%https://www.flaticon.com/authors/kiranshastry
+credits_additional_icons█Icon credits: (all from flaticon.com)&%https://www.flaticon.com/authors/smashicons&%https://www.flaticon.com/authors/dave-gandy&%https://www.freepik.com&%https://www.flaticon.com/authors/vectors-market&%https://www.flaticon.com/authors/google&%https://www.flaticon.com/authors/roundicons&%https://www.flaticon.com/authors/alfredo-hernandez&%https://www.flaticon.com/authors/pixel-perfect&%https://www.flaticon.com/authors/lucy-g&%https://www.flaticon.com/authors/gregor-cresnar&%https://www.flaticon.com/authors/nhor-phai&%https://www.flaticon.com/authors/bogdan-rosu&%https://www.flaticon.com/authors/kiranshastry
 credits_thanks█Thanks for all early itch.io buyers!&%Thanks for all the testers for playing my game and feedback :D&%Big thanks for testers, who tested almost every experimental version I released. Nice to have you guys!
 credits_contributors_header█Contributors
 credits_jakub_kiryluk_badge1█Localization
@@ -425,7 +425,7 @@ join_us_header█Join us on
 shortcuts█LMB / RMB - Camera Movement&%Scroll - Camera Zoom&%WASD - Keyboard Camera Movement&%Z/X - Keyboard Camera Zoom
 space_race_btn█Space Race
 game_over_warning_header█You are about to bankrupt!
-game_over_warning_content█Your company will go bancrupt in {0} quarters!&%&%Things you can do:&%- take a loan from the bank&%- decrease employees amount (less payments pay)&%- sell some buildings
+game_over_warning_content█Your company will go bankrupt in {0} quarters!&%&%Things you can do:&%- take a loan from the bank&%- decrease employees amount &%- sell some buildings
 game_over_header█You are bankrupt!
 game_over_content█Your company has gone bankrupt! GAME OVER!&%You will be moved to the main menu in 10 seconds!
 pirate_header█You have an illegal version of EarthX!
