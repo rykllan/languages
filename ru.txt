@@ -1,46 +1,46 @@
 ﻿welcome_notification█Hello, <color=#64B5F6>{0}</color>!&%I see you've finally set up the rocket company you mentioned before. "<color=#64B5F6>{1}</color>" is actually a cool name! I have to tell you, you're very brave.&%&%Big companies that have a monopoly on launching rockets have not invested in newer technology for years. They've been using some inefficient boosters on obsolete engines all the time. What if they could land their rockets back on earth? Then it would be possible to send even a few payloads with only 1 rocket! I hope you can build a landing rocket or even a side booster rocket in few years.&%&%Good luck!
----Main Menu---█---Main Menu---
-menu_btn_play█Play
-menu_btn_settings█Settings
-menu_btn_credits█Credits
-menu_btn_exit█Exit
-menu_btn_continue█Continue
+---Main Menu---█---Главное меню---
+menu_btn_play█Играть
+menu_btn_settings█Настройки
+menu_btn_credits█Авторы
+menu_btn_exit█Выход
+menu_btn_continue█Продолжить
 menu_btn_return█Return
 menu_btn_save█Save
-menu_btn_mainmenu█Main Menu
-menu_exit_confirm█You really want to leave this game? You will lose all your unsaved progress!
-sett_graphics_quality█Graphics quality
-sett_low█Low
-sett_medium█Medium
-sett_high█High
-sett_video█Video
-sett_fullscreen█Fullscreen
-sett_graphics_effects█Graphics effects
-sett_pp█Post processings
-sett_blur█Interface blur
-sett_audio█Audio
-sett_music█Music
+menu_btn_mainmenu█Главное меню
+menu_exit_confirm█Вы уверены, что хотите выйти из этой игры? Вы потеряете весь ваш несохранённый прогресс!
+sett_graphics_quality█Качество графики
+sett_low█Низкое
+sett_medium█Среднее
+sett_high█Высокое
+sett_video█Видео
+sett_fullscreen█Полный экран
+sett_graphics_effects█Эффекты
+sett_pp█Постпроцессинг
+sett_blur█Размытие интерфейса
+sett_audio█Звук
+sett_music█Звук
 sett_sounds█Sounds
-sett_other█Others
-sett_autosave█Auto-save
-sett_autopause█Auto-pause
-sett_language█Language
-gamemanager_header█Create or load game
-gamemanager_newgame█Create new game
+sett_other█Другое
+sett_autosave█Автосохранения
+sett_autopause█Автопауза
+sett_language█Язык
+gamemanager_header█Начать или загрузить игру
+gamemanager_newgame█Начать новую игру
 gamemanager_lastplayed█last played on
-gamestp_header█Game setup
-gamestp_easy█Normal
-gamestp_realistic█Realistic
-gamestp_comingsoon█Not available
-flat_earth_confirm█This mode is <b>just for FUN</b>! (Troll/Joke) It's very realistic and difficult. You're playing at your own risk. Play "Normal" mode for normal gameplay.
-yes█Yes
-no█No
-got_it█Got it!
-confirm█Confirm
-enter_text█Enter text...
+gamestp_header█Игровой режим
+gamestp_easy█Нормальный
+gamestp_realistic█Реалистичный
+gamestp_comingsoon█Не доступно
+flat_earth_confirm█Этот режим <b>просто для ВЕСЕЛЬЯ</b>! (Троллинг/шутка) Это очень реалистично и сложно. Вы играете на свой риск. Выберите "Нормальный" режим для нормальной игры.
+yes█Да
+no█Нет
+got_it█Понял!
+confirm█Подтверждение
+enter_text█Введите текст...
 none_text█None
 details_text█Details
-create_text█Create
+create_text█Создать
 upgrade_text█Upgrade
 ---In Game Menu---█---In Game Menu---
 inmenu_rockets█Rockets
@@ -80,7 +80,7 @@ rocket_deploy█Rocket Payload Deploy
 q_not_money_add█You made {0} <color=#16A085>$</color>! - {1}
 q_not_money_take█You spent {0} <color=#E74C3C>$</color>! - {1}
 modules_header█Modules
-game_exit_confirm█Are you sure you want to leave EarthX?
+game_exit_confirm█Вы уверены, что хотите выйти из EartX?
 rocket_remove_confirm█Are you sure you want to remove that rocket?
 ---Modules---█---Modules---
 ---Engines---█---Engines---
@@ -110,16 +110,16 @@ mdl_a_landingLegs█Automatic Landing Legs,Max Payload/Orbit: Large/GEO
 mdl_booster_connector█Boosters Connector,Build a rocket with 2 side boosters
 game_loaded_notification█Game loaded!
 save_removal_confirm█Are you sure you want to delete this save?
-version_info█EarthX 0.2.5.3&%by <b>Denis Szwarc</b> <size=10>with help of contributors</size>
+version_info█EarthX 0.2.5.2&%by <b>Denis Szwarc</b> <size=10>with help of contributors</size>
 tooltip_open_build_mode█Open build mode
-tooltip_open_buget_history█Money
-tooltip_open_research_tree█Skill points
-tooltip_trust_level█Trust level
-tooltip_btn_rockets█Rockets
-tooltip_btn_research█Research
-tooltip_btn_bank█Bank
-tooltip_btn_company█Company
-tooltip_btn_contracts█Contracts
+tooltip_open_buget_history█Деньги
+tooltip_open_research_tree█Очки улучшений
+tooltip_trust_level█Уровень доверия
+tooltip_btn_rockets█Ракеты
+tooltip_btn_research█Исследования
+tooltip_btn_bank█Банк
+tooltip_btn_company█Компания
+tooltip_btn_contracts█Контракт
 tooltip_btn_create_new_project█You have to unlock at least one of the Computers, Engines, Fuel Tanks and Fairings modules!
 create_new_rocket█Create new rocket
 rck_creator_group_name█<b>{0}</b> - <color=#64B5F6>{1}</color>
@@ -128,13 +128,13 @@ component_info_requirements_text█Requirements
 r&d_window_header█Research & development
 r&d_category_rck_tech_btn█Rocket modules
 r&d_category_upgrades_btn█Upgrades
-r&d_phase1_title█Phase 1
-r&d_phase2_title█Phase 2
-r&d_phase3_title█Phase 3
-r&d_phase4_title█Phase 4
-r&d_phase5_title█Phase 5
-r&d_phase6_title█Phase 6
-r&d_phase7_title█Phase 7
+r&d_phase1_title█Фаза 1
+r&d_phase2_title█Фаза 2
+r&d_phase3_title█Фаза 3
+r&d_phase4_title█Фаза 4
+r&d_phase5_title█Фаза 5
+r&d_phase6_title█Фаза 6
+r&d_phase7_title█Фаза 7
 r&d_company_btn█Company
 r&d_company_upgrade_title█Company upgrades
 r&d_company_upgrade_requirements_header█Requirements
@@ -177,11 +177,11 @@ bank_notification_employees_pay█Employees pay
 bank_notification_buildings_rent█Buildings rent
 bank_notification_taxes█Taxes (13% of your income)
 bank_loans_take_timeline_entry█Loan taken
-company_creator_header█Create your company
-company_creator_desc█Name your company and CEO
-company_creator_company_name_header█Company name
+company_creator_header█Создайте свою компанию
+company_creator_desc█Назовите свою компанию и CEO
+company_creator_company_name_header█Название компании
 company_creator_company_name_placeholder█MISSING STRING
-company_creator_ceo_name_header█CEO name
+company_creator_ceo_name_header█Имя CEO
 compnay_creator_no_ceo_name_notification█Company and the CEO must have name!
 company_manager_header█Your company
 company_manager_desc█Manage your company
@@ -215,20 +215,20 @@ exp_manager_skill_points_add_notification█You made {0} skill points!
 exp_manager_skill_points_take_notification█You spent {0} skill points!
 exp_manager_exp_add_notification█You made {0} experience!
 exp_manager_level_up_notification█Level up!
-exp_manager_level_string█<color=#FF9F43>Level {0}</color> <color=#FFC48B><size=10>({1}/{2})</size></color>
-exp_manager_level_serious_company█<color=#FF9F43>Serious Company</color>
+exp_manager_level_string█<color=#FF9F43>Уровень {0}</color> <color=#FFC48B><size=10>({1}/{2})</size></color>
+exp_manager_level_serious_company█<color=#FF9F43>Серьёзная компания</color>
 building_manager_workers█{0} workers
 building_manager_upgrade_notification█Building upgraded!
 building_manager_header█Manage building
-building_manager_open_btn█Open buildings manager
+building_manager_open_btn█Open buildings manager Открыть
 building_manager_workers_header█Building workers
 building_manager_upgrades_header█Building upgrades
 building_manager_upgrade_default_name█Default
 building_manager_upgrade_default_desc█This building is working normally
 building_manager_upgrade_boost_name█Boost
-building_manager_upgrade_boost_desc█+ 10% faster work time&%+ more workers
+building_manager_upgrade_boost_desc█+ 10% faster work time&%+ less use costs
 building_manager_upgrade_boost_requirements_header█Requirements
-building_manager_upgrade_boost_requirements█- 2 years&%- 1 800 000 <color=#16A085>$</color>&%- "Acceleration"
+building_manager_upgrade_boost_requirements█- 2 years&%- 1 800 000 <color=#16A085>$</color>
 building_name_office█Office
 building_name_factory█Factory
 building_name_hangar█Hangar
@@ -262,9 +262,9 @@ contract_deadline_reminder_notification_content█You need to complete&%<color=#
 contract_details_btn█Details
 tutorial_stop_confirm█Are you sure you want to stop the tutorial?
 tutorial_0█Unlock 4 modules×The first 4 rocket modules are required to build your first rocket.
-tutorial_1█Upgrades×Here, you can upgrade your company and the modules in the future! Close this window now.
+tutorial_1█Upgrades×Here, you can upgrade your company and the modules in the future!
 tutorial_2█Build mode×In the build mode you can build buildings you need. Offices are searching for contracts, factories are building rockets, hangars are storing rockets and labs are researching. All buildings are very important!
-tutorial_3█Build now×Now build your first 2 factories and 1 hangar, then turn off the build mode!
+tutorial_3█Build now×Now build your first 2 factories and 1 hangar!
 tutorial_4█Setup the company×In the company manager you can set up your company and the buildings.
 tutorial_5█Manage employees×In the employees tab you can hire and assing the employees to 4 worker groups.
 tutorial_6█Hire employees×Hire some employees first.
@@ -318,11 +318,11 @@ build_slot_building_sold_notification█Building has been sold
 build_slot_max_factories_notification█You can't build so many factories. You need upgrade your company in the research tree!
 build_slot_status_working█Working on&%{0} in {1}
 build_slot_done_notification█{0} is done
-build_slot_status_research█Researching...
-build_slot_lab_name█Laboratory
-build_slot_status_search█Searching...
-build_slot_office_name█Office
-build_slot_status_repair█Repairing {0} rocket...
+build_slot_status_research█Изучение...
+build_slot_lab_name█Лаборатория
+build_slot_status_search█Поиск...
+build_slot_office_name█Офис
+build_slot_status_repair█Обслуживание...
 build_slot_rocket_repaired█The {0} rocket was repaired!
 build_slot_building_built█Building was built
 build_slot_timeline_entry█{0} built
@@ -362,20 +362,20 @@ build_launch_panel_static_fire█Static fire
 build_launch_panel_launch_btn█Launch rocket
 build_launch_panel_move_hangar_btn█Move to Hangar
 build_launch_panel_finish_btn█Finish and launch
-building_office_text█<b><color=#FF9F43>Office</color></b> | 745 000 <color=#16A085>$</color>
+building_office_text█<b><color=#FF9F43>Офис</color></b> | 745 000 <color=#16A085>$</color>
 building_office_desc█Find contracts
-building_factory_text█<b><color=#FF9F43>Factory</color></b> | 1 550 000 <color=#16A085>$</color>
+building_factory_text█<b><color=#FF9F43>Завод</color></b> | 1 550 000 <color=#16A085>$</color>
 building_factory_desc█Build modules
-building_hangar_text█<b><color=#FF9F43>Hangar</color></b> | 215 000 <color=#16A085>$</color>
+building_hangar_text█<b><color=#FF9F43>Ангар</color></b> | 215 000 <color=#16A085>$</color>
 building_hangar_desc█Store rockets
-building_lab_text█<b><color=#FF9F43>Laboratory</color></b> | 715 000 <color=#16A085>$</color>
+building_lab_text█<b><color=#FF9F43>Лаборатория</color></b> | 715 000 <color=#16A085>$</color>
 building_lab_desc█Make skillpoints
-launch_pad_cape_canaveral█Cape Canaveral
-launch_pad_cape_canaveral_desc█Florida
-launch_pad_vandenberg█Vandenberg
-launch_pad_vandenberg_desc█California
-launch_pad_rocket_development█McGregor
-launch_pad_rocket_development_desc█Texas
+launch_pad_cape_canaveral█Мыс Канаверал
+launch_pad_cape_canaveral_desc█Флорида
+launch_pad_vandenberg█Ванденберг
+launch_pad_vandenberg_desc█База ВВС США
+launch_pad_rocket_development█Испытательный полигон
+launch_pad_rocket_development_desc█МакГрегор
 module_type_battery█Battery
 module_type_board_computer█Board computer
 module_type_engine█Engine
@@ -387,46 +387,47 @@ module_type_other█Other
 module_panel_select_factory_btn█Select factory
 module_panel_build_btn█Build
 module_panel_stop_build_btn█Stop building
-achivement_amateur█Amateur×Launch 5 rockets.
-achivement_bancrupt█And Again!×Bancrupt.
-achivement_bad_day█Bad Day×Fail launches 3 times in a row.
-achivement_best_of_the_best█You're Good×Achieve the highest reputation.
-achivement_everyone_makes_mistakes█Everyone Makes Mistakes×Fail launches 10 times overall.
-achivement_experienced█Experienced×Launch 15 rockets.
-achivement_expert█Expert×Launch 45 rockets.
+achivement_amateur█Любитель×Запустить 5 ракет.
+achivement_bancrupt█И опять!×Обанкротиться.
+achivement_bad_day█Плохой день×Произвести 3 неудачных запуска подряд.
+achivement_best_of_the_best█А ты хорош×Достигнуть самого высокого уровня доверия.
+achivement_everyone_makes_mistakes█Каждый совершает ошибки×Произвести 10 неудачных запусков.
+achivement_experienced█Опытный×Запустить 15 ракет.
+achivement_expert█Эксперт×Запустить 45 ракет.
 achivement_jeff_who█Jeff Who?×Name your company "SpaceX" and your CEO "Elon Musk".
-achivement_just_luck█Just Luck×Launch your first rocket with success.
-achivement_serious_player█Serious Player×Launch 100 rockets.
-achivement_the_very_beginner█The Very Beginner×Unlock at least one module.
-achivement_you_are_late█You're Late×Pass the deadline 3 times.
-credits_header█Credits
-credits_main_creator█Game created by <color=#64B5F6>Denis Szwarc</color>, released by <color=#64B5F6>Mesote Games</color>
-credits_game_design█Tester & gameplay design by <color=#64B5F6>Michał Paciorek</color>
-credits_blur█Blur shader created by <color=#64B5F6>Justin Garza</color>
-credits_icons█Rocket module icons by <color=#64B5F6>lqdev</color>
-credits_music█Background music by <color=#64B5F6>.xrmmusic</color>
-credits_models█Building models by <color=#64B5F6>BroTT</color>
-credits_additional_icons█Icons credit: (all from flaticon.com)&%https://www.flaticon.com/authors/smashicons&%https://www.flaticon.com/authors/dave-gandy&%https://www.freepik.com&%https://www.flaticon.com/authors/vectors-market&%https://www.flaticon.com/authors/google&%https://www.flaticon.com/authors/roundicons&%https://www.flaticon.com/authors/alfredo-hernandez&%https://www.flaticon.com/authors/pixel-perfect&%https://www.flaticon.com/authors/lucy-g&%https://www.flaticon.com/authors/gregor-cresnar&%https://www.flaticon.com/authors/nhor-phai&%https://www.flaticon.com/authors/bogdan-rosu&%https://www.flaticon.com/authors/kiranshastry
-credits_thanks█Thanks for all early itch.io buyers!&%Thanks for all the testers for playing my game and feedback :D&%Big thanks for testers, who tested almost every experimental version I released. Nice to have you guys!
-credits_contributors_header█Contributors
-credits_jakub_kiryluk_badge1█Localization
-credits_jakub_kiryluk_badge2█Videos Editing
-credits_adrian_wesolowski_badge1█Marketing
-credits_przenziu_badge1█Tester
-credits_przenziu_badge2█Feedbacker
-credits_konrad_potempski_badge1█Tester
-credits_konrad_potempski_badge2█Feedbacker
-credits_bonnie_badge1█Feedbacker
-credits_avocado_badge1█Tester
-credits_avocado_badge2█Feedbacker
-credits_rafal_wisniewski_badge1█Rocket Model
-follow_us_header█Follow us on
-join_us_header█Join us on
+achivement_just_luck█Просто везение×Удачно запустите свою первую ракету.
+achivement_serious_player█Серьёзный игрок×Запустить 100 ракет.
+achivement_the_very_beginner█Самый начинающий×Открыть по крайней мере один модуль.
+achivement_you_are_late█Ты опоздал×Пропустить 3 крайних срока.
+credits_header█Авторы
+credits_main_creator█Игра от <color=#64B5F6>Denis Szwarc</color>, выпущена <color=#64B5F6>Mesote Games</color>
+credits_game_design█Тестер и создание геймплея <color=#64B5F6>Michał Paciorek</color>
+credits_blur█Шейдер размытия от <color=#64B5F6>Justin Garza</color>
+credits_icons█Значки модулей ракет от <color=#64B5F6>lqdev</color>
+credits_music█Фоновая музыка от <color=#64B5F6>.xrmmusic</color>
+credits_models█Модели построек от <color=#64B5F6>BroTT</color>
+credits_additional_icons█Источник значков: (все из flaticon.com)&%https://www.flaticon.com/authors/smashicons&%https://www.flaticon.com/authors/dave-gandy&%https://www.freepik.com&%https://www.flaticon.com/authors/vectors-market&%https://www.flaticon.com/authors/google&%https://www.flaticon.com/authors/roundicons&%https://www.flaticon.com/authors/alfredo-hernandez&%https://www.flaticon.com/authors/pixel-perfect&%https://www.flaticon.com/authors/lucy-g&%https://www.flaticon.com/authors/gregor-cresnar&%https://www.flaticon.com/authors/nhor-phai&%https://www.flaticon.com/authors/bogdan-rosu&%https://www.flaticon.com/authors/kiranshastry
+credits_thanks█Спасибо всем игрокам с itch.io!&%Спасибо всем тестерам, которые играли в мою игру и давали фидбек :D&%Отдельная благодарность тем, кто тестировал почти каждую экспериментальную версию, которую я выпускал. Приятно, что вы есть, ребята!
+credits_contributors_header█Авторы
+credits_jakub_kiryluk_badge1█Локализация
+credits_jakub_kiryluk_badge2█Редактирование видео
+credits_adrian_wesolowski_badge1█Маркетинг
+credits_przenziu_badge1█Тестер
+credits_przenziu_badge2█Фидбек
+credits_konrad_potempski_badge1█Тестер
+credits_konrad_potempski_badge2█Фидбек
+credits_bonnie_badge1█Фидбек
+credits_avocado_badge1█Тестер
+credits_avocado_badge2█Фидбек
+credits_rafal_wisniewski_badge1█Модели ракет
+follow_us_header█Следите за нашими новостями в
+join_us_header█Вступайне к нам в
 shortcuts█LMB / RMB - Camera Movement&%Scroll - Camera Zoom&%WASD - Keyboard Camera Movement&%Z/X - Keyboard Camera Zoom
-space_race_btn█Space Race
-game_over_warning_header█You are about to bankrupt!
-game_over_warning_content█Your company will go bancrupt in {0} quarters!&%&%Things you can do:&%- take a loan from the bank&%- decrease employees amount (less payments pay)&%- sell some buildings
-game_over_header█You are bankrupt!
-game_over_content█Your company has gone bankrupt! GAME OVER!&%You will be moved to the main menu in 10 seconds!
-pirate_header█You have an illegal version of EarthX!
-pirate_content█But I don't mind. Remember that rockets in this version will always explode, but to test the game, you get 10 million for every launch.&%&%Rockets in the legal version won't explode that often :)&%&%https://store.steampowered.com/app/1069030/EarthX/
+space_race_btn█Космическая гонка
+game_over_warning_header█Вы близки к банкротству!
+game_over_warning_content█Ваша компания обанкротится через {0} квартал (-а)!&%&%Что вы сожете сделать:&%- взять кредит в банке&%- снизить кол-во сотрудников (меньше траты на зарплату)&%- продать некоторые здания
+game_over_header█Вы банкрот!
+game_over_content█Ваша компания обанкротилась! ИГРА ОКОНЧЕНА!&%Вы будете перемещены в главное меню через 10 секунд!
+pirate_header█У вас нелегальная версия EarthX!
+pirate_content█Но я не против. Запомните, что ракеты в этой верии будут всегда взрываться, но, чтобы проверить игру, вы получите $10 млн за каждый запуск.&%&%Ракеты в легальной версии будут взрываться не так часто :)&%&%https://store.steampowered.com/app/1069030/EarthX/
+Запомните, что ракеты в этой верии будут всегда взрываться, но, чтобы проверить игру, вы получите $10 млн за каждый запуск.&%&%Ракеты в легальной версии будут взрываться не так часто :)
