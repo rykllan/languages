@@ -1,0 +1,73 @@
+About This Game
+
+[img]{STEAM_APP_IMAGE}/extras/aboutEarthX.png[/img]
+In EarthX you can build a really big space company, starting as a small startup. You start in 2002 with just a few million dollars, and your task is to manage the company and begin to produce rockets. 
+
+You have to build some factories for creating modules, offices for searching for contracts, labs for research points production and hangars for storing your rockets. Once you have rocket built, you can launch it up into space. Don't forget, that your rockets may explode sometimes. Your first launch will be a test mission, so the customers can see your capability. Once you gained some trust, you can take some of the available contracts and shot the real payloads on the orbit.
+[b]EarthX was highly inspired by real companies like "NASA", "Suborbital Company", "RocketLab" and of course "SpaceX".[/b]
+
+[img]{STEAM_APP_IMAGE}/extras/keyFeatures.png[/img]
+[i][b]Build rockets[/b][/i]
+Unlock modules (19 available for now), design your rocket project and build their variations in your factories. 
+
+[i][b]Launch, Land, Repeat[/b][/i]
+Launch disposable rockets, and later with the new technology and certification land with them on the barge. 
+
+[i][b]The rockets may explode sometimes[/b][/i]
+The rocket build quality and durability have a big influence on this. The more rockets you build, the more experience you gain, and this will help you avoid explosions.
+
+[i][b]Take contracts and complete the missions[/b][/i]
+Your level of trust affects what contracts you receive. Each contract has its own missions, which you have to complete on time. 
+
+[i][b]Manage the logistics on the planet[/b][/i]
+Build factories, offices, labs, and hangars. You can upgrade every building, which gives you additional work speed.
+
+[i][b]Manage your company[/b][/i]
+Upgrade company, hire employees and apply them to the buildings, and gain achievements.
+
+[i][b]It's just a.. statistics[/b][/i]
+See what you did over the whole game session. Take notes and continue with the new game then. Your next game will be better!
+
+[i][b]But if not...[/b][/i]
+Then you will bankrupt again! :)
+
+[img]{STEAM_APP_IMAGE}/extras/graphicsDesign.png[/img]
+EarthX has its own graphic style. The soundtrack is made by .xrm from SoundCloud. We kept the user interface as simple as possible and we think, that we achieved the goal!
+
+[b]Note, that this is an early access title. Everything can change in the future, and not everything can now work properly.[/b]
+
+
+
+
+
+
+
+Short Description
+
+Have you always dreamt of becoming CEO of the largest rocket company in the world? It just came true. Start with practically nothing and end up with a rocket empire. In EarthX you can develop rocket technologies, but also your company and planet Earth!
+
+
+
+
+
+
+
+
+
+Why Early Access?
+We believe, that making games alone is hard and boring. That's why we start with Early Access. We hope, that we can get a lot of good feedback, but also your opinions about this game. No matter, if it's a bad or good opinion. We will read them all and take the appropriate measures.
+
+Approximately how long will this game be in Early Access?
+As everyone says: when it's finished. We plan to release a new update every few weeks, so the game should be fully released at the end of 2019 or at the beginning of 2020. Of course, everything can change during development.
+
+How is the full version planned to differ from the Early Access version?
+The full release will have much more content for sure. We plan to add a competitors system, so the player doesn't feel alone. We also plan to add the following features: materials, more missions, more planets, capsules, a weather system and a lot more. As you can see, we are going to make this game more like a company management tycoon.
+
+What is the current state of the Early Access version?
+EarthX already has all the fundamental features required to add more new and advanced features. All key features are listed in the store description.
+
+Will the game be priced differently during and after Early Access?
+Yes, we plan to gradually raise the price as we ship new content and features.
+
+How are you planning on involving the Community in your development process?
+We will read reviews, feedback and our discord server every day. Then we will make some notes and design the best possible way. This is an Early Access game, the changes can be really fast and dynamic.
