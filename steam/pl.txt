@@ -1,0 +1,76 @@
+About This Game
+
+[img]{STEAM_APP_IMAGE}/extras/aboutEarthX.png[/img]
+W EarthX możesz zbudować naprawdę dużą firmę kosmiczną, zaczynając jako niewielki startup. Rozpoczynasz w 2002 roku z zaledwie kilkoma milionami dolarów, a Twoim zadaniem jest rozkręcenie firmy i rozpoczęcie produkcji rakiet. 
+
+Musisz zbudować kilka fabryk do tworzenia modułów, biur do poszukiwania kontraktów, laboratoriów do produkcji punktów badawczych i hangarów do przechowywania rakiet. Po zbudowaniu rakiety, można ją wystrzelić w przestrzeń kosmiczną. Nie zapomnij, że twoje rakiety mogą czasami eksplodować. Twoją pierwszą misją będzie misja testowa, dzięki której klienci będą mogli zobaczyć Twoje możliwości i wyrobić sobie zaufanie do Twojej firmy. Po zdobyciu odpowiedniego zaufania, możesz wziąć niektóre z dostępnych kontraktów i wynieść prawdziwe ładunki na orbitę.
+[b]EarthX był wysoce inspirowany przez prawdziwe firmy takie jak "NASA", "Suborbital Company", "RocketLab" oraz oczywiście "SpaceX".[/b]
+
+[img]{STEAM_APP_IMAGE}/extras/keyFeatures.png[/img]
+[i][b]Buduj rakiety[/b][/i]
+Odblokuj moduły (obecnie dostępnych jest 19), stwórz swój projekt rakietowy i zbuduj w swoich fabrykach różne odmiany rakiet.
+
+[i][b]Wystrzel, Wyląduj, Powtórz[/b][/i]
+Wysyłaj w kosmos jednorazowe rakiety, a później z odpowiednią technologią i certyfikatem ląduj nimi na barce. 
+
+[i][b]Rakiety mogą czasami eksplodować[/b][/i].
+Jakość budowy i wytrzymałość konstrukcji rakiet ma duży wpływ na eksplozje. Im więcej rakiet zbudujesz, tym więcej doświadczenia zyskasz, a to pomoże Ci uniknąć niektórych eksplozji.
+
+[i][b]Podpisz kontrakty i wykonuj misje[/b][/i].
+Twój poziom zaufania ma wpływ na to, jakie kontrakty otrzymujesz. Każdy kontrakt ma swoje własne misje, które musisz zrealizować na czas. 
+
+[i][b]Zarządzaj logistyką na planecie[/b][/i].
+Zbuduj fabryki, biura, laboratoria i hangary. Możesz zmodernizować każdy budynek - dzięki temu zyskasz na szybkości i jakości pracy
+
+[i][b]Zarządzaj swoją firmą[/b][/i]
+Ulepszaj firmę, zatrudniaj pracowników i przypisz ich do budynków oraz zdobywaj osiągnięcia.
+
+[i][b]To tylko... statystyka[/b][/i]
+Zobacz, co zrobiłeś przez całą sesję gry. Zrób notatki i stwórz nową grę. Twoja kolejna runda będzie lepsza!
+
+[i][b]Ale jeśli nie....[/b][/i]
+To wtedy znów zbankrutujesz! :)
+
+[img]{STEAM_APP_IMAGE}/extras/graphicsDesign.png[/img]
+EarthX ma swój własny styl graficzny. Ścieżka dźwiękowa jest tworzona przez .xrm z SoundCloud. Utrzymaliśmy możliwie najprostszy interfejs użytkownika i uważamy, że udało nam się osiągnąć cel!
+
+[b]Zwróć uwagę, że jest to tytuł wczesnego dostępu. Wszystko może się zmienić w przyszłości i nie wszystko może teraz działać poprawnie.[/b]
+
+
+
+
+
+
+
+
+
+
+Short Description
+
+Czy zawsze marzyłeś o zostaniu prezesem największej firmy rakietowej na świecie? Twoje marzenie właśnie się spełniło. Zaczynasz praktycznie od zera, obierając jeden cel - zbudować swoje własne imperium rakietowe!
+
+
+
+
+
+
+
+Early Access
+
+Why Early Access?
+Uważamy, że robienie gier w pojedynkę jest trudne i nudne. Dlatego zaczynamy od Early Access. Mamy nadzieję, że uda nam się uzyskać wiele dobrych opinii. Nie ma znaczenia, czy jest to zła czy dobra opinia. Przeczytamy je wszystkie i podejmiemy odpowiednie kroki.
+
+Approximately how long will this game be in Early Access?
+Jak to wszyscy mówią: kiedy skończymy. Planujemy wydawać nowe aktualizacje co kilka tygodni, więc gra powinna być gotowa pod koniec 2019 roku lub na początku 2020 roku. Oczywiście, wszystko może się zmienić w trakcie jej rozwoju.
+
+How is the full version planned to differ from the Early Access version?
+Pełne wydanie na pewno będzie miało o wiele więcej treści. Planujemy dodać system konkurencji, aby gracz nie czuł się samotny. Planujemy również dodać następujące funkcje: materiały, więcej misji, więcej planet, kapsuły, system pogodowy i wiele więcej. Jak widać, zamierzamy sprawić, że ta gra będzie bardziej przypominała symulator firmy.
+
+What is the current state of the Early Access version?
+EarthX posiada już wszystkie podstawowe funkcje wymagane do dodawania nowych i zaawansowanych funkcji. Wszystkie kluczowe funkcje są wymienione w opisie sklepu.
+
+Will the game be priced differently during and after Early Access?
+Tak, planujemy stopniowo podnosić cenę w miarę wysyłania nowych treści i funkcji. Cena nigdy nie powinna być wyższa niż 2-3 pizze średniej wielkości.
+
+How are you planning on involving the Community in your development process?
+Codziennie będziemy czytać recenzje, opinie i nasz serwer Discord. Następnie zrobimy kilka notatek i zaprojektujemy najlepszy możliwy sposób naprawienia danej rzeczy. Jest to gra Early Access, zmiany mogą być naprawdę szybkie i dynamiczne.
