@@ -349,7 +349,7 @@ project_panel_auto_build_no_factories█Es gibt keine Fabriken zu vergeben! Stel
 project_panel_no_hangar█Du musst einen Hangar bauen, in dem du deine Raketen unterbringen kannst.
 project_panel_timeline_entry_rocket█{0} Raketen gebaut
 project_panel_timeline_entry_launch█{0} Raketen gestart
-project_panel_static_fire_cost█Statische Brandkosten
+project_panel_static_fire_cost█Triebwerkstest-Kosten
 project_panel_abort_confirmation█ist du sicher, dass du die Rakete abbrechen willst?
 rockets_manager_header█Raketen
 rockets_manager_project_money█Raketenprojekt
@@ -358,7 +358,7 @@ build_launch_panel_modules_header█Module
 build_launch_panel_launch█Rakete starten
 build_launch_panel_cargo_deploy█Nutzlast-Entladen
 build_launch_panel_land█Raketelandet
-build_launch_panel_static_fire█Statisches Feuer
+build_launch_panel_static_fire█Statischer Triebwerkstest
 build_launch_panel_launch_btn█Rakete starten
 build_launch_panel_move_hangar_btn█In den Hangar bringen
 build_launch_panel_finish_btn█Fertigstellen und Starten
