@@ -4,7 +4,7 @@ About This Game
 W EarthX możesz zbudować naprawdę dużą firmę kosmiczną, zaczynając jako niewielki startup. Rozpoczynasz w 2002 roku z zaledwie kilkoma milionami dolarów, a Twoim zadaniem jest rozkręcenie firmy i rozpoczęcie produkcji rakiet. 
 
 Musisz zbudować kilka fabryk do tworzenia modułów, biur do poszukiwania kontraktów, laboratoriów do produkcji punktów badawczych i hangarów do przechowywania rakiet. Po zbudowaniu rakiety, można ją wystrzelić w przestrzeń kosmiczną. Nie zapomnij, że twoje rakiety mogą czasami eksplodować. Twoją pierwszą misją będzie misja testowa, dzięki której klienci będą mogli zobaczyć Twoje możliwości i wyrobić sobie zaufanie do Twojej firmy. Po zdobyciu odpowiedniego zaufania, możesz wziąć niektóre z dostępnych kontraktów i wynieść prawdziwe ładunki na orbitę.
-[b]EarthX był wysoce inspirowany przez prawdziwe firmy takie jak "NASA", "Suborbital Company", "RocketLab" oraz oczywiście "SpaceX".[/b]
+[b]EarthX był wysoce inspirowany przez prawdziwe firmy takie jak "NASA", "Suborbital Company", "Rocket Lab" oraz oczywiście "SpaceX".[/b]
 
 [img]{STEAM_APP_IMAGE}/extras/keyFeatures.png[/img]
 [i][b]Buduj rakiety[/b][/i]
