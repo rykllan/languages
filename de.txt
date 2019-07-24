@@ -430,3 +430,4 @@ game_over_header█Du bist bankrott!
 game_over_content█Ihr Unternehmen ist bankrott gegangen! GAME OVER!&%Sie werden in 10 Sekunden ins Hauptmenü gebracht!
 pirate_header█Du hast eine illegale Version von EarthX!
 pirate_content█Aber es macht mir nichts aus. Denke daran, dass Raketen in dieser Version immer explodieren werden, aber um das Spiel zu testen, erhältst du 10 Millionen für jeden Start.&%&%Raketen in der legalen Version werden nicht so oft explodieren :)&%&%https://store.steampowered.com/app/1069030/EarthX/
+building_status█Status

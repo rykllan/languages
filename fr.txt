@@ -430,3 +430,4 @@ game_over_header█You are bankrupt!
 game_over_content█Your company has gone bankrupt! GAME OVER!&%You will be moved to the main menu in 10 seconds!
 pirate_header█You have an illegal version of EarthX!
 pirate_content█But I don't mind. Remember that rockets in this version will always explode, but to test the game, you get 10 million for every launch.&%&%Rockets in the legal version won't explode that often :)&%&%https://store.steampowered.com/app/1069030/EarthX/
+building_status█Status
