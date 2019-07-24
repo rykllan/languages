@@ -1,4 +1,5 @@
-﻿welcome_notification█Witaj, <color=#64B5F6>{0}</color>!&%Widzę, że w końcu założyłeś rakietową firmę, o której wspominałeś. "<color=#64B5F6>{1}</color>" to nawet fajna nazwa!. Muszę Ci przyznać, że jesteś bardzo odważny.&%&%Duże firmy, które mają monopol w wysyłaniu ładunków na orbitę, od lat nie zainwestowały w nowszą technologię. Cały czas używają jakiś niewydajnych rakiet na przestarzałych silnikach. A gdyby tak rakiety mogły lądować? Wtedy można by było wysłać nawet kilka ładunków tylko 1 rakietą! Mam nadzieję, że uda Ci się zbudować lądujące rakiety, a może nawet rakietę z bocznymi boosterami?&%&%Powodzenia!
+test█test123
+welcome_notification█Witaj, <color=#64B5F6>{0}</color>!&%Widzę, że w końcu założyłeś rakietową firmę, o której wspominałeś. "<color=#64B5F6>{1}</color>" to nawet fajna nazwa!. Muszę Ci przyznać, że jesteś bardzo odważny.&%&%Duże firmy, które mają monopol w wysyłaniu ładunków na orbitę, od lat nie zainwestowały w nowszą technologię. Cały czas używają jakiś niewydajnych rakiet na przestarzałych silnikach. A gdyby tak rakiety mogły lądować? Wtedy można by było wysłać nawet kilka ładunków tylko 1 rakietą! Mam nadzieję, że uda Ci się zbudować lądujące rakiety, a może nawet rakietę z bocznymi boosterami?&%&%Powodzenia!
 ---Main Menu---█---Main Menu---
 menu_btn_play█Graj
 menu_btn_settings█Ustawienia
