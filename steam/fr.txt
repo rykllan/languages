@@ -4,7 +4,7 @@ About This Game
 In EarthX you can build a really big space company, starting as a small startup. You start in 2002 with just a few million dollars, and your task is to manage the company and begin to produce rockets. 
 
 You have to build some factories for creating modules, offices for searching for contracts, labs for research points production and hangars for storing your rockets. Once you have rocket built, you can launch it up into space. Don't forget, that your rockets may explode sometimes. Your first launch will be a test mission, so the customers can see your capability. Once you gained some trust, you can take some of the available contracts and shot the real payloads on the orbit.
-[b]EarthX was highly inspired by real companies like "NASA", "Suborbital Company", "RocketLab" and of course "SpaceX".[/b]
+[b]EarthX was highly inspired by real companies like "NASA", "Suborbital Company", "Rocket Lab" and of course "SpaceX".[/b]
 
 [img]{STEAM_APP_IMAGE}/extras/keyFeatures.png[/img]
 [i][b]Build rockets[/b][/i]
