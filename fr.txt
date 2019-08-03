@@ -1,4 +1,4 @@
-﻿welcome_notification█Hello, <color=#64B5F6>{0}</color>!&%I see you've finally set up the rocket company you mentioned before. "<color=#64B5F6>{1}</color>" is actually a cool name! I have to tell you, you're very brave.&%&%Big companies that have a monopoly on launching rockets have not invested in newer technology for years. They've been using some inefficient boosters on obsolete engines all the time. What if they could land their rockets back on earth? Then it would be possible to send even a few payloads with only 1 rocket! I hope you can build a landing rocket or even a side booster rocket in few years.&%&%Good luck!
+﻿welcome_notification█Bonjour, <color=#64B5F6>{0}</color=#64B5F6>! &% Je vois que vous avez enfin créé la société de fusées que vous avez parlez auparavant."<color=#64B5F6>{1}</color>"est en fait un nom cool! Je dois vous dire que vous êtes très courageux. &% &% Les grandes entreprises qui ont le monopole du lancement de roquettes n'ont pas investi dans de nouvelles technologies depuis des années. Ils utilisent tout le temps des boosters inefficaces sur des moteurs obsolètes. Et s'ils pouvaient poser leurs fusées sur Terre? Il serait alors possible d’envoyer même quelques satellite dans une seule fusée! J'espère que vous pourrez construire une fusée capable de réatterrir ou même une booster latérale dans quelques années.&%&%Bonne chance!
 ---Main Menu---█---Menu Principal---
 menu_btn_play█Jouer
 menu_btn_settings█Options
@@ -8,7 +8,7 @@ menu_btn_continue█Continuer
 menu_btn_return█Retour
 menu_btn_save█Sauvegarder
 menu_btn_mainmenu█Menu Principal
-menu_exit_confirm█Vous voulez vraiment quitter ce jeu? Vous perdrez tous votre progression non enregistrés!
+menu_exit_confirm█Vous voulez vraiment quitter le jeu? Vous perdrez tous votre progression non enregistrés!
 sett_graphics_quality█Qualité graphique
 sett_low█Bas
 sett_Moyenne█Moyen
@@ -61,11 +61,11 @@ rocket_buildingnow█En construction...
 rocket_repairingnow█En réparation ...
 rocket_buildquality█Qualité de fabrication ({0}%)
 rocket_durability█Durabilité ({0}%)
-rocket_capability█Charge maximale / orbite: <color=#64B5F6><b>{0}/{1}</b></color> | <color=#64B5F6><b>{2}</b></color>
+rocket_capability█Poids du satellite maximal / Orbite: <color=#64B5F6><b>{0}/{1}</b></color> | <color=#64B5F6><b>{2}</b></color>
 rocket_disponsable█Jetable
 rocket_reusable█Réutilisable
 rocket_launch_text█Prêt à voler
-rockets_project_remove_has_rockets█Vous ne pouvez pas supprimer ce projet, car il contient encore des fusées!
+rockets_project_remove_has_rockets█Vous ne pouvez pas supprimer ce projet car il contient encore des fusées!
 rockets_project_remove_confirm█Êtes-vous sûr de vouloir supprimer ce projet?
 missions_header█Missions
 mission_testflight█Vol d'essai
@@ -74,40 +74,40 @@ mission_details█Détails
 q_rocket_building█Vous construisez déjà cette fusée!
 q_rocket_repairing█Vous réparez déjà cette fusée!
 q_rocket_no_hangars█Vous ne possédez pas de hangars pour réparer les fusées.
-q_rocket_cant_remove_building█Vous ne pouvez pas enlever cette fusée, car vous la construisez maintenant!
+q_rocket_cant_remove_building█Vous ne pouvez pas enlever cette fusée car vous êtes en train de la construire !
 ---Other---█---Other---
-rocket_deploy█Rocket Payload Deploy
-q_not_money_add█Vous avez gagner {0} <color=#16A085>$</color>! - {1}
-q_not_money_take█Yous avez dépenser {0} <color=#E74C3C>$</color>! - {1}
+rocket_deploy█Le sattelite & été déployé
+q_not_money_add█Vous avez gagné {0} <color=#16A085>$</color>! - {1}
+q_not_money_take█Yous avez dépensé {0} <color=#E74C3C>$</color>! - {1}
 modules_header█Modules
 game_exit_confirm█Êtes-vous sûr de vouloir quitter EarthX?
 rocket_remove_confirm█Êtes-vous sûr de vouloir supprimer cette fusée?
 ---Modules---█---Modules---
 ---Engines---█---Engines---Modules de fusée
-mdl_s_engine█Moteur simple, Charge maximale/Orbite: Petite/LEO
-mdl_a_engine█Moteurs Avancés, Charge maximale/Orbite: Moyenne/MEO
-mdl_a4_engine█4 Moteurs Avancés, Charge maximale/Orbite: Moyenne/GEO
-mdl_a9_engine█9 Moteurs Avancés, Charge maximale/Orbite: Large/GEO
+mdl_s_engine█Moteur simple, Poids du satellite maximal/Orbite: Léger/LEO
+mdl_a_engine█Moteurs Avancés, Poids du satellite maximal/Orbite: Moyen/MEO
+mdl_a4_engine█4 Moteurs Avancés, Poids du satellite maximal/Orbite: Moyen/GEO
+mdl_a9_engine█9 Moteurs Avancés, Poids du satellite maximal/Orbite: Lourd/GEO
 ---FuelTanks---█---FuelTanks---
-mdl_s_fueltank█Petit réservoir de carburant, Charge maximale/Orbite: Large/LEO
-mdl_m_fueltank█Moyen réservoir de carburant, Charge maximale/Orbite: Large/MEO
-mdl_l_fueltank█Large réservoir de carburant, Charge maximale/Orbite: Large/GEO
+mdl_s_fueltank█Petit réservoir de carburant, Poids du satellite maximal/Orbite: Lourd/LEO
+mdl_m_fueltank█Moyen réservoir de carburant, Poids du satellite maximal/Orbite: Lourd/MEO
+mdl_l_fueltank█Large réservoir de carburant, Poids du satellite maximal/Orbite: Lourd/GEO
 ---Computers---█---Computers---
-mdl_s_computer█Ordinateur de bord simple,Charge maximale/Orbite: Moyenne/MEO
-mdl_a_computer█Ordinateur de bord avancé,Charge maximale/Orbite: Large/GEO
-mdl_s_battery█Batterie simple,Charge maximale/Orbite: Large/LEO
-mdl_a_battery█Batterie avancés,Charge maximale/Orbite: Large/GEO
-mdl_gps█GPS, Charge maximale/Orbite: Large/GEO
+mdl_s_computer█Ordinateur de bord simple,Poids du satellite maximal/Orbite: Moyen/MEO
+mdl_a_computer█Ordinateur de bord avancé,Poids du satellite maximal/Orbite: Lourd/GEO
+mdl_s_battery█Batterie simple,Poids du satellite maximal/Orbite: Lourd/LEO
+mdl_a_battery█Batterie avancés,Poids du satellite maximal/Orbite: Lourd/GEO
+mdl_gps█GPS, Poids du satellite maximal/Orbite: Lourd/GEO
 ---Fairings---█---Fairings---
-mdl_s_fairings█Petits carénages, Charge maximale/Orbite: Petite/GEO
-mdl_m_fairings█Moyens carénages, Charge maximale/Orbite: Moyenne/GEO
-mdl_l_fairings█Grands carénages, Charge maximale/Orbite: Large/GEO
+mdl_s_fairings█Petits carénages, Poids du satellite maximal/Orbite: Léger/GEO
+mdl_m_fairings█Moyens carénages, Poids du satellite maximal/Orbite: Moyen/GEO
+mdl_l_fairings█Grands carénages, Poids du satellite maximal/Orbite: Lourd/GEO
 ---Landing Stuff---█---Landing Stuff---
-mdl_a_gridfins█Ailerons en aluminium, Charge maximale/Orbite: Large/GEO
-mdl_t_gridfins█Ailerons en titane, Charge maximale/Orbite: Large/GEO
-mdl_m_landingLegs█Pattes d'atterrissage manuelle, Charge maximale/Orbite: Large/GEO
-mdl_a_landingLegs█Pattes d'atterrissage automatiques, Charge maximale/Orbite: Large/GEO
-mdl_booster_connector█Boosters Connecteur, Construisez une fusée avec 2 boosters latéraux
+mdl_a_gridfins█Ailerons en aluminium, Poids du satellite maximal/Orbite: Lourd/GEO
+mdl_t_gridfins█Ailerons en titane, Poids du satellite maximal/Orbite: Lourd/GEO
+mdl_m_landingLegs█Pattes d'atterrissage manuelle, Poids du satellite maximal/Orbite: Lourd/GEO
+mdl_a_landingLegs█Pattes d'atterrissage automatiques, Poids du satellite maximal/Orbite: Lourd/GEO
+mdl_booster_connector█Boosters Connecteur, construisez une fusée avec 2 boosters latéraux
 game_loaded_notification█Jeu chargé!
 save_removal_confirm█Êtes-vous sûr de vouloir supprimer cette sauvegarde?
 version_info█EarthX 0.2.5.3&%par <b>Denis Szwarc</b> <size=10>avec l'aide des contributeurs</size>
@@ -136,19 +136,19 @@ r&d_phase5_title█Phase 5
 r&d_phase6_title█Phase 6
 r&d_phase7_title█Phase 7
 r&d_company_btn█Entreprise
-r&d_company_upgrade_title█Mises à niveau de l'entreprise
+r&d_company_upgrade_title█Amélioration de l'entreprise
 r&d_company_upgrade_requirements_header█Exigences
 r&d_company_upgrade█MISSING STRING
 r&d_company_upgrade_btn█Améliorer
 r&d_company_upgrade_notification█Entreprise améliorée!
 r&d_company_startup_title█Startup
-r&d_company_startup_desc█- max. 5 décollage /an&%- max. 1 décollage en même temps&%- max. 100 employés&%- max. 2 usines
+r&d_company_startup_desc█- max. 5 décollage /an&%- max. 1 seul décollage en parallèle&%- max. 100 employés&%- max. 2 usines
 r&d_company_acceleration_title█Accélération
-r&d_company_acceleration_desc█- max. 10 décollage /an&%- max. 2 décollage en même temps&%- max. 250 employees&%- max. 4 usines&%- atterrir avec une fusée
-r&d_company_acceleration_requirements█- 2 bureaux&%- min. 10 décollage&%- min. 50 employees
+r&d_company_acceleration_desc█- max. 10 décollage /an&%- max. 2 décollage en parallèle&%- max. 250 employés&%- max. 4 usines&%- possibilité de faire réatterir la fusée
+r&d_company_acceleration_requirements█- 2 bureaux&%- min. 10 décollage&%- min. 50 employés
 r&d_company_dominant_title█Dominant
-r&d_company_dominant_desc█- max. 15 décollage /an&%- max. 3 décollage en même temps&%- max. 550 employees&%- max. 8 usines&%- lance une fusée à 3 coeurs
-r&d_company_dominant_requirements█- 3 bureaux&%- min. 25 décollage&%- min. 200 employees
+r&d_company_dominant_desc█- max. 15 décollage /an&%- max. 3 décollage en parallèle&%- max. 550 employés&%- max. 8 usines&%- lance une fusée à 3 coeurs
+r&d_company_dominant_requirements█- 3 bureaux&%- min. 25 décollage&%- min. 200 employés
 bank_window_header█Banque
 bank_category_overview█Vue d'ensemble
 bank_category_loans█Prêts
@@ -162,21 +162,21 @@ bank_overview_year_summary_expenses█{0} <color=#E74C3C>$</color>
 bank_overview_year_summary_profit_plus█+<color=#16A085>{0} $</color>
 bank_overview_year_summary_profit_minus█<color=#E74C3C>{0} $</color>
 bank_overview_year_comparison_header█Comparaison d'année (fonds)
-bank_loans_header█Choisissez un plan
+bank_loans_header█Choisissez un prêt
 bank_loans_plan_name█Plan {0}
 bank_loans_take_btn█Prendre ce prêt
 bank_loans_payback_btn█Remboursement
-bank_loans_take_notification█Vous avez contracté un emprunt. Vous devrez rembourser {0} <color=#16A085>$</color=#16A085> chaque trimestre jusqu'à ce que vous remboursiez le prêt. ({1} quarters)
+bank_loans_take_notification█Vous avez contracté un prêt. Vous devrez rembourser {0} <color=#16A085>$</color=#16A085> chaque trimestre jusqu'à ce que vous remboursiez le prêt. ({1} quarters)
 bank_loans_payment_text█Remboursement de prêt ({0})
 bank_loans_payback_no_money█Vous n'avez pas assez d'argent pour rembourser ce prêt!
 bank_loans_payback_notification█Le prêt que vous avez pris a été remboursé, merci!
 bank_loans_payback_remaining█Régler une dette:
 bank_loans_value█{0} <color=#16A085>$</color>
 bank_loans_value_quater█{0} <color=#16A085>$</color> chaque trimestre pour {1} trimestre
-bank_notification_employees_pay█Les employés sont payés
+bank_notification_employees_pay█Les employés ont été payés
 bank_notification_buildings_rent█Loyer des bâtiments
 bank_notification_taxes█Impôts (13% de votre revenu)
-bank_loans_take_timeline_entry█Prêt pris
+bank_loans_take_timeline_entry█Prêt contracté
 company_creator_header█Créez votre entreprise
 company_creator_desc█Nommez votre entreprise et votre PDG
 company_creator_company_name_header█Nom de l'entreprise
@@ -188,36 +188,36 @@ company_manager_desc█Gérer votre entreprise
 company_manager_menu_btn_overview█Vue d'ensemble
 company_manager_menu_btn_employees█Employé(e)s
 company_manager_menu_btn_buildings█Batiments
-company_manager_menu_btn_achivements█Accomplissements
+company_manager_menu_btn_achivements█Succès
 company_manager_statistic_header█Statistiques
 company_manager_statistic_rockets_header█Fusées
-company_manager_statistic_rockets_names█Construit&%Lancé&%Réussi&%Echecs
+company_manager_statistic_rockets_names█Construite&%Lancée&%Réussi&%Echecs
 company_manager_statistic_company_header█Entreprise
-company_manager_statistic_company_names█Usines&%Bureaux&%Hangars&%Employé(e)s
+company_manager_statistic_company_names█Usines&%Bureaux&%Hangars&%Employés
 company_manager_statistic_consumers_header█Clients
-company_manager_statistic_consumers_names█Contrats&%Missions&%Délais passés&%Fusées dans l'espace
+company_manager_statistic_consumers_names█Contrats&%Missions&%Délais passés&%Sattelite dans l'espace
 company_manager_timeline_header█Chronologie
 company_manager_timeline_rocket_lunch█{0} décollage
 company_manager_timeline_rocket_build█{0} construites
 company_manager_timeline_loan_take█Emprunter
 company_manager_timeline_built█{0} construites
-company_manager_employees_header█Employé(e)s
-company_manager_all_employees_slider█Employé(e)s disponibles
-company_manager_employees_groups█Groupes d'employé(e)s
-company_manager_employees_available█Employé(e)s disponibles à assigner
-company_manager_employees_factory█Travailleur(euse)s d'usine
-company_manager_employees_office█Employé(e)s de bureaux
-company_manager_employees_labs█Chercheur(se)s
+company_manager_employees_header█Employés
+company_manager_all_employees_slider█Employés disponibles
+company_manager_employees_groups█Groupes d'employés
+company_manager_employees_available█Employés disponibles à assigner
+company_manager_employees_factory█Ouvrirer
+company_manager_employees_office█Employés de bureaux
+company_manager_employees_labs█Chercheurs
 company_manager_employees_hangar█Travailleurs dans les hangars
 company_manager_buildings_header█Batiments
-company_manager_achivements█Accomplissements
+company_manager_achivements█Succès
 exp_manager_skill_points_add_notification█Vous avez accumulé {0} points de compétence!
 exp_manager_skill_points_take_notification█Vous avez dépensé {0} points de compétence!
 exp_manager_exp_add_notification█Vous avez fait {0} expérience!
 exp_manager_level_up_notification█Niveau supérieur!
-exp_manager_level_string█<color=#FF9F43>Level {0}</color> <color=#FFC48B><size=10>({1}/{2})</size></color>
+exp_manager_level_string█<color=#FF9F43>Niveau {0}</color> <color=#FFC48B><size=10>({1}/{2})</size></color>
 exp_manager_level_serious_company█<color=#FF9F43>Entreprise sérieuse</color>
-building_manager_workers█{0} travailleur(s)
+building_manager_workers█{0} travailleur
 building_manager_upgrade_notification█Bâtiment amélioré!
 building_manager_header█Gérer le bâtiment
 building_manager_open_btn█Ouvrir le gestionnaire de batiments
@@ -226,28 +226,28 @@ building_manager_upgrades_header█Amélioration du bâtiment
 building_manager_upgrade_default_name█Défaut
 building_manager_upgrade_default_desc█Ce bâtiment fonctionne normalement
 building_manager_upgrade_boost_name█Boost
-building_manager_upgrade_boost_desc█+ 10% de temps de travail&%+ des travailleurs en plus
+building_manager_upgrade_boost_desc█+ 10% rapide&%+ de travailleurs en plus
 building_manager_upgrade_boost_requirements_header█Exigences
-building_manager_upgrade_boost_requirements█- 2 an&%- 1 800 000 <color=#16A085>$</color>&%- "Acceleration"
-building_name_office█Bureau
-building_name_factory█Usines
-building_name_hangar█Hangar
-building_name_lab█Laboratoire
+building_manager_upgrade_boost_requirements█- 2 an&%- 1 800 000 <color=#16A085>$</color>&%- "Accélération"
+building_name_office█Bureau(x)
+building_name_factory█Usine(s)
+building_name_hangar█Hangar(s)
+building_name_lab█Laboratoire(s)
 building_panel_manage_btn█Gestion
 employees_manager_employees_pay█Coût des employés ({0})
 employees_manager_available_employees█Disponible: {0} <color=#c5c5c5><size=10>/{1}</size></color>
-employees_manager_available_workers█Ouvriers disponibles | Usine: {0} <color=#c5c5c5><size=10>/{1}</size></color>   ,   Bureau: {2} <color=#c5c5c5><size=10>/{3}</size></color>   ,   Laboratoire: {4} <color=#c5c5c5><size=10>/{5}</size></color>   ,   Hangar: {6} <color=#c5c5c5><size=10>/{7}</size></color>
-achivements_manager_notification_title█Accomplissement atteint!
-achivements_manager_notification_content█Vous avez atteint le <color=#64B5F6>{0}</color> accomplissement.&%{1}
+employees_manager_available_workers█Ouvriers disponibles | Usines: {0} <color=#c5c5c5><size=10>/{1}</size></color>   ,   Bureaux: {2} <color=#c5c5c5><size=10>/{3}</size></color>   ,   Laboratoires: {4} <color=#c5c5c5><size=10>/{5}</size></color>   ,   Hangars: {6} <color=#c5c5c5><size=10>/{7}</size></color>
+achivements_manager_notification_title█Succès atteint!
+achivements_manager_notification_content█Vous avez obtenu le succès <color=#64B5F6>{0}</color>.&%{1}
 contracts_manager_header█Contrats
-contracts_manager_menu_available_btn█Disponibles
-contracts_manager_info_payload_header█Charges
+contracts_manager_menu_available_btn█Disponible
+contracts_manager_info_payload_header█Satellite
 contracts_manager_info_finance_header█Finance
 contracts_manager_take_btn█Accepter
 contracts_manager_reject_btn█Rejeter
 contract_test_flight_name█Vol d'essai
-contract_test_flight_payload█? Concrete ?
-contract_available_desc█<b>{0} (Confience requise: <color=#64B5F6>{2}</color>%)</b>&%<size=10>{1} Missions | Charges <color=#64B5F6>{3}/{4}</color></size>
+contract_test_flight_payload█Satellite
+contract_available_desc█<b>{0} (Confience requise: <color =#64B5F6>{2}</color>%)</b>&%<size=10>{1} Missions | Sattelites <color=#64B5F6>{3}/{4}</color></size>
 contract_taken_done_desc█<b>{0}</b>&%<size=10>{1} missions | Charges <color=#64B5F6>{2}/{3}</color> | <color=#81C784>Completer</color></size>
 contract_taken_pending_desc█<b>{0}</b>&%<size=10>{1} missions | Charges <color=#64B5F6>{2}/{3}</color> | <color=#64B5F6>En cours...</color></size>
 contract_name_text█<b>{0}</b>&%<size=12>{1} missions</size>
@@ -271,7 +271,7 @@ tutorial_6█Embauchez des employés×Embauchez d'abord des employés.
 tutorial_7█Affecter des employés×Affectez d'abord les employés embauchés aux groupes de travailleurs. Chaque groupe est important.
 tutorial_8█Affecter des travailleurs×Affectez maintenant les travailleurs aux bâtiments. Plus le bâtiment a d'employés, plus le travail est rapide.
 tutorial_9█Ouvrir le gestionnaire de fusées×Dans cette fenêtre, vous pouvez créer, construire et lancer vos fusées.
-tutorial_10█Créer un nouveau projet×Créez d'abord le plan de fusée. Chaque fusée a sa capacité. Votre première fusée sera Petite / LEO, ce qui signifie qu’elle peut s’occuper de petites charges jusqu’à l’orbite terrestre basse.
+tutorial_10█Créer un nouveau projet×Créez d'abord le plan de la fusée. Chaque fusée a sa capacité. Votre première fusée sera Léger / LEO, ce qui signifie qu’elle peut s’occuper de petites sattelite jusqu’à l’orbite terrestre basse.
 tutorial_11█Créer une fusée×Dans le panneau de projet de fusée, vous pouvez créer une nouvelle fusée. Vous pouvez créer et supprimer autant de fusées que vous le souhaitez.
 tutorial_12█Construire une fusée×Vous pouvez interrompre la construction à tout moment, mais vous ne récupérerez pas votre argent.
 tutorial_13█Affecter des usines×Affectez maintenant vos usines aux modules de fusée et attendez. Vous pouvez le faire manuellement ou en cliquant sur le bouton vert ci-dessus.
@@ -332,13 +332,13 @@ research_panel_unknow_text█Inconnu
 research_panel_cannot_unlock_notification█Vous n'avez pas le niveau requis ou ni le nombre requis de points de compétence ou ni le montant requis!
 research_panel_unlock_module_text█Débloqué
 launch_control_deploy_success_notification_title█Déployer avec succès
-launch_control_deploy_success_notification_content█{0} fusée a transporté la charge du client sur l'orbite cible.&%The <color=#64B5F6>{1}</color> mission a réussi.&%Le client vous a payé {2} <color=#16A085>$</color>!
-launch_control_deploy_success_notification_content_landing█{0} fusée ont transportées la charge utile du client sur l’orbite cible.&%La <color=#64B5F6>{1}</color> mission a réussi.&%Le client vous a payez {2} <color=#16A085>$</color>!&%{0} fusée vont maintenant essayer d'atterrir sur la surface.
+launch_control_deploy_success_notification_content█{0} a transporté le satellite du client sur l'orbite cible.&%The <color=#64B5F6>{1}</color> mission a réussi.&%Le client vous a payé {2} <color=#16A085>$</color>!
+launch_control_deploy_success_notification_content_landing█{0} fusée ont transportées le satellite du client sur l’orbite cible.&%La mission<color=#64B5F6>{1}</color> a réussi.&%Le client vous a payez {2} <color=#16A085>$</color>!&%{0} fusée vont maintenant essayer d'atterrir sur la surface.
 launch_control_landing_success_notification_title█Atterrissage réussi
 launch_control_landing_success_notification_content█{0} fusées ont atterris sur le sol.&%The <color=#64B5F6>{1}</color>La mission a réussi.&%Vous pouvez maintenant réutiliser {0} fusée(s) pour la prochaine mission!
 launch_control_mission_fail_notification_title█Mission échouée
-launch_control_mission_fail_notification_content█{0} fusées ont explosées.&%La <color=#64B5F6>{1}</color> mission a échouer.&%Vous devez payer {2} <color=#E74C3C>$</color>,parce que vous avez perdu la charge utile de vos clients. &% &% Pour éviter les explosions des fusées, construisez-les plus souvent et préchauffez vos fusées avant qu'elles ne volent!
-launch_control_mission_fail_notification_money█Mission ratée, charge perdue!
+launch_control_mission_fail_notification_content█{0} fusées ont explosées.&%La <color=#64B5F6>{1}</color> mission a échouer.&%Vous devez payer {2} <color=#E74C3C>$</color>,parce que vous avez perdu le satellite de vos clients. &% &% Pour éviter les explosions des fusées, construisez-les plus souvent et préchauffez vos fusées avant qu'elles ne volent!
+launch_control_mission_fail_notification_money█Mission ratée, satellite perdue!
 projects_module_panel_employees█{0} employés
 projects_module_panel_queue█Dans la queue...({0})
 projects_module_panel_waiting_text█Attendre...
@@ -356,7 +356,7 @@ rockets_manager_project_money█Projet de fusée
 rockets_manager_no_rocket_name_notification█Vous devez donner à cette fusée un joli nom!
 build_launch_panel_modules_header█Modules
 build_launch_panel_launch█Lancement de fusée
-build_launch_panel_cargo_deploy█Déploiement de la charge
+build_launch_panel_cargo_deploy█Déploiement du satellite
 build_launch_panel_land█? Rocket Land ?
 build_launch_panel_static_fire█Préchauffage de la fusée
 build_launch_panel_launch_btn█Lancer la fusée
