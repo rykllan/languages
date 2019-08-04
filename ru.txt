@@ -1,11 +1,182 @@
+technology█Technology
+upgrades█Upgrades
+requirements█Requirements
+payload█PAYLOAD
+missions█Missions
+trust█TRUST
+orbit█ORBIT
+unlock█Unlock
+rockets█Rockets
+buildings█Buildings
+clients█Clients
+rocket█Rocket
+build_rocket█Построить ракету
+launch_rocket█Запустить ракету
+repair_rocket█Отремонтировать ракету
+static_fire█Static fire
+deploy_rocket█Deploy
+land_rocket█Landing
+build_quality█BUILD QUALITY
+condition█CONDITION
+launch_costs█Launch costs
+original_build_costs█Original build costs
+optimized_build_costs█Optimized build costs
+repair_costs█Repair costs
+priority_high█<size=12>PRIORITY</size>&%<b>HIGH
+success█SUCCESS
+failed█FAILED
+ready█READY
+flying_now█FLYING
+pending█PENDING
+rocket_notbuilt█Ещё не построена
+rocket_buildingnow█В процессе постройки...
+rocket_repairingnow█В процессе ремонта...
+rocket_disponsable█Одноразовая
+rocket_reusable█Многоразовая
+contracts_manager_header█Контракты
+payloads█Payloads
+take█Take
+reject█Reject
+payback█Payback
+project_name█Project name...
+payload_size_small█Мал.
+payload_size_medium█Сред.
+payload_size_large█Бол.
+orbit_leo█LEO
+orbit_meo█MEO
+orbit_geo█GEO
+rockets_project_remove_has_rockets█Вы не можете удалить этот проект, потому что он содержит ракеты!
+rockets_project_remove_confirm█Вы уверены, что хотите удалить этот проект?
+q_rocket_building█Вы уже строите эту ракету!
+q_rocket_repairing█Вы уже ремонтируете эту ракету!
+q_rocket_no_hangars█У вас нет ангаров для ремонта ракет.
+q_rocket_cant_remove_building█Вы не можете удалить эту ракету, потому что вы строите ее сейчас!
+q_not_money_add█Вы заработали {0} <color=#16A085>$</color>! - {1}
+q_not_money_take█Вы потратили {0} <color=#E74C3C>$</color>! - {1}
+bank_notification_employees_pay█Зарплата сотрудников
+bank_notification_buildings_rent█Обслуживание зданий
+bank_notification_taxes█Налоги (13% от вашего дохода)
+company_manager_timeline_rocket_lunch█Запущено: {0}
+company_manager_timeline_rocket_build█Построено: {0}
+game_exit_confirm█Вы уверены, что хотите выйти из EartX?
+rocket_remove_confirm█Вы уверены, что хотите удалить эту ракету?
+game_loaded_notification█Игра загружена!
+save_removal_confirm█Вы уверены, что хотите удалить это сохранение?
+r&d_company_upgrade_notification█Компания улучшена!
+rck_creator_no_module_selected█Модуль не выбран
+bank_overview_year_summary_income█{0} <color=#16A085>$</color>
+bank_overview_year_summary_expenses█{0} <color=#E74C3C>$</color>
+bank_overview_year_summary_profit_plus█+<color=#16A085>{0} $</color>
+bank_overview_year_summary_profit_minus█<color=#E74C3C>{0} $</color>
+bank_loans_take_notification█Вы взяли кредит. Вы будете выплачивать {0} <color=#16A085>$</color> каждый квартал, пока не погасите кредит. ({1} кварталов)
+bank_loans_payment_text█Погашение кредита ({0})
+bank_loans_payback_no_money█У вас недостаточно денег для погашения этого кредита!
+bank_loans_payback_notification█Кредит, который вы взяли, был погашен, спасибо!
+bank_loans_payback_remaining█Для погашения:
+bank_loans_value█{0} <color=#16A085>$</color>
+bank_loans_value_quater█{0} <color=#16A085>$</color> в квартал в течение {1} кварталов
+bank_loans_take_timeline_entry█Взят кредит
+compnay_creator_no_ceo_name_notification█Компания и CEO должны иметь имя!
+exp_manager_skill_points_add_notification█Вы получили {0} очка(-ов) навыков!
+exp_manager_skill_points_take_notification█Вы потратили {0} очка(-ов) навыков!
+exp_manager_exp_add_notification█Вы получили {0} опыта!
+exp_manager_level_up_notification█Повышение уровня!
+exp_manager_level_serious_company█<color=#FF9F43>Серьёзная компания</color>
+building_manager_upgrade_notification█Здание улучшено!
+contract_cannot_take_notification█Вы не можете взять этот контракт, потому что ваш уровень доверия слишком мал!
+contract_deadline_passed_notification_name█Вы опоздали!
+contract_deadline_passed_notification_content█Котракт от <color=#64B5F6>{0}</color> был разорван, потому что вы пропустили крайний срок одной из миссий.&%Вам выдадут штраф!
+contract_deadline_penalty_notification█Вы потеряли контракт, потому что пропустили крайний срок одной из миссий.
+contract_deadline_reminder_notification_name█Крайние сроки этих миссий приближаются!
+contract_deadline_reminder_notification_content█Вам надо завершить миссии&%<color=#64B5F6>{0}</color>чтобы сохранить взятые контракты.&%Вам выдадут штраф, если не уложитесь в срок!
+launchpad_full_notification█Вы уже запускаете ракету с этого стартового стола!
+mission_manager_max_year_launch_exceeded_notification█Вы запустили максимальное количество ракет в этом году.
+mission_manager_simultaneous_launch_exceeded_notification█Вы не можете запустить столько ракет одновременно. Вам нужно обновить свою компанию в дереве исследований!
+mission_manager_reusable_launch_denied_notification█Вы не можете запустить многоразовую ракету, потому что у вас нету разрешения на это. Вам нужно обновить свою компанию в дереве исследований!
+mission_manager_three_stage_launch_denied_notification█Вы не можете запустить ракету из 3 ускорителей, потому что у вас нет разрешения на это. Вам нужно обновить свою компанию в дереве исследований!
+mission_manager_rocket_preparation_notification█Ракета была заправлена и приготовлена к полёту
+context_menu_no_factory█[Нет доступных заводов.]
+context_menu_no_rocket█[У вас нет ракет или они слишком плохие для этой миссии.]
+build_slot_remove_factory_working_notification█Этот завод работает. Вы не можете продать его.
+build_slot_remove_confirmation█Вы уверены, что хотите продать это здание?
+build_slot_building_sold_notification█Здание было продано
+build_slot_max_factories_notification█Вы не можете построить так много заводов. Вам нужно обновить свою компанию в дереве исследований!
+build_slot_status_working█Работает над&%"{0}" для "{1}"
+build_slot_done_notification█Готово: {0}
+build_slot_status_research█Изучение...
+build_slot_status_search█Поиск...
+build_slot_status_repair█Ремонтирование...
+build_slot_rocket_repaired█Ракета {0} была отремонтирована!
+build_slot_building_built█Здание было построено
+build_slot_timeline_entry█Построено: {0}
+research_panel_cannot_unlock_notification█У вас нет необходимого уровня, необходимого количества очков навыка или требуемой суммы денег!
+launch_control_deploy_success_notification_title█Успешное отделение
+launch_control_deploy_success_notification_content█Ракета {0} доставила нагрузку заказчика на требуемую орбиту.&%Миссия "<color=#64B5F6>{1}</color>" успешная.&%Заказчик заплатил вам {2} <color=#16A085>$</color>!
+launch_control_deploy_success_notification_content_landing█Ракета {0} доставила нагрузку заказчика на требуемую орбиту.&%Миссия "<color=#64B5F6>{1}</color>" успешная.&%Заказчик заплатил вам {2} <color=#16A085>$</color>!&%Ракета {0} теперь попытается совершить посадку на землю.
+launch_control_landing_success_notification_title█Успешная посадка
+launch_control_landing_success_notification_content█Ракета {0} совершила посадку на землю.&%Миссия "<color=#64B5F6>{1}</color>" полностью успешная.&%Вы теперь можете повторно использовать ракету {0} для следующих миссий!
+launch_control_mission_fail_notification_title█Неудачная миссия
+launch_control_mission_fail_notification_content█Ракета {0} взорвалась.&%Миссия "<color=#64B5F6>{1}</color>" неудачная.&%Вы заплатили {2} <color=#E74C3C>$</color>, потому что уничтожили нагрузку заказчика.&%&%Чтобы предотвратить взрывы ракет, строите их чаще и Проовдите статические прожиги, прежде чем они полетят!
+launch_control_mission_fail_notification_money█Неудачная миссия, нагрузка уничтожена!
+projects_module_panel_queue█В очереди... ({0})
+projects_module_panel_waiting_text█Ожидание...
+projects_module_panel_no_employees_notification█Вам нужно назначить как минимум 1 сотрудника на этот завод.
+projects_module_panel_no_employees_factory_notification█Для работы этого завода необходимо назначить хотя бы 1 сотрудника.
+projects_module_panel_module_build█"Произведено: {0}"
+project_panel_auto_build_no_factories█Нет заводов для выбора. Удостоверьтесь, что по крайней мере несколько сотрудников работают на заводе.
+project_panel_no_hangar█Вы должны построить ангар, чтобы хранить в нем свои ракеты.
+project_panel_timeline_entry_rocket█Построено ракет: {0}
+project_panel_timeline_entry_launch█Запущено ракет: {0}
+project_panel_static_fire_cost█Стоимость статического прожига
+project_panel_abort_confirmation█Вы уверены, что хотите отменить полёт для этой ракеты?
+rockets_manager_no_rocket_name_notification█Вы должны дать этой ракете отличное имя!
+cape_canaveral█<b><color=#FF9F43>Cape Canaveral</color></b>&%Florida
+vandenberg█<b><color=#FF9F43>Vandenberg</color></b>&%California
+texas█<b><color=#FF9F43>McGregor</color></b>&%Texas
+module_type_battery█Аккумулятор
+module_type_board_computer█Бортовой компьютер
+module_type_engine█Двигатель
+module_type_fairings█Обтекатель
+module_type_fuel_tank█Топливный бак
+module_type_grid_fins█Решётчатые рули
+module_type_landing_legs█Посадочные опоры
+module_type_other█Дргуое
+game_over_warning_header█Вы близки к банкротству!
+game_over_warning_content█Ваша компания обанкротится через {0} квартал(-а)!&%&%Что вы сожете сделать:&%- взять кредит в банке&%- снизить кол-во сотрудников (меньше траты на зарплату)&%- продать некоторые здания
+game_over_header█Вы банкрот!
+game_over_content█Ваша компания обанкротилась! ИГРА ОКОНЧЕНА!&%Вы будете перемещены в главное меню через 10 секунд!
+office█<b><color=#FF9F43>Office</color></b>&%745 000 <color=#16A085>$
+factory█<b><color=#FF9F43>Factory</color></b>&%1 550 000 <color=#16A085>$
+hangar█<b><color=#FF9F43>Hangar</color></b>&%215 000 <color=#16A085>$
+laboratory█<b><color=#FF9F43>Laboratory</color></b>&%715 000 <color=#16A085>$
+missions_header█Миссии
+available█Available
+completed█Completed
+launched█Launched
+successful█Successful
+each_successful█Each successful
+building_name_office█Офис
+building_name_factory█Завод
+building_name_hangar█Ангар
+building_name_lab█Лаборатория
+notification█Notification
+crash█Crash
+deadline█Deadline
+select█Select
+contract_test_flight_name█Тестовый полёт
+contract_test_flight_payload█Бетон
+new_rocket█New rocket
+move_to_hangar█Move to hangar
+create_new_project█Создать новый проект
+create_project█Create project
+status█Status
+employees█Employees
 welcome_notification█Привет, <color=#64B5F6>{0}</color>!&%Я вижу вы наконец-то основали ракетную компанию, о которой говорили ранее. "<color=#64B5F6>{1}</color>" - на самом деле классное название! Я должен сказать вам, вы очень смелый.&%&%Крупные компании, которые имеют монополию на запуск ракет, годами не инвестировали в новые технологии. Они все время используют неэффективные ускорители на устаревших двигателях. Что, если они смогут вернуть свои ракеты обратно на землю? Тогда можно было бы отправить даже несколько полезных грузов только с одной ракетой! Я надеюсь, что вы сможете построить ракету, которая совершит посадку, или даже ракету с боковыми ускорителями через несколько лет.&%&%Удачи!
----Main Menu---█---Главное меню---
+menu_btn_home█Home
 menu_btn_play█Играть
 menu_btn_settings█Настройки
 menu_btn_credits█Авторы
 menu_btn_exit█Выход
-menu_btn_continue█Продолжить
-menu_btn_return█Вернуться
 menu_btn_save█Сохранить
 menu_btn_mainmenu█Главное меню
 menu_exit_confirm█Вы уверены, что хотите выйти из этой игры? Вы потеряете весь ваш несохранённый прогресс!
@@ -17,72 +188,65 @@ sett_video█Видео
 sett_fullscreen█Полный экран
 sett_graphics_effects█Эффекты
 sett_pp█Постпроцессинг
-sett_blur█Размытие интерфейса
 sett_audio█Аудио
-sett_music█Музыка
 sett_sounds█Звуки
+sett_music█Музыка
 sett_other█Другое
 sett_autosave█Автосохранения
 sett_autopause█Автопауза
 sett_language█Язык
-gamemanager_header█Начать или загрузить игру
 gamemanager_newgame█Начать новую игру
-gamemanager_lastplayed█последний раз играл
-gamestp_header█Игровой режим
-gamestp_easy█Нормальный
+gamestp_classic█Classic
+gamestp_classic_desc█Play the classic mode, where you have to build your own space company.
+gamestp_sandbox█Sandbox
+gamestp_sandbox_desc█In sandbox mode everything is unlocked and unlimited. Use your imagination!
 gamestp_realistic█Реалистичный
-gamestp_comingsoon█Не доступно
+gamestp_truth_desc█The truth mode is showing you the truth. Do not take this mode serious, it's a joke.
 flat_earth_confirm█Этот режим <b>просто для ВЕСЕЛЬЯ</b>! (Троллинг/шутка) Это очень реалистично и сложно. Вы играете на свой риск. Выберите "Нормальный" режим для нормальной игры.
 yes█Да
 no█Нет
-got_it█Понял!
 confirm█Подтверждение
 enter_text█Введите текст...
-none_text█Ничего
-details_text█Подробности
-create_text█Создать
-upgrade_text█Улучшить
----In Game Menu---█---In Game Menu---
-inmenu_rockets█Ракеты
-inmenu_research█Исследования
-inmenu_bank█Банк
-inmenu_company█Компания
-inmenu_contracts█Контракты
----Rockets Tab---█---Rockets Tab---
-no_rockets█[У вас ещё нет проектов!]&%Создайте новый проект, кликнув на "Создать новый проект"!
-new_variant█Новая ракета
-create_new_project█Создать новый проект
-build_rocket█Построить ракету
-rocket_name█Имя ракеты
-launch_rocket█Запустить ракету
-repair_rocket█Отремонтировать ракету
-rocket_notbuilt█Ещё не построена
-rocket_buildingnow█В процессе постройки...
-rocket_repairingnow█В процессе ремонта...
-rocket_buildquality█Качество производства ({0}%)
-rocket_durability█Прочность ({0}%)
-rocket_capability█Макс Нагрузка/Орбита: <color=#64B5F6><b>{0}/{1}</b></color> | <color=#64B5F6><b>{2}</b></color>
-rocket_disponsable█Одноразовая
-rocket_reusable█Многоразовая
-rocket_launch_text█Готова к полёту
-rockets_project_remove_has_rockets█Вы не можете удалить этот проект, потому что он содержит ракеты!
-rockets_project_remove_confirm█Вы уверены, что хотите удалить этот проект?
-missions_header█Миссии
-mission_testflight█Тестовый полёт
-mission_details█Подробности
----Notifications---█---Notifications---
-q_rocket_building█Вы уже строите эту ракету!
-q_rocket_repairing█Вы уже ремонтируете эту ракету!
-q_rocket_no_hangars█У вас нет ангаров для ремонта ракет.
-q_rocket_cant_remove_building█Вы не можете удалить эту ракету, потому что вы строите ее сейчас!
----Other---█---Другое---
-rocket_deploy█Отделение нагрузки ракеты
-q_not_money_add█Вы заработали {0} <color=#16A085>$</color>! - {1}
-q_not_money_take█Вы потратили {0} <color=#E74C3C>$</color>! - {1}
-modules_header█Модули
-game_exit_confirm█Вы уверены, что хотите выйти из EartX?
-rocket_remove_confirm█Вы уверены, что хотите удалить эту ракету?
----Modules---█---Модули---
+startup█Startup
+acceleration█Acceleration
+dominant█Dominant
+upgrade█Upgrade
+default█Default&%<b><color=#64B5F6>Normal work time
+upgraded█Upgraded&%<b><color=#64B5F6>Faster work time
+select_factory█Select factory
+sp1█Max 5 launches (each year)
+sp2█Max 1 launch simultaneously
+sp3█Max 2 factories
+ap1█Max 10 launches (each year)
+ap2█Max 2 launches simultaneously
+ap3█Max 4 factories
+ap4█Reusable rockets
+ap5█Upgrade buildings
+ar1█2 offices
+ar2█Min 10 launches
+ar3█Min 50 employees
+dp1█Max 15 launches (each year)
+dp2█Max 3 launches simultaneously
+dp3█Max 8 factories
+dp4█3-core rockets
+dr1█3 offices
+dr2█Min 25 launches
+dr3█Min 200 employees
+company_creator_header█Создайте свою компанию
+company_name█Company name
+ceo_name█CEO name
+create_company█Create company
+timeline█Timeline
+q1█Quarter 1
+q2█Quarter 2
+q3█Quarter 3
+q4█Quarter 4
+overview█Overview
+finance█Finance
+loans█Loans
+finance_overview█Finance overview
+loan_plans█Loan plans
+bank_loans_plan_name█План {0}
 ---Engines---█---Двигатели---
 mdl_s_engine█Простой двигатель,Макс Нагрузка/Орбита: Мал./LEO
 mdl_a_engine█Продвинутый двигатель,Макс Нагрузка/Орбита: Сред./MEO
@@ -108,326 +272,3 @@ mdl_t_gridfins█Титановые решётчатые рули,Макс На�
 mdl_m_landingLegs█Ручные посадочные опоры,Макс Нагрузка/Орбита: Бол./GEO
 mdl_a_landingLegs█Автоматические посадочные опоры,Макс Нагрузка/Орбита: Бол./GEO
 mdl_booster_connector█Соединитель ускорителей,Стройте ракеты с двумя боковыми ускорителями
-game_loaded_notification█Игра загружена!
-save_removal_confirm█Вы уверены, что хотите удалить это сохранение?
-version_info█EarthX 0.2.5.3&%от <b>Denis Szwarc</b> <size=10>с помощью других авторов</size>
-tooltip_open_build_mode█Открыть режим строительства
-tooltip_open_buget_history█Бюджет
-tooltip_open_research_tree█Очки улучшений
-tooltip_trust_level█Уровень доверия
-tooltip_btn_rockets█Ракеты
-tooltip_btn_research█Исследования
-tooltip_btn_bank█Банк
-tooltip_btn_company█Компания
-tooltip_btn_contracts█Контракты
-tooltip_btn_create_new_project█Вы должны разблокировать хотя бы один из модулей Компьютеров, Двигателей, Топливных баков и Обтекателей!
-create_new_rocket█Создать новую ракету
-rck_creator_group_name█<b>{0}</b> - <color=#64B5F6>{1}</color>
-rck_creator_no_module_selected█Модуль не выбран
-component_info_requirements_text█Требования
-r&d_window_header█Исследования и разработка
-r&d_category_rck_tech_btn█Модули ракет
-r&d_category_upgrades_btn█Улучшения
-r&d_phase1_title█Фаза 1
-r&d_phase2_title█Фаза 2
-r&d_phase3_title█Фаза 3
-r&d_phase4_title█Фаза 4
-r&d_phase5_title█Фаза 5
-r&d_phase6_title█Фаза 6
-r&d_phase7_title█Фаза 7
-r&d_company_btn█Компания
-r&d_company_upgrade_title█Улучшения компании
-r&d_company_upgrade_requirements_header█Требования
-r&d_company_upgrade█MISSING STRING
-r&d_company_upgrade_btn█Улучшить
-r&d_company_upgrade_notification█Компания улучшена!
-r&d_company_startup_title█Стартап
-r&d_company_startup_desc█- макс. 5 запусков/год&%- макс. 1 запуск одновременно&%- макс. 100 сотрудников&%- макс. 2 завода
-r&d_company_acceleration_title█Ускоренная
-r&d_company_acceleration_desc█- макс. 10 запусков/год&%- макс. 2 запуска одновременно&%- макс. 250 сотрудников&%- макс. 4 завода&%- посадка ракет
-r&d_company_acceleration_requirements█- 2 офисов&%- мин. 10 запусков&%- мин. 50 сотрудников
-r&d_company_dominant_title█Доминирующая
-r&d_company_dominant_desc█- макс. 15 запусков/год&%- макс. 3 запуска одновременно&%- макс. 550 сотрудников&%- макс. 8 заводов&%- запуск ракет из 3 ускорителей
-r&d_company_dominant_requirements█- 3 офисов&%- мин. 25 запусков&%- мин. 200 сотрудников
-bank_window_header█Банк
-bank_category_overview█Обзор
-bank_category_loans█Кредиты
-bank_category_history█История
-bank_overview_year_summary_header█Итоги года
-bank_overview_year_summary_income_header█(+) Годовой доход
-bank_overview_year_summary_expenses_header█(-) Годовой расход
-bank_overview_year_summary_profit_header█Прибыль:
-bank_overview_year_summary_income█{0} <color=#16A085>$</color>
-bank_overview_year_summary_expenses█{0} <color=#E74C3C>$</color>
-bank_overview_year_summary_profit_plus█+<color=#16A085>{0} $</color>
-bank_overview_year_summary_profit_minus█<color=#E74C3C>{0} $</color>
-bank_overview_year_comparison_header█Сравнение в годовом разрезе
-bank_loans_header█Выберите план
-bank_loans_plan_name█План {0}
-bank_loans_take_btn█Взять этот кредит
-bank_loans_payback_btn█Погасить
-bank_loans_take_notification█Вы взяли кредит. Вы будете выплачивать {0} <color=#16A085>$</color> каждый квартал, пока не погасите кредит. ({1} кварталов)
-bank_loans_payment_text█Погашение кредита ({0})
-bank_loans_payback_no_money█У вас недостаточно денег для погашения этого кредита!
-bank_loans_payback_notification█Кредит, который вы взяли, был погашен, спасибо!
-bank_loans_payback_remaining█Для погашения:
-bank_loans_value█{0} <color=#16A085>$</color>
-bank_loans_value_quater█{0} <color=#16A085>$</color> в квартал в течение {1} кварталов
-bank_notification_employees_pay█Зарплата сотрудников
-bank_notification_buildings_rent█Обслуживание зданий
-bank_notification_taxes█Налоги (13% от вашего дохода)
-bank_loans_take_timeline_entry█Взят кредит
-company_creator_header█Создайте свою компанию
-company_creator_desc█Назовите свою компанию и CEO
-company_creator_company_name_header█Название компании
-company_creator_company_name_placeholder█MISSING STRING
-company_creator_ceo_name_header█Имя CEO
-compnay_creator_no_ceo_name_notification█Компания и CEO должны иметь имя!
-company_manager_header█Ваша компания
-company_manager_desc█Управляйте своей компанией
-company_manager_menu_btn_overview█Обзор
-company_manager_menu_btn_employees█Сотрудники
-company_manager_menu_btn_buildings█Здания
-company_manager_menu_btn_achivements█Достижения
-company_manager_statistic_header█Статистика
-company_manager_statistic_rockets_header█Ракеты
-company_manager_statistic_rockets_names█Построено&%Запущено&%Успешно&%Неудачно
-company_manager_statistic_company_header█Компания
-company_manager_statistic_company_names█Фабрик&%Офисов&%Ангаров&%Сотрудников
-company_manager_statistic_consumers_header█Заказчики
-company_manager_statistic_consumers_names█Контрактов&%Миссий&%Пропущенных крайних сроков&%Машин в космосе
-company_manager_timeline_header█График
-company_manager_timeline_rocket_lunch█Запущено: {0}
-company_manager_timeline_rocket_build█Построено: {0}
-company_manager_timeline_loan_take█Взят кредит
-company_manager_timeline_built█Построено: {0}
-company_manager_employees_header█Сотрудники
-company_manager_all_employees_slider█Доступные сотрудники
-company_manager_employees_groups█Группы сотрудников
-company_manager_employees_available█Доступные сотрудники для распределения
-company_manager_employees_factory█Сотрудники завода
-company_manager_employees_office█Сотрудники офиса
-company_manager_employees_labs█Сотрудники лаборатории
-company_manager_employees_hangar█Сотрудники ангара
-company_manager_buildings_header█Здания
-company_manager_achivements█Достижения
-exp_manager_skill_points_add_notification█Вы получили {0} очка(-ов) навыков!
-exp_manager_skill_points_take_notification█Вы потратили {0} очка(-ов) навыков!
-exp_manager_exp_add_notification█Вы получили {0} опыта!
-exp_manager_level_up_notification█Повышение уровня!
-exp_manager_level_string█<color=#FF9F43>Уровень {0}</color> <color=#FFC48B><size=10>({1}/{2})</size></color>
-exp_manager_level_serious_company█<color=#FF9F43>Серьёзная компания</color>
-building_manager_workers█Сотрудники: {0}
-building_manager_upgrade_notification█Здание улучшено!
-building_manager_header█Менеджер зданий
-building_manager_open_btn█Открыть менеджер зданий
-building_manager_workers_header█Сотрудники здания
-building_manager_upgrades_header█Улучшения здания
-building_manager_upgrade_default_name█Обычное
-building_manager_upgrade_default_desc█Это здание работает нормально
-building_manager_upgrade_boost_name█Продвинутое
-building_manager_upgrade_boost_desc█+ скорость работы на 10% больше&%+ меньше затраты на обслуживание
-building_manager_upgrade_boost_requirements_header█Требования
-building_manager_upgrade_boost_requirements█- 2 года&%- 1 800 000 <color=#16A085>$</color>
-building_name_office█Офис
-building_name_factory█Завод
-building_name_hangar█Ангар
-building_name_lab█Лаборатория
-building_panel_manage_btn█Управлять
-employees_manager_employees_pay█Зарплата сотрудников ({0})
-employees_manager_available_employees█Доступно: {0} <color=#c5c5c5><size=10>/{1}</size></color>
-employees_manager_available_workers█Доступные сотрудники | Завод: {0} <color=#c5c5c5><size=10>/{1}</size></color>   ,   Офис: {2} <color=#c5c5c5><size=10>/{3}</size></color>   ,   Лаборатория: {4} <color=#c5c5c5><size=10>/{5}</size></color>   ,   Ангар: {6} <color=#c5c5c5><size=10>/{7}</size></color>
-achivements_manager_notification_title█Достижение получено!
-achivements_manager_notification_content█Вы получили достижение "<color=#64B5F6>{0}</color>".&%{1}
-contracts_manager_header█Контракты
-contracts_manager_menu_available_btn█Доступные
-contracts_manager_info_payload_header█Нагрузка
-contracts_manager_info_finance_header█Финансы
-contracts_manager_take_btn█Взять
-contracts_manager_reject_btn█Отклонить
-contract_test_flight_name█Тестовый полёт
-contract_test_flight_payload█Бетон
-contract_available_desc█<b>{0} (Требуемый уровень доверия: <color=#64B5F6>{2}</color>%)</b>&%<size=10>Кол-во миссий: {1} | Нагрузка <color=#64B5F6>{3}/{4}</color></size>
-contract_taken_done_desc█<b>{0}</b>&%<size=10>Кол-во миссий: {1} | Нагрузка <color=#64B5F6>{2}/{3}</color> | <color=#81C784>Завершена</color></size>
-contract_taken_pending_desc█<b>{0}</b>&%<size=10>Кол-во миссий: {1} | Нагрузка <color=#64B5F6>{2}/{3}</color> | <color=#64B5F6>В ожидании...</color></size>
-contract_name_text█<b>{0}</b>&%<size=12>Кол-во миссий: {1}</size>
-contract_desc_text█Миссия "{0}"&%<size=10><b><color=#E57373>Крайний срок: {3} Q{4}</color></b> | {1}/{2}</size>
-contract_finance_text█<size=13>За каждый успешный полёт:</size> <b>+{0} <color=#16A085>$</color></b>&%<size=13>Штраф за каждую миссию (неуд. полёт):</size> <b>-{1} <color=#E57373>$</color></b>&%<size=13>Штраф за каждую миссию (крайний срок):</size> <b>-{2} <color=#E57373>$</color></b>
-contract_cannot_take_notification█Вы не можете взять этот контракт, потому что ваш уровень доверия слишком мал!
-contract_deadline_passed_notification_name█Вы опоздали!
-contract_deadline_passed_notification_content█Котракт от <color=#64B5F6>{0}</color> был разорван, потому что вы пропустили крайний срок одной из миссий.&%Вам выдадут штраф!
-contract_deadline_penalty_notification█Вы потеряли контракт, потому что пропустили крайний срок одной из миссий.
-contract_deadline_reminder_notification_name█Крайние сроки этих миссий приближаются!
-contract_deadline_reminder_notification_content█Вам надо завершить миссии&%<color=#64B5F6>{0}</color>чтобы сохранить взятые контракты.&%Вам выдадут штраф, если не уложитесь в срок!
-contract_details_btn█Подробности
-tutorial_stop_confirm█Вы уверены, что хотите прервать туториал?
-tutorial_0█Разблокируйте 4 модуля×Первые 4 модуля требуются для постройки вашей первой ракеты.
-tutorial_1█Улучшения×Здесь вы можете улучшить свою компанию и модули в будущем!
-tutorial_2█Режим строительства×В режиме строительства вы можете строить здания, которые вам нужны. Офисы ищут контракты, заводы строят ракеты, ангары хранят ракеты, а лаборатории проводят исследования. Все здания очень важны!
-tutorial_3█Стройте×Постройте ваши первые 2 завода и 1 ангар!
-tutorial_4█Настройте компанию×В менеджере компании вы можете настроить свою компанию и здания.
-tutorial_5█Manage employees×In the employees tab you can hire and assing the employees to 4 worker groups.
-tutorial_6█Наймите сотрудников×В первую очередь наймите нескольких сотрудников.
-tutorial_7█Распределите сотрудников×Распределите сотрудников по рабочим группам. Каждая группа важна.
-tutorial_8█Разместите сотрудников×Разместите сотрудников в здании. Чем больше сотрудников, тем быстрее идёт работа.
-tutorial_9█Откройте менеджер ракет×В этой вкладке вы можете создавать, строить и запускать ваши ракеты.ы
-tutorial_10█Создайте новый проект×Сперва создайте план ракеты. Каждая ракета имеет свои возможности. Ваша первая ракета будет Мал./LEO. Это означает, что она сможет доставлять маленькую нагрузку на Низкую околоземную орбиту (LEO).
-tutorial_11█Создайте новвую ракету×В панеле проекта ракеты вы можете создать новую ракету. Вы можете создавать и удалять столько ракет, сколько захотите.
-tutorial_12█Постройте ракету×Вы можете отменить производство, но вы не получите деньги обратно.
-tutorial_13█Выберите заводы×Теперь выберите свои заводы для производства модулей и ждите. Вы можете сделать это вручную, либо кликнуть на зелёную кнопку выше.
-tutorial_14█Откройте менеджер аркет×Сделайте это опять!
-tutorial_15█Запустите аркету×Запустите ракету, которую только что построили. Вы должны провести испытательный полёт, чтобы получить некоторое доверие. После этого вы сможете брать контракты и зарабатывать деньги!
-mission_details_payload█Нагрузка
-mission_details_client█Заказчик
-mission_details_size█Размер
-mission_details_target_orbit█Орбита
-mission_details_finance█Финансы
-mission_details_select_rocket_btn█Выберите ракету
-mission_details_select_launchpad_btn█Выберите стартовый стол
-mission_details_launch_btn█Запустить
-mission_details_name_green█Миссия "{0}"&%<size=10><b><color=#81C784>{1}</color></b></size>
-mission_details_name_red█Миссия "{0}"&%<size=10><b><color=#E57373>{1}</color></b></size>
-mission_details_name_red_deadline█Миссия "{0}"&%<size=10><b><color=#E57373>Крайний срок: {1} Q{2}</color></b></size>
-mission_details_name_blue█Миссия "{0}"&%<size=10><b><color=#64B5F6>{1}</color></b></size>
-mission_details_name_blue_deadline█Миссия "{0}"&%<size=10><b><color=#64B5F6>{1}</color></b> | Крайний срок: {2} Q{3}</size>
-mission_details_status_complet█Успешно завершена
-mission_details_status_fail█Неудачно завершена
-mission_details_status_flying█В процессе полёта
-mission_details_status_ready█Готова
-mission_details_status_no_rockets█Нет ракет
-mission_details_finance_content█Удачный полёт: <b>+{0} <color=#16A085>$</color></b>&%Взыскание (неуд. полёт): <b>-{1} <color=#E57373>$</color></b>&%Взыскание (крайний срок): <b>-{2} <color=#E57373>$</color></b>
-payload_size_small█Мал.
-payload_size_medium█Сред.
-payload_size_large█Бол.
-orbit_leo█LEO
-orbit_meo█MEO
-orbit_geo█GEO
-launchpad_full_notification█Вы уже запускаете ракету с этого стартового стола!
-mission_manager_max_year_launch_exceeded_notification█Вы запустили максимальное количество ракет в этом году.
-mission_manager_simultaneous_launch_exceeded_notification█Вы не можете запустить столько ракет одновременно. Вам нужно обновить свою компанию в дереве исследований!
-mission_manager_reusable_launch_denied_notification█Вы не можете запустить многоразовую ракету, потому что у вас нету разрешения на это. Вам нужно обновить свою компанию в дереве исследований!
-mission_manager_three_stage_launch_denied_notification█Вы не можете запустить ракету из 3 ускорителей, потому что у вас нет разрешения на это. Вам нужно обновить свою компанию в дереве исследований!
-mission_manager_rocket_preparation_notification█Ракета была заправлена и приготовлена к полёту
-context_menu_title█Выберите
-context_menu_no_factory█[Нет доступных заводов.]
-context_menu_rocket_info█<b>{0}</b>&%<color=#64B5F6><size=10>> {1} | Нагрузка: {2}/{3}</size></color>
-context_menu_no_rocket█[У вас нет ракет или они слишком плохие для этой миссии.]
-build_slot_remove_factory_working_notification█Этот завод работает. Вы не можете продать его.
-build_slot_remove_confirmation█Вы уверены, что хотите продать это здание?
-build_slot_building_sold_notification█Здание было продано
-build_slot_max_factories_notification█Вы не можете построить так много заводов. Вам нужно обновить свою компанию в дереве исследований!
-build_slot_status_working█Работает над&%"{0}" для "{1}"
-build_slot_done_notification█Готово: {0}
-build_slot_status_research█Изучение...
-build_slot_lab_name█Лаборатория
-build_slot_status_search█Поиск...
-build_slot_office_name█Офис
-build_slot_status_repair█Ремонтирование...
-build_slot_rocket_repaired█Ракета {0} была отремонтирована!
-build_slot_building_built█Здание было построено
-build_slot_timeline_entry█Построено: {0}
-modules_manager_new_modules_notification_title█Проверьте дерево исследований
-modules_manager_new_modules_notification_content█Теперь вы можете разблокировать следующие модули:&%&%<color=#64B5F6>{0}</color>&% Вы можете разблокировать их в окне дерева исследований
-research_panel_unknow_text█Неизвестно
-research_panel_cannot_unlock_notification█У вас нет необходимого уровня, необходимого количества очков навыка или требуемой суммы денег!
-research_panel_unlock_module_text█Разблокировать
-launch_control_deploy_success_notification_title█Успешное отделение
-launch_control_deploy_success_notification_content█Ракета {0} доставила нагрузку заказчика на требуемую орбиту.&%Миссия "<color=#64B5F6>{1}</color>" успешная.&%Заказчик заплатил вам {2} <color=#16A085>$</color>!
-launch_control_deploy_success_notification_content_landing█Ракета {0} доставила нагрузку заказчика на требуемую орбиту.&%Миссия "<color=#64B5F6>{1}</color>" успешная.&%Заказчик заплатил вам {2} <color=#16A085>$</color>!&%Ракета {0} теперь попытается совершить посадку на землю.
-launch_control_landing_success_notification_title█Успешная посадка
-launch_control_landing_success_notification_content█Ракета {0} совершила посадку на землю.&%Миссия "<color=#64B5F6>{1}</color>" полностью успешная.&%Вы теперь можете повторно использовать ракету {0} для следующих миссий!
-launch_control_mission_fail_notification_title█Неудачная миссия
-launch_control_mission_fail_notification_content█Ракета {0} взорвалась.&%Миссия "<color=#64B5F6>{1}</color>" неудачная.&%Вы заплатили {2} <color=#E74C3C>$</color>, потому что уничтожили нагрузку заказчика.&%&%Чтобы предотвратить взрывы ракет, строите их чаще и Проовдите статические прожиги, прежде чем они полетят!
-launch_control_mission_fail_notification_money█Неудачная миссия, нагрузка уничтожена!
-projects_module_panel_employees█Сотрудников: {0}
-projects_module_panel_queue█В очереди... ({0})
-projects_module_panel_waiting_text█Ожидание...
-projects_module_panel_no_employees_notification█Вам нужно назначить как минимум 1 сотрудника на этот завод.
-projects_module_panel_no_employees_factory_notification█Для работы этого завода необходимо назначить хотя бы 1 сотрудника.
-projects_module_panel_module_build█"Произведено: {0}"
-project_panel_auto_build_no_factories█Нет заводов для выбора. Удостоверьтесь, что по крайней мере несколько сотрудников работают на заводе.
-project_panel_no_hangar█Вы должны построить ангар, чтобы хранить в нем свои ракеты.
-project_panel_timeline_entry_rocket█Построено ракет: {0}
-project_panel_timeline_entry_launch█Запущено ракет: {0}
-project_panel_static_fire_cost█Стоимость статического прожига
-project_panel_abort_confirmation█Вы уверены, что хотите отменить полёт для этой ракеты?
-rockets_manager_header█Ракеты
-rockets_manager_project_money█Проект ракеты
-rockets_manager_no_rocket_name_notification█Вы должны дать этой ракете отличное имя!
-build_launch_panel_modules_header█Модули
-build_launch_panel_launch█Запуск ракеты
-build_launch_panel_cargo_deploy█Отделение нагрузки
-build_launch_panel_land█Посадка ракеты
-build_launch_panel_static_fire█Статический прожиг
-build_launch_panel_launch_btn█Запустить ракету
-build_launch_panel_move_hangar_btn█Переместить в ангар
-build_launch_panel_finish_btn█Закончить и запустить
-building_office_text█<b><color=#FF9F43>Офис</color></b> | 745 000 <color=#16A085>$</color>
-building_office_desc█Ищет контракты
-building_factory_text█<b><color=#FF9F43>Завод</color></b> | 1 550 000 <color=#16A085>$</color>
-building_factory_desc█Производит модули
-building_hangar_text█<b><color=#FF9F43>Ангар</color></b> | 215 000 <color=#16A085>$</color>
-building_hangar_desc█Хранит ракеты
-building_lab_text█<b><color=#FF9F43>Лаборатория</color></b> | 715 000 <color=#16A085>$</color>
-building_lab_desc█Создаёт очки улучшений
-launch_pad_cape_canaveral█Мыс Канаверал
-launch_pad_cape_canaveral_desc█Флорида
-launch_pad_vandenberg█Ванденберг
-launch_pad_vandenberg_desc█База ВВС США
-launch_pad_rocket_development█Испытательный полигон
-launch_pad_rocket_development_desc█МакГрегор
-module_type_battery█Аккумулятор
-module_type_board_computer█Бортовой компьютер
-module_type_engine█Двигатель
-module_type_fairings█Обтекатель
-module_type_fuel_tank█Топливный бак
-module_type_grid_fins█Решётчатые рули
-module_type_landing_legs█Посадочные опоры
-module_type_other█Дргуое
-module_panel_select_factory_btn█Выбрать завод
-module_panel_build_btn█Build
-module_panel_stop_build_btn█Остановить производство
-achivement_amateur█Любитель×Запустить 5 ракет.
-achivement_bancrupt█И опять!×Обанкротиться.
-achivement_bad_day█Плохой день×Произвести 3 неудачных запуска подряд.
-achivement_best_of_the_best█А ты хорош×Достигнуть самого высокого уровня доверия.
-achivement_everyone_makes_mistakes█Каждый совершает ошибки×Произвести 10 неудачных запусков.
-achivement_experienced█Опытный×Запустить 15 ракет.
-achivement_expert█Эксперт×Запустить 45 ракет.
-achivement_jeff_who█Jeff Who?×Назовите свою компанию "SpaceX" и её CEO "Elon Musk".
-achivement_just_luck█Просто везение×Удачно запустите свою первую ракету.
-achivement_serious_player█Серьёзный игрок×Запустить 100 ракет.
-achivement_the_very_beginner█Самый начинающий×Открыть по крайней мере один модуль.
-achivement_you_are_late█Ты опоздал×Пропустить 3 крайних срока.
-credits_header█Авторы
-credits_main_creator█Игра от <color=#64B5F6>Denis Szwarc</color>, выпущена <color=#64B5F6>Mesote Games</color>
-credits_game_design█Тестер и создание геймплея <color=#64B5F6>Michał Paciorek</color>
-credits_blur█Шейдер размытия от <color=#64B5F6>Justin Garza</color>
-credits_icons█Значки модулей ракет от <color=#64B5F6>lqdev</color>
-credits_music█Фоновая музыка от <color=#64B5F6>.xrmmusic</color>
-credits_models█Модели зданий от <color=#64B5F6>BroTT</color>
-credits_additional_icons█Источник значков: (все из flaticon.com)&%https://www.flaticon.com/authors/smashicons&%https://www.flaticon.com/authors/dave-gandy&%https://www.freepik.com&%https://www.flaticon.com/authors/vectors-market&%https://www.flaticon.com/authors/google&%https://www.flaticon.com/authors/roundicons&%https://www.flaticon.com/authors/alfredo-hernandez&%https://www.flaticon.com/authors/pixel-perfect&%https://www.flaticon.com/authors/lucy-g&%https://www.flaticon.com/authors/gregor-cresnar&%https://www.flaticon.com/authors/nhor-phai&%https://www.flaticon.com/authors/bogdan-rosu&%https://www.flaticon.com/authors/kiranshastry
-credits_thanks█Спасибо всем игрокам с itch.io!&%Спасибо всем тестерам, которые играли в мою игру и давали фидбек :D&%Отдельная благодарность тем, кто тестировал почти каждую экспериментальную версию, которую я выпускал. Приятно, что вы есть, ребята!
-credits_contributors_header█Над игрой работали:
-credits_jakub_kiryluk_badge1█Локализация
-credits_jakub_kiryluk_badge2█Редактирование видео
-credits_adrian_wesolowski_badge1█Маркетинг
-credits_przenziu_badge1█Тестер
-credits_przenziu_badge2█Фидбек
-credits_konrad_potempski_badge1█Тестер
-credits_konrad_potempski_badge2█Фидбек
-credits_bonnie_badge1█Фидбек
-credits_avocado_badge1█Тестер
-credits_avocado_badge2█Фидбек
-credits_rafal_wisniewski_badge1█Модели ракет
-follow_us_header█Следите за нашими новостями в
-join_us_header█Вступайне к нам в
-shortcuts█ЛКМ / ПКМ - Перемещение камеры&%СКМ - Приближение камеры&%WASD - Перемещение камеры на клавиатуре&%Z/X - Приближение камеры на клавиатуре
-space_race_btn█Космическая гонка
-game_over_warning_header█Вы близки к банкротству!
-game_over_warning_content█Ваша компания обанкротится через {0} квартал(-а)!&%&%Что вы сожете сделать:&%- взять кредит в банке&%- снизить кол-во сотрудников (меньше траты на зарплату)&%- продать некоторые здания
-game_over_header█Вы банкрот!
-game_over_content█Ваша компания обанкротилась! ИГРА ОКОНЧЕНА!&%Вы будете перемещены в главное меню через 10 секунд!
-pirate_header█У вас нелегальная версия EarthX!
-pirate_content█Но я не против. Запомните, что ракеты в этой верии будут всегда взрываться, но, чтобы проверить игру, вы получите $10 млн за каждый запуск.&%&%Ракеты в легальной версии будут взрываться не так часто :)&%&%https://store.steampowered.com/app/1069030/EarthX/
-building_status█Статус
