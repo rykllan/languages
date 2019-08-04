@@ -1,40 +1,43 @@
-About This Game
+A propos de ce jeu
 
 [img]{STEAM_APP_IMAGE}/extras/aboutEarthX.png[/img]
-In EarthX you can build a really big space company, starting as a small startup. You start in 2002 with just a few million dollars, and your task is to manage the company and begin to produce rockets. 
+Dans EarthX, vous pouvez créer une très grande entreprise spatiale, en commençant par une petite start-up. Vous commencez en 2002 avec seulement quelques millions de dollars et votre tâche est de gérer la société et de commencer à produire des fusées.
 
-You have to build some factories for creating modules, offices for searching for contracts, labs for research points production and hangars for storing your rockets. Once you have rocket built, you can launch it up into space. Don't forget, that your rockets may explode sometimes. Your first launch will be a test mission, so the customers can see your capability. Once you gained some trust, you can take some of the available contracts and shot the real payloads on the orbit.
-[b]EarthX was highly inspired by real companies like "NASA", "Suborbital Company", "Rocket Lab" and of course "SpaceX".[/b]
+Vous devez construire des usines pour la création de modules, des bureaux pour la recherche de contrats, des laboratoires pour la production de points de recherche et des hangars pour le stockage de vos fusées. Une fois la fusée construite, vous pouvez la lancer dans l'espace. N'oubliez pas que vos fusées peuvent parfois exploser. Votre premier lancement sera une mission de test afin que les clients puissent voir vos capacités. Une fois que vous avez acquis un peu de confiance, vous pouvez prendre certains des contrats disponibles et lancer les vraies charges utiles en orbite.
+[b]EarthX a été fortement inspiré par de vraies entreprises telles que "NASA", "Suborbital Company", "Rocket Lab" et bien sûr "SpaceX".[/b]
 
 [img]{STEAM_APP_IMAGE}/extras/keyFeatures.png[/img]
-[i][b]Build rockets[/b][/i]
-Unlock modules (19 available for now), design your rocket project and build their variations in your factories. 
+[i][b]Construire des fusées[/b][/i]
+Déverrouillez les modules (19 disponibles pour le moment), concevez vos fusées et créez leurs variantes dans vos usines.
 
-[i][b]Launch, Land, Repeat[/b][/i]
-Launch disposable rockets, and later with the new technology and certification land with them on the barge. 
+[i][b] Lancer, atterrir, répéter [/b][/i]
+Lancez des fusées jetables et, plus tard, avec la nouvelle technologie et la certification, atterrissez avec elles sur la barge
 
-[i][b]The rockets may explode sometimes[/b][/i]
-The rocket build quality and durability have a big influence on this. The more rockets you build, the more experience you gain, and this will help you avoid explosions.
+[i][b] Les fusées peuvent parfois exploser [/b][/i]
+La qualité de construction et la durabilité de la fusée ont une grande influence sur ça. Plus vous construirez de fusées, plus vous gagnerez d'expérience, ce qui vous évitera des explosions.
 
-[i][b]Take contracts and complete the missions[/b][/i]
-Your level of trust affects what contracts you receive. Each contract has its own missions, which you have to complete on time. 
+[i][b] Prenez des contrats et terminez les missions[/b][/i]
+Votre niveau de confiance affecte les contrats que vous recevez. Chaque contrat a ses propres missions que vous devez remplir à temps.
 
-[i][b]Manage the logistics on the planet[/b][/i]
-Build factories, offices, labs, and hangars. You can upgrade every building, which gives you additional work speed.
+[i][b] Gérer la logistique sur la planète [/b][/i]
+Construisez des usines, des bureaux, des laboratoires et des hangars. Vous pouvez améliorer chaque bâtiment, ce qui vous donne une vitesse de travail accrus.
 
-[i][b]Manage your company[/b][/i]
-Upgrade company, hire employees and apply them to the buildings, and gain achievements.
+[i][b]Gérez votre entreprise[/b][/i]
+Mettez la société à niveau, embauchez des employés et appliquez-les aux bâtiments, et obtenez des résultats.
 
-[i][b]It's just a.. statistics[/b][/i]
-See what you did over the whole game session. Take notes and continue with the new game then. Your next game will be better!
+[i] [b] C'est juste une ... statistiques[/b][/i]
+Voyez ce que vous avez fait pendant toute la partie. Prenez des notes et continuez avec le nouveau jeu. Votre prochain match sera meilleur!
 
-[i][b]But if not...[/b][/i]
-Then you will bankrupt again! :)
+[i][b]Mais sinon ... [/b] [/i]
+Vous ferez de nouveau faillite! :)
 
 [img]{STEAM_APP_IMAGE}/extras/graphicsDesign.png[/img]
-EarthX has its own graphic style. The soundtrack is made by .xrm from SoundCloud. We kept the user interface as simple as possible and we think, that we achieved the goal!
+EarthX a son propre style graphique. La bande son est faite par .xrm de SoundCloud. Nous avons gardé l'interface utilisateur aussi simple que possible et nous pensons que nous avons atteint l'objectif!
 
-[b]Note, that this is an early access title. Everything can change in the future, and not everything can now work properly.[/b]
+[b]Notez qu'il s'agit d'un titre à accès anticipé. Tout peut changer dans le futur, et tout ne peut pas maintenant fonctionner correctement.[/b]
+
+
+
 
 
 
@@ -44,7 +47,7 @@ EarthX has its own graphic style. The soundtrack is made by .xrm from SoundCloud
 
 Short Description
 
-Have you always dreamt of becoming CEO of the largest rocket company in the world? It just came true. Start with practically nothing and end up with a rocket empire. In EarthX you can develop rocket technologies, but also your company and planet Earth!
+Avez-vous toujours rêvé de devenir PDG de la plus grande entreprise spacial du monde? C'est devenu réalité. Commencez avec pratiquement rien et aboutissez à un empire de fusées. Dans EarthX, vous pouvez développer des technologies de fusée, mais également votre entreprise et la planète Terre!
 
 
 
@@ -54,20 +57,20 @@ Have you always dreamt of becoming CEO of the largest rocket company in the worl
 
 
 
-Why Early Access?
-We believe, that making games alone is hard and boring. That's why we start with Early Access. We hope, that we can get a lot of good feedback, but also your opinions about this game. No matter, if it's a bad or good opinion. We will read them all and take the appropriate measures.
+Pourquoi un accès anticipé?
+Nous croyons que faire des jeux seul est difficile et ennuyeux. C'est pourquoi nous commençons par l'accès anticipé. Nous espérons pouvoir obtenir de nombreux retours positifs, mais également vos avis sur ce jeu. Peu importe, si c'est un mauvais ou un bonne avis tant qu'il est constructif. Nous les lirons tous et corrigerons les points négartifs.
 
-Approximately how long will this game be in Early Access?
-As everyone says: when it's finished. We plan to release a new update every few weeks, so the game should be fully released at the end of 2019 or at the beginning of 2020. Of course, everything can change during development.
+Environ combien de temps ce jeu dure l'accès anticipé?
+Comme tout le monde le dit: quand c'est fini. Nous prévoyons de publier une nouvelle mise à jour à peu près toutes les semaines. Le jeu devrait donc être entièrement disponible à la fin de 2019 ou au début de 2020. Bien entendu, tout peut changer au cours du développement.
 
-How is the full version planned to differ from the Early Access version?
-The full release will have much more content for sure. We plan to add a competitors system, so the player doesn't feel alone. We also plan to add the following features: materials, more missions, more planets, capsules, a weather system and a lot more. As you can see, we are going to make this game more like a company management tycoon.
+Comment la version complète devrait-elle différer de la version à accès anticipé?
+La version complète aura certainement beaucoup plus de contenu. Nous prévoyons d'ajouter un système de concurrents afin que le joueur ne se sente pas seul. Nous prévoyons également d'ajouter les fonctionnalités suivantes: matériaux, davantage de missions, plus de planètes, de capsules, un système météorologique et bien plus encore. Comme vous pouvez le constater, nous allons faire de ce jeu un peu plus un magnat de la gestion d’entreprise.
 
-What is the current state of the Early Access version?
-EarthX already has all the fundamental features required to add more new and advanced features. All key features are listed in the store description.
+Quel est l'état actuel de la version Early Access?
+EarthX dispose déjà de toutes les fonctionnalités fondamentales nécessaires pour ajouter de nouvelles fonctionnalités avancées. Toutes les fonctionnalités clés sont répertoriées dans la description du magasin.
 
-Will the game be priced differently during and after Early Access?
-Yes, we plan to gradually raise the price as we ship new content and features.
+Est-ce que le prix du jeu sera différent pendant et après l'accès anticipé?
+Oui, nous prévoyons d'augmenter progressivement le prix au fur et à mesure de la livraison de nouveaux contenus et fonctionnalités.
 
-How are you planning on involving the Community in your development process?
-We will read reviews, feedback and our discord server every day. Then we will make some notes and design the best possible way. This is an Early Access game, the changes can be really fast and dynamic.
+Comment envisagez-vous d'impliquer la communauté dans votre processus de développement?
+Nous lirons chaque jour les critiques, les commentaires et notre serveur Discord. Ensuite, nous allons prendre des notes et concevoir le meilleur moyen possible. Ceci est un jeu Early Access, les changements peuvent être très rapides et dynamiques.
