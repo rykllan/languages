@@ -1,7 +1,7 @@
 technology█Technology
 upgrades█Upgrades
 requirements█Requirements
-payload█Payload
+payload█PAYLOAD
 missions█Missions
 trust█TRUST
 orbit█ORBIT
