@@ -1,7 +1,7 @@
 technology█Technologia
 upgrades█Ulepszenia
 requirements█Wymagania
-payload█Ładunek
+payload█ŁADUNEK
 missions█Misje
 trust█ZAUFANIE
 orbit█ORBITA
