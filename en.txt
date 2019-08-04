@@ -8,7 +8,7 @@ menu_btn_continue█Continue
 menu_btn_return█Return
 menu_btn_save█Save
 menu_btn_mainmenu█Main Menu
-menu_exit_confirm█You really want to leave the game? You will lose all unsaved progress!
+menu_exit_confirm█Do you really want to leave the game? You will lose all unsaved progress!
 sett_graphics_quality█Graphics quality
 sett_low█Low
 sett_medium█Medium
@@ -19,6 +19,7 @@ sett_graphics_effects█Graphics effects
 sett_pp█Post processings
 sett_blur█Interface blur
 sett_audio█Audio
+sett_sounds█Sounds
 sett_music█Music
 sett_sounds█Sounds
 sett_other█Others
@@ -110,7 +111,7 @@ mdl_a_landingLegs█Automatic Landing Legs,Max Payload/Orbit: Large/GEO
 mdl_booster_connector█Boosters Connector,Build a rocket with 2 side boosters
 game_loaded_notification█Game loaded!
 save_removal_confirm█Are you sure you want to delete this save?
-version_info█EarthX 0.2.5.3&%by <b>Denis Szwarc</b> <size=10>with help of contributors</size>
+version_info█EarthX 0.2.6 BETA #3&%by <b>Denis Szwarc</b> <size=10>with help of contributors</size>
 tooltip_open_build_mode█Open build mode
 tooltip_open_buget_history█Money
 tooltip_open_research_tree█Skill points
@@ -157,10 +158,10 @@ bank_overview_year_summary_header█Year summary
 bank_overview_year_summary_income_header█(+) Annual earnings
 bank_overview_year_summary_expenses_header█(-) Annual expenditure
 bank_overview_year_summary_profit_header█Profit:
-bank_overview_year_summary_income█{0} <color=#16A085>$</color>
-bank_overview_year_summary_expenses█{0} <color=#E74C3C>$</color>
-bank_overview_year_summary_profit_plus█+<color=#16A085>{0} $</color>
-bank_overview_year_summary_profit_minus█<color=#E74C3C>{0} $</color>
+bank_overview_year_summary_income█<color=#16A085>Annual income (+)</color>&%{0} <color=#16A085>$
+bank_overview_year_summary_expenses█<color=#E57373>Annual outcome (-)</color>&%{0} <color=#E57373>$
+bank_overview_year_summary_profit_plus█=<color=#64B5F6>Annual profit</color>&%+{0} <color=#64B5F6>$
+bank_overview_year_summary_profit_minus█=<color=#E57373>Annual profit</color>&%{0} <color=#E57373>$
 bank_overview_year_comparison_header█Year comparison (funds)
 bank_loans_header█Choose plan
 bank_loans_plan_name█Plan {0}
@@ -170,8 +171,8 @@ bank_loans_take_notification█You took out a loan. You will pay {0} <color=#16A
 bank_loans_payment_text█Loan repayment ({0})
 bank_loans_payback_no_money█You don't have enough money to pay this loan back!
 bank_loans_payback_notification█The loan you took was repaid, thank you!
-bank_loans_payback_remaining█To pay off:
-bank_loans_value█{0} <color=#16A085>$</color>
+bank_loans_payback_remaining█To pay off&%<size=25><b>{0} <color=#16A085>$
+bank_loans_value█Plan {0}&%<size=25><b>{1} <color=#16A085>$
 bank_loans_value_quater█{0} <color=#16A085>$</color> each quarter for {1} quarters
 bank_notification_employees_pay█Employees pay
 bank_notification_buildings_rent█Buildings rent
@@ -329,7 +330,7 @@ build_slot_timeline_entry█{0} built
 modules_manager_new_modules_notification_title█Check the research tree
 modules_manager_new_modules_notification_content█You can now unlock following modules:&%&%<color=#64B5F6>{0}</color>&% in the research tree window!
 research_panel_unknow_text█Unknown
-research_panel_cannot_unlock_notification█You don't have the required level, amount of skill points or enough money!
+research_panel_cannot_unlock_notification█You don't have the required level or required amount of skill points!
 research_panel_unlock_module_text█Unlock
 launch_control_deploy_success_notification_title█Deploy successful
 launch_control_deploy_success_notification_content█{0} rocket carried the customer payload to the target orbit.&%The <color=#64B5F6>{1}</color> mission has succeeded.&%Customer paid you {2} <color=#16A085>$</color>!

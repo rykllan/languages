@@ -170,8 +170,8 @@ bank_loans_take_notification█Wziąłeś pożyczkę. Będziesz spłacać {0} <c
 bank_loans_payment_text█Spłacanie długu ({0})
 bank_loans_payback_no_money█Nie masz wystarczająco dużo pieniędzy, aby spłacić tę pożyczkę!
 bank_loans_payback_notification█Pożyczka, którą wziąłeś, została spłacona. Dziękujemy!
-bank_loans_payback_remaining█Do spłacenia:
-bank_loans_value█{0} <color=#16A085>$</color>
+bank_loans_payback_remaining█Do spłacenia&%<size=25><b>{0} <color=#16A085>$
+bank_loans_value█Plan {0}&%<size=25><b>{1} <color=#16A085>$
 bank_loans_value_quater█{0} <color=#16A085>$</color> co kwartał przez {1} kwartałów
 bank_notification_employees_pay█Wypłata dla pracowników
 bank_notification_buildings_rent█Koszty budynków
