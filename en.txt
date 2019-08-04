@@ -2,6 +2,8 @@ technology█Technology
 upgrades█Upgrades
 requirements█Requirements
 payload█Payload
+missions█Missions
+trust█TRUST
 orbit█ORBIT
 unlock█Unlock
 rockets█Rockets
@@ -16,6 +18,16 @@ deploy_rocket█Deploy
 land_rocket█Landing
 build_quality█BUILD QUALITY
 condition█CONDITION
+launch_costs█Launch costs
+original_build_costs█Original build costs
+optimized_build_costs█Optimized build costs
+repair_costs█Repair costs
+priority_high█<size=12>PRIORITY</size>&%<b>HIGH
+success█SUCCESS
+failed█FAILED
+ready█READY
+flying_now█FLYING
+pending█PENDING
 rocket_notbuilt█Not built yet
 rocket_buildingnow█Under construction...
 rocket_repairingnow█Under repair...
