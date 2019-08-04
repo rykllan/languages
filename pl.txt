@@ -1,171 +1,73 @@
-welcome_notification█Witaj, <color=#64B5F6>{0}</color>!&%Widzę, że w końcu założyłeś rakietową firmę, o której wspominałeś. "<color=#64B5F6>{1}</color>" to nawet fajna nazwa!. Muszę Ci przyznać, że jesteś bardzo odważny.&%&%Duże firmy, które mają monopol w wysyłaniu ładunków na orbitę, od lat nie zainwestowały w nowszą technologię. Cały czas używają jakiś niewydajnych rakiet na przestarzałych silnikach. A gdyby tak rakiety mogły lądować? Wtedy można by było wysłać nawet kilka ładunków tylko 1 rakietą! Mam nadzieję, że uda Ci się zbudować lądujące rakiety, a może nawet rakietę z bocznymi boosterami?&%&%Powodzenia!
----Main Menu---█---Main Menu---
-menu_btn_play█Graj
-menu_btn_settings█Ustawienia
-menu_btn_credits█Twórcy
-menu_btn_exit█Wyjdź
-menu_btn_continue█Kontynuuj
-menu_btn_return█Wróć
-menu_btn_save█Zapisz
-menu_btn_mainmenu█Menu główne
-menu_exit_confirm█Czy na pewno chcesz opuścić grę? Stracisz cały swój niezapisany postęp!
-sett_graphics_quality█Jakość grafiki
-sett_low█Niska
-sett_medium█Średnia
-sett_high█Wysoka
-sett_video█Rozdzielczość
-sett_fullscreen█Pełny ekran
-sett_graphics_effects█Efekty graficzne
-sett_pp█Efekty
-sett_blur█Przezroczystość interfejsu
-sett_audio█Audio
-sett_music█Muzyka
-sett_sounds█Dźwięki
-sett_other█Inne
-sett_autosave█Auto-zapis
-sett_autopause█Auto-pauza
-sett_language█Język
-gamemanager_header█Rozpocznij lub wczytaj grę
-gamemanager_newgame█Rozpocznij nową grę
-gamemanager_lastplayed█ostatnio grałeś
-gamestp_header█Właściwości gry
-gamestp_easy█Normalny
-gamestp_realistic█Realistyczny
-gamestp_comingsoon█Wkrótce!
-flat_earth_confirm█Ten tryb jest <b>tylko dla ZABAWY</b>! Jest bardzo realistyczny i trudny. Grasz na własne ryzyko. Użyj trybu "Normalny" dla normalnej rozgrywki.
-yes█Tak
-no█Nie
-got_it█Ok!
-confirm█Potwierdź
-enter_text█Wpisz tekst...
-none_text█Brak
-details_text█Szczegóły
-create_text█Stwórz
-upgrade_text█Ulepsz
----In Game Menu---█---In Game Menu---
-inmenu_rockets█Rakiety
-inmenu_research█Postęp
-inmenu_bank█Bank
-inmenu_company█Firma
-inmenu_contracts█Kontrakty
----Rockets Tab---█---Rockets Tab---
-no_rockets█[Nie masz jeszcze żadnych projektów!]&%Stwórz nowy projekt klikając na "Stwórz nową rakietę"!
-new_variant█Nowa rakieta
-create_new_project█Stwórz nową rakietę
+technology█Technologia
+upgrades█Ulepszenia
+requirements█Wymagania
+payload█Ładunek
+missions█Misje
+trust█ZAUFANIE
+orbit█ORBITA
+unlock█Odblokuj
+rockets█Rakiety
+buildings█Budynki
+clients█Klienci
+rocket█Rakieta
 build_rocket█Zbuduj rakietę
-rocket_name█Nazwa rakiety
 launch_rocket█Wystartuj rakietę
 repair_rocket█Napraw rakietę
+static_fire█Test statyczny
+deploy_rocket█Wypuść
+land_rocket█Lądowanie
+build_quality█JAKOŚĆ BUDOWY
+condition█STAN
+launch_costs█Koszty startu
+original_build_costs█Orginalne koszty budowy
+optimized_build_costs█Zoptymalizowanie koszty budowy
+repair_costs█Koszty naprawy
+priority_high█<size=12>PRIORYTET</size>&%<b>WYSOKI
+success█SUKCES
+failed█NIEPOWODZENIE
+ready█GOTOWA
+flying_now█W LOCIE
+pending█OCZEKUJE
 rocket_notbuilt█Niezbudowana
 rocket_buildingnow█W trakcie budowy...
 rocket_repairingnow█W trakcie naprawiania...
-rocket_buildquality█Jakość budowy ({0}%)
-rocket_durability█Wytrzymałość ({0}%)
-rocket_capability█Max ładunek/orbita: <color=#64B5F6><b>{0}/{1}</b></color> | <color=#64B5F6><b>{2}</b></color>
 rocket_disponsable█Jednorazowa
 rocket_reusable█Wielokrotnego użytku
-rocket_launch_text█Gotowa do lotu
+contracts_manager_header█Kontrakty
+payloads█Ładunki
+take█Przyjmij
+reject█Odrzuć
+payback█Spłać
+project_name█Nazwa projektu...
+payload_size_small█Mały
+payload_size_medium█Średni
+payload_size_large█Duży
+orbit_leo█LEO
+orbit_meo█MEO
+orbit_geo█GEO
 rockets_project_remove_has_rockets█Nie możesz usunąć tego projektu, ponieważ znajdują się w nim rakiety!
 rockets_project_remove_confirm█Czy na pewno chcesz usunąć ten projekt?
-missions_header█Misje
-mission_testflight█Lot testowy
-mission_details█Szczegóły
----Notifications---█---Notifications---
 q_rocket_building█Już budujesz tę rakietę!
 q_rocket_repairing█Już naprawiasz tę rakietę!
 q_rocket_no_hangars█Nie posiadasz żadnych hangarów, aby naprawiać w nich rakiety.
 q_rocket_cant_remove_building█Nie możesz usunąć tej rakiety, ponieważ właśnie ją budujesz!
----Other---█---Other---
-rocket_deploy█Ładunek wypuszczony
 q_not_money_add█Zarobiłeś {0} <color=#16A085>$</color>! - {1}
 q_not_money_take█Wydałeś {0} <color=#E74C3C>$</color>! - {1}
-modules_header█Moduły
+bank_notification_employees_pay█Wypłata dla pracowników
+bank_notification_buildings_rent█Koszty budynków
+bank_notification_taxes█Podatki (13% z twoich przychodów)
+company_manager_timeline_rocket_lunch█Start {0}
+company_manager_timeline_rocket_build█{0} zbudowana
 game_exit_confirm█Czy na pewno chcesz opuścić EarthX?
 rocket_remove_confirm█Czy na pewno chcesz usunąć tę rakietę?
----Modules---█---Modules---
----Engines---█---Engines---
-mdl_s_engine█Mały silnik,Max ładunek/orbita: Mały/LEO
-mdl_a_engine█Duży silnik,Max ładunek/orbita Średni/MEO
-mdl_a4_engine█4 duże silniki,Max ładunek/orbita Średni/GEO
-mdl_a9_engine█9 dużych silników,Max ładunek/orbita Duży/GEO
----FuelTanks---█---FuelTanks---
-mdl_s_fueltank█Mały zbiornik paliwa,Max ładunek/orbita Duży/LEO
-mdl_m_fueltank█Średni zbiornik paliwa,Max ładunek/orbita Duży/MEO
-mdl_l_fueltank█Duży zbiornik paliwa,Max ładunek/orbita Duży/GEO
----Computers---█---Computers---
-mdl_s_computer█Prosty komputer pokładowy,Max ładunek/orbita Średni/MEO
-mdl_a_computer█Zaawansowany komputer pokładowy,Max ładunek/orbita Duży/GEO
-mdl_s_battery█Mała bateria,Max ładunek/orbita Duży/LEO
-mdl_a_battery█Duża bateria,Max ładunek/orbita Duży/GEO
-mdl_gps█GPS,Max ładunek/orbita Duży/GEO
----Fairings---█---Fairings---
-mdl_s_fairings█Małe owiewki,Max ładunek/orbita Mały/GEO
-mdl_m_fairings█Średnie owiewki,Max ładunek/orbita Średni/GEO
-mdl_l_fairings█Duże owiewki,Max ładunek/orbita Duży/GEO
----Landing Stuff---█---Landing Stuff---
-mdl_a_gridfins█Aluminiowe lotki,Max ładunek/orbita Duży/GEO
-mdl_t_gridfins█Tytanowe lotki,Max ładunek/orbita Duży/GEO
-mdl_m_landingLegs█Proste podwozie,Max ładunek/orbita Duży/GEO
-mdl_a_landingLegs█Zaawansowne podwozie,Max ładunek/orbita Duży/GEO
-mdl_booster_connector█Łącznik boosterów,Tworzy rakietę z dwoma bocznymi boosterami
 game_loaded_notification█Gra załadowana!
 save_removal_confirm█Czy na pewno chcesz usunąć ten zapis?
-version_info█EarthX 0.2.5.3&%przez <b>Denisa Szwarca</b> <size=10>z pomocą kilku osób</size>
-tooltip_open_build_mode█Tryb budowania
-tooltip_open_buget_history█Fundusze
-tooltip_open_research_tree█Punkty doświadczenia
-tooltip_trust_level█Poziom zaufania
-tooltip_btn_rockets█Rakiety
-tooltip_btn_research█Badania
-tooltip_btn_bank█Bank
-tooltip_btn_company█Firma
-tooltip_btn_contracts█Kontrakty
-tooltip_btn_create_new_project█Musisz odblokować przynajmniej jeden moduł z komputerów, silników, zbiorników paliwa oraz owiewek!
-create_new_rocket█Stwórz nową rakietę
-rck_creator_group_name█<b>{0}</b> - <color=#64B5F6>{1}</color>
-rck_creator_no_module_selected█Żaden moduł nie jest wybrany
-component_info_requirements_text█Wymagania
-r&d_window_header█Badania i rozwój
-r&d_category_rck_tech_btn█Moduły rakietowe
-r&d_category_upgrades_btn█Ulepszenia
-r&d_phase1_title█Faza 1
-r&d_phase2_title█Faza 2
-r&d_phase3_title█Faza 3
-r&d_phase4_title█Faza 4
-r&d_phase5_title█Faza 5
-r&d_phase6_title█Faza 6
-r&d_phase7_title█Faza 7
-r&d_company_btn█Firma
-r&d_company_upgrade_title█Ulepszenia firmy
-r&d_company_upgrade_requirements_header█Wymagania
-r&d_company_upgrade█MISSING STRING
-r&d_company_upgrade_btn█Ulepsz
 r&d_company_upgrade_notification█Firma ulepszona!
-r&d_company_startup_title█Startup
-r&d_company_startup_desc█- max. 5 startów /rok&%- max. 1 start na raz&%- max. 100 pracowników&%- max. 2 fabryki
-r&d_company_acceleration_title█Akceleracja
-r&d_company_acceleration_desc█- max. 10 startów /rok&%- max. 2 starty na raz&%- max. 250 pracowników&%- max. 4 fabryki&%- ląduj rakietami
-r&d_company_acceleration_requirements█- 2 biura&%- min. 10 startów&%- min. 50 pracowników
-r&d_company_dominant_title█Duży gracz
-r&d_company_dominant_desc█- max. 15 startów /rok&%- max. 3 starty na raz&%- max. 550 pracowników&%- max. 8 fabryk&%- rakieta z bocznymi boosterami
-r&d_company_dominant_requirements█- 3 biura&%- min. 25 startów&%- min. 200 pracowników
-bank_window_header█Bank
-bank_category_overview█Przegląd
-bank_category_loans█Pożyczki
-bank_category_history█Historia
-bank_overview_year_summary_header█Podsumowanie roczne
-bank_overview_year_summary_income_header█(+) zarobki roczne
-bank_overview_year_summary_expenses_header█(-) wydatki roczne
-bank_overview_year_summary_profit_header█Profit:
+rck_creator_no_module_selected█Żaden moduł nie jest wybrany
 bank_overview_year_summary_income█{0} <color=#16A085>$</color>
 bank_overview_year_summary_expenses█{0} <color=#E74C3C>$</color>
 bank_overview_year_summary_profit_plus█+<color=#16A085>{0} $</color>
 bank_overview_year_summary_profit_minus█<color=#E74C3C>{0} $</color>
-bank_overview_year_comparison_header█Porównanie z poprzednimi latami (fundusze)
-bank_loans_header█Wybierz plan
-bank_loans_plan_name█Plan {0}
-bank_loans_take_btn█Weź pożyczkę
-bank_loans_payback_btn█Spłać
 bank_loans_take_notification█Wziąłeś pożyczkę. Będziesz spłacać {0} <color=#16A085>$</color> co kwartał, dopóki wszystkiego nie spłacisz. ({1} kwartałów)
 bank_loans_payment_text█Spłacanie długu ({0})
 bank_loans_payback_no_money█Nie masz wystarczająco dużo pieniędzy, aby spłacić tę pożyczkę!
@@ -173,144 +75,27 @@ bank_loans_payback_notification█Pożyczka, którą wziąłeś, została spłac
 bank_loans_payback_remaining█Do spłacenia&%<size=25><b>{0} <color=#16A085>$
 bank_loans_value█Plan {0}&%<size=25><b>{1} <color=#16A085>$
 bank_loans_value_quater█{0} <color=#16A085>$</color> co kwartał przez {1} kwartałów
-bank_notification_employees_pay█Wypłata dla pracowników
-bank_notification_buildings_rent█Koszty budynków
-bank_notification_taxes█Podatki (13% z twoich przychodów)
 bank_loans_take_timeline_entry█Pożyczka
-company_creator_header█Stwórz swoją firmę
-company_creator_desc█Nazwij ją i swojego CEO
-company_creator_company_name_header█Nazwa firmy
-company_creator_company_name_placeholder█MISSING STRING
-company_creator_ceo_name_header█Nazwisko CEO
 compnay_creator_no_ceo_name_notification█Firma oraz CEO muszą mieć nazwę!
-company_manager_header█Twoja firma
-company_manager_desc█Zarządzaj swoją firmą
-company_manager_menu_btn_overview█Przegląd
-company_manager_menu_btn_employees█Pracownicy
-company_manager_menu_btn_buildings█Budynki
-company_manager_menu_btn_achivements█Osiągnięcia
-company_manager_statistic_header█Statystyki
-company_manager_statistic_rockets_header█Rakiety
-company_manager_statistic_rockets_names█Zbudowane&%Wystartowane&%Sukcesy&%Porażki
-company_manager_statistic_company_header█Firma
-company_manager_statistic_company_names█Fabryki&%Biura&%Hangary&%Pracownicy
-company_manager_statistic_consumers_header█Klienci
-company_manager_statistic_consumers_names█Kontrakty&%Misje&%Spóźnione&%Auta w kosmosie
-company_manager_timeline_header█Oś czasu
-company_manager_timeline_rocket_lunch█Start {0}
-company_manager_timeline_rocket_build█{0} zbudowana
-company_manager_timeline_loan_take█Pożyczka
-company_manager_timeline_built█{0} zbudowana
-company_manager_employees_header█Pracownicy
-company_manager_all_employees_slider█Dostępni pracownicy
-company_manager_employees_groups█Grupy pracowników
-company_manager_employees_available█Dostępni pracownicy do przypisania
-company_manager_employees_factory█Pracownicy fabryk
-company_manager_employees_office█Pracownicy biur
-company_manager_employees_labs█Pracownicy laboratoriów
-company_manager_employees_hangar█Pracownicy hangarów
-company_manager_buildings_header█Budynki
-company_manager_achivements█Osiągnięcia
 exp_manager_skill_points_add_notification█Zbodyłeś {0} punktów doświadczenia!
 exp_manager_skill_points_take_notification█Wydałeś {0} punktów doświadczenia!
 exp_manager_exp_add_notification█Zdobyłeś {0} doświadczenia!
 exp_manager_level_up_notification█Zdobyłeś nowy poziom!
-exp_manager_level_string█<color=#FF9F43>Poziom {0}</color> <color=#FFC48B><size=10>({1}/{2})</size></color>
 exp_manager_level_serious_company█<color=#FF9F43>Poważna firma</color>
-building_manager_workers█Pracownicy - {0}
 building_manager_upgrade_notification█Budynek został ulepszony!
-building_manager_header█Zarządzaj budynkiem
-building_manager_open_btn█Wszystkie budynki
-building_manager_workers_header█Pracownicy przypisani do budynku
-building_manager_upgrades_header█Ulepszenia budynku
-building_manager_upgrade_default_name█Domyślne
-building_manager_upgrade_default_desc█Ten budynek pracuje normalnie
-building_manager_upgrade_boost_name█Ulepszony
-building_manager_upgrade_boost_desc█+ 10% szybszy czas pracy&%+ więcej pracowników
-building_manager_upgrade_boost_requirements_header█Wymagania
-building_manager_upgrade_boost_requirements█- 2 lata posiadania&%- 1 800 000 <color=#16A085>$</color>&%- "Akceleracja"
-building_name_office█Biuro
-building_name_factory█Fabryka
-building_name_hangar█Hangar
-building_name_lab█Laboratorium
-building_panel_manage_btn█Zarządzaj
-employees_manager_employees_pay█Wypłata dla pracowników ({0})
-employees_manager_available_employees█Dostępnych: {0} <color=#c5c5c5><size=10>/{1}</size></color>
-employees_manager_available_workers█Dostępni pracownicy | Fabryka: {0} <color=#c5c5c5><size=10>/{1}</size></color>   ,   Biura: {2} <color=#c5c5c5><size=10>/{3}</size></color>   ,   Laboratoria: {4} <color=#c5c5c5><size=10>/{5}</size></color>   ,   Hangar: {6} <color=#c5c5c5><size=10>/{7}</size></color>
-achivements_manager_notification_title█Osiągnięcie zdobyte!
-achivements_manager_notification_content█Zdobyłeś nowe osiągnięcie: <color=#64B5F6>{0}</color>.&%{1}
-contracts_manager_header█Kontrakty
-contracts_manager_menu_available_btn█Dostępne
-contracts_manager_info_payload_header█Ładunki
-contracts_manager_info_finance_header█Nagroda
-contracts_manager_take_btn█Przyjmij
-contracts_manager_reject_btn█Odrzuć
-contract_test_flight_name█Lot Testowy
-contract_test_flight_payload█Beton
-contract_available_desc█<b>{0} (Wymagany poz. zaufania: <color=#64B5F6>{2}</color>%)</b>&%<size=10>{1} misje | <color=#64B5F6>{3}/{4}</color></size>
-contract_taken_done_desc█<b>{0}</b>&%<size=10>{1} misje | <color=#64B5F6>{2}/{3}</color> | <color=#81C784>Ukończony</color></size>
-contract_taken_pending_desc█<b>{0}</b>&%<size=10>{1} misje | <color=#64B5F6>{2}/{3}</color> | <color=#64B5F6>W trakcie wykonywania...</color></size>
-contract_name_text█<b>{0}</b>&%<size=12>{1} misje</size>
-contract_desc_text█Misja: {0}&%<size=10><b><color=#E57373>Termin: {3} Q{4}</color></b> | {1}/{2}</size>
-contract_finance_text█<size=13>Każdy udany lot:</size> <b>+{0} <color=#16A085>$</color></b>&%<size=13>Każda kara (wybuch):</size> <b>-{1} <color=#E57373>$</color></b>&%<size=13>Każda kara (termin):</size> <b>-{2} <color=#E57373>$</color></b>
 contract_cannot_take_notification█Nie możesz przyjąć tego kontraktu, ponieważ twój poziom zaufania jest zbyt niski!
 contract_deadline_passed_notification_name█Spóźniłeś się!
 contract_deadline_passed_notification_content█Kontrakt <color=#64B5F6>{0}</color> zostanie usunięty, ponieważ jedna z misji przekroczyła termin wykonania.&%Zostaniesz ukarany karą finansową!
 contract_deadline_penalty_notification█Straciłeś kontrakt, ponieważ jedna z misji przekroczyła termin wykonania.
 contract_deadline_reminder_notification_name█Pośpiesz się!
 contract_deadline_reminder_notification_content█Musisz ukończyć następujące misje w terminie:&%<color=#64B5F6>{0}</color>, aby ocalić kontrakt.&%Zostaniesz ukarany karą finansową, jeśli jedna z misji przekroczy termin.
-contract_details_btn█Szczegóły
-tutorial_stop_confirm█Czy na pewno chcesz zatrzymać tutorial?
-tutorial_0█Odblokuj 4 moduły×Pierwsze 4 moduły rakietowe są wymagane do zbudowania pierwszej rakiety.
-tutorial_1█Ulepszenia×Tutaj możesz ulepszyć status swojej firmy i moduły w przyszłości! Wyłącz teraz to okienko.
-tutorial_2█Tryb budowania×W trybie budowania możesz budować budynki, których potrzebujesz. Biura poszukują kontraktów, fabryki budują rakiety, hangary przechowują rakiety, a laboratoria prowadzą badania. Wszystkie budynki są bardzo ważne!
-tutorial_3█Zbuduj coś×Teraz zbuduj swoje pierwsze 2 fabryki i 1 hangar, a następnie wyjdź z trybu budowania!
-tutorial_4█Skonfiguruj firmę×W menadżerze firmy możesz skonfigurować swoją firmę i budynki.
-tutorial_5█Zarządzaj pracownikami×W zakładce Pracownicy możesz zatrudnić i przyporządkować pracowników do 4 grup pracowników.
-tutorial_6█Zatrudnij pracowników×Najpierw zatrudnij kilku pracowników.
-tutorial_7█Przypisz pracowników×W pierwszej kolejności przydziel pracowników do różnych grup. Każda grupa jest ważna.
-tutorial_8█Przydziel pracowników×Przypisz teraz pracowników do budynków, które odpowiadają ich typom. Im więcej pracowników w budynku, tym szybsza ich praca.
-tutorial_9█Otwórz menedżera rakiet×W tym oknie możesz tworzyć, budować i startować rakiety.
-tutorial_10█Stwórz nowy projekt×Najpierw stwórz projekt rakiety. Każda rakieta ma swoje możliwości. Twoja pierwsza rakieta będzie Mały/LEO, co oznacza, że może wynieść o mały ładunek na niską orbitę ziemi.
-tutorial_11█Stwórz nową rakietę×W panelu projektu rakiety możesz stworzyć nową rakietę. Możesz tworzyć i usuwać dowolną liczbę rakiet.
-tutorial_12█Zbuduj rakietę×Możesz przerwać budowę w każdej chwili, ale nie odzyskasz wydanych pieniędzy.
-tutorial_13█Przypisz fabryki×Teraz przypisz fabryki do modułów w panelu rakiety i czekaj. Możesz to zrobić ręcznie lub klikając na zielony przycisk powyżej.
-tutorial_14█Otwórz menedżera rakiet×Zrób to jeszcze raz!
-tutorial_15█Wystartuj rakietę×Wystrzel rakietę, którą właśnie zbudowałeś. Musisz odbyć lot testowy, aby zdobyć trochę zaufania. Po tym będziesz mógł przyjmować kontrakty i zarabiać pieniądze!
-mission_details_payload█Ładunek
-mission_details_client█Klient
-mission_details_size█Wielkość
-mission_details_target_orbit█Docelowa orbita
-mission_details_finance█Finanse
-mission_details_select_rocket_btn█Wybierz rakietę
-mission_details_select_launchpad_btn█Wybierz stanowisko startowe
-mission_details_launch_btn█Wystrzel
-mission_details_name_green█Misja {0}&%<size=10><b><color=#81C784>{1}</color></b></size>
-mission_details_name_red█Misja {0}&%<size=10><b><color=#E57373>{1}</color></b></size>
-mission_details_name_red_deadline█Misja {0}&%<size=10><b><color=#E57373>Termin: {1} Q{2}</color></b></size>
-mission_details_name_blue█Misja {0}&%<size=10><b><color=#64B5F6>{1}</color></b></size>
-mission_details_name_blue_deadline█Misja {0}&%<size=10><b><color=#64B5F6>{1}</color></b> | Termin: {2} Q{3}</size>
-mission_details_status_complet█Ukończona
-mission_details_status_fail█Porażka
-mission_details_status_flying█W trakcie lotu
-mission_details_status_ready█Gotowa
-mission_details_status_no_rockets█Brak odpowiednich rakiet
-mission_details_finance_content█Powodzenie misji: <b>+{0} <color=#16A085>$</color></b>&%Kara (wybuch): <b>-{1} <color=#E57373>$</color></b>&%Kara (termin): <b>-{2} <color=#E57373>$</color></b>
-payload_size_small█Mały
-payload_size_medium█Średni
-payload_size_large█Duży
-orbit_leo█LEO
-orbit_meo█MEO
-orbit_geo█GEO
 launchpad_full_notification█Z tego stanowiska startuje już inna rakieta!
 mission_manager_max_year_launch_exceeded_notification█W tym roku wystrzeliłeś maksymalną ilość rakiet.
 mission_manager_simultaneous_launch_exceeded_notification█Nie możesz wystrzelić tylu rakiet w tym samym czasie. Musisz ulepszyć swoją firmę w drzewie badawczym!
 mission_manager_reusable_launch_denied_notification█Nie możesz wystrzelić rakiety wielokrotnego użytku, bo nie masz na to pozwolenia. Musisz ulepszyć swoją firmę w drzewie badawczym!
 mission_manager_three_stage_launch_denied_notification█Nie możesz wystrzelić rakiety z trzema boosterami, bo nie masz na to pozwolenia. Musisz ulepszyć swoją firmę w drzewie badawczym!
 mission_manager_rocket_preparation_notification█Rakieta została zatankowana i przygotowana do startu.
-context_menu_title█Wybierz
 context_menu_no_factory█[Brak dostępnych fabryk.]
-context_menu_rocket_info█<b>{0}</b>&%<color=#64B5F6><size=10>> {1} | Ładunek: {2}/{3}</size></color>
 context_menu_no_rocket█[Nie masz żadnych rakiet albo są one po prostu zbyt złe do tej misji.]
 build_slot_remove_factory_working_notification█Ta fabryka właśnie pracuje. Nie możesz jej usunąć.
 build_slot_remove_confirmation█Czy na pewno chcesz usunąć ten budynek?
@@ -319,18 +104,12 @@ build_slot_max_factories_notification█Nie możesz zbudować tylu fabryk. Musis
 build_slot_status_working█Pracuje nad&%{0} w {1}
 build_slot_done_notification█Moduł {0} jest gotowy
 build_slot_status_research█Badanie...
-build_slot_lab_name█Laboratorium
 build_slot_status_search█Szukanie...
-build_slot_office_name█Biuro
 build_slot_status_repair█Naprawianie {0}...
 build_slot_rocket_repaired█Rakieta {0} została naprawiona!
 build_slot_building_built█Budynek został sprzedany.
 build_slot_timeline_entry█Nowy budynek - {0}
-modules_manager_new_modules_notification_title█Sprawdź drzewo badawcze
-modules_manager_new_modules_notification_content█Teraz można odblokować następujące moduły:&%&%<color=#64B5F6>{0}</color>&%Możesz je odblokować w oknie drzewa badawczego!
-research_panel_unknow_text█Nieznany
 research_panel_cannot_unlock_notification█Nie masz wymaganego poziomu, wymaganej ilości punktów doświadczenia lub wymaganej ilości pieniędzy!
-research_panel_unlock_module_text█Odblokuj
 launch_control_deploy_success_notification_title█Ładunek wypuszczony na orbitę
 launch_control_deploy_success_notification_content█Rakieta {0} wyniosła ładunek klienta na orbitę docelową.&%Misja <color=#64B5F6>{1}</color> została ukończona.&%Klient zapłacił Ci {2} <color=#16A085>$</color>!
 launch_control_deploy_success_notification_content_landing█Rakieta {0} wyniosła ładunek klienta na orbitę docelową.&%Misja <color=#64B5F6>{1}</color> została ukończona.&%Klient zapłacił Ci {2} <color=#16A085>$</color>!&%{0} spróbuje teraz wylądować z powrotem na ziemi.
@@ -339,7 +118,6 @@ launch_control_landing_success_notification_content█{0} wylądował z powrotem
 launch_control_mission_fail_notification_title█Misja nieudana
 launch_control_mission_fail_notification_content█Rakieta {0} eksplodowała podczas lotu.&%Misja <color=#64B5F6>{1}</color> zakończyła się niepowodzeniem&%Musisz zapłacić {2} <color=#E74C3C>$</color>, ponieważ utraciłeś ładunek klienta.&%&%Aby zapobiec wybuchom rakiet, buduj je częściej i wykonuj testy rakiet przed ich lotem!
 launch_control_mission_fail_notification_money█Misja nieudana, ładunek utracony!
-projects_module_panel_employees█{0} pracowników
 projects_module_panel_queue█W kolejce... ({0})
 projects_module_panel_waiting_text█Oczekuje...
 projects_module_panel_no_employees_notification█Do tej fabryki należy przydzielić co najmniej 1 pracownika.
@@ -351,31 +129,10 @@ project_panel_timeline_entry_rocket█{0} zbudowana
 project_panel_timeline_entry_launch█{0} wystartowała
 project_panel_static_fire_cost█Static fire
 project_panel_abort_confirmation█Jesteś pewien, że chcesz anulować?
-rockets_manager_header█Rakiety
-rockets_manager_project_money█Projekt rakiety
 rockets_manager_no_rocket_name_notification█Musisz nadać tej rakiecie jakąś fajną nazwę!
-build_launch_panel_modules_header█Moduły
-build_launch_panel_launch█Start rakiety
-build_launch_panel_cargo_deploy█Wypuszczenie ładunku
-build_launch_panel_land█Lądowanie Rakiety
-build_launch_panel_static_fire█Test
-build_launch_panel_launch_btn█Wystartuj rakietę
-build_launch_panel_move_hangar_btn█Przechowaj w Hangarze
-build_launch_panel_finish_btn█Zakończ i Wystartuj
-building_office_text█<b><color=#FF9F43>Biuro</color></b> | 745 000 <color=#16A085>$</color>
-building_office_desc█Poszukuje kontraktów
-building_factory_text█<b><color=#FF9F43>Fabryka</color></b> | 1 550 000 <color=#16A085>$</color>
-building_factory_desc█Buduje moduły
-building_hangar_text█<b><color=#FF9F43>Hangar</color></b> | 215 000 <color=#16A085>$</color>
-building_hangar_desc█Przechowuje rakiety
-building_lab_text█<b><color=#FF9F43>Labolatorium</color></b> | 715 000 <color=#16A085>$</color>
-building_lab_desc█Dodaje punkty doświadczenia
-launch_pad_cape_canaveral█Przylądek Canaveral
-launch_pad_cape_canaveral_desc█Floryda
-launch_pad_vandenberg█Vandenberg
-launch_pad_vandenberg_desc█California
-launch_pad_rocket_development█Pole Testowe
-launch_pad_rocket_development_desc█Teksas
+cape_canaveral█<b><color=#FF9F43>Cape Canaveral</color></b>&%Floryda
+vandenberg█<b><color=#FF9F43>Vandenberg</color></b>&%California
+texas█<b><color=#FF9F43>McGregor</color></b>&%Teksas
 module_type_battery█Bateria
 module_type_board_computer█Komputer pokładowy
 module_type_engine█Silnik
@@ -384,50 +141,134 @@ module_type_fuel_tank█Zbiornik paliwa
 module_type_grid_fins█Lotki
 module_type_landing_legs█Podwozie
 module_type_other█Inne
-module_panel_select_factory_btn█Wybierz fabrykę
-module_panel_build_btn█Zbuduj
-module_panel_stop_build_btn█Wstrzymaj budowę
-achivement_amateur█Amator×Wystrzel 5 rakiet.
-achivement_bancrupt█Krok w tył!×Zbankrutuj.
-achivement_bad_day█Zły dzień×Posiadaj 3 nieudane starty pod rząd.
-achivement_best_of_the_best█Zaufany!×Osiągnij maksymalną reputację.
-achivement_everyone_makes_mistakes█Wszyscy popełniamy błędy×Posiadaj 10 nieudanych startów.
-achivement_experienced█Doświadczony×Wystrzel 15 rakiet.
-achivement_expert█Ekspert×Wystrzel 45 rakiet.
-achivement_jeff_who█Jeff who?×Nazwij swoją firmę "SpaceX", a CEO "Elon Musk".
-achivement_just_luck█Farciarz×Wystrzel udanie rakietę po raz pierwszy.
-achivement_serious_player█Poważny gracz×Wystrzel 100 rakiet.
-achivement_the_very_beginner█Początki początków×Odblokuj conajmniej jeden moduł.
-achivement_you_are_late█Spóźnialski×3 razy nie dotrzymaj terminu. 
-credits_header█Twórcy
-credits_main_creator█Gra stworzona przez <color=#64B5F6>Denisa Szwarca</color>, wydana przez <color=#64B5F6>Mesote Games</color>
-credits_game_design█Testowanie i projektowanie gry <color=#64B5F6>Michał Paciorek</color>
-credits_blur█Blur shader stworzony przez <color=#64B5F6>Justina Garza</color>
-credits_icons█Ikony modułów rakiet stworzone przez <color=#64B5F6>lqdev</color>
-credits_music█Muzyka stworzona przez <color=#64B5F6>.xrmmusic</color>
-credits_models█Modele budynków stworzone przez <color=#64B5F6>BroTT</color>
-credits_additional_icons█Twórcy Ikon: (wszystkie z flaticon.com)&%https://www.flaticon.com/authors/smashicons&%https://www.flaticon.com/authors/dave-gandy&%https://www.freepik.com&%https://www.flaticon.com/authors/vectors-market&%https://www.flaticon.com/authors/google&%https://www.flaticon.com/authors/roundicons&%https://www.flaticon.com/authors/alfredo-hernandez&%https://www.flaticon.com/authors/pixel-perfect&%https://www.flaticon.com/authors/lucy-g&%https://www.flaticon.com/authors/gregor-cresnar&%https://www.flaticon.com/authors/nhor-phai&%https://www.flaticon.com/authors/bogdan-rosu&%https://www.flaticon.com/authors/kiranshastry
-credits_thanks█Podziękowania dla wszystkich, którzy zakupili grę na itch.io!&%&%Dziękuję wszystkim testerom za pomoc i feedback!&%&%Wielkie podziękowania dla tych, którzy zagrali w każdą wersję testową, którą wydałem. Cieszę się, że Was mam!
-credits_contributors_header█Współtwórcy
-credits_jakub_kiryluk_badge1█Lokalizacja
-credits_jakub_kiryluk_badge2█Edycja Video
-credits_adrian_wesolowski_badge1█Marketing
-credits_przenziu_badge1█Testowanie
-credits_przenziu_badge2█Feedback
-credits_konrad_potempski_badge1█Testowanie
-credits_konrad_potempski_badge2█Feedback
-credits_bonnie_badge1█Feedback
-credits_avocado_badge1█Feedback
-credits_avocado_badge2█Testowanie
-credits_rafal_wisniewski_badge1█Model Rakiety
-follow_us_header█Obserwuj nas na
-join_us_header█Dołącz na
-shortcuts█LPM / PPM - Ruch Kamery&%Scroll - Zoom Kamery&%WASD - Ruch Kamery Klawiatura&%Z/X - Zoom Kamery Klawiatura
-space_race_btn█Wyścig Kosmiczny
 game_over_warning_header█Niedługo zbankrutujesz!
 game_over_warning_content█Twoja firma zbankrutuje w ciągu {0} kwartałów!&%&%Jak temu zapobiec:&%- weź pożyczkę z banku&%- zmniejsz ilość pracowników&%- sprzedaj kilka niepotrzebnych budynków
 game_over_header█Jesteś bankrutem!
 game_over_content█Twoja firma zbankrutowała! KONIEC GRY!&%Zostaniesz przeniesiony do menu głównego za 10 sekund!
-pirate_header█Masz nielegalną wersję EarthX!
-pirate_content█Ale nie mam nic przeciwko. Pamiętaj, że rakiety w tej wersji zawsze będą eksplodować, ale aby przetestować grę, dostaniesz 10 milionów za każdą próbę startu.&%&%Rakiety w wersji kupionej nie eksplodują tak często :)&%&%https://store.steampowered.com/app/1069030/EarthX/
-building_status█Status
+office█<b><color=#FF9F43>Biuro</color></b>&%745 000 <color=#16A085>$
+factory█<b><color=#FF9F43>Fabryka</color></b>&%1 550 000 <color=#16A085>$
+hangar█<b><color=#FF9F43>Hangar</color></b>&%215 000 <color=#16A085>$
+laboratory█<b><color=#FF9F43>Laboratorium</color></b>&%715 000 <color=#16A085>$
+missions_header█Misje
+available█Dostępne
+completed█Zakończone
+launched█Wystrzelone
+successful█Sukces
+each_successful█Każdy sukces
+building_name_office█Biuro
+building_name_factory█Fabryka
+building_name_hangar█Hangar
+building_name_lab█Laboratorium
+notification█Powiadomienie
+crash█Eksplozja
+deadline█Termin
+select█Wybierz
+contract_test_flight_name█Lot Testowy
+contract_test_flight_payload█Beton
+new_rocket█Nowa rakieta
+move_to_hangar█Przenieś do hangaru
+create_new_project█Stwórz nową rakietę
+create_project█Stwórz projekt
+status█Status
+employees█Pracownicy
+welcome_notification█Witaj, <color=#64B5F6>{0}</color>!&%Widzę, że w końcu założyłeś rakietową firmę, o której wspominałeś. "<color=#64B5F6>{1}</color>" to nawet fajna nazwa!. Muszę Ci przyznać, że jesteś bardzo odważny.&%&%Duże firmy, które mają monopol w wysyłaniu ładunków na orbitę, od lat nie zainwestowały w nowszą technologię. Cały czas używają jakiś niewydajnych rakiet na przestarzałych silnikach. A gdyby tak rakiety mogły lądować? Wtedy można by było wysłać nawet kilka ładunków tylko 1 rakietą! Mam nadzieję, że uda Ci się zbudować lądujące rakiety, a może nawet rakietę z bocznymi boosterami?&%&%Powodzenia!
+menu_btn_home█Główna
+menu_btn_play█Graj
+menu_btn_settings█Ustawienia
+menu_btn_credits█Twórcy
+menu_btn_exit█Wyjdź
+menu_btn_save█Zapisz
+menu_btn_mainmenu█Menu główne
+menu_exit_confirm█Czy na pewno chcesz opuścić grę? Stracisz cały swój niezapisany postęp!
+sett_graphics_quality█Jakość grafiki
+sett_low█Niska
+sett_medium█Średnia
+sett_high█Wysoka
+sett_video█Rozdzielczość
+sett_fullscreen█Pełny ekran
+sett_graphics_effects█Efekty graficzne
+sett_pp█Efekty
+sett_audio█Audio
+sett_sounds█Dźwięki
+sett_music█Muzyka
+sett_other█Inne
+sett_autosave█Auto-zapis
+sett_autopause█Auto-pauza
+sett_language█Język
+gamemanager_newgame█Rozpocznij nową grę
+gamestp_classic█Klasyczny
+gamestp_classic_desc█Zagraj w tryb klasyczny, gdzie Twoim zadaniem jest zbudowanie imperium rakietowego.
+gamestp_sandbox█Piaskownica
+gamestp_sandbox_desc█W piaskownicy możesz bawić się bez granic. Wszystko jest odblokowane. Użyj swojej wyobraźni!
+gamestp_realistic█Prawda
+gamestp_truth_desc█Tryb prawdy ukazuje Ci jedyną prawdę. Nie bierz tego trybu na poważnie, to tylko żart. 
+flat_earth_confirm█Ten tryb jest <b>tylko dla ZABAWY</b>! Jest bardzo realistyczny i trudny. Grasz na własne ryzyko. Użyj trybu "Normalny" dla normalnej rozgrywki.
+yes█Tak
+no█Nie
+confirm█Potwierdź
+enter_text█Wpisz tekst...
+startup█Początkująca
+acceleration█Akceleracja
+dominant█Dominująca
+upgrade█Ulepsz
+default█Domyślna&%<b><color=#64B5F6>Normalny czas pracy
+upgraded█Ulepszona&%<b><color=#64B5F6>Szybszy czas pracy
+select_factory█Wybierz fabrykę
+sp1█5 startów rocznie
+sp2█1 start jednocześnie
+sp3█2 fabryki
+ap1█10 startówów rocznie
+ap2█2 starty jednocześnie
+ap3█4 fabryki
+ap4█Wielorazowe rakiety
+ap5█Ulepszanie budynków
+ar1█2 biura
+ar2█10 startów
+ar3█50 pracowników
+dp1█15 startów rocznie
+dp2█3 starty jednocześnie
+dp3█8 fabryk
+dp4█Potrójne rakiety
+dr1█3 biura
+dr2█25 startów
+dr3█200 pracowników
+company_creator_header█Stwórz swoją firmę
+company_name█Nazwa firmy
+ceo_name█Nazwa szefa
+create_company█Stwórz firmę
+timeline█Oś czasu
+q1█Kwartał 1
+q2█Kwartał 2
+q3█Kwartał 3
+q4█Kwartał 4
+overview█Przegląd
+finance█Finanse
+loans█Pożyczki
+finance_overview█Przegląd finansowy
+loan_plans█Wybierz pożyczkę
+bank_loans_plan_name█Pożyczka {0}
+---Engines---█---Engines---
+mdl_s_engine█Mały silnik,Silnik dla małych rakiet
+mdl_a_engine█Duży silnik,Silnik dla średnich rakiet
+mdl_a4_engine█4 duże silniki,Silnik dla lepszych średnich rakiet
+mdl_a9_engine█9 dużych silników,Silnik dla dużych rakiet
+---FuelTanks---█---FuelTanks---
+mdl_s_fueltank█Mały zbiornik paliwa,Zbiornik paliwa dla małych rakiet
+mdl_m_fueltank█Średni zbiornik paliwa,Zbiornik paliwa dla średnich rakiet
+mdl_l_fueltank█Duży zbiornik paliwa,Zbiornik paliwa dla dużych rakiet
+---Computers---█---Computers---
+mdl_s_computer█Prosty komputer pokładowy,Komputer dla małych i średnich rakiet
+mdl_a_computer█Zaawansowany komputer pokładowy,Komputer dla dużych rakiet
+mdl_s_battery█---
+mdl_a_battery█---
+mdl_gps█---
+---Fairings---█---Fairings---
+mdl_s_fairings█Małe owiewki,Owiewki dla małych rakiet
+mdl_m_fairings█Średnie owiewki,Owiewki dla średnich rakiet
+mdl_l_fairings█Duże owiewki,Owiewki dla dużych rakiet
+---Landing Stuff---█---Landing Stuff---
+mdl_a_gridfins█Aluminiowe lotki,Lotki są wymagane do wielorazowych rakiet
+mdl_t_gridfins█Tytanowe lotki,Lotki są wymagane do wielorazowych rakiet
+mdl_m_landingLegs█Proste podwozie,Podwozie jest wymagane do wielorazowych rakiet
+mdl_a_landingLegs█Zaawansowne podwozie,Podwozie jest wymagane do wielorazowych rakiet
+mdl_booster_connector█Łącznik boosterów,Łącznik boosterów jest wymagany dla portójnych rakiet
