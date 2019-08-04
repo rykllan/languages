@@ -1,3 +1,7 @@
+Help translating EarthX!
+Github: https://github.com/earthxgame/languages
+TransX (Translation app created by Denis): https://mega.nz/#!ecYADCgR!1DP404b_gZKaBXIiOTTi4Sai64xRFcetDg_FFZzoxlI
+
 How to test your language in the game itself:
 1. Rename the original en.txt to something like "I like cats.txt";
 2. Rename your edited language file to "en.txt";
