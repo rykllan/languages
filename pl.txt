@@ -10,9 +10,9 @@ rockets█Rakiety
 buildings█Budynki
 clients█Klienci
 rocket█Rakieta
-build_rocket█Zbuduj rakietę
-launch_rocket█Wystartuj rakietę
-repair_rocket█Napraw rakietę
+build_rocket█Zbuduj
+launch_rocket█Wystartuj
+repair_rocket█Napraw
 static_fire█Test statyczny
 deploy_rocket█Wypuść
 land_rocket█Lądowanie
@@ -64,10 +64,10 @@ game_loaded_notification█Gra załadowana!
 save_removal_confirm█Czy na pewno chcesz usunąć ten zapis?
 r&d_company_upgrade_notification█Firma ulepszona!
 rck_creator_no_module_selected█Żaden moduł nie jest wybrany
-bank_overview_year_summary_income█{0} <color=#16A085>$</color>
-bank_overview_year_summary_expenses█{0} <color=#E74C3C>$</color>
-bank_overview_year_summary_profit_plus█+<color=#16A085>{0} $</color>
-bank_overview_year_summary_profit_minus█<color=#E74C3C>{0} $</color>
+bank_overview_year_summary_income█<color=#16A085>Przychód roczny (+)</color>&%{0} <color=#16A085>$
+bank_overview_year_summary_expenses█<color=#E57373>Wydatki roczne (-)</color>&%{0} <color=#E57373>$
+bank_overview_year_summary_profit_plus█=<color=#64B5F6>Profit roczny</color>&%+{0} <color=#64B5F6>$
+bank_overview_year_summary_profit_minus█=<color=#E57373>Profit roczny</color>&%{0} <color=#E57373>$
 bank_loans_take_notification█Wziąłeś pożyczkę. Będziesz spłacać {0} <color=#16A085>$</color> co kwartał, dopóki wszystkiego nie spłacisz. ({1} kwartałów)
 bank_loans_payment_text█Spłacanie długu ({0})
 bank_loans_payback_no_money█Nie masz wystarczająco dużo pieniędzy, aby spłacić tę pożyczkę!
@@ -284,3 +284,7 @@ st8█Laboratoria
 st9█Kontrakty
 st10█Misje
 st11█Spóźnienia
+r&d_window_header█Badania
+launch_pad█Stanowisko
+module_unlocked█Moduł odblokowany: {0}!
+progress_launch_rocket█Start

@@ -63,7 +63,6 @@ rocket_remove_confirm█Are you sure you want to remove that rocket?
 game_loaded_notification█Game loaded!
 save_removal_confirm█Are you sure you want to delete this save?
 r&d_company_upgrade_notification█Company upgraded!
-r&d_window_header█Research
 rck_creator_no_module_selected█No module selected
 bank_overview_year_summary_income█<color=#16A085>Annual income (+)</color>&%{0} <color=#16A085>$
 bank_overview_year_summary_expenses█<color=#E57373>Annual outcome (-)</color>&%{0} <color=#E57373>$
@@ -285,3 +284,7 @@ st8█Labs
 st9█Contracts
 st10█Missions
 st11█Deadlines passed
+r&d_window_header█Research
+launch_pad█Launch pad
+module_unlocked█{0} module unlocked!
+progress_launch_rocket█Launch

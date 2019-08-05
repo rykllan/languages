@@ -64,10 +64,10 @@ game_loaded_notification█Spiel geladen!
 save_removal_confirm█Sind Sie sicher, dass Sie diese Speicherung löschen möchten?
 r&d_company_upgrade_notification█Unternehmen aktualisiert!
 rck_creator_no_module_selected█Es ist kein Modul ausgewählt
-bank_overview_year_summary_income█{0} <color=#16A085>$</color>
-bank_overview_year_summary_expenses█{0} <color=#E74C3C>$</color>
-bank_overview_year_summary_profit_plus█+<color=#16A085>{0} $</color>
-bank_overview_year_summary_profit_minus█<color=#E74C3C>{0} $</color>
+bank_overview_year_summary_income█<color=#16A085>Annual income (+)</color>&%{0} <color=#16A085>$
+bank_overview_year_summary_expenses█<color=#E57373>Annual outcome (-)</color>&%{0} <color=#E57373>$
+bank_overview_year_summary_profit_plus█=<color=#64B5F6>Annual profit</color>&%+{0} <color=#64B5F6>$
+bank_overview_year_summary_profit_minus█=<color=#E57373>Annual profit</color>&%{0} <color=#E57373>$
 bank_loans_take_notification█Du hast einen Kredit aufgenommen. Sie werden {0} <color=#16A085>$</color> jedes Quartal zurückzahlen, bis Sie das Darlehen zurückzahlen haben, Sie haben es für ({1} Quartale)
 bank_loans_payment_text█Darlehensrückzahlung ({0})
 bank_loans_payback_no_money█Du hast nicht genug Geld, um diesen Kredit zurückzuzahlen!
@@ -284,3 +284,7 @@ st8█Labs
 st9█Contracts
 st10█Missions
 st11█Deadlines passed
+r&d_window_header█Research
+launch_pad█Launch pad
+module_unlocked█{0} module unlocked!
+progress_launch_rocket█Launch
