@@ -272,3 +272,15 @@ mdl_t_gridfins█Ailerons en titane,Poids du satellite maximal/Orbite: Lourd/GEO
 mdl_m_landingLegs█Pattes d'atterrissage manuelle,Poids du satellite maximal/Orbite: Lourd/GEO
 mdl_a_landingLegs█Pattes d'atterrissage automatiques,Poids du satellite maximal/Orbite: Lourd/GEO
 mdl_booster_connector█Boosters Connecteur,construisez une fusée avec 2 boosters latéraux
+game_saved█Game saved!
+st1█Built
+st2█Launched
+st3█Landed
+st4█Success rate
+st5█Offices
+st6█Factories
+st7█Hangars
+st8█Labs
+st9█Contracts
+st10█Missions
+st11█Deadlines passed

@@ -272,3 +272,15 @@ mdl_t_gridfins█Titan-Gitterlamellen,max Nutzlast/Umlaufbahn: Groß/GEO
 mdl_m_landingLegs█Manuelle Stützwinden,max Nutzlast/Umlaufbahn: Groß/GEO
 mdl_a_landingLegs█Automatische Stützwinden,max Nutzlast/Umlaufbahn: Groß/GEO
 mdl_booster_connector█Booster Anschluss,Bau eine Rakete mit 2 seitlichen Boostern.
+game_saved█Game saved!
+st1█Built
+st2█Launched
+st3█Landed
+st4█Success rate
+st5█Offices
+st6█Factories
+st7█Hangars
+st8█Labs
+st9█Contracts
+st10█Missions
+st11█Deadlines passed
