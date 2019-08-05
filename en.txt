@@ -181,7 +181,7 @@ menu_btn_save█Save game
 menu_btn_mainmenu█Return to main menu
 menu_exit_confirm█Do you really want to leave the game? You will lose all unsaved progress!
 sett_graphics_quality█Quality
-sett_low█Low Działa xD
+sett_low█Low
 sett_medium█Medium
 sett_high█High
 sett_video█Video
