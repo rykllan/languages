@@ -1,44 +1,44 @@
-technology█Technology
-upgrades█Upgrades
-requirements█Requirements
-payload█PAYLOAD
-missions█Missions
-trust█TRUST
-orbit█ORBIT
-unlock█Unlock
-rockets█Rockets
-buildings█Buildings
-clients█Clients
-rocket█Rocket
+technology█Технологии
+upgrades█Улучшения
+requirements█Требования
+payload█НАГРУЗКА
+missions█Миссий
+trust█РЕПУТАЦИЯ
+orbit█ОРБИТА
+unlock█Открыть
+rockets█Ракеты
+buildings█Здания
+clients█Заказчики
+rocket█Ракета
 build_rocket█Построить ракету
-launch_rocket█Запустить ракету
+launch_rocket█Запуск ракеты
 repair_rocket█Отремонтировать ракету
-static_fire█Static fire
-deploy_rocket█Deploy
-land_rocket█Landing
-build_quality█BUILD QUALITY
-condition█CONDITION
-launch_costs█Launch costs
-original_build_costs█Original build costs
-optimized_build_costs█Optimized build costs
-repair_costs█Repair costs
-priority_high█<size=12>PRIORITY</size>&%<b>HIGH
-success█SUCCESS
-failed█FAILED
-ready█READY
-flying_now█FLYING
-pending█PENDING
+static_fire█Статический прожиг
+deploy_rocket█Отделение
+land_rocket█Посадка
+build_quality█КАЧЕСТВО СБОРКИ
+condition█СОСТОЯНИЕ
+launch_costs█Затраты на запуск
+original_build_costs█Первоначальные затраты на сборку
+optimized_build_costs█Оптимизированные затраты на сборку
+repair_costs█Затраты на ремонт
+priority_high█<size=12>ПРИОРИТЕТ</size>&%<b>ВЫСОКИЙ
+success█УСПЕШНО
+failed█НЕУДАЧНО
+ready█ГОТОВ
+flying_now█В ПОЛЁТЕ
+pending█В ОЖИДАНИИ
 rocket_notbuilt█Ещё не построена
 rocket_buildingnow█В процессе постройки...
 rocket_repairingnow█В процессе ремонта...
 rocket_disponsable█Одноразовая
 rocket_reusable█Многоразовая
 contracts_manager_header█Контракты
-payloads█Payloads
-take█Take
-reject█Reject
-payback█Payback
-project_name█Project name...
+payloads█Нагрузки
+take█Взять
+reject█Отклонить
+payback█Погасить
+project_name█Имя проекта...
 payload_size_small█Мал.
 payload_size_medium█Сред.
 payload_size_large█Бол.
@@ -64,10 +64,10 @@ game_loaded_notification█Игра загружена!
 save_removal_confirm█Вы уверены, что хотите удалить это сохранение?
 r&d_company_upgrade_notification█Компания улучшена!
 rck_creator_no_module_selected█Модуль не выбран
-bank_overview_year_summary_income█<color=#16A085>Annual income (+)</color>&%{0} <color=#16A085>$
-bank_overview_year_summary_expenses█<color=#E57373>Annual outcome (-)</color>&%{0} <color=#E57373>$
-bank_overview_year_summary_profit_plus█=<color=#64B5F6>Annual profit</color>&%+{0} <color=#64B5F6>$
-bank_overview_year_summary_profit_minus█=<color=#E57373>Annual profit</color>&%{0} <color=#E57373>$
+bank_overview_year_summary_income█<color=#16A085>Годовой доход (+)</color>&%{0} <color=#16A085>$
+bank_overview_year_summary_expenses█<color=#E57373>Годовой доход (-)</color>&%{0} <color=#E57373>$
+bank_overview_year_summary_profit_plus█=<color=#64B5F6>Годовая прибыль</color>&%+{0} <color=#64B5F6>$
+bank_overview_year_summary_profit_minus█=<color=#E57373>Годовая прибыль</color>&%{0} <color=#E57373>$
 bank_loans_take_notification█Вы взяли кредит. Вы будете выплачивать {0} <color=#16A085>$</color> каждый квартал, пока не погасите кредит. ({1} кварталов)
 bank_loans_payment_text█Погашение кредита ({0})
 bank_loans_payback_no_money█У вас недостаточно денег для погашения этого кредита!
@@ -130,9 +130,9 @@ project_panel_timeline_entry_launch█Запущено ракет: {0}
 project_panel_static_fire_cost█Стоимость статического прожига
 project_panel_abort_confirmation█Вы уверены, что хотите отменить полёт для этой ракеты?
 rockets_manager_no_rocket_name_notification█Вы должны дать этой ракете отличное имя!
-cape_canaveral█<b><color=#FF9F43>Cape Canaveral</color></b>&%Florida
-vandenberg█<b><color=#FF9F43>Vandenberg</color></b>&%California
-texas█<b><color=#FF9F43>McGregor</color></b>&%Texas
+cape_canaveral█<b><color=#FF9F43>Мыс Канаверал</color></b>&%Флорида
+vandenberg█<b><color=#FF9F43>Ванденберг</color></b>&%Калифорния
+texas█<b><color=#FF9F43>МакГрегор</color></b>&%Техас
 module_type_battery█Аккумулятор
 module_type_board_computer█Бортовой компьютер
 module_type_engine█Двигатель
@@ -145,34 +145,34 @@ game_over_warning_header█Вы близки к банкротству!
 game_over_warning_content█Ваша компания обанкротится через {0} квартал(-а)!&%&%Что вы сожете сделать:&%- взять кредит в банке&%- снизить кол-во сотрудников (меньше траты на зарплату)&%- продать некоторые здания
 game_over_header█Вы банкрот!
 game_over_content█Ваша компания обанкротилась! ИГРА ОКОНЧЕНА!&%Вы будете перемещены в главное меню через 10 секунд!
-office█<b><color=#FF9F43>Office</color></b>&%745 000 <color=#16A085>$
-factory█<b><color=#FF9F43>Factory</color></b>&%1 550 000 <color=#16A085>$
-hangar█<b><color=#FF9F43>Hangar</color></b>&%215 000 <color=#16A085>$
-laboratory█<b><color=#FF9F43>Laboratory</color></b>&%715 000 <color=#16A085>$
+office█<b><color=#FF9F43>Офис</color></b>&%745 000 <color=#16A085>$
+factory█<b><color=#FF9F43>Завод</color></b>&%1 550 000 <color=#16A085>$
+hangar█<b><color=#FF9F43>Ангар</color></b>&%215 000 <color=#16A085>$
+laboratory█<b><color=#FF9F43>Лаборатория</color></b>&%715 000 <color=#16A085>$
 missions_header█Миссии
-available█Available
-completed█Completed
-launched█Launched
-successful█Successful
-each_successful█Each successful
+available█Доступные
+completed█Выполненные
+launched█Запущенные
+successful█Успешный
+each_successful█За каждую успешную
 building_name_office█Офис
 building_name_factory█Завод
 building_name_hangar█Ангар
 building_name_lab█Лаборатория
 notification█Notification
-crash█Crash
-deadline█Deadline
-select█Select
+crash█Авария
+deadline█Дедлайн
+select█Выберите
 contract_test_flight_name█Тестовый полёт
 contract_test_flight_payload█Бетон
-new_rocket█New rocket
-move_to_hangar█Move to hangar
+new_rocket█Новая ракета
+move_to_hangar█Переместить в ангар
 create_new_project█Создать новый проект
-create_project█Create project
-status█Status
-employees█Employees
+create_project█Создать проект
+status█Статус
+employees█Сотрудники
 welcome_notification█Привет, <color=#64B5F6>{0}</color>!&%Я вижу вы наконец-то основали ракетную компанию, о которой говорили ранее. "<color=#64B5F6>{1}</color>" - на самом деле классное название! Я должен сказать вам, вы очень смелый.&%&%Крупные компании, которые имеют монополию на запуск ракет, годами не инвестировали в новые технологии. Они все время используют неэффективные ускорители на устаревших двигателях. Что, если они смогут вернуть свои ракеты обратно на землю? Тогда можно было бы отправить даже несколько полезных грузов только с одной ракетой! Я надеюсь, что вы сможете построить ракету, которая совершит посадку, или даже ракету с боковыми ускорителями через несколько лет.&%&%Удачи!
-menu_btn_home█Home
+menu_btn_home█Главная
 menu_btn_play█Играть
 menu_btn_settings█Настройки
 menu_btn_credits█Авторы
@@ -196,95 +196,95 @@ sett_autosave█Автосохранения
 sett_autopause█Автопауза
 sett_language█Язык
 gamemanager_newgame█Начать новую игру
-gamestp_classic█Classic
-gamestp_classic_desc█Play the classic mode, where you have to build your own space company.
-gamestp_sandbox█Sandbox
-gamestp_sandbox_desc█In sandbox mode everything is unlocked and unlimited. Use your imagination!
-gamestp_realistic█Реалистичный
-gamestp_truth_desc█The truth mode is showing you the truth. Do not take this mode serious, it's a joke.
-flat_earth_confirm█Этот режим <b>просто для ВЕСЕЛЬЯ</b>! (Троллинг/шутка) Это очень реалистично и сложно. Вы играете на свой риск. Выберите "Нормальный" режим для нормальной игры.
+gamestp_classic█Классический
+gamestp_classic_desc█Играйте в классический режим, где  вы  создатите свою собственную компанию.
+gamestp_sandbox█Песочница
+gamestp_sandbox_desc█В режиме песочницы доступно всё. Используйте своё воображение!
+gamestp_realistic█Истинный
+gamestp_truth_desc█Истинный режим показывает вам правду. Не воспринимайте этот режим серьезно, это шутка.
+flat_earth_confirm█Этот режим <b>просто для ВЕСЕЛЬЯ</b>! (Троллинг/шутка) Это очень реалистично и сложно. Вы играете на свой риск. Выберите "Классический" режим для нормальной игры.
 yes█Да
 no█Нет
 confirm█Подтверждение
 enter_text█Введите текст...
-startup█Startup
-acceleration█Acceleration
-dominant█Dominant
-upgrade█Upgrade
-default█Default&%<b><color=#64B5F6>Normal work time
-upgraded█Upgraded&%<b><color=#64B5F6>Faster work time
-select_factory█Select factory
-sp1█Max 5 launches (each year)
-sp2█Max 1 launch simultaneously
-sp3█Max 2 factories
-ap1█Max 10 launches (each year)
-ap2█Max 2 launches simultaneously
-ap3█Max 4 factories
-ap4█Reusable rockets
-ap5█Upgrade buildings
-ar1█2 offices
-ar2█Min 10 launches
-ar3█Min 50 employees
-dp1█Max 15 launches (each year)
-dp2█Max 3 launches simultaneously
-dp3█Max 8 factories
-dp4█3-core rockets
-dr1█3 offices
-dr2█Min 25 launches
-dr3█Min 200 employees
+startup█Стартап
+acceleration█Ускоренный
+dominant█Доминирующий
+upgrade█Улучшить
+default█Обычное&%<b><color=#64B5F6>Нормальная скорость работы
+upgraded█Улучшенное&%<b><color=#64B5F6>Повышенная скорость работы
+select_factory█Выберите завод
+sp1█Макс. 5 запусков (за год)
+sp2█Макс. 1 запуск одновременно
+sp3█Макс. 2 завода
+ap1█Макс. 10 запусков (за год)
+ap2█Макс. 2 запуска одновременно
+ap3█Макс. 4 завода
+ap4█Многоразовые ракеты
+ap5█Улучшения зданий
+ar1█2 офиса
+ar2█Мин. 10 запусков
+ar3█Мин. 50 сотрудников
+dp1█Макс. 15 запусков (за год)
+dp2█Макс. 3 запуска одновременно
+dp3█Макс. 8 заводов
+dp4█Ракеты с 3 бустерами
+dr1█3 офиса
+dr2█Мин. 25 запусков
+dr3█Мин. 200 сотрудников
 company_creator_header█Создайте свою компанию
-company_name█Company name
-ceo_name█CEO name
-create_company█Create company
-timeline█Timeline
-q1█Quarter 1
-q2█Quarter 2
-q3█Quarter 3
-q4█Quarter 4
-overview█Overview
-finance█Finance
-loans█Loans
-finance_overview█Finance overview
-loan_plans█Loan plans
+company_name█Название компании
+ceo_name█Имя CEO
+create_company█Создать компанию
+timeline█График
+q1█Первый квартал
+q2█Второй квартал
+q3█Третий квартал
+q4█Четвёртый квартал
+overview█Обзор
+finance█Финансы
+loans█Кредиты
+finance_overview█Сравнение в годовом разрезе
+loan_plans█Планы кредитов
 bank_loans_plan_name█План {0}
----Engines---█---Двигатели---
-mdl_s_engine█Простой двигатель,Макс Нагрузка/Орбита: Мал./LEO
-mdl_a_engine█Продвинутый двигатель,Макс Нагрузка/Орбита: Сред./MEO
-mdl_a4_engine█4 продвинутых двигателя,Макс Нагрузка/Орбита: Сред./GEO
-mdl_a9_engine█9 продвинутых двигателей,Макс Нагрузка/Орбита: Бол./GEO
----FuelTanks---█---Топливные баки---
-mdl_s_fueltank█Маленький топливный бак,Макс Нагрузка/Орбита: Бол./LEO
-mdl_m_fueltank█Средний топливный бак,Макс Нагрузка/Орбита: Бол./MEO
-mdl_l_fueltank█Большой топливный бак,Макс Нагрузка/Орбита: Бол./GEO
----Computers---█---Бортовые компьютеры---
-mdl_s_computer█Простой бортовой компьютер,Макс Нагрузка/Орбита: Сред./MEO
-mdl_a_computer█Продвинутый бортовой компьютер,Макс Нагрузка/Орбита: Бол./GEO
-mdl_s_battery█Простой аккумулятор,Макс Нагрузка/Орбита: Бол./LEO
-mdl_a_battery█Продвинутый аккумулятор,Макс Нагрузка/Орбита: Бол./GEO
-mdl_gps█GPS,Макс Нагрузка/Орбита: Большая/GEO
----Fairings---█---Обтекатели---
-mdl_s_fairings█Маленький обтекатель,Макс Нагрузка/Орбита: Мал./GEO
-mdl_m_fairings█Средний обтекатель,Макс Нагрузка/Орбита: Сред./GEO
-mdl_l_fairings█Большой обтекатель,Макс Нагрузка/Орбита: Бол./GEO
----Landing Stuff---█---Посадочное оборудование---
-mdl_a_gridfins█Алюминиевые решётчатые рули,Макс Нагрузка/Орбита: Бол./GEO
-mdl_t_gridfins█Титановые решётчатые рули,Макс Нагрузка/Орбита: Бол./GEO
-mdl_m_landingLegs█Ручные посадочные опоры,Макс Нагрузка/Орбита: Бол./GEO
-mdl_a_landingLegs█Автоматические посадочные опоры,Макс Нагрузка/Орбита: Бол./GEO
+---Engines---█---Engines---
+mdl_s_engine█Простой двигатель,Двигатель для лёгких ракет
+mdl_a_engine█Продвинутый двигатель,Двигатель для средних ракет
+mdl_a4_engine█4 продвинутых двигателя,Двигатель для тяжёлых ракет
+mdl_a9_engine█9 продвинутых двигателей,Двигатель для сверхтяжёлых ракет
+---FuelTanks---█---FuelTanks---
+mdl_s_fueltank█Маленький топливный бак,Топливный бак для лёгких ракет
+mdl_m_fueltank█Средний топливный бак,Топливный бак для средних ракет
+mdl_l_fueltank█Большой топливный бак,Топливный бак для тяжёлых ракет
+---Computers---█---Computers---
+mdl_s_computer█Простой бортовой компьютер,Компьютер для лёгких и средних ракет
+mdl_a_computer█Продвинутый бортовой компьютер,Компьютер для тяжёлых ракет
+mdl_s_battery█Простой аккумулятор,---
+mdl_a_battery█Продвинутый аккумулятор,---
+mdl_gps█GPS,---
+---Fairings---█---Fairings---
+mdl_s_fairings█Маленький обтекатель,Обтекатель для лёгких ракет
+mdl_m_fairings█Средний обтекатель,Обтекатель для средних ракет
+mdl_l_fairings█Большой обтекатель,Обтекатель для тяжёлых ракет
+---Landing Stuff---█---Landing Stuff---
+mdl_a_gridfins█Алюминиевые решётчатые рули,Решётчатые рули требуются для многоразовых ракет
+mdl_t_gridfins█Титановые решётчатые рули,Решётчатые рули требуются для многоразовых ракет
+mdl_m_landingLegs█Ручные посадочные опоры,Посадочные опоры требуются для многоразовых ракет
+mdl_a_landingLegs█Автоматические посадочные опоры,Посадочные опоры требуются для многоразовых ракет
 mdl_booster_connector█Соединитель ускорителей,Стройте ракеты с двумя боковыми ускорителями
-game_saved█Game saved!
-st1█Built
-st2█Launched
-st3█Landed
-st4█Success rate
-st5█Offices
-st6█Factories
-st7█Hangars
-st8█Labs
-st9█Contracts
-st10█Missions
-st11█Deadlines passed
-r&d_window_header█Research
-launch_pad█Launch pad
-module_unlocked█{0} module unlocked!
-progress_launch_rocket█Launch
+game_saved█Игра сохранена!
+st1█Построено
+st2█Запущено
+st3█Посадок
+st4█Шанс успеха
+st5█Офисов
+st6█Заводов
+st7█Ангаров
+st8█Лабораторий
+st9█Контрактов
+st10█Миссий
+st11█Дедлайнов пропущено
+r&d_window_header█Исследования
+launch_pad█Стартовый стол
+module_unlocked█Модуль разблокирован: {0}!
+progress_launch_rocket█Запуск
