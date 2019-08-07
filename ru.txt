@@ -288,4 +288,4 @@ r&d_window_header█Исследования
 launch_pad█Стартовый стол
 module_unlocked█Модуль разблокирован: {0}!
 progress_launch_rocket█Запуск
-rockets_manager_project_money█You've created a new rocket project!
+rockets_manager_project_money█Вы создали новый проект ракеты!
