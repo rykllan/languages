@@ -159,7 +159,7 @@ building_name_office█Офис
 building_name_factory█Завод
 building_name_hangar█Ангар
 building_name_lab█Лаборатория
-notification█Notification
+notification█Уведомление
 crash█Авария
 deadline█Дедлайн
 select█Выберите
