@@ -288,7 +288,7 @@ launch_pad█Stanowisko
 module_unlocked█Moduł odblokowany: {0}!
 progress_launch_rocket█Start
 rockets_manager_project_money█You've created a new rocket project!
-realibility█RELIBILITY
+realibility█RELIABILITY
 company█Company
 money█Money
 skill_points█Skill points
