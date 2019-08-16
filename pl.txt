@@ -333,7 +333,6 @@ upgrade7█Fuel cooling
 upgrade8█Better software
 module_upgraded█Module was upgraded
 not_enough_skill_points█You don't have enough {0} skill points!
-rockets_manager_project_money█You've created a new rocket project!
 last_quarter█The year has almost ended. Before the end of the year you will have the opportunity to see an annual summary.
 mission_earnings█Mission earnings
 payload_lost█Payload lost
