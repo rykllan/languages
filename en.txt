@@ -297,7 +297,7 @@ fairing_skill_points█Fairing skill points
 fueltank_skill_points█Fuel tank skill points
 engine_skill_points█Engine skill points
 build_mode█Build mode
-level_progress█Next level progress
+level_progress█Experience
 fail1█Fail 1×Test
 fail2█Fail 2×Test
 fail3█Fail 3×Test
@@ -321,8 +321,8 @@ fail20█The fuel was too cool×The cool fuel caused it to freeze and then sudde
 fail21█Compression×The fuel was compressed too much, which caused the rocket to rupture.
 fail22█The fuel was too hot×The hot fuel created gases inside the fuel tank that exploded when ignited. 
 fail23█Unknown reason×The analysts didn't find any reason for the explosion. It was probably the weather conditions.
-structural_error█Structural error
-human_error█Human error
+structural_error█<b>Structural error</b>\n<color=#fff><size=14>The issue won't happen again in your next rockets.
+human_error█<b>Human error</b>\n<color=#fff><size=14>The issue won't happen again in your next rockets.
 upgrade1█More durable materials
 upgrade2█More efficient fuel
 upgrade3█More efficient hydraulics
@@ -334,3 +334,12 @@ upgrade8█Better software
 module_upgraded█Module was upgraded
 not_enough_skill_points█You don't have enough {0} skill points!
 rockets_manager_project_money█You've created a new rocket project!
+last_quarter█The year has almost ended. Before the end of the year you will have the opportunity to see an annual summary.
+mission_earnings█Mission earnings
+payload_lost█Payload lost
+build_launch_costs█Build & launch costs
+reusable_costs█Reusable costs
+profit█Profit
+experience█Experience
+project█Project
+client█Client
