@@ -342,3 +342,5 @@ profit█Profit
 experience█Experience
 project█Project
 client█Client
+no_upgrades█This module has no upgrades.
+mission_report█Mission report
