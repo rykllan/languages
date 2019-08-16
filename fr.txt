@@ -347,3 +347,9 @@ mission_report█Mission report
 mission_success█Mission success
 mission_half_success█Mission half success (Landing crash)
 unlock_modules_first█You need to unlock the first 4 modules first!
+build_time_percentage█Build time
+build_costs_percentage█Build costs
+reliability_percentage█Reliability
+launch_pad_launching█You are already starting rocket from this launch pad!
+mission█Mission
+st12█Cars in space
