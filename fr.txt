@@ -321,8 +321,8 @@ fail20█The fuel was too cool×The cool fuel caused it to freeze and then sudde
 fail21█Compression×The fuel was compressed too much, which caused the rocket to rupture.
 fail22█The fuel was too hot×The hot fuel created gases inside the fuel tank that exploded when ignited. 
 fail23█Unknown reason×The analysts didn't find any reason for the explosion. It was probably the weather conditions.
-structural_error█<b>Structural error</b>\n<color=#fff><size=14>The issue won't happen again in your next rockets.
-human_error█<b>Human error</b>\n<color=#fff><size=14>The issue won't happen again in your next rockets.
+structural_error█<b>Structural error</b>&%<color=#fff><size=14>The issue won't happen again in your next rockets.
+human_error█<b>Human error</b>&%<color=#fff><size=14>The issue won't happen again in your next rockets.
 upgrade1█More durable materials
 upgrade2█More efficient fuel
 upgrade3█More efficient hydraulics
@@ -333,7 +333,6 @@ upgrade7█Fuel cooling
 upgrade8█Better software
 module_upgraded█Module was upgraded
 not_enough_skill_points█You don't have enough {0} skill points!
-rockets_manager_project_money█You've created a new rocket project!
 last_quarter█The year has almost ended. Before the end of the year you will have the opportunity to see an annual summary.
 mission_earnings█Mission earnings
 payload_lost█Payload lost
@@ -343,3 +342,14 @@ profit█Profit
 experience█Experience
 project█Project
 client█Client
+no_upgrades█This module has no upgrades.
+mission_report█Mission report
+mission_success█Mission success
+mission_half_success█Mission half success (Landing crash)
+unlock_modules_first█You need to unlock the first 4 modules first!
+build_time_percentage█Build time
+build_costs_percentage█Build costs
+reliability_percentage█Reliability
+launch_pad_launching█You are already starting rocket from this launch pad!
+mission█Mission
+st12█Cars in space
