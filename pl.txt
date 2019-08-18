@@ -287,12 +287,12 @@ r&d_window_header█Badania
 launch_pad█Stanowisko
 module_unlocked█Moduł odblokowany: {0}!
 progress_launch_rocket█Start
-rockets_manager_project_money█You've created a new rocket project!
+rockets_manager_project_money█Stowrzyłeś nowy projekt rakiety!
 realibility█RELIABILITY
-company█Company
-money█Money
-skill_points█Skill points
-trust2█Trust
+company█Firma
+money█Pieniądze
+skill_points█Punkty doświadczenia
+trust2█Zaufanie
 fairing_skill_points█Fairing skill points
 fueltank_skill_points█Fuel tank skill points
 engine_skill_points█Engine skill points
@@ -321,8 +321,8 @@ fail20█The fuel was too cool×The cool fuel caused it to freeze and then sudde
 fail21█Compression×The fuel was compressed too much, which caused the rocket to rupture.
 fail22█The fuel was too hot×The hot fuel created gases inside the fuel tank that exploded when ignited. 
 fail23█Unknown reason×The analysts didn't find any reason for the explosion. It was probably the weather conditions.
-structural_error█<b>Structural error</b>&%<color=#fff><size=14>The issue won't happen again in your next rockets.
-human_error█<b>Human error</b>&%<color=#fff><size=14>The issue won't happen again in your next rockets.
+structural_error█<b>Structural error</b>&%<color=#fff><size=14>Ten problem nie powtórzy się w następnych rakietach.
+human_error█<b>Human error</b>&%<color=#fff><size=14>Ten problem nie powtórzy się w następnych rakietach.
 upgrade1█More durable materials
 upgrade2█More efficient fuel
 upgrade3█More efficient hydraulics
@@ -330,26 +330,26 @@ upgrade4█Additional cooling
 upgrade5█Improved wiring
 upgrade6█Fuel compressor
 upgrade7█Fuel cooling
-upgrade8█Better software
-module_upgraded█Module was upgraded
-not_enough_skill_points█You don't have enough {0} skill points!
-last_quarter█The year has almost ended. Before the end of the year you will have the opportunity to see an annual summary.
-mission_earnings█Mission earnings
-payload_lost█Payload lost
-build_launch_costs█Build & launch costs
+upgrade8█Lepsze oprogramowanie
+module_upgraded█Moduł został ulepszony
+not_enough_skill_points█Nie masz wystarczająco dużo {0} punktów doświadczenia!
+last_quarter█Rok zaraz się skończy. Przed końcem roku możesz zobaczć podsumowanie ostatnich 12 miesięcy.
+mission_earnings█Zarobek
+payload_lost█Ładunek stracony
+build_launch_costs█Koszt budowy i wystrzelenia
 reusable_costs█Reusable costs
-profit█Profit
-experience█Experience
-project█Project
-client█Client
-no_upgrades█This module has no upgrades.
-mission_report█Mission report
-mission_success█Mission success
-mission_half_success█Mission half success (Landing crash)
-unlock_modules_first█You need to unlock the first 4 modules first!
-build_time_percentage█Build time
-build_costs_percentage█Build costs
+profit█Zysk
+experience█Doświadczenie
+project█Projekt
+client█Klient
+no_upgrades█Ten moduł nie posiada żadnych ulepszeń.
+mission_report█Raport misji
+mission_success█Misja zakończona sukcesem
+mission_half_success█Misja zakończona połowicznym sukcesem (rozbicie przy lądowaniu)
+unlock_modules_first█Najpierw musisz odblokować cztery moduły!
+build_time_percentage█Czas budowy
+build_costs_percentage█Koszt budowy
 reliability_percentage█Reliability
-launch_pad_launching█You are already starting rocket from this launch pad!
-mission█Mission
-st12█Cars in space
+launch_pad_launching█Już startujesz rakiete z tej wyrzutni startowej
+mission█Misja
+st12█Auta w kosmosie
