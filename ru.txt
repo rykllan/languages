@@ -288,7 +288,7 @@ launch_pad█Стартовый стол
 module_unlocked█Модуль разблокирован: {0}!
 progress_launch_rocket█Запуск
 rockets_manager_project_money█Вы создали новый проект ракеты!
-realibility█RELIBILITY
+realibility█RELIABILITY
 company█Company
 money█Money
 skill_points█Skill points

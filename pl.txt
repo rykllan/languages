@@ -289,6 +289,8 @@ module_unlocked█Moduł odblokowany: {0}!
 progress_launch_rocket█Start
 rockets_manager_project_money█Stworzyłeś nowy projekt rakiety!
 realibility█NIEZAWODNOŚĆ
+rockets_manager_project_money█Stowrzyłeś nowy projekt rakiety!
+realibility█RELIABILITY
 company█Firma
 money█Pieniądze
 skill_points█Punkty doświadczenia
@@ -298,6 +300,11 @@ fueltank_skill_points█Punkty zbiorników paliwa
 engine_skill_points█Punkty silników
 build_mode█Tryb budowania
 level_progress█Doświadczenie
+fairing_skill_points█Fairing skill points
+fueltank_skill_points█Fuel tank skill points
+engine_skill_points█Engine skill points
+build_mode█Build mode
+level_progress█Experience
 fail1█Fail 1×Test
 fail2█Fail 2×Test
 fail3█Fail 3×Test
@@ -337,18 +344,53 @@ last_quarter█The year has almost ended. Before the end of the year you will ha
 mission_earnings█Mission earnings
 payload_lost█Payload lost
 build_launch_costs█Build & launch costs
+fail5█Short circuit×Uninsulated cables touched and caused a short circuit, destroying the entire installation.
+fail6█Battery failure×Overheating of the battery caused the systems necessary to maintain the rocket's flight to shut down.
+fail7█Windows update×The system update started automatically and caused the rocket modules to shut down. (xD)
+fail8█Sensor failure×One of the sensors did not work properly and transmitted the wrong information to the rocket computer.
+fail9█Connection failure×The rocket couldn't get the necessary information from the flight control centre.
+fail10█Antenna failure×The probable failure of the antenna caused the computer not to receive the necessary information from the flight control centre.
+fail11█Overpressure×In the combustion chamber there was too high a pressure, which was the reason for the explosion of the engine.
+fail12█Leakage×One of the employees forgot about the gaskets.
+fail13█Blocked pipe×One of the employees left his work tool in a pipe.
+fail14█Material fatigue×The material of which the module was made did not withstand its operation.
+fail15█Fuel leakage×A small hole caused a gradual leak of fuel, which ignited and exploded the rocket.
+fail16█Hydraulic system failure×The hooks couldn't get off the hook. 
+fail17█Pressure×The pressure was too high, which ruptured the payload and then the rocket.
+fail18█Move engines failure×The engines didn't work and the fairings hit the rocket.
+fail19█Lockout failure×The fairings couldn't open, the engines inside turned on and ruptured the rocket.
+fail20█The fuel was too cool×The cool fuel caused it to freeze and then suddenly unfreeze.
+fail21█Compression×The fuel was compressed too much, which caused the rocket to rupture.
+fail22█The fuel was too hot×The hot fuel created gases inside the fuel tank that exploded when ignited. 
+fail23█Unknown reason×The analysts didn't find any reason for the explosion. It was probably the weather conditions.
+structural_error█<b>Structural error</b>&%<color=#fff><size=14>Ten problem nie powtórzy się w następnych rakietach.
+human_error█<b>Human error</b>&%<color=#fff><size=14>Ten problem nie powtórzy się w następnych rakietach.
+upgrade1█More durable materials
+upgrade2█More efficient fuel
+upgrade3█More efficient hydraulics
+upgrade4█Additional cooling
+upgrade5█Improved wiring
+upgrade6█Fuel compressor
+upgrade7█Fuel cooling
+upgrade8█Lepsze oprogramowanie
+module_upgraded█Moduł został ulepszony
+not_enough_skill_points█Nie masz wystarczająco dużo {0} punktów doświadczenia!
+last_quarter█Rok zaraz się skończy. Przed końcem roku możesz zobaczć podsumowanie ostatnich 12 miesięcy.
+mission_earnings█Zarobek
+payload_lost█Ładunek stracony
+build_launch_costs█Koszt budowy i wystrzelenia
 reusable_costs█Reusable costs
-profit█Profit
-experience█Experience
-project█Project
-client█Client
-no_upgrades█This module has no upgrades.
-mission_report█Mission report
-mission_success█Mission success
-mission_half_success█Mission half success (Landing crash)
-unlock_modules_first█You need to unlock the first 4 modules first!
-build_time_percentage█Build time
-build_costs_percentage█Build costs
+profit█Zysk
+experience█Doświadczenie
+project█Projekt
+client█Klient
+no_upgrades█Ten moduł nie posiada żadnych ulepszeń.
+mission_report█Raport misji
+mission_success█Misja zakończona sukcesem
+mission_half_success█Misja zakończona połowicznym sukcesem (rozbicie przy lądowaniu)
+unlock_modules_first█Najpierw musisz odblokować cztery moduły!
+build_time_percentage█Czas budowy
+build_costs_percentage█Koszt budowy
 reliability_percentage█Reliability
 launch_pad_launching█You are already starting rocket from this launch pad!
 mission█Mission
