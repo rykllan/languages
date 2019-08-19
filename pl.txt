@@ -289,8 +289,6 @@ module_unlocked█Moduł odblokowany: {0}!
 progress_launch_rocket█Start
 rockets_manager_project_money█Stworzyłeś nowy projekt rakiety!
 realibility█NIEZAWODNOŚĆ
-rockets_manager_project_money█Stowrzyłeś nowy projekt rakiety!
-realibility█RELIABILITY
 company█Firma
 money█Pieniądze
 skill_points█Punkty doświadczenia
@@ -300,34 +298,29 @@ fueltank_skill_points█Punkty zbiorników paliwa
 engine_skill_points█Punkty silników
 build_mode█Tryb budowania
 level_progress█Doświadczenie
-fairing_skill_points█Fairing skill points
-fueltank_skill_points█Fuel tank skill points
-engine_skill_points█Engine skill points
-build_mode█Build mode
-level_progress█Experience
-fail1█Unknown reason×The analysts didn't find any reason for the explosion. It was probably the weather conditions.
-fail2█Unknown reason×The analysts didn't find any reason for the explosion. It was probably the weather conditions.
-fail3█Unknown reason×The analysts didn't find any reason for the explosion. It was probably the weather conditions.
-fail4█Unknown reason×The analysts didn't find any reason for the explosion. It was probably the weather conditions.
-fail5█Short circuit×Uninsulated cables touched and caused a short circuit, destroying the entire installation.
-fail6█Battery failure×Overheating of the battery caused the systems to shut down.
-fail7█System update×The system update started automatically and caused the rocket modules to shut down.
-fail8█Sensor failure×One of the sensors did not work properly.
-fail9█Connection failure×The rocket couldn't get the necessary information from the flight control centre.
-fail10█Antenna failure×The failure of the antenna caused the computer not to receive the necessary information from the flight control centre.
-fail11█Overpressure×Too high a pressure in the combustion chamber, which was the reason for the explosion of the engine.
-fail12█Leakage×One of the employees forgot about the gaskets.
-fail13█Blocked pipe×One of the employees left his work tool in a pipe.
-fail14█Material fatigue×The material of which the module was made did not withstand the fly.
-fail15█Fuel leakage×A small hole caused a gradual leak of fuel, which ignited and exploded the rocket.
-fail16█Hydraulic system failure×The failure of the hudraulic system made the rocket unable to move.
-fail17█Overpressure×The pressure was too high, which ruptured the payload and then the rocket.
-fail18█Move engines failure×The engines didn't work and the fairings hit the rocket.
-fail19█Lockout failure×The fairings couldn't open, the engines inside turned on and ruptured the rocket.
-fail20█The fuel was too cool×The cool fuel caused it to freeze and then suddenly unfreeze.
-fail21█Compression×The fuel was compressed too much, which caused the rocket to rupture.
-fail22█The fuel was too hot×The hot fuel created gases inside the fuel tank that exploded when ignited. 
-fail23█Unknown reason×The analysts didn't find any reason for the explosion. It was probably the weather conditions.
+fail1█Błąd nieznany×Analitycy nie znaleźli żadnej przyczyny dla tej eksplozji. Prawdopodobnie były to warunki pogodowe.
+fail2█Błąd nieznany×Analitycy nie znaleźli żadnej przyczyny dla tej eksplozji. Prawdopodobnie były to warunki pogodowe.
+fail3█Błąd nieznany×Analitycy nie znaleźli żadnej przyczyny dla tej eksplozji. Prawdopodobnie były to warunki pogodowe.
+fail4█Błąd nieznany×Analitycy nie znaleźli żadnej przyczyny dla tej eksplozji. Prawdopodobnie były to warunki pogodowe.
+fail5█Zwarcie×Kable bez izolacji dotknęły się podczas lotu wywołując serię zwarć. Zniszczyło to całą instalację.
+fail6█Błąd baterii×Przegrzanie się baterii spowodowało wyłączenie się kilku systemów w rakiecie.
+fail7█Aktualizacja windowsa×Automatyczna aktualizacja systemu spowodowała wyłączenie się komputera pokładowego, doporowadzając rakietę do eksplozji.
+fail8█Błąd sensora×Któryś z sensorów nie zadziałał poprawnie.
+fail9█Brak połączenia×Rakieta nie mogła uzyskać połączenia z centrum kontroli lotów. Przyczyna braku połączenia pozostanie nieznana.
+fail10█Błąd anteny×Błąd anteny spowodował brak połączenia z centrum kontroli lotów
+fail11█Nadciśnienie×Nadciśnienie w komorze spalania spowodowało rozerwanie się silnika, co z kolei spowodowało eksplozję. 
+fail12█Przeciek×Któryś z pracowników zapomniał o uszczelkach, powodując dostanie się do rakiety powietrza, co przyczyniło się do eksplozji.
+fail13█Zablokowana rura×Któryś z pracowników zostawił swoje narzędzie pracy w rurze, powodując jej zablokowanie podczas lotu.
+fail14█Zmęczenie materiału×Materiał, z którego został zbudowany moduł, nie wytrzymał podczas turbulencji.
+fail15█Wyciek paliwa×Bardzo mała dziura spowodowała wyciek paliwa, które następnie się zapaliło powodując eksplozję.
+fail16█Błąd hydrauliki×Błąd hydrauliki sprawił, że rakieta nie mogła podążać za swoją trajektorią. 
+fail17█Nadciśnienie×Nadciśnienie spowodowało rozerwanie się ładunku, a następnie całej rakiety.
+fail18█Błąd silniczków sterujących×Silniczki sterujące nie włączyły się, co sprawiło, że owiewki uderzyły w rakietę niszcząc ją.
+fail19█Błąd zaczepów×Owiewki nie mogły się otworzyć, podczas gdy silniczki sterujące się włączyły i dosłownie spaliły cały ładunek, następnie rozrywając rakietę.
+fail20█Zbyt chłodne paliwo×Paliwo nagle stało się bardzo zimne, doprowadzając do jego zamrożenia.
+fail21█Błąd kompresji×Paliwo zostało zbyt mocno skompresowane, rozrywając całą rakietę.
+fail22█Zbyt ciepłe paliwo×Zbyt ciepłe paliwo stworzyło gazy, które po opuszczeniu zbiornika zapaliły się, doprowadzając rakietę do eksplozji.
+fail23█Błąd nieznany×Analitycy nie znaleźli żadnej przyczyny dla tej eksplozji. Prawdopodobnie były to warunki pogodowe.
 structural_error█<b>Błąd konstrukcyjny</b>&%<color=#fff><size=14>Błąd już się nie powtórzy przy następnych startach.
 human_error█<b>Błąd człowieka</b>&%<color=#fff><size=14>Błąd już się nie powtórzy przy następnych startach.
 upgrade1█Wytrzymalsze materiały
@@ -338,48 +331,13 @@ upgrade5█Ulepszona instalacja
 upgrade6█Kompresor paliwa
 upgrade7█Chłodzenie paliwa
 upgrade8█Ulepszone oprogramowanie
-module_upgraded█Module was upgraded
-not_enough_skill_points█You don't have enough {0} skill points!
-last_quarter█The year has almost ended. Before the end of the year you will have the opportunity to see an annual summary.
-mission_earnings█Mission earnings
-payload_lost█Payload lost
-build_launch_costs█Build & launch costs
-fail5█Short circuit×Uninsulated cables touched and caused a short circuit, destroying the entire installation.
-fail6█Battery failure×Overheating of the battery caused the systems necessary to maintain the rocket's flight to shut down.
-fail7█Windows update×The system update started automatically and caused the rocket modules to shut down. (xD)
-fail8█Sensor failure×One of the sensors did not work properly and transmitted the wrong information to the rocket computer.
-fail9█Connection failure×The rocket couldn't get the necessary information from the flight control centre.
-fail10█Antenna failure×The probable failure of the antenna caused the computer not to receive the necessary information from the flight control centre.
-fail11█Overpressure×In the combustion chamber there was too high a pressure, which was the reason for the explosion of the engine.
-fail12█Leakage×One of the employees forgot about the gaskets.
-fail13█Blocked pipe×One of the employees left his work tool in a pipe.
-fail14█Material fatigue×The material of which the module was made did not withstand its operation.
-fail15█Fuel leakage×A small hole caused a gradual leak of fuel, which ignited and exploded the rocket.
-fail16█Hydraulic system failure×The hooks couldn't get off the hook. 
-fail17█Pressure×The pressure was too high, which ruptured the payload and then the rocket.
-fail18█Move engines failure×The engines didn't work and the fairings hit the rocket.
-fail19█Lockout failure×The fairings couldn't open, the engines inside turned on and ruptured the rocket.
-fail20█The fuel was too cool×The cool fuel caused it to freeze and then suddenly unfreeze.
-fail21█Compression×The fuel was compressed too much, which caused the rocket to rupture.
-fail22█The fuel was too hot×The hot fuel created gases inside the fuel tank that exploded when ignited. 
-fail23█Unknown reason×The analysts didn't find any reason for the explosion. It was probably the weather conditions.
-structural_error█<b>Structural error</b>&%<color=#fff><size=14>Ten problem nie powtórzy się w następnych rakietach.
-human_error█<b>Human error</b>&%<color=#fff><size=14>Ten problem nie powtórzy się w następnych rakietach.
-upgrade1█More durable materials
-upgrade2█More efficient fuel
-upgrade3█More efficient hydraulics
-upgrade4█Additional cooling
-upgrade5█Improved wiring
-upgrade6█Fuel compressor
-upgrade7█Fuel cooling
-upgrade8█Lepsze oprogramowanie
-module_upgraded█Moduł został ulepszony
-not_enough_skill_points█Nie masz wystarczająco dużo {0} punktów doświadczenia!
-last_quarter█Rok zaraz się skończy. Przed końcem roku możesz zobaczć podsumowanie ostatnich 12 miesięcy.
-mission_earnings█Zarobek
-payload_lost█Ładunek stracony
-build_launch_costs█Koszt budowy i wystrzelenia
-reusable_costs█Reusable costs
+module_upgraded█Moduł został odblokowany
+not_enough_skill_points█Nie posiadasz wystarczająco punktów doświadczenia typu: {0}!
+last_quarter█Rok prawie się skończył. Tuż przed jego końcem będziesz miał okazję, aby zobaczyć swoje roczne statystyki finansowe.
+mission_earnings█Zarobki na misji
+payload_lost█Ładunek utracony
+build_launch_costs█Koszty budowy i wystrzelenia
+reusable_costs█Zoptymalizowane koszty
 profit█Zysk
 experience█Doświadczenie
 project█Projekt
@@ -391,18 +349,18 @@ mission_half_success█Misja zakończona połowicznym sukcesem (rozbicie przy l�
 unlock_modules_first█Najpierw musisz odblokować cztery moduły!
 build_time_percentage█Czas budowy
 build_costs_percentage█Koszt budowy
-reliability_percentage█Reliability
-launch_pad_launching█You are already starting rocket from this launch pad!
+reliability_percentage█Niezawodność
+launch_pad_launching█Już startujesz rakietę z tego stanowiska!
 mission█Misja
-st12█Samochody w kosmosie
-tutorial_welcome1█Good morning!
-tutorial_welcome2█Good day!
-tutorial_welcome3█Good evening!
+st12█Tesle w kosmosie
+tutorial_welcome1█Dobry ranek!
+tutorial_welcome2█Dzień dobry!
+tutorial_welcome3█Dobry wieczór!
 tutorial_welcome4█Witaj!
-tutorial_goodbye1█Thank you and have a good day!
-tutorial_goodbye2█Thank you and see you tomorrow!
-tutorial_goodbye3█Thank you and see you later!
-tutorial_goodbye4█Thank you and goodbye!
+tutorial_goodbye1█Dziękuję i miłego dnia!
+tutorial_goodbye2█Dziękuję i do jutra!
+tutorial_goodbye3█Dziękuję i do później!
+tutorial_goodbye4█Dziękuję i do zobaczenia!
 tutorial_BuildMode█Building in EarthX is very important, because without it you won't do anything. To enter/exit from the build mode, use the button on the left side of the bottom bar. To build buildings, select a location and then click on the plus icon. Locations don't matter yet. &%&%There are currently 4 types of buildings available in the game: <color=#FF9F43>Office</color>, <color=#64B5F6>Factory</color>, <color=#BA68C8>Laboratory</color> and <color=#81C784>Hangar</color>. Let me now describe them to you.&%&%<color=#FF9F43>Office</color>&%Offices are looking for norminal contracts for us. Later in the building settings you will be able to choose what kind of contracts you want to search for. Denis recommends having at least two such offices.&%&%<color=#64B5F6>Factory</color>&%The factories are responsible for the construction of rocket modules. Each factory has its own statistics, so that a factory building only fuel tanks will build them a few percent faster. &%&%<color=#BA68C8>Laboratory</color>&%Laboratories are responsible for the production of experience points. They are important because they allow you to develop new technologies faster, so you can build more efficient rockets.&%&%<color=#81C784>Hangar</color>&%The Hangars are holding your rockets. Each hangar can only store a few at a time.&%
 tutorial_Rockets█Rocket management is the main activity in EarthX. From the creation of rockets, through their construction, to their launch. In the later stages of the game you will be able to land them as well, so that after a quick repair they will be able to fly again. In this tutorial you will learn all these things.&%&%Unfortunately, due to the inability of the creator of this game ~Denis to create an interactive tutorial, you will have to make you happy yourself with this wall of text, but I promise that every line will provide you with information to play this game further. On the left at the top of every window, you have a button with a question mark symbol. You can press it later in the game to show this norminal window again.&%&%<color=#64B5F6>Creating a rocket project</color>&%To create a rocket project, click on the button at the bottom right of the rocket window. I will describe their creation another time.&%&%<color=#64B5F6>Creating a new rocket</color>&%Once you have created a project, a panel will appear in the list with the name of the rocket and its capabilities. From this panel you will be able to create rockets, which you can then manage on the right side of the window. &%&%<color=#64B5F6>Reliability and durability</color>&%Sounds dangerous? That’s okay. Every rocket built has both of these statistics. The reliability of a rocket is the average of the reliability of all modules. This number determines the percentage of chances of success of the mission. The bigger the number, the less likely the rocket will explode during the flight. The durability of disposable rockets will always be 100%, but it will decrease with each mission on reusable one.&%&%<color=#64B5F6>Repairing rockets</color>&%When the strength of reusable missiles falls below 60%, repair is already required. Remember that a rocket is worth repairing twice at the most, then it will become uneconomic.&%
 tutorial_RocketCreator█Creating different projects will give you different rockets. In this window you can set the name and modules of the project. On the right you can see all unlocked rocket modules, from which you can create different types of rockets. There are currently 6 types of rockets available in the game, of which 3 are the most important:&%<color=#64B5F6>Small/LEO</color>, <color=#64B5F6>Medium/MEO</color> and <color=#64B5F6>Large/GEO</color>. The first one determines the size of cargo a rocket can carry, and the second one determines which target orbit can be reached.&%&%Remember that having only a medium fuel tank does not mean that you will have a medium rocket. In order to have a medium sized rocket, you must also have medium sized fairings and an advanced engine.&%&%Different types of rockets will carry different payloads into space. Better rocket = better <color=#64B5F6>norminal</color> contracts. &%
@@ -414,17 +372,15 @@ tutorial_Research█You have just opened the most important window in this game.
 tutorial_Buildings█Building management is crucial in this game. With them you can speed up or slow down your work. Let's assume for a moment that you prefer to speed it up.&%&%<color=#64B5F6>Naming buildings</color>&%The first thing you can do is to name the buildings properly. It is worthwhile to name factories by the module types, because then one factory will be able to build only engines, and after some time it will do it much faster. Naming buildings will allow you to organize your work more efficiently.&%&%<color=#64B5F6>Employees</color>&%The second important thing are the employees. The more employees you assign, the more norminal the building will work. &%&% <color=#64B5F6>Tasks</color>&%Most buildings have their own additional statistics and settings on the right side of the window. In the case of factories, you can see how many modules of a given type it has built and whether it builds them faster. In the case of offices you can choose what kind of contracts the selected office should look for.&%&%<color=#64B5F6>Build and remove</color>&%You can build and remove buildings in the build mode (the button on the left next to the bottom bar). &%
 tutorial_Company█In this window you will mainly check your statistics. The first tab selected by default will allow you to check the statistics in general and your actions over the years. &%&%In the second tab you will check the financial statistics and compare them to previous years. &%&%However, if you are just a step away from bankruptcy, you can take out a loan from the bank, which you will then slowly repay. &%
 not_supported█Aktualnie EarthX nie wspiera plików zapisów z poprzednich wersji gry.
-government_money_add█Support to private space companies
-congratulations█Congratulations!
-congratulations_government_content█Congratulations on your first successful start!&%We would like to inform you that your company has received funds from the government for further development.&%<color=#64B5F6><b>Don't waste them</color>.
-no_space_hangar█There's no space in your hangars. Consider building more of them!
-rockets_stored█Rockets stored:
-actions█Actions
-search_for_contracts█Search for contracts of this type
-search_for_smallLeo█<color=#64B5F6><size=12>Search for</color></size>&%Small/LEO
-search_for_mediumMeo█<color=#64B5F6><size=12>Search for</color></size>&%Medium/MEO
-search_for_largeGeo█<color=#64B5F6><size=12>Search for</color></size>&%Large/GEO
-static_fire_tooltip█5% chances for an explosion&%20% chances for finding an issue
-static_fire_issue_found█Your engineers have found an issue in your rocket. They have fixed it, so the rocket will probably survive the fly.
+government_money_add█Wsparcie prywatnych firm kosmicznych
 congratulations█Gratulacje!
-congratulations_government_content█Gratuluję pierwszego, udanego startu!!&%Twoja firma otrzymuje rządowe wsparcie finansowe na dalszy rozwój.&%<color=#64B5F6><b>Nie zmarnuj tych pieniędzy</color>.
+congratulations_government_content█Gratuluję udanego pierwszego startu!&%Chcielibyśmy poinformować, że zaliczasz się do naszego programu wsparcia prywatnych firm kosmicznych i otrzymujesz pieniądze na dalszy rozwój.&%<color=#64B5F6><b>Nie zmarnuj ich.</color>.
+no_space_hangar█Twoje hangary nie mają wystarczająco miejsca na przechowanie dodatkowej rakiety. Może zbuduj ich więcej?
+rockets_stored█Przechowywane rakiety:
+actions█Akcje
+search_for_contracts█Szukaj kontraktów tego typu
+search_for_smallLeo█<color=#64B5F6><size=12>Szukaj kontraktów</color></size>&%Mały/LEO
+search_for_mediumMeo█<color=#64B5F6><size=12>Szukaj kontraktów</color></size>&%Średni/MEO
+search_for_largeGeo█<color=#64B5F6><size=12>Szukaj kontraktów</color></size>&%Duży/GEO
+static_fire_tooltip█5% szansy na eksplozję&%20% szansy na znalezienie błędu przed startem
+static_fire_issue_found█Twoi pracownicy znaleźli błąd w rakiecie przed startem i powierzchownie go naprawili. Miejmy nadzieję, że rakieta przetrwa lot!
