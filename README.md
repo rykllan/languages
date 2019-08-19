@@ -14,7 +14,7 @@ How to test your language in the game itself:
 Characters:
 - &% -> New line
 
-- that "x" in tutorial and achievements translations 
+- that "x" in rocket failures translations 
       -> don't remove it! It separates header and desc eachother
 
 - that "," in modules translations 
