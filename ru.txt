@@ -298,23 +298,23 @@ fueltank_skill_points█Fuel tank skill points
 engine_skill_points█Engine skill points
 build_mode█Build mode
 level_progress█Experience
-fail1█Fail 1×Test
-fail2█Fail 2×Test
-fail3█Fail 3×Test
-fail4█Fail 4×Test
+fail1█Unknown reason×The analysts didn't find any reason for the explosion. It was probably the weather conditions.
+fail2█Unknown reason×The analysts didn't find any reason for the explosion. It was probably the weather conditions.
+fail3█Unknown reason×The analysts didn't find any reason for the explosion. It was probably the weather conditions.
+fail4█Unknown reason×The analysts didn't find any reason for the explosion. It was probably the weather conditions.
 fail5█Short circuit×Uninsulated cables touched and caused a short circuit, destroying the entire installation.
-fail6█Battery failure×Overheating of the battery caused the systems necessary to maintain the rocket's flight to shut down.
-fail7█Windows update×The system update started automatically and caused the rocket modules to shut down. (xD)
-fail8█Sensor failure×One of the sensors did not work properly and transmitted the wrong information to the rocket computer.
+fail6█Battery failure×Overheating of the battery caused the systems to shut down.
+fail7█System update×The system update started automatically and caused the rocket modules to shut down.
+fail8█Sensor failure×One of the sensors did not work properly.
 fail9█Connection failure×The rocket couldn't get the necessary information from the flight control centre.
-fail10█Antenna failure×The probable failure of the antenna caused the computer not to receive the necessary information from the flight control centre.
-fail11█Overpressure×In the combustion chamber there was too high a pressure, which was the reason for the explosion of the engine.
+fail10█Antenna failure×The failure of the antenna caused the computer not to receive the necessary information from the flight control centre.
+fail11█Overpressure×Too high a pressure in the combustion chamber, which was the reason for the explosion of the engine.
 fail12█Leakage×One of the employees forgot about the gaskets.
 fail13█Blocked pipe×One of the employees left his work tool in a pipe.
-fail14█Material fatigue×The material of which the module was made did not withstand its operation.
+fail14█Material fatigue×The material of which the module was made did not withstand the fly.
 fail15█Fuel leakage×A small hole caused a gradual leak of fuel, which ignited and exploded the rocket.
-fail16█Hydraulic system failure×The hooks couldn't get off the hook. 
-fail17█Pressure×The pressure was too high, which ruptured the payload and then the rocket.
+fail16█Hydraulic system failure×The failure of the hudraulic system made the rocket unable to move.
+fail17█Overpressure×The pressure was too high, which ruptured the payload and then the rocket.
 fail18█Move engines failure×The engines didn't work and the fairings hit the rocket.
 fail19█Lockout failure×The fairings couldn't open, the engines inside turned on and ruptured the rocket.
 fail20█The fuel was too cool×The cool fuel caused it to freeze and then suddenly unfreeze.
