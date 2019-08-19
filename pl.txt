@@ -393,12 +393,12 @@ build_time_percentage█Czas budowy
 build_costs_percentage█Koszt budowy
 reliability_percentage█Reliability
 launch_pad_launching█You are already starting rocket from this launch pad!
-mission█Mission
-st12█Cars in space
+mission█Misja
+st12█Samochody w kosmosie
 tutorial_welcome1█Good morning!
 tutorial_welcome2█Good day!
 tutorial_welcome3█Good evening!
-tutorial_welcome4█Hello!
+tutorial_welcome4█Witaj!
 tutorial_goodbye1█Thank you and have a good day!
 tutorial_goodbye2█Thank you and see you tomorrow!
 tutorial_goodbye3█Thank you and see you later!
@@ -413,7 +413,7 @@ tutorial_Contracts█By accepting contracts, you gain missions. I described the 
 tutorial_Research█You have just opened the most important window in this game. This is where you can unlock new technologies and upgrade your existing ones.&%&%You can now unlock the first 4 modules: <color=#64B5F6>Small fairings</color>, <color=#64B5F6>Small fuel tank</color>, <color=#64B5F6>Simple engine</color> and <color=#64B5F6>Simple computer</color>! These are the modules from which you will be able to design and build your first rocket.&%&%When you unlock a module, you will notice that the next ones will become visible. You will be able to unlock them for the appropriate amount of skill points and level of your company.&%&%You can upgrade each module separately. They will then build faster, cost less and be more reliable. The speed and cost of construction will decrease over time, but with upgrades it will be much faster.&%&%<color=#64B5F6>How to earn special experience points?<color>&%&%Upgrades require so-called "special skill points". These are points for only 3 types of modules: <color=#64B5F6>Fairings</color>, <color=#64B5F6>Fuel tanks</color> and <color=#64B5F6>Engines</color>. You can view their status at any time under the bottom bar.&%&%You can get them by building these types of modules. For example, if you build an engine, you will get 1 to 3 such points.&%
 tutorial_Buildings█Coming later
 tutorial_Company█Coming later
-not_supported█Playing on saves from older versions of EarthX is not supported.
+not_supported█Aktualnie EarthX nie wspiera plików zapisów z poprzednich wersji gry.
 government_money_add█Support to private space companies
-congratulations█Congratulations!
-congratulations_government_content█Congratulations on your first successful start!&%We would like to inform you that your company has received funds from the government for further development.&%<color=#64B5F6><b>Don't waste them</color>.
+congratulations█Gratulacje!
+congratulations_government_content█Gratuluję pierwszego, udanego startu!!&%Twoja firma otrzymuje rządowe wsparcie finansowe na dalszy rozwój.&%<color=#64B5F6><b>Nie zmarnuj tych pieniędzy</color>.
