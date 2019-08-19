@@ -338,16 +338,16 @@ upgrade5█Ulepszona instalacja
 upgrade6█Kompresor paliwa
 upgrade7█Chłodzenie paliwa
 upgrade8█Ulepszone oprogramowanie
-module_upgraded█Module was upgraded
+module_upgraded█Moduł został ulepszony.
 not_enough_skill_points█You don't have enough {0} skill points!
 last_quarter█The year has almost ended. Before the end of the year you will have the opportunity to see an annual summary.
 mission_earnings█Mission earnings
-payload_lost█Payload lost
-build_launch_costs█Build & launch costs
+payload_lost█Stracone ładunki
+build_launch_costs█Koszty budynków i startów
 fail5█Short circuit×Uninsulated cables touched and caused a short circuit, destroying the entire installation.
 fail6█Battery failure×Overheating of the battery caused the systems necessary to maintain the rocket's flight to shut down.
-fail7█Windows update×The system update started automatically and caused the rocket modules to shut down. (xD)
-fail8█Sensor failure×One of the sensors did not work properly and transmitted the wrong information to the rocket computer.
+fail7█Aktualizacja Windowsa×Automatyczna aktualizacja systemu operacyjnego spowodowała wyłączenie modułów. (xD)
+fail8█Sensor failure×Jeden z sensorów nie zadziałał prawidłowo i wysłał błędne odczyty do komputera pokładowego.
 fail9█Connection failure×The rocket couldn't get the necessary information from the flight control centre.
 fail10█Antenna failure×The probable failure of the antenna caused the computer not to receive the necessary information from the flight control centre.
 fail11█Overpressure×In the combustion chamber there was too high a pressure, which was the reason for the explosion of the engine.
