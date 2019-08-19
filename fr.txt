@@ -375,3 +375,12 @@ not_supported█Playing on saves from older versions of EarthX is not supported.
 government_money_add█Support to private space companies
 congratulations█Congratulations!
 congratulations_government_content█Congratulations on your first successful start!&%We would like to inform you that your company has received funds from the government for further development.&%<color=#64B5F6><b>Don't waste them</color>.
+no_space_hangar█There's no space in your hangars. Consider building more of them!
+rockets_stored█Rockets stored:
+actions█Actions
+search_for_contracts█Search for contracts of this type
+search_for_smallLeo█<color=#64B5F6><size=12>Search for</color></size>&%Small/LEO
+search_for_mediumMeo█<color=#64B5F6><size=12>Search for</color></size>&%Medium/MEO
+search_for_largeGeo█<color=#64B5F6><size=12>Search for</color></size>&%Large/GEO
+static_fire_tooltip█5% chances for an explosion&%20% chances for finding an issue
+static_fire_issue_found█Your engineers have found an issue in your rocket. They have fixed it, so the rocket will probably survive the fly.
