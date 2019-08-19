@@ -95,7 +95,7 @@ mission_manager_reusable_launch_denied_notification█Nie możesz wystrzelić ra
 mission_manager_three_stage_launch_denied_notification█Nie możesz wystrzelić rakiety z trzema boosterami, bo nie masz na to pozwolenia. Musisz ulepszyć swoją firmę w drzewie badawczym!
 mission_manager_rocket_preparation_notification█Rakieta została zatankowana i przygotowana do startu.
 context_menu_no_factory█[Brak dostępnych fabryk.]
-context_menu_no_rocket█[Nie masz żadnych rakiet albo są one po prostu zbyt złe do tej misji.]
+context_menu_no_rocket█[Nie masz żadnych rakiet albo są one po prostu zbyt słabe do tej misji.]
 build_slot_remove_factory_working_notification█Ta fabryka właśnie pracuje. Nie możesz jej usunąć.
 build_slot_remove_confirmation█Czy na pewno chcesz usunąć ten budynek?
 build_slot_building_sold_notification█Budnek został sprzedany.
