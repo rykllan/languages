@@ -385,3 +385,4 @@ search_for_largeGeo█<color=#64B5F6><size=12>Искать для</color></size>
 static_fire_tooltip█5% вероятность взрыва&%20% шанс найти проблему
 static_fire_issue_found█Ваши инженеры нашли проблему в вашей ракете. Они устранили её, так что ракета, вероятно, выживет в полете.
 tutorial█Туториал
+press_key_to_cancel█Press any key to cancel

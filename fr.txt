@@ -384,3 +384,5 @@ search_for_mediumMeo█<color=#64B5F6><size=12>Search for</color></size>&%Medium
 search_for_largeGeo█<color=#64B5F6><size=12>Search for</color></size>&%Large/GEO
 static_fire_tooltip█5% chances for an explosion&%20% chances for finding an issue
 static_fire_issue_found█Your engineers have found an issue in your rocket. They have fixed it, so the rocket will probably survive the fly.
+tutorial█Tutorial
+press_key_to_cancel█Press any key to cancel
