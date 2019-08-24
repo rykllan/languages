@@ -384,3 +384,5 @@ search_for_mediumMeo█<color=#64B5F6><size=12>Szukaj kontraktów</color></size>
 search_for_largeGeo█<color=#64B5F6><size=12>Szukaj kontraktów</color></size>&%Duży/GEO
 static_fire_tooltip█5% szansy na eksplozję&%20% szansy na znalezienie błędu przed startem
 static_fire_issue_found█Twoi pracownicy znaleźli błąd w rakiecie przed startem i powierzchownie go naprawili. Miejmy nadzieję, że rakieta przetrwa lot!
+tutorial█Tutorial
+press_key_to_cancel█Wciśnij dowolny przycisk aby anulować
