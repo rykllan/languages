@@ -418,16 +418,28 @@ news_technology_header2█Technology header 2
 news_technology_header3█Technology header 3
 news_technology_header4█Technology header 4
 news_technology_header5█Technology header 5
-news_fail_content1█Fail content 1
-news_fail_content2█Fail content 2
-news_fail_content3█Fail content 3
-news_fail_content4█Fail content 4
-news_fail_content5█Fail content 5
-news_fail_header1█Fail header 1
-news_fail_header2█Fail header 2
-news_fail_header3█Fail header 3
-news_fail_header4█Fail header 4
-news_fail_header5█Fail header 5
+news_fail_content_p11█
+news_fail_content_p12█
+news_fail_content_p13█
+news_fail_content_p14█
+news_fail_content_p21█
+news_fail_content_p22█
+news_fail_content_p23█
+news_fail_content_p24█
+news_fail_content_p25█
+news_fail_content_p31█
+news_fail_content_p32█
+news_fail_content_p33█
+news_fail_content_p34█
+news_fail_content_p35█
+news_fail_header1█{1}: "This is a painful but important lesson for all of us. The last flight of our rocket from {1} ended with fireworks.
+news_fail_header2█A rocket turned into a huge fireball. {0} examines the causes of the disaster.
+news_fail_header3█{0} is in trouble. The explosion of their rocket woke up the residents of the nearby city.
+news_fail_header4█That rocket is no longer in existence. The rocket belonging to the {0} burned in the atmosphere.
+news_fail_header5█{1}: "We thought it would work this time. A rocket on fire is not what we wanted to see today. 
+news_fail_header6█"We'll be out loud!" The words of the CEO of {0} have just come true. Their rockets explode like crazy.
+news_fail_header7█{1} terrorizes the sky! Successive rocket explosions threaten the financial flow of the {1}.
+news_fail_header8█{0}: The powerful explosion of our rocket threatens the company's position. {1} at the exit?
 news_bankrupt_content1█Bankrupt content 1
 news_bankrupt_content2█Bankrupt content 2
 news_bankrupt_content3█Bankrupt content 3
