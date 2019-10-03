@@ -439,6 +439,6 @@ news_bankrupt_header3█Bankrupt header 3
 news_bankrupt_header4█Bankrupt header 4
 news_bankrupt_header5█Bankrupt header 5
 news_yearsummary_beforeRes_header█How were space companies doing in {0}? Big summary! 
-news_yearsummary_beforeRes_content█This year, as well as the others, had a lot of interesting decisions, events and flights! This is amazing, that more and more space companies are… private! This will speed up the rocket development a lot.&%&%Here are some annual stats:&%&%<color=#64B5F6>Flights</color>:&%{0}&%&%<color=#64B5F6>Contracts</color>:&%{1}&%&%<color=#64B5F6>Budget</color>:&%{2}&%&%We are all waiting for next year events. We know, that {3} is currently working on reusable rockets. This company is funny, how can you even land with a metal stick? This is impossible.
+news_yearsummary_beforeRes_content█This year, as well as the others, had a lot of interesting decisions, events and flights! This is amazing, that more and more space companies are… private! This will speed up the rocket development a lot.&%&%Here are some annual stats:&%&%<color=#64B5F6>Flights</color>:&%{0}&%<color=#64B5F6>Contracts</color>:&%{1}&%<color=#64B5F6>Budget</color>:&%{2}&%We are all waiting for next year events. We know, that {3} is currently working on reusable rockets. This company is funny, how can you even land with a metal stick? This is impossible.
 news_yearsummary_afterRes_header█
 news_yearsummary_afterRes_content█
