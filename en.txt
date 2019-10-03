@@ -418,20 +418,20 @@ news_technology_header2█Technology header 2
 news_technology_header3█Technology header 3
 news_technology_header4█Technology header 4
 news_technology_header5█Technology header 5
-news_fail_content_p11█
-news_fail_content_p12█
-news_fail_content_p13█
-news_fail_content_p14█
-news_fail_content_p21█
-news_fail_content_p22█
-news_fail_content_p23█
-news_fail_content_p24█
-news_fail_content_p25█
-news_fail_content_p31█
-news_fail_content_p32█
-news_fail_content_p33█
-news_fail_content_p34█
-news_fail_content_p35█
+news_fail_content_p11█Disturbing news from {0}. Their rocket unexpectedly ended its mission with a huge explosion. 
+news_fail_content_p12█Residents of cities near the launch site of the {0} corporation witnessed an amazing, sky-high spectacle today. According to our correspondent, the fireball that appeared in the sky this morning is a rocket from {0}.
+news_fail_content_p13█It would seem that the sound of rockets taking off near cities is the least of the problems for their citizens. Until the rockets start to explode. In the morning, our office began to receive complaints from anxious citizens who had been woken up by a loud explosion.
+news_fail_content_p14█Another day, another unpleasant news from the camp {0}. A rocket belonging to a billionaire named {1} ended its mission in a rather unexpected and loud way.
+news_fail_content_p21█The causes of the explosion are currently being investigated. The company's CEO, {1}, commented on the situation in a short Twitter post: "Whoever does nothing makes no mistakes. Your health! The entry was enriched with a photo in the middle of an empty bottle of Polish "Żubrówka". 
+news_fail_content_p22█Our anonymous informant closely associated with the company informs that in 3 minutes from the launch of the rocket there was a failure of hydraulics in the combustion chamber of the engine. Details will probably be announced at a press conference planned for today. 
+news_fail_content_p23█The causes of the accident are not yet well identified and will be investigated in detail in the coming months. Regardless of the cause, the explosion means a major image loss for {0}. 
+news_fail_content_p24█The whole team is working hard to explain the reasons for the explosion. We will soon find out whether the equipment failed, whether it was a human failure or whether it was an act of unfair competition.
+news_fail_content_p25█The bitterness of the situation is not hidden by the fans of the company all over the world, for whom {1} from the beginning of its activity was the embodiment of innovation and ideal entrepreneur. "I am sick and tired and I am selling all my shares now! I want to see beautiful flights, not explosions..." - was written by the @denis-szwarc user at reddit.com.
+news_fail_content_p31█We hope that the next flights will be more successful, but no less spectacular.
+news_fail_content_p32█We wish the owner of {0} more luck during the next launches.
+news_fail_content_p33█We firmly believe that the causes of the disaster will be explained quickly and that no more explosions will take place.
+news_fail_content_p34█In this unpleasant for {0} of the day there is nothing left for us to do but to keep our fingers crossed for the next starts.
+news_fail_content_p35█We don't want to write about rocket explosions anymore, but we have no other choice.
 news_fail_header1█{1}: "This is a painful but important lesson for all of us. The last flight of our rocket from {1} ended with fireworks.
 news_fail_header2█A rocket turned into a huge fireball. {0} examines the causes of the disaster.
 news_fail_header3█{0} is in trouble. The explosion of their rocket woke up the residents of the nearby city.
