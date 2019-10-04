@@ -432,7 +432,7 @@ news_fail_content_p32█We wish the owner of {0} more luck during the next launc
 news_fail_content_p33█We firmly believe that the causes of the disaster will be explained quickly and that no more explosions will take place.
 news_fail_content_p34█In this unpleasant for {0} of the day there is nothing left for us to do but to keep our fingers crossed for the next starts.
 news_fail_content_p35█We don't want to write about rocket explosions anymore, but we have no other choice.
-news_fail_header1█{1}: "This is a painful but important lesson for all of us. The last flight of our rocket from {1} ended with fireworks.
+news_fail_header1█{1}: "This is a painful but important lesson for all of us. The last flight of our rocket from {0} ended with fireworks.
 news_fail_header2█A rocket turned into a huge fireball. {0} examines the causes of the disaster.
 news_fail_header3█{0} is in trouble. The explosion of their rocket woke up the residents of the nearby city.
 news_fail_header4█That rocket is no longer in existence. The rocket belonging to the {0} burned in the atmosphere.
