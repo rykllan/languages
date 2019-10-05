@@ -166,7 +166,7 @@ contract_test_flight_name█Lot Testowy
 contract_test_flight_payload█Beton
 new_rocket█Nowa rakieta
 move_to_hangar█Przenieś do hangaru
-create_new_project█Stwórz nową rakietę
+create_new_project█Zbuduj rakietę
 create_project█Stwórz projekt
 status█Status
 employees█Pracownicy
