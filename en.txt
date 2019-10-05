@@ -440,16 +440,29 @@ news_fail_header5█{1}: "We thought it would work this time. A rocket on fire i
 news_fail_header6█"We'll be out loud!" The words of the CEO of {0} have just come true. Their rockets explode like crazy.
 news_fail_header7█{1} terrorizes the sky! Successive rocket explosions threaten the financial flow of the {0}.
 news_fail_header8█{0}: The powerful explosion of our rocket threatens the company's position. {1} at the exit?
-news_bankrupt_content1█Bankrupt content 1
-news_bankrupt_content2█Bankrupt content 2
-news_bankrupt_content3█Bankrupt content 3
-news_bankrupt_content4█Bankrupt content 4
-news_bankrupt_content5█Bankrupt content 5
-news_bankrupt_header1█Bankrupt header 1
-news_bankrupt_header2█Bankrupt header 2
-news_bankrupt_header3█Bankrupt header 3
-news_bankrupt_header4█Bankrupt header 4
-news_bankrupt_header5█Bankrupt header 5
+news_bankrupt_content_p11█{1}, the CEO of {0} announced today at a press conference the closure of its company and all offices and factories. 
+news_bankrupt_content_p12█Problems with exploding rockets, failure to comply with contracts and mess in financial documents are probably not the only mistakes of the chairman of {0}. {1} today declared bankruptcy.
+news_bankrupt_content_p13█We will probably wait a long time for the first successful crew mission to Mars. The market does not forgive the mistakes made by {1}, the owner of {0}. The company was closed today.
+news_bankrupt_content_p14█We could have expected that. After many unsuccessful launches of the {0} rockets, came the time for the settlement of the board of directors. The CEO, {1} can already get himself packed. 
+news_bankrupt_content_p21█This sad end to the dreams of conquering space is only the beginning of {0} financial problems. According to the information we have received, the company is flooded with lawsuits for damage to property. All because of the rocket parts falling on private homes.
+news_bankrupt_content_p22█The emotional statement that {1} sent to the media does not lack bitter words towards the other members of the company's board of directors. "My dreams were stolen (...) by traitors and thieves. I did everything in my power and now I am left with nothing. I'm sorry."
+news_bankrupt_content_p23█The press conference of {0} was a dramatic one. {1} appeared on it with a black eye. As he explained, there was a small fight with another member of the management board. Unofficially, we learned that it was the last $100 bill that was left in the company's safe. Unfortunately, the statements of the founder of {0} will not be summarized - reading them he cried so loudly that we did not understand anything.
+news_bankrupt_content_p31█Honestly? We don't even feel sorry for them. 
+news_bankrupt_content_p32█We hope that {1} put some money into the sock.
+news_bankrupt_content_p33█Now it's all in the hands of {2}.
+news_bankrupt_content_p34█I wonder which company is next.
+news_bankrupt_header1█Sad end of the {0}. {1} says goodbye to the space sector.
+news_bankrupt_header2█No more dreams of Mars. {0} closes its factories.
+news_bankrupt_header3█"The expectations of the shareholders have exceeded our expectations - {1} refers to the end of {0}.
+news_bankrupt_header4█{1} - visionary and... bankrupt. 
+news_bankrupt_header5█There will be no more {0} flights. The company goes bankrupt.
+news_bankrupt_header6█There is no room for {0} in the industry anymore. {0} on forced holiday.
+news_bankrupt_header7█There was a company, and there is no company. {0} rolls up their rockets!
+news_bankrupt_header8█President {1} was supposed to go into space but he's going to jail. What happened to the {0} money?
+news_bankrupt_header9█Strike of {0} employees. {1} has no money for payouts!
+news_bankrupt_header10█{1} didn't go to school and can't count? The {0} budget is at a very low level.
+news_bankrupt_header11█The analysts have known that for a long time. {0} went bankrupt!
+news_bankrupt_header12█{2} laughs at the CEO of {0}: "{1} lacks imagination! I knew it wouldn't last long!
 news_yearsummary_beforeRes_header█How were space companies doing in {0}? Big summary! 
 news_yearsummary_beforeRes_content█This year, as well as the others, had a lot of interesting decisions, events and flights! This is amazing, that more and more space companies are… private! This will speed up the rocket development a lot.&%&%Here are some annual stats:&%&%<color=#64B5F6>Flights</color>:&%{0}&%<color=#64B5F6>Contracts</color>:&%{1}&%<color=#64B5F6>Budget</color>:&%{2}&%We are all waiting for next year events. We know, that {3} is currently working on reusable rockets. This company is funny, how can you even land with a metal stick? This is impossible.
 news_yearsummary_afterRes_header█
