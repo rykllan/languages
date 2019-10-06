@@ -304,7 +304,7 @@ fail3█Unknown reason×The analysts didn't find any reason for the explosion. I
 fail4█Unknown reason×The analysts didn't find any reason for the explosion. It was probably the weather conditions.
 fail5█Short circuit×Uninsulated cables touched and caused a short circuit, destroying the entire installation.
 fail6█Battery failure×Overheating of the battery caused the systems to shut down.
-fail7█System update×The system update started automatically and caused the rocket modules to shut down.
+fail7█Windows update×The system update started automatically and caused the rocket modules to shut down.
 fail8█Sensor failure×One of the sensors did not work properly.
 fail9█Connection failure×The rocket couldn't get the necessary information from the flight control centre.
 fail10█Antenna failure×The failure of the antenna caused the computer to not receive the necessary information from the flight control centre.
