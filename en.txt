@@ -405,9 +405,6 @@ tweet_crash_2█Our team is investigating the {0} rocket explosion.
 tweet_crash_3█Look, it wasn't an explosion. It was just rapid unscheduled disassembly. {0} <color=#64B5F6>#earthx</color>
 tweet_crash_4█Our team found the issue. It was something with {1}. Shouldn't happen again in our future flights. {0} <color=#64B5F6>#earthx</color>
 release_chassis█Release chassis
-news_scripted1█Scripted Header 1×Scripted content 1
-news_scripted2█Scripted Header 2×Scripted content 2
-news_scripted3█Scripted Header 3×Scripted content 3
 news_technology_content_p11█All {0} fans have been waiting for this! Today's CEO's press conference leaves no room for illusions - we are witnessing another major breakthrough in the research that will lead humanity to Mars.
 news_technology_content_p12█We live in interesting times! The race on Mars started for good and we are curious what will come out of it. Will {1} keep his promises?
 news_technology_content_p13█Today we are looking forward to the {0} company. Will their manned flights ever set foot on the mars? We will see in a few years' time.
