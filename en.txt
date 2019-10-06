@@ -408,16 +408,28 @@ release_chassis█Release chassis
 news_scripted1█Scripted Header 1×Scripted content 1
 news_scripted2█Scripted Header 2×Scripted content 2
 news_scripted3█Scripted Header 3×Scripted content 3
-news_technology_content1█Technology content 1
-news_technology_content2█Technology content 2
-news_technology_content3█Technology content 3
-news_technology_content4█Technology content 4
-news_technology_content5█Technology content 5
-news_technology_header1█Technology header 1
-news_technology_header2█Technology header 2
-news_technology_header3█Technology header 3
-news_technology_header4█Technology header 4
-news_technology_header5█Technology header 5
+news_technology_content_p11█All {0} fans have been waiting for this! Today's CEO's press conference leaves no room for illusions - we are witnessing another major breakthrough in the research that will lead humanity to Mars.
+news_technology_content_p12█We live in interesting times! The race on Mars started for good and we are curious what will come out of it. Will {1} keep his promises?
+news_technology_content_p13█Today we are looking forward to the {0} company. Will their manned flights ever set foot on the mars? We will see in a few years' time.
+news_technology_content_p14█You've been waiting for this, haven't you? We have the latest news from the company headquarters of {0}. Everything seems to indicate that their technology is developing very fast.
+news_technology_content_p21█{1}: "The rockets we are currently developing are far from competitive. Let's hope it's not just a simple boast to make more profits on the stock market. Does {0} really have better technologies? Will we ever set foot on Mars? 
+news_technology_content_p22█"We hope to look to the future. Improvements to our rockets will not only allow us to carry larger charges into orbit. This is the beginning of the path that mankind will follow over the next decades. - {1}, {0}. 
+news_technology_content_p23█The new generation engine presented by %company name% has just passed its first successful tests last year. {1} announced that within 10 years the engine will be on board one of the rockets to test it in a space vacuum. Does the competition have anything to fear?
+news_technology_content_p24█"I'm sure it'll work!", says {1} at yesterday's conference. He wants to recover the rockets that fall to the Earth after the launch of the payload into orbit. A rocket falling at a very high speed would open the parachute at the right time and then fall into the ocean. This is another step towards cheaper flights into space and to Mars! 
+news_technology_content_p31█We are looking forward to hearing more good news about {0}!
+news_technology_content_p32█{1} is counting money, we are counting our page views. Maybe it's time to introduce ads?
+news_technology_content_p33█Dreams of a human landing on Mars come true in front of our eyes.
+news_technology_content_p34█What's the first one? Moon or Mars? {1} probably already knows it, but they don't want to say it.
+news_technology_header1█{0} is developing. {1} is cashing in on new technologies.
+news_technology_header2█The new {0} laboratories are running at high speed. 
+news_technology_header3█{1} invests in development. New rocket models coming soon?
+news_technology_header4█I wonder where he got the money for that? {1} invests in development. 
+news_technology_header5█{1}: "Our goal is Mars. We are working hard on new rocket modules.
+news_technology_header6█Investors delighted. Will {0} win the space race?
+news_technology_header7█Heading for Mars? {0} presents new modules for its rockets.
+news_technology_header8█More and higher. New motto {0}?
+news_technology_header9█{2} on Twitter: "I am impressed with what {1} is doing. But we will win anyway.
+news_technology_header10█Big breakthrough in {0}. New modules for rockets will soon be in use.
 news_fail_content_p11█Disturbing news from {0}. Their rocket unexpectedly ended its mission with a huge explosion. 
 news_fail_content_p12█Residents of cities near the launch site of the {0} corporation witnessed an amazing, sky-high spectacle today. According to our correspondent, the fireball that appeared in the sky this morning is a rocket from {0}.
 news_fail_content_p13█It would seem that the sound of rockets taking off near cities is the least of the problems for their citizens. Until the rockets start to explode. In the morning, our office began to receive complaints from anxious citizens who had been woken up by a loud explosion.
