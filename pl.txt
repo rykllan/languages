@@ -472,7 +472,7 @@ news_bankrupt_header9█Strajk pracowników {0}. {1} nie ma pieniędzy na wypła
 news_bankrupt_header10█{1} nie chodził do szkoły i nie umie liczyć? Budżet {0} na minusie.
 news_bankrupt_header11█Analitycy wiedzieli to od dawna. {0} bankrutem!
 news_bankrupt_header12█{2} naśmiewa się z prezesa {0}: “Brak mu wyobraźni! Wiedziałem, że długo nie pociągnie!”
-news_yearsummary_beforeRes_header█How were space companies doing in {0}? Big summary! 
-news_yearsummary_beforeRes_content█This year, as well as the others, had a lot of interesting decisions, events and flights! This is amazing, that more and more space companies are… private! This will speed up the rocket development a lot.&%&%Here are some annual stats:&%&%<color=#64B5F6>Flights</color>:&%{0}&%<color=#64B5F6>Contracts</color>:&%{1}&%<color=#64B5F6>Budget</color>:&%{2}&%We are all waiting for next year events. We know, that {3} is currently working on reusable rockets. This company is funny, how can you even land with a metal stick? This is impossible.
+news_yearsummary_beforeRes_header█Statystyki z sektora kosmicznego na rok {0}!
+news_yearsummary_beforeRes_content█W tym roku, podobnie jak i w innych, podjęto wiele ciekawych decyzji, wydarzeń i lotów! To niesamowite, że coraz więcej firm kosmicznych jest.... prywatnych! Przyspieszy to znacznie rozwój całego sektora kosmicznego.&%&%Tutaj kilka statystyk z poprzedniego roku:&%&%<color=#64B5F6>Loty</color>:&%{0}&%&%<color=#64B5F6>Wygrane Kontrakty</color>:&%{1}&%&%<color=#64B5F6>Finanse</color>:&%{2}&%&%Wszyscy czekamy na kolejne ciekawe wydarzenia. Wiemy, że firma {3} aktualnie pracuje nad rakietami wielokrotnego użytku. Ta firma jest śmieszna. Jak w ogóle chcesz wylądować metalową parówką? To jest niemożliwe.
 news_yearsummary_afterRes_header█
 news_yearsummary_afterRes_content█
