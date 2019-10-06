@@ -386,24 +386,24 @@ static_fire_tooltip█5% szansy na eksplozję&%20% szansy na znalezienie błędu
 static_fire_issue_found█Twoi pracownicy znaleźli błąd w rakiecie przed startem i powierzchownie go naprawili. Miejmy nadzieję, że rakieta przetrwa lot!
 tutorial█Tutorial
 press_key_to_cancel█Wciśnij dowolny przycisk aby anulować
-tweet_static_fire_1█Test statyczny naszej rakiety {0} przeszedł prawidłowo. Start już jutro! <color=#64B5F6>#earthx</color>
+tweet_static_fire_1█Test statyczny naszej rakiety {0} zakonczył się sukcesem. Start już jutro! <color=#64B5F6>#earthx</color>
 tweet_static_fire_2█Test statyczny tworzy bardzo dużo hałasu, ale dzięki temu możemy sprawdzić podstawowe systemy rakiety tuż przed jej odpaleniem. {0} <color=#64B5F6>#firma_kosmiczna</color> <color=#64B5F6>#earthx</color>
 tweet_static_fire_3█Ahh! <color=#64B5F6>#test_statyczny</color> naszej rakiety {0} zakończył się katastroficznie... Straciliśmy ładunek, co niepowinno się stać. Służby ratunkowe już w drodze! <color=#64B5F6>#earthx</color>
 tweet_static_fire_4█To nie była eksplozja. To był szybki, nieplanowany demontaż. Test statyczny {0} okazał się porażką. <color=#64B5F6>#earthx</color> <color=#64B5F6>#test_statyczny</color>
 tweet_abort_1█Musieliśmy przerwać dzisiejszą misję {0}. Więcej informacji podam wkrótce. <color=#64B5F6>#earthx</color>
 tweet_abort_2█Nasz klient znalazł pewien błąd w swoim ładunku tuż przed startem, przez co musieliśmy wprowadzić rakietę z powrotem do hangaru. <color=#64B5F6>#earthx</color>
-tweet_deploy_1█Ogromne podziękowania dla zepsołu firmy {1}! Mamy tutaj naprawdę niesamowitych pracowników! <color=#64B5F6>#earthx</color>
+tweet_deploy_1█Ogromne podziękowania dla zespołu firmy {1}! Mamy tutaj naprawdę niesamowitych pracowników! <color=#64B5F6>#earthx</color>
 tweet_deploy_2█Ładunek właśnie zbliża się do docelowej orbity. Lot potrwa jeszcze m/w godzinę! Zespół {1} rządzi! {0} <color=#64B5F6>#earthx</color>
 tweet_deploy_3█Separacja! Ładunek właśnie zmierza do orbity docelowej z 2 stopniem rakiety {0}. <color=#64B5F6>#earthx</color>
 tweet_deploy_4█Gratuluję {1}!!
-tweet_deploy_5█Wróć na transmisję po oddzielenie się satelit→ (ta funkcja pojawi się wkrótce) <color=#64B5F6>#earthx</color>
+tweet_deploy_5█Wróć na transmisję po oddzieleniu się satelit→ (ta funkcja pojawi się wkrótce) <color=#64B5F6>#earthx</color>
 tweet_land_1█{0} wylądowała! 
 tweet_land_2█{0} wylądowała! To nasze {1} lądowanie! <color=#64B5F6>#earthx</color>
 tweet_land_3█Pierwszy stopień rakiety {0} wylądował! Pełne nagranie jutro. <color=#64B5F6>#earthx</color>
 tweet_crash_1█Cóż, tego się nie spodziewałem. {0} <color=#64B5F6>#earthx</color>
 tweet_crash_2█Nasz zespół pracuje nad przyczyną dzisiejszej eksplozji rakiety {0}.
 tweet_crash_3█To nie była eksplozja. To był szybki, nieplanowany demontaż. {0} <color=#64B5F6>#earthx</color>
-tweet_crash_4█Nasz zespół znalazł prawdopodobny błąd w rakiecie. To było coś związanego z {1}. Niepowinno się zdarzyć ponownie w naszych przyszłych lotach. {0} <color=#64B5F6>#earthx</color>
+tweet_crash_4█Nasz zespół znalazł prawdopodobny błąd w rakiecie. To było coś związanego z {1}. Nie powinno się zdarzyć ponownie w naszych przyszłych lotach. {0} <color=#64B5F6>#earthx</color>
 release_chassis█Opuść podwozie
 news_technology_content_p11█Wszyscy fani {0} na to czekali! Dzisiejsza konferencja prasowa prezesa firmy nie pozostawia złudzeń - jesteśmy świadkami kolejnego, dużego przełomu w badaniach, które zaprowadzą ludzkość na Marsa.
 news_technology_content_p12█WŻyjemy w ciekawych czasach! Wyścig na Marsa rozpoczął się na dobre i sami jesteśmy ciekawi co z tego wyjdzie. Czy {1} spełni swoje obietnice?
@@ -412,7 +412,7 @@ news_technology_content_p14█Czekaliście na to, prawda? Mamy najnowsze doniesi
 news_technology_content_p21█{1}: “Rakiety, które obecnie tworzymy są daleko przed konkurencją.”. Miejmy nadzieję, że to nie tylko zwykłe przechwalanie się w celu osiągnięcia większych zysków na giełdzie. Czy {0} naprawdę jest w posiadaniu lepszych technologii? Czy kiedykolwiek postawimy stopę na Marsie? 
 news_technology_content_p22█“Z nadzieją spoglądamy w przyszłość. Ulepszenia naszych rakiet pozwolą nam nie tylko wynosić większe ładunki na orbitę. To początek drogi, którą ludzkość będzie zmierzała przez następne dekady.” - {1}, {0}. 
 news_technology_content_p23█Silnik nowej generacji zaprezentowany przez firmę {0} w zeszłym roku właśnie przeszedł pierwsze udane testy. {1} ogłosił, że w ciągu 10 lat silnik znajdzie się na pokładzie jednej z rakiet, aby przetestować go w próżni kosmicznej. Czy konkurencja ma się czego obawiać?
-news_technology_content_p24█“Jestem pewien, że to się uda!”, powiedział {1} na wczorajszej konferencji. Chce on bowiem odzyskiwać rakiety, które spadają na ziemię po wypuszczeniu ładunku na orbitę. Rakieta spadająca z bardzo wysoką prędkością miałaby otworzyć spadochron w odpowiednim momencie, a następnie wpaść do oceanu. Jest to kolejny krok w kierunku tańszych lotów w kosmos i na Marsa!
+news_technology_content_p24█“Jestem pewien, że to się uda!”, powiedział {1} na wczorajszej konferencji. Chce on bowiem odzyskiwać rakiety, które spadają na ziemię po wypuszczeniu ładunku na orbitę. Rakieta spadająca z bardzo dużą prędkością miałaby otworzyć spadochron w odpowiednim momencie, a następnie wpaść do oceanu. Jest to kolejny krok w kierunku tańszych lotów w kosmos i na Marsa!
 news_technology_content_p31█Nie możemy doczekać się kolejnych dobrych wiadomości dotyczących {0}!
 news_technology_content_p32█{1} liczy pieniądze, my liczymy wyświetlenia naszej strony. Może czas na wprowadzenie reklam?
 news_technology_content_p33█Marzenia o lądowaniu człowieka na Marsie spełniają się na naszych oczach.
@@ -441,6 +441,7 @@ news_fail_content_p32█Właścicielowi {0} życzymy więcej szczęścia podczas
 news_fail_content_p33█Głęboko wierzymy, że przyczyny katastrofy zostaną szybko wyjaśnione, a kolejne eksplozje nie będą miały już miejsca.
 news_fail_content_p34█W tym przykrym dla {0} dniu nie pozostaje nam nic innego, jak mocno trzymać kciuki za kolejne starty.
 news_fail_content_p35█Już nie chcemy pisać o wybuchach rakiet, ale nie mamy innego wyjścia.
+news_fail_content_p36█Szkoda strzępić ryja.
 news_fail_header1█{1}: “To bolesna, ale i ważna lekcja dla nas wszystkich.” Ostatni lot rakiety firmy {0} zakończony fajerwerkami.
 news_fail_header2█Rakieta zamieniła się w ogromną kulę ognia. {0} bada przyczyny katastrofy.
 news_fail_header3█{0} ma kłopoty. Wybuch rakiety obudził mieszkańców pobliskiego miasta.
