@@ -431,7 +431,7 @@ news_fail_content_p11█Disturbing news from {0}. Their rocket unexpectedly ende
 news_fail_content_p12█Residents of cities near the launch site of the {0} corporation witnessed an amazing, sky-high spectacle today. According to our correspondent, the fireball that appeared in the sky this morning is a rocket from {0}.
 news_fail_content_p13█It would seem that the sound of rockets taking off near cities is the least of the problems for their citizens. Until the rockets start to explode. In the morning, our office began to receive complaints from anxious citizens who had been woken up by a loud explosion.
 news_fail_content_p14█Another day, another unpleasant news from the camp {0}. A rocket belonging to a billionaire named {1} ended its mission in a rather unexpected and loud way.
-news_fail_content_p21█The causes of the explosion are currently being investigated. The company's CEO, {1}, commented on the situation in a short Twitter post: "Whoever does nothing makes no mistakes. Your health! The entry was enriched with a photo in the middle of an empty bottle of Polish "Żubrówka". 
+news_fail_content_p21█The causes of the explosion are currently being investigated. The company's CEO, {1}, commented on the situation in a short Twitter post: "Whoever does nothing makes no mistakes. Your health!" The entry was enriched with a photo in the middle of an empty bottle of Polish "Żubrówka". 
 news_fail_content_p22█Our anonymous informant closely associated with the company informs that in 3 minutes from the launch of the rocket there was a failure of hydraulics in the combustion chamber of the engine. Details will probably be announced at a press conference planned for today. 
 news_fail_content_p23█The causes of the accident are not yet well identified and will be investigated in detail in the coming months. Regardless of the cause, the explosion means a major image loss for {0}. 
 news_fail_content_p24█The whole team is working hard to explain the reasons for the explosion. We will soon find out whether the equipment failed, whether it was a human failure or whether it was an act of unfair competition.
@@ -472,7 +472,7 @@ news_bankrupt_header8█President {1} was supposed to go into space but he's goi
 news_bankrupt_header9█Strike of {0} employees. {1} has no money for payouts!
 news_bankrupt_header10█{1} didn't go to school and can't count? The {0} budget is at a very low level.
 news_bankrupt_header11█The analysts have known that for a long time. {0} went bankrupt!
-news_bankrupt_header12█{2} laughs at the CEO of {0}: "{1} lacks imagination! I knew it wouldn't last long!
+news_bankrupt_header12█{2} laughs at the CEO of {0}: "{1} lacks imagination! I knew it wouldn't last long!"
 news_yearsummary_beforeRes_header█How were space companies doing in {0}? Big summary! 
 news_yearsummary_beforeRes_content█This year, as well as the others, had a lot of interesting decisions, events and flights! This is amazing, that more and more space companies are… private! This will speed up the rocket development a lot.&%&%Here are some annual stats:&%&%<color=#64B5F6>Flights</color>:&%{0}&%<color=#64B5F6>Contracts</color>:&%{1}&%<color=#64B5F6>Budget</color>:&%{2}&%We are all waiting for next year events. We know, that {3} is currently working on reusable rockets. This company is funny, how can you even land with a metal stick? This is impossible.
 news_yearsummary_afterRes_header█
