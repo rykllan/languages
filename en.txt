@@ -472,7 +472,7 @@ news_bankrupt_header8█President {1} was supposed to go into space but he's goi
 news_bankrupt_header9█Strike of {0} employees. {1} has no money for payouts!
 news_bankrupt_header10█{1} didn't go to school and can't count? The {0} budget is at a very low level.
 news_bankrupt_header11█The analysts have known that for a long time. {0} went bankrupt!
-news_bankrupt_header12█{2} laughs at the CEO of {0}: "{1} lacks imagination! I knew it wouldn't last long!
+news_bankrupt_header12█{2} laughs at the CEO of {0}: "{1} lacks imagination! I knew it wouldn't last long!"
 news_yearsummary_beforeRes_header█How were space companies doing in {0}? Big summary! 
 news_yearsummary_beforeRes_content█This year, as well as the others, had a lot of interesting decisions, events and flights! This is amazing, that more and more space companies are… private! This will speed up the rocket development a lot.&%&%Here are some annual stats:&%&%<color=#64B5F6>Flights</color>:&%{0}&%<color=#64B5F6>Contracts</color>:&%{1}&%<color=#64B5F6>Budget</color>:&%{2}&%We are all waiting for next year events. We know, that {3} is currently working on reusable rockets. This company is funny, how can you even land with a metal stick? This is impossible.
 news_yearsummary_afterRes_header█
