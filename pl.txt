@@ -477,3 +477,12 @@ news_yearsummary_beforeRes_header█Statystyki z sektora kosmicznego na rok {0}!
 news_yearsummary_beforeRes_content█W tym roku, podobnie jak i w innych, podjęto wiele ciekawych decyzji, wydarzeń i lotów! To niesamowite, że coraz więcej firm kosmicznych jest.... prywatnych! Przyspieszy to znacznie rozwój całego sektora kosmicznego.&%&%Tutaj kilka statystyk z poprzedniego roku:&%&%<color=#64B5F6>Loty</color>:&%{0}&%&%<color=#64B5F6>Wygrane Kontrakty</color>:&%{1}&%&%<color=#64B5F6>Finanse</color>:&%{2}&%&%Wszyscy czekamy na kolejne ciekawe wydarzenia. Wiemy, że firma {3} aktualnie pracuje nad rakietami wielokrotnego użytku. Ta firma jest śmieszna. Jak w ogóle chcesz wylądować metalową parówką? To jest niemożliwe.
 news_yearsummary_afterRes_header█
 news_yearsummary_afterRes_content█
+sett_revert█Odrzuć
+sett_save█Zapisz
+approx█Około
+avg_rocketprice█Średnia cena rakiety:
+avg_profit█Średni zysk:
+launching_now█Startuje teraz:
+negotiating█NEGOCJUJĄCY
+select_launch_price█Wybierz cenę startu
+submit_offer█Wyślij ofertę
