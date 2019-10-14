@@ -479,10 +479,10 @@ news_yearsummary_afterRes_header█
 news_yearsummary_afterRes_content█
 sett_revert█Вернуть
 sett_save█Сохранить
-approx█Approx.
-avg_rocketprice█Avg. rocket price:
-avg_profit█Avg. profit:
-launching_now█Launching now:
-negotiating█NEGOTIATING
-select_launch_price█Select Launch Price
-submit_offer█Submit offer
+approx█Прибл.
+avg_rocketprice█Сред. стоимость ракеты:
+avg_profit█Сред. прибыль:
+launching_now█Сейчас запускается:
+negotiating█ПЕРЕГОВОРЫ
+select_launch_price█Выберите цену запуска
+submit_offer█Подтвердить
