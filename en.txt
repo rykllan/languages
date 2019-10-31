@@ -258,6 +258,7 @@ mdl_l_fueltank█Large Fuel Tank,Fuel tank for large rockets
 ---Computers---█---Computers---
 mdl_s_computer█Simple Computer,Computer for small and medium rockets
 mdl_a_computer█Advanced Computer,Computer for large rockets
+mdl_s_computer█Skynet Computer,Computer for very large rockets
 mdl_s_battery█Small Battery,---
 mdl_a_battery█Advanced Battery,---
 mdl_gps█GPS,---
@@ -265,6 +266,7 @@ mdl_gps█GPS,---
 mdl_s_fairings█Small Fairing,Fairing for small payloads
 mdl_m_fairings█Medium Fairing,Fairing for medium payloads
 mdl_l_fairings█Large Fairing,Fairing for large payloads
+mdl_vc_fairings█Vehicle Connector,Attach capsule or spaceship on the rocket!
 ---Landing Stuff---█---Landing Stuff---
 mdl_a_gridfins█Aluminium Grid Fins,Grid fins are required for reusable rockets
 mdl_t_gridfins█Titanium Grid Fins,Grid fins are required for reusable rockets
