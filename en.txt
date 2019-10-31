@@ -258,7 +258,7 @@ mdl_l_fueltank█Large Fuel Tank,Fuel tank for large rockets
 ---Computers---█---Computers---
 mdl_s_computer█Simple Computer,Computer for small and medium rockets
 mdl_a_computer█Advanced Computer,Computer for large rockets
-mdl_s_computer█Skynet Computer,Computer for very large rockets
+mdl_sn_computer█Skynet Computer,Computer for very large rockets
 mdl_s_battery█Small Battery,---
 mdl_a_battery█Advanced Battery,---
 mdl_gps█GPS,---
