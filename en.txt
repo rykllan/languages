@@ -37,7 +37,7 @@ payloads█Payloads
 take█Take
 reject█Reject
 payback█Payback
-project_name█Project name...
+project_name█Vehicle name...
 payload_size_small█Small
 payload_size_medium█Medium
 payload_size_large█Large
