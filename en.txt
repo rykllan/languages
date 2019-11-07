@@ -123,7 +123,7 @@ projects_module_panel_no_employees_notification█You need to assign at least 1 
 projects_module_panel_no_employees_factory_notification█You need to assign at least 1 employee for this factory to work.
 projects_module_panel_module_build█"{0} built!"
 project_panel_auto_build_no_factories█There are no factories to assign! Make sure at least a few employees are assigned to them.
-project_panel_no_hangar█You have to build a hangar to store your rockets in it.
+project_panel_no_hangar█You don't own any hangars or you have no space in them!
 project_panel_timeline_entry_rocket█{0} rocket built
 project_panel_timeline_entry_launch█{0} rocket launch
 project_panel_static_fire_cost█Static fire costs
