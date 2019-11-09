@@ -277,6 +277,15 @@ mdl_booster_connector█Boosters Connector,Boosters connector is required to bui
 mdl_light_structure█Light Structure,Default body for a capsule
 mdl_heavy_structure█Heavy Structure,Stronger body for a crew capsule
 mdl_chip_computer█Computer Chip,Computer for the capsules
+mdl_a_antenna█Advanced Antenna,Antenna for the capsules
+mdl_s_antenna█Simple Antenna,Antenna for the capsules
+mdl_a_escape_engines█Advanced Escape Engines,Engines for the capsules
+mdl_s_escape_engines█Simple Escape Engines,Engines for the capsules
+mdl_a_parachutes█Advanced Parachutes,Parachutes for the crewless capsules
+mdl_s_parachutes█Simple Parachutes,Parachutes for the crew capsules
+mdl_camera█Camera,Camera used for public webcasts
+mdl_s_altitude█Altitude Sensor,Deploy parachutes now?
+mdl_s_heat█Heat Sensor,Escape now?
 game_saved█Game saved!
 st1█Built
 st2█Launched
