@@ -275,7 +275,8 @@ mdl_a_landingLegs█Automatic Landing Legs,Landing legs are required for reusabl
 mdl_booster_connector█Boosters Connector,Boosters connector is required to build a 3-core rocket
 ---Capsule Stuff---█---Capsule Stuff---
 mdl_light_structure█Light Structure,Default body for a capsule
-mdl_heavy_structure█Heavy Structure,Stronger body for a capsule
+mdl_heavy_structure█Heavy Structure,Stronger body for a crew capsule
+mdl_chip_computer█Computer Chip,Computer for the capsules
 game_saved█Game saved!
 st1█Built
 st2█Launched
