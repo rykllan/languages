@@ -161,6 +161,9 @@ building_name_office█Office
 building_name_factory█Factory
 building_name_hangar█Hangar
 building_name_lab█Laboratory
+building_name_simpleLP█Simple Launch Pad
+building_name_advancedLP█Advanced Launch Pad
+building_name_megaLP█Mega Launch Pad
 notification█Notification
 crash█Crash
 deadline█Deadline
