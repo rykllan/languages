@@ -148,6 +148,9 @@ office█<b><color=#FF9F43>Office</color></b>&%745 000 <color=#16A085>$
 factory█<b><color=#FF9F43>Factory</color></b>&%1 550 000 <color=#16A085>$
 hangar█<b><color=#FF9F43>Hangar</color></b>&%215 000 <color=#16A085>$
 laboratory█<b><color=#FF9F43>Laboratory</color></b>&%715 000 <color=#16A085>$
+simpleLP█<b><color=#FF9F43>Simple Launch Pad</color></b>&%32 500 000 <color=#16A085>$
+advancedLP█<b><color=#FF9F43>Advanced Launch Pad</color></b>&%99 000 000 <color=#16A085>$
+megaLP█<b><color=#FF9F43>Mega Launch Pad</color></b>&%580 000 000 <color=#16A085>$
 missions_header█Missions
 available█Available
 completed█Completed
