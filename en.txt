@@ -253,45 +253,48 @@ finance_overview█Finance overview
 loan_plans█Loan plans
 bank_loans_plan_name█Plan {0}
 ---Engines---█---Engines---
-mdl_s_engine█Simple Engine,Engine for small rockets
-mdl_a_engine█Advanced Engine,Engine for medium rockets
-mdl_a4_engine█4 Advanced Engines,Engine for better medium rockets
-mdl_a9_engine█9 Advanced Engines,Engine for large rockets
+mdl_s_engine█Simple Engine,Required for small rockets.
+mdl_a_engine█Advanced Engine,Required for medium rockets.
+mdl_a4_engine█4 Advanced Engines,Required for large rockets.
+mdl_a9_engine█9 Advanced Engines,Required for landing rockets.
+mdl_m27_engine█27 Methane Engines,Required for very large rockets. (Superheavy Boi)
 ---FuelTanks---█---FuelTanks---
-mdl_s_fueltank█Small Fuel Tank,Fuel tank for small rockets
-mdl_m_fueltank█Medium Fuel Tank,Fuel tank for medium rockets
-mdl_l_fueltank█Large Fuel Tank,Fuel tank for large rockets
+mdl_s_fueltank█Small Fuel Tank,Required for small rockets.
+mdl_m_fueltank█Medium Fuel Tank,Required for medium/capsule rockets.
+mdl_l_fueltank█Large Fuel Tank,Required for large/landing rockets.
+mdl_vl_fueltank█Super Fuel Tank,Required for very large/spaceship rockets. (Superheavy Boi)
 ---Computers---█---Computers---
-mdl_s_computer█Simple Computer,Computer for small and medium rockets
-mdl_a_computer█Advanced Computer,Computer for large rockets
-mdl_sn_computer█Skynet Computer,Computer for very large rockets
-mdl_s_battery█Small Battery,---
-mdl_a_battery█Advanced Battery,---
-mdl_gps█GPS,---
+mdl_s_computer█Simple Computer,Required for small and medium rockets.
+mdl_a_computer█Advanced Computer,Required for large/capsule/landing rockets.
+mdl_sn_computer█Skynet Computer,Required for very large/spaceship rockets.
+mdl_s_battery█Small Battery,Required for manual landing rockets.
+mdl_a_battery█Advanced Battery,Required for automatic landing/capsule/spaceship rockets.
+mdl_gps█GPS,Required for capsule/landing rockets.
 ---Fairings---█---Fairings---
-mdl_s_fairings█Small Fairing,Fairing for small payloads
-mdl_m_fairings█Medium Fairing,Fairing for medium payloads
-mdl_l_fairings█Large Fairing,Fairing for large payloads
-mdl_vc_fairings█Vehicle Connector,Attach capsule or spaceship on the rocket!
+mdl_s_fairings█Small Fairing,Required for small rockets.
+mdl_m_fairings█Medium Fairing,Required for medium rockets.
+mdl_l_fairings█Large Fairing,Required for large rockets.
+mdl_vc_fairings█Vehicle Connector,Required for capsule/spaceship rockets.
 ---Landing Stuff---█---Landing Stuff---
-mdl_a_gridfins█Aluminium Grid Fins,Grid fins are required for reusable rockets
-mdl_t_gridfins█Titanium Grid Fins,Grid fins are required for reusable rockets
-mdl_m_landingLegs█Manual Landing Legs,Landing legs are required for reusable rockets
-mdl_a_landingLegs█Automatic Landing Legs,Landing legs are required for reusable rockets
-mdl_booster_connector█Boosters Connector,Boosters connector is required to build a 3-core rocket
+mdl_a_gridfins█Aluminium Grid Fins,Required for manual landing rockets.
+mdl_t_gridfins█Titanium Grid Fins,Required for auto landing rockets.
+mdl_m_landingLegs█Manual Landing Legs,Required for manual landing rockets.
+mdl_a_landingLegs█Automatic Landing Legs,Required for auto landing rockets.
+mdl_booster_connector█Boosters Connector,Required for sidebooster rockets. (Falcon Heavy Boi)
 ---Capsule Stuff---█---Capsule Stuff---
-mdl_light_structure█Light Structure,Default body for a capsule
-mdl_heavy_structure█Heavy Structure,Stronger body for a crew capsule
-mdl_chip_computer█Computer Chip,Computer for the capsules
-mdl_a_antenna█Advanced Antenna,Antenna for the capsules
-mdl_s_antenna█Simple Antenna,Antenna for the capsules
-mdl_a_escape_engines█Advanced Escape Engines,Engines for the capsules
-mdl_s_escape_engines█Simple Escape Engines,Engines for the capsules
-mdl_a_parachutes█Advanced Parachutes,Parachutes for the crewless capsules
-mdl_s_parachutes█Simple Parachutes,Parachutes for the crew capsules
-mdl_camera█Camera,Camera used for public webcasts
-mdl_s_altitude█Altitude Sensor,Deploy parachutes now?
-mdl_s_heat█Heat Sensor,Escape now?
+mdl_light_structure█Light Structure,Required for cargo capsules.
+mdl_heavy_structure█Heavy Structure,Required for crew capsules.
+mdl_chip_computer█Computer Chip,Required for capsules.
+mdl_a_antenna█Advanced Antenna,Required for crew capsules.
+mdl_s_antenna█Simple Antenna,Required for cargo capsules.
+mdl_a_escape_engines█Advanced Escape Engines,Required for crew capsules.
+mdl_s_escape_engines█Simple Escape Engines,Required for crew capsules.
+mdl_a_parachutes█Advanced Parachutes,Required for crew capsules.
+mdl_s_parachutes█Simple Parachutes,Required for cargo capsules.
+mdl_camera█Camera,Camera allows you to see what rockets sees (Webcast). Assign this module and focus your camera on the rocket launch.
+mdl_s_altitude(capsule)█Altitude Sensor,Required for crew capsules.
+mdl_s_altitude(rocket)█Altitude Sensor,This sensor gives you more telemetry data on your launch. See how fast your rocket is!
+mdl_s_heat█Heat Sensor,Required for crew capsules.
 game_saved█Game saved!
 st1█Built
 st2█Launched
