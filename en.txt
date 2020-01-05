@@ -282,8 +282,8 @@ mdl_m_landingLegs█Manual Landing Legs,Required for manual landing rockets.
 mdl_a_landingLegs█Automatic Landing Legs,Required for auto landing rockets.
 mdl_booster_connector█Boosters Connector,Required for sidebooster rockets. (Falcon Heavy Boi)
 ---Capsule Stuff---█---Capsule Stuff---
-mdl_light_structure█Light Structure,Required for cargo capsules.
-mdl_heavy_structure█Heavy Structure,Required for crew capsules.
+mdl_light_structure█Light Body,Required for cargo capsules.
+mdl_heavy_structure█Heavy Body,Required for crew capsules.
 mdl_chip_computer█Computer Chip,Required for capsules.
 mdl_a_antenna█Advanced Antenna,Required for crew capsules.
 mdl_s_antenna█Simple Antenna,Required for cargo capsules.
@@ -295,19 +295,12 @@ mdl_camera█Camera,Camera allows you to see what rockets sees (Webcast). Assign
 mdl_s_altitude(capsule)█Altitude Sensor,Required for crew capsules.
 mdl_s_altitude(rocket)█Altitude Sensor,This sensor gives you more telemetry data on your launch. See how fast your rocket is!
 mdl_s_heat█Heat Sensor,Required for crew capsules.
+---Spaceship Stuff---█---Spaceship Stuff---
+mdl_methane_fueltank█Methane Fuel Tank,Required for Spaceships.
+mdl_methane_engine█6 Methane Engines,Required for Spaceships.
+mdl_stainlesssteel_structure█Stainless Steel Body,Required for Spaceships.
 game_saved█Game saved!
-st1█Built
-st2█Launched
-st3█Landed
-st4█Success rate
-st5█Offices
-st6█Factories
-st7█Hangars
-st8█Labs
-st9█Contracts
-st10█Missions
-st11█Deadlines passed
-r&d_window_header█Research
+r&d_window_header█Company Progress
 launch_pad█Launch pad
 module_unlocked█{0} module unlocked!
 progress_launch_rocket█Launch
@@ -322,39 +315,6 @@ fueltank_skill_points█Fuel tank skill points
 engine_skill_points█Engine skill points
 build_mode█Build mode
 level_progress█Experience
-fail1█Unknown reason×The analysts didn't find any reason for the explosion. It was probably the weather conditions.
-fail2█Unknown reason×The analysts didn't find any reason for the explosion. It was probably the weather conditions.
-fail3█Unknown reason×The analysts didn't find any reason for the explosion. It was probably the weather conditions.
-fail4█Unknown reason×The analysts didn't find any reason for the explosion. It was probably the weather conditions.
-fail5█Short circuit×Uninsulated cables touched and caused a short circuit, destroying the entire installation.
-fail6█Battery failure×Overheating of the battery caused the systems to shut down.
-fail7█Windows update×The system update started automatically and caused the rocket modules to shut down.
-fail8█Sensor failure×One of the sensors did not work properly.
-fail9█Connection failure×The rocket couldn't get the necessary information from the flight control centre.
-fail10█Antenna failure×The failure of the antenna caused the computer to not receive the necessary information from the flight control centre.
-fail11█Overpressure×Too high a pressure in the combustion chamber, which was the reason for the explosion of the engine.
-fail12█Leakage×One of the employees forgot about the gaskets.
-fail13█Blocked pipe×One of the employees left his work tool in a pipe.
-fail14█Material fatigue×The material of which the module was made did not withstand the fly.
-fail15█Fuel leakage×A small hole caused a gradual leak of fuel, which ignited and exploded the rocket.
-fail16█Hydraulic system failure×The failure of the hudraulic system made the rocket unable to move.
-fail17█Overpressure×The pressure was too high, which ruptured the payload and then the rocket.
-fail18█Move engines failure×The engines didn't work and the fairings hit the rocket.
-fail19█Lockout failure×The fairings couldn't open, the engines inside turned on and ruptured the rocket.
-fail20█The fuel was too cool×The cool fuel caused it to freeze and then suddenly unfreeze.
-fail21█Compression×The fuel was compressed too much, which caused the rocket to rupture.
-fail22█The fuel was too hot×The hot fuel created gases inside the fuel tank that exploded when ignited. 
-fail23█Unknown reason×The analysts didn't find any reason for the explosion. It was probably the weather conditions.
-structural_error█<b>Structural error</b>&%<color=#fff><size=14>The issue won't happen again in your next rockets.
-human_error█<b>Human error</b>&%<color=#fff><size=14>The issue won't happen again in your next rockets.
-upgrade1█More durable materials
-upgrade2█More efficient fuel
-upgrade3█More efficient hydraulics
-upgrade4█Additional cooling
-upgrade5█Improved wiring
-upgrade6█Fuel compressor
-upgrade7█Fuel cooling
-upgrade8█Better software
 module_upgraded█Module was upgraded
 not_enough_skill_points█You don't have enough {0} skill points!
 last_quarter█The year has almost ended. Before the end of the year you will have the opportunity to see an annual summary.
