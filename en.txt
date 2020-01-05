@@ -316,6 +316,7 @@ engine_skill_points█Engine skill points
 build_mode█Build mode
 level_progress█Experience
 module_upgraded█Module was upgraded
+no_module_unlocked█No module is unlocked.
 not_enough_skill_points█You don't have enough {0} skill points!
 last_quarter█The year has almost ended. Before the end of the year you will have the opportunity to see an annual summary.
 mission_earnings█Mission earnings
@@ -336,7 +337,6 @@ build_costs_percentage█Build costs
 reliability_percentage█Reliability
 launch_pad_launching█You are already starting rocket from this launch pad!
 mission█Mission
-st12█Cars in space
 tutorial_welcome1█Good morning!
 tutorial_welcome2█Good day!
 tutorial_welcome3█Good evening!
