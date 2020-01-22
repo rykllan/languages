@@ -5,7 +5,7 @@ menu_credits█Twórcy
 menu_exit█Opuść grę
 menu_backToMainMenu█Wróć do Menu Głównego
 menu_save█Zapisz
-menu_notAvailable█Niedostępne w tej wersji, przepraszam :(
+menu_notAvailable█Niedostępne w tej wersji :(
 menu_saveNotSupported█Zapisy z poprzedniej wersji gry nie są obecnie obsługiwane. Przepraszamy!
 
 menu_createNewGame█Stwórz nową grę
