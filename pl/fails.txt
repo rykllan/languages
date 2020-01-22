@@ -14,10 +14,10 @@ fail14█To dlatego nie powinniście odpalać rakiety miotaczem ognia.
 fail15█Awaria anteny: Komputer pokładowy nie dostał odpowiednich danych z centrum lotów.
 fail16█Co do jasnej-ciasnej robiła satelita w zbiorniku paliwa?
 fail17█darmowe cukierki : https://discord.gg/sbXwwMs
-fail18█Za mało taśmy dałeś
+fail18█Za mało taśmy dałeś...
 fail19█Za duże ciśnienie: silnik wybuchł.
 fail20█Wygląda na to, że rakieta wybuchła przez kosmitów. Nie martw się, nie powiemy nikomu.
-fail21█Przeciek: Paliwo wydostało się ze zbiornika.
+fail21█Przeciek: paliwo wydostało się ze zbiornika.
 fail22█Co leci do góry, musi spaść na dół
 fail23█Przeciek: Mała dziura w zbiorniku paliwa zrobiła boom boom
 fail24█Twoja rakieta stawiła czoło fizyce, dlatego wybuchła.
