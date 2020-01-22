@@ -6,12 +6,12 @@ menu_exit█Opuść grę
 menu_backToMainMenu█Wróć do Menu Głównego
 menu_save█Zapisz
 menu_notAvailable█Niedostępne w tej wersji, przepraszam :(
-menu_saveNotSupported█Granie w starsze sejwy w nowszych wersjach EarthX jest aktualnie niedostępne.
+menu_saveNotSupported█Zapisy z poprzedniej wersji gry nie są obecnie obsługiwane. Przepraszamy!
 
 menu_createNewGame█Stwórz nową grę
-menu_tutorial█Poradnik jak grać
+menu_tutorial█Poradnik
 menu_classicHeader█Tryb Kariery
-menu_classicDesc█W trybie kariery zbudujesz swoją firmę od zera. Podbij świat!
+menu_classicDesc█W trybie kariery zbudujesz swoją firmę od zera. Podbij świat... i kosmos!
 menu_sandboxHeader█Piaskownica
 menu_sandboxDesc█W piaskownicy liczy się wyobraźnia. Wszystko jest odblokowane!
 
@@ -54,7 +54,7 @@ tooltip_skillPoints█Punkty doświadczenia
 enterText█Wpisz tekst...
 
 company_createNewCompany█Stwórz nową firmę
-company_ceoName█Nazwa prezesa
+company_ceoName█Imię i nazwisko prezesa
 company_companyName█Nazwa firmy
 company_createCompany█Stwórz firmę
 
@@ -85,7 +85,7 @@ upgrade_reliability█<b>Niezawodność:</b> <color=#81C784>+10%
 upgrade_buildCost█<b>Koszt budowy:</b> <color=#81C784>-10%
 upgrade_buildTime█<b>Czas budowy:</b> <color=#81C784>-10%
 
-levelTitle0█Firma zarejestrowana
+levelTitle0█Firma zarejestrowana!
 levelTitle1█Początki
 levelTitle2█"Kiedy coś jest wystarczająco ważne, robisz to nawet jeśli szanse nie są na twoją korzyść." - Elon Musk
 levelTitle3█"Ś" jak Średnie
@@ -94,19 +94,19 @@ levelTitle5█"Wytrwałość jest bardzo ważna. Nie powinieneś się poddawać,
 levelTitle6█Dostawca
 levelTitle7█Akceleracja
 levelTitle8█Na żywo
-levelTitle9█Tylko pamiętaj o lądowaniu!
+levelTitle9█Pamiętaj o lądowaniu!
 levelTitle10█Potęga komputerów
-levelTitle11█Prima Aprils! (wiem, nieśmieszne)
-levelTitle12█Idziemy w ciężkość
+levelTitle11█Prima Aprils! (wiem, nie śmieszne)
+levelTitle12█Idziemy w masę!
 levelTitle13█Infrastruktura
 levelTitle14█Praktyka
-levelTitle15█Nie ładuj ludzi w owiewki
+levelTitle15█Nie ładuj ludzi w owiewki.
 levelTitle16█Czynnik ludzki
 levelTitle17█Idziemy w wielkość
 levelTitle18█"Zrobimy to. Bóg jest moim wielkim świadkiem, jestem cholernie zdeterminowany, by to się udało." - Elon Musk
 levelTitle19█Bardzo Duża Rakieta
 levelTitle20█Tu kończy się zawartość wczesnego dostępu (Dzięki za grę, niedługo dodam więcej funkcji!)
-levelTitle21█haha, nie tak łatwo :D Teraz idź wystrzel te 1000 rakiet, ok?
+levelTitle21█Nie będzie ładwo! Teraz idź i wystrzel te 1000 rakiet, ok?
 
 progress_unlockAllModules█Odblokuj wszystkie moduły
 progress_launchSmallRockets█Odpal małe rakiety: {0}
@@ -116,7 +116,7 @@ progress_launchSuperheavyRockets█Odpal ogromne rakiety: {0}
 progress_launchCargoCapsules█Wystrzel kapsuły ładunkowe: {0}
 progress_launchCrewCapsules█Wystrzel kapsuły załogowe: {0}
 progress_landRockets█Wyląduj rakietami: {0}
-progress_reuseRockets█Użyj {0} rakiety ponownie!
+progress_reuseRockets█Użyj {0} rakiet ponownie!
 progress_launchPayloadsAtOnce█Wystrzel {0} ładunki na raz!
 progress_launchFromOwnLaunchPad█Wystrzel z własnego stanowiska: {0}
 progress_launchTesla█Launch Tesla Roadster!
@@ -129,7 +129,7 @@ progress_getContracts█Zdobądź kontrakty: {0}
 progress_maxFactories█Maks. Fabryk:
 progress_maxOffices█Maks. Biur:
 progress_maxLaunchesATST█Maks. loty w tym samym czasie:
-progress_multiplePayloads█Możesz wystrzeliwywać <b><color=#64B5F6>wiele</b></color> satelit na raz!
+progress_multiplePayloads█Możesz wystrzelić <b><color=#64B5F6>wiele</b></color> satelit na raz!
 progress_fundraiserHats█Nowa zbiórka: <b><color=#64B5F6>Sprzedawaj czapki!
 progress_fundraiserBricks█Nowa zbiórka: <b><color=#64B5F6>Sprzedawaj cegły!
 progress_fundraiserNAF█Nowa zbiórka: <b><color=#64B5F6>Sprzedawaj nie-Miotacze Ognia!
@@ -158,7 +158,7 @@ rocket█Rakieta
 capsule█Kapsuła
 spaceship█Statek kosmiczny
 
-rocketRequiresCapsule█Rakieta (Wymana kapsuły)
+rocketRequiresCapsule█Rakieta (Wymaga kapsuły)
 rocketRequiresSpaceship█Rakieta (Wymaga statku kosmicznego)
 
 vehicles█Pojazdy
@@ -173,7 +173,7 @@ reusedVehicle█Ponowne użycie:
 buildCosts█Koszty budowy
 buildTime█Czas budowy
 originalBuildCosts█Oryginalne koszty
-optimizedBuildCosts█Zooptymalizowane koszty
+optimizedBuildCosts█Zoptymalizowane koszty
 launchCosts█Koszty wystrzelenia
 
 build█Zbuduj
@@ -205,8 +205,8 @@ cargo█Towar
 launchSetup_header█Ustawienia lotu
 launchSetup_missionName█Nazwa misji...
 launchSetup_mission█Misja
-launchSetup_noVehiclesFound█[Nieznaleziono pojazdów.]
-launchSetup_noPayloadsFound█[Nieznaleziono odpowiednich ładunków.]
+launchSetup_noVehiclesFound█[Nie znaleziono pojazdów.]
+launchSetup_noPayloadsFound█[Nie znaleziono odpowiednich ładunków.]
 launchSetup_selectVehicle█Wybierz pojazd
 launchSetup_selectLaunchPad█Wybierz stanowisko
 launchSetup_selectLandingZone█Wybierz strefę lądowania
@@ -232,7 +232,7 @@ launchPanel_speed█Prędkość
 launchPanel_altitude█Wysokość
 launchPanel_staticFire█Test statyczny
 
-buildPanel_moveToHangar█Przenieść do hangaru
+buildPanel_moveToHangar█Przenieś do hangaru
 
 missionReportHeader█Raport misji
 missionReportMissionName█Nazwa misji:
@@ -254,7 +254,7 @@ loss█strata
 creator_header█Nowy projekt
 creator_vehicleName█Nazwa projektu...
 creator_createProject█Stwórz projekt
-creator_vehicleCanGoAnywhere█Ten pojazd może lecieć wszędzie, gdzie ty chcesz.
+creator_vehicleCanGoAnywhere█Ten pojazd może lecieć wszędzie, gdzie tylko chcesz.
 no_module_unlocked█Żaden moduł nie jest odblokowany.
 
 contracts_header█Kontrakty
