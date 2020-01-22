@@ -1,35 +1,35 @@
-fail1█cóż, rakieta wylądowała, tyle że nie w jednym kawałku
-fail2█Mówiąc szczerze, nie wiemy dlaczego to wybuchło ok
-fail3█Błąd 404: Rakieta nieznaleziona
-fail4█Zwarcie: Nieilozowane kable rozpoczęły pożar.
-fail5█Rakieta nieodpowiada, wciśnij dowolny przycisk
-fail6█Aktualizacja systemu operacyjnego sprawiła, że rakieta uruchomiła się ponownie podczas lotu...........
-fail7█Rakieta opuściła nas aby spęłnić swoje marzenie o zostaniu najpopularniejszą fajerwerką 
-fail8█Bateria się przegrzała (Wynik: Boom)
+fail1█Cóż, rakieta wylądowała, tyle że nie w jednym kawałku.
+fail2█Mówiąc szczerze, nie wiemy dlaczego to wybuchło.
+fail3█Błąd 404: rakieta nieznaleziona
+fail4█Zwarcie: nieizolowane kable wywołały pożar.
+fail5█Rakieta nie odpowiada, wciśnij dowolny przycisk.
+fail6█Aktualizacja systemu operacyjnego sprawiła, że rakieta uruchomiła się ponownie podczas lotu.
+fail7█Rakieta opuściła nas, aby spełnić swoje marzenie o zostaniu najpopularniejszą fajerwerką.
+fail8█Bateria się przegrzała (Wynik: boom)
 fail9█Kto by przypuszczał, że TO się zepsuje.
-fail11█Awaria sensora: Nie zadziałał poprawnie (Press F to pay respect).
+fail11█Awaria sensora: nie zadziałał poprawnie (Press F to pay respect).
 fail12█Kto zapomniał zamontować podwozie?
-fail13█Rakieta straciła połączenie z centrum dowodzenia i niewiedziała co robić.
+fail13█Rakieta straciła połączenie z centrum dowodzenia i nie wiedziała co robić.
 fail14█To dlatego nie powinniście odpalać rakiety miotaczem ognia.
-fail15█Awaria anteny: Komputer pokładowy nie dostał odpowiednich danych z centrum lotów.
+fail15█Awaria anteny: komputer pokładowy nie dostał odpowiednich danych z centrum lotów.
 fail16█Co do jasnej-ciasnej robiła satelita w zbiorniku paliwa?
-fail17█darmowe cukierki : https://discord.gg/sbXwwMs
+fail17█darmowe cukierki: https://discord.gg/sbXwwMs
 fail18█Za mało taśmy dałeś...
 fail19█Za duże ciśnienie: silnik wybuchł.
 fail20█Wygląda na to, że rakieta wybuchła przez kosmitów. Nie martw się, nie powiemy nikomu.
 fail21█Przeciek: paliwo wydostało się ze zbiornika.
-fail22█Co leci do góry, musi spaść na dół
-fail23█Przeciek: Mała dziura w zbiorniku paliwa zrobiła boom boom
-fail24█Twoja rakieta stawiła czoło fizyce, dlatego wybuchła.
+fail22█Co leci do góry, musi spaść na dół.
+fail23█Przeciek: mała dziura w zbiorniku paliwa zrobiła boom boom!
+fail24█Twoja rakieta stawiła czoła fizyce. Dlatego wybuchła.
 fail25█Awaria hydrauliki: ważny element rakiety nie mógł się poruszyć.
-fail26█Ej, to nie był przycisk do odpalenia rakiety
-fail27█Ciśnienie: Satelita wybuchła sama z siebie, rakieta była niewinna!
+fail26█Ej, to nie był przycisk do odpalenia rakiety!
+fail27█Ciśnienie: satelita wybuchła sama z siebie, rakieta była niewinna!
 fail28█O nie, zapomnieliśmy otworzyć spadochrony...
-fail29█Pracownik miesiąca: Zostawił swoje narzędzie w rurze, która się zablokowała.
-fail30█Gretna zestrzeliła twoją rakietę poniważ była ona zła dla środowiska.
-fail31█Awaria hydrauliki: Owiewki nie mogły się otworzyć.
+fail29█Pracownik miesiąca: zostawił swoje narzędzie w rurze.
+fail30█"Kiedy coś jest wystarczająco ważne, robisz to nawet jeśli szanse nie są na twoją korzyść."
+fail31█Awaria hydrauliki: owiewki nie mogły się otworzyć.
 fail32█Nie martw się, to tylko mała ryska.
-fail33█Kompresja: Paliwo było skompresowane trochę zbyt mocno.
+fail33█Kompresja: paliwo było skompresowane trochę zbyt mocno.
 fail34█Satelita nie była w trybie rakietowym.
 fail35█Paliwo było zbyt gorące.
-fail36█Nauczka dla siebie: nie łącz modułów rakiet taśmą.
+fail36█Nie łącz modułów rakiet taśmą.
