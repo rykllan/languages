@@ -176,6 +176,8 @@ originalBuildCosts█Original build costs
 optimizedBuildCosts█Optimized build costs
 launchCosts█Launch costs
 
+inQueue█In queue&%<size=14><b><color=#64B5F6>Module will be built in a moment
+
 build█Build
 built█Built
 launch█Launch
@@ -275,6 +277,7 @@ deadline_launchNow█Launch now!
 deadline_yearLeft█1 year left!
 deadline_yearsLeft█years left!
 
+building█Building
 building_office█Office
 building_factory█Factory
 building_laboratory█Laboratory

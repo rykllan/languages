@@ -176,6 +176,8 @@ originalBuildCosts█Oryginalne koszty
 optimizedBuildCosts█Zoptymalizowane koszty
 launchCosts█Koszty wystrzelenia
 
+inQueue█W kolejce&%<size=14><b><color=#64B5F6>Moduł zostanie zbudowany za moment
+
 build█Zbuduj
 built█Zbudowano
 launch█Wystrzel
@@ -275,6 +277,7 @@ deadline_launchNow█Wystrzel teraz!
 deadline_yearLeft█Pozostał 1 rok!
 deadline_yearsLeft█lata na wystrzelenie!
 
+building█Building
 building_office█Biuro
 building_factory█Fabryka
 building_laboratory█Laboratorium
