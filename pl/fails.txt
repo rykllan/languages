@@ -26,7 +26,7 @@ fail26█Ej, to nie był przycisk do odpalenia rakiety!
 fail27█Ciśnienie: satelita wybuchła sama z siebie, rakieta była niewinna!
 fail28█O nie, zapomnieliśmy otworzyć spadochrony...
 fail29█Pracownik miesiąca: zostawił swoje narzędzie w rurze.
-fail30█Twoja rakieta szkodzi środowisku, więc została zestrzelona przez Gretę.
+fail30█Gretna zestrzeliła Twoją rakietę, poniważ szkodzi ona środowisku.
 fail31█Awaria hydrauliki: owiewki nie mogły się otworzyć.
 fail32█Nie martw się, to tylko mała ryska.
 fail33█Kompresja: paliwo było skompresowane trochę zbyt mocno.
