@@ -1,5 +1,5 @@
 news_technology_content_p11█Wszyscy fani {0} na to czekali! Dzisiejsza konferencja prasowa prezesa firmy nie pozostawia złudzeń - jesteśmy świadkami kolejnego, dużego przełomu w badaniach, które zaprowadzą ludzkość na Marsa.
-news_technology_content_p12█WŻyjemy w ciekawych czasach! Wyścig na Marsa rozpoczął się na dobre i sami jesteśmy ciekawi co z tego wyjdzie. Czy {1} spełni swoje obietnice?
+news_technology_content_p12█Żyjemy w ciekawych czasach! Wyścig na Marsa rozpoczął się na dobre i sami jesteśmy ciekawi co z tego wyjdzie. Czy {1} spełni swoje obietnice?
 news_technology_content_p13█Dziś spoglądamy z nadzieją na firmę {0}. Czy kiedykolwiek ich załogowe loty postawią nogę na marsie? Przekonamy się już za kilka lat.
 news_technology_content_p14█Czekaliście na to, prawda? Mamy najnowsze doniesienia z siedziby firmy {0}. Wszystko wskazuje na to, że ich technologia rozwija się w bardzo szybkim tempie.
 news_technology_content_p21█{1}: “Rakiety, które obecnie tworzymy są daleko przed konkurencją.”. Miejmy nadzieję, że to nie tylko zwykłe przechwalanie się w celu osiągnięcia większych zysków na giełdzie. Czy {0} naprawdę jest w posiadaniu lepszych technologii? Czy kiedykolwiek postawimy stopę na Marsie? 
