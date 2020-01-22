@@ -1,0 +1,27 @@
+
+tweet_static_fire_1█Static fire of the {0} went amazingly good! Launching soon. <color=#64B5F6>#earthx</color>
+tweet_static_fire_2█Static fire makes a lot of noise and smoke, but we can check the rocket before the launch. {0} <color=#64B5F6>#space_company</color> <color=#64B5F6>#earthx</color>
+tweet_static_fire_3█Ahh! <color=#64B5F6>#static_fire</color> of {0} rocket has failed... We've lost the customer payload. Shouldn't happen. <color=#64B5F6>#earthx</color>
+tweet_static_fire_4█It wasn't an explosion actually, it was just rapid unscheduled disassembly. {0} static fire has failed. <color=#64B5F6>#earthx</color> <color=#64B5F6>#static_fire</color>
+
+
+tweet_abort_1█We had to abort today's {0} mission just a few moments before launch. More info soon! <color=#64B5F6>#earthx</color>
+tweet_abort_2█Our customer found an issue in his payload, so we had to take it down. {0} launch in a few days! <color=#64B5F6>#earthx</color>
+
+
+tweet_deploy_1█Big thanks to the {1} team for today's {0} launch! We have some golden employees over there! <color=#64B5F6>#earthx</color>
+tweet_deploy_2█The payload is now heading to the target orbit (about one hour of fly). {1} team rocks! {0} <color=#64B5F6>#earthx</color>
+tweet_deploy_3█Separation! Payload is heading now to the target orbit with {0} second stage! <color=#64B5F6>#earthx</color>
+tweet_deploy_4█Congrats {1} team!!
+tweet_deploy_5█Back live for satellite deploy→ (this feature is coming soon) <color=#64B5F6>#earthx</color>
+
+
+tweet_land_1█{0} has landed! 
+tweet_land_2█{0} has landed! It's our {1} landing! <color=#64B5F6>#earthx</color>
+tweet_land_3█{0} first stage has landed! Full footage tmrw. <color=#64B5F6>#earthx</color>
+
+
+tweet_crash_1█Well, that was unexpected. {0} <color=#64B5F6>#earthx</color>
+tweet_crash_2█Our team is investigating the {0} rocket explosion.
+tweet_crash_3█Look, it wasn't an explosion. It was just rapid unscheduled disassembly. {0} <color=#64B5F6>#earthx</color>
+tweet_crash_4█Our team found the issue. It was something with {1}. Shouldn't happen again in our future flights. {0} <color=#64B5F6>#earthx</color>

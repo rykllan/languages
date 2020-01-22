@@ -1,0 +1,18 @@
+tweet_static_fire_1█Test statyczny naszej rakiety {0} zakonczył się sukcesem. Start już jutro! <color=#64B5F6>#earthx</color>
+tweet_static_fire_2█Test statyczny tworzy bardzo dużo hałasu, ale dzięki temu możemy sprawdzić podstawowe systemy rakiety tuż przed jej odpaleniem. {0} <color=#64B5F6>#firma_kosmiczna</color> <color=#64B5F6>#earthx</color>
+tweet_static_fire_3█Ahh! <color=#64B5F6>#test_statyczny</color> naszej rakiety {0} zakończył się katastroficznie... Straciliśmy ładunek, co niepowinno się stać. Służby ratunkowe już w drodze! <color=#64B5F6>#earthx</color>
+tweet_static_fire_4█To nie była eksplozja. To był szybki, nieplanowany demontaż. Test statyczny {0} okazał się porażką. <color=#64B5F6>#earthx</color> <color=#64B5F6>#test_statyczny</color>
+tweet_abort_1█Musieliśmy przerwać dzisiejszą misję {0}. Więcej informacji podam wkrótce. <color=#64B5F6>#earthx</color>
+tweet_abort_2█Nasz klient znalazł pewien błąd w swoim ładunku tuż przed startem, przez co musieliśmy wprowadzić rakietę z powrotem do hangaru. <color=#64B5F6>#earthx</color>
+tweet_deploy_1█Ogromne podziękowania dla zespołu firmy {1}! Mamy tutaj naprawdę niesamowitych pracowników! <color=#64B5F6>#earthx</color>
+tweet_deploy_2█Ładunek właśnie zbliża się do docelowej orbity. Lot potrwa jeszcze m/w godzinę! Zespół {1} rządzi! {0} <color=#64B5F6>#earthx</color>
+tweet_deploy_3█Separacja! Ładunek właśnie zmierza do orbity docelowej z 2 stopniem rakiety {0}. <color=#64B5F6>#earthx</color>
+tweet_deploy_4█Gratuluję {1}!!
+tweet_deploy_5█Wróć na transmisję po oddzieleniu się satelit→ (ta funkcja pojawi się wkrótce) <color=#64B5F6>#earthx</color>
+tweet_land_1█{0} wylądowała! 
+tweet_land_2█{0} wylądowała! To nasze {1} lądowanie! <color=#64B5F6>#earthx</color>
+tweet_land_3█Pierwszy stopień rakiety {0} wylądował! Pełne nagranie jutro. <color=#64B5F6>#earthx</color>
+tweet_crash_1█Cóż, tego się nie spodziewałem. {0} <color=#64B5F6>#earthx</color>
+tweet_crash_2█Nasz zespół pracuje nad przyczyną dzisiejszej eksplozji rakiety {0}.
+tweet_crash_3█To nie była eksplozja. To był szybki, nieplanowany demontaż. {0} <color=#64B5F6>#earthx</color>
+tweet_crash_4█Nasz zespół znalazł prawdopodobny błąd w rakiecie. To było coś związanego z {1}. Nie powinno się zdarzyć ponownie w naszych przyszłych lotach. {0} <color=#64B5F6>#earthx</color>

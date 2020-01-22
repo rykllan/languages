@@ -1,0 +1,58 @@
+company_ceoAndCompanyMustHaveName█Firma oraz prezes muszą się jakoś nazywać.
+
+earthxWelcome█Witaj, <color=#64B5F6>{0}</color>!&%Widzę, że w końcu założyłeś rakietową firmę, o której wspominałeś. "<color=#64B5F6>{1}</color>" to nawet fajna nazwa!. Muszę Ci przyznać, że jesteś bardzo odważny.&%&%Duże firmy, które mają monopol w wysyłaniu ładunków na orbitę, od lat nie zainwestowały w nowszą technologię. Cały czas używają jakiś niewydajnych rakiet na przestarzałych silnikach. A gdyby tak rakiety mogły lądować? Wtedy można by było wysłać nawet kilka ładunków tylko 1 rakietą! Mam nadzieję, że uda Ci się zbudować lądujące rakiety, a może nawet rakietę z bocznymi boosterami?&%&%Powodzenia!
+
+iss_CRSHeader█Misja: ISS Commercial ReSupply
+iss_CRSContent█Hej!&%&%Udowodniłeś, że potrafisz wysyłać ładunki na orbitę, dlatego zostałeś wybrany przez twórcę tej gry do regularnego wysyłania zapasów na międzynarodową stację kosmiczną.&%&%Jesteś do tego zmuszony, ponieważ niezaprogramowałem funkcji odmowy, a poza tym gra bez tyego byłaby... nudna.
+
+iss_CCPHeader█Misja: ISS Commercial Crew Programm
+iss_CCPContent█Hej!&%&%Twoja firma bardzo urosła od ostatniej wiadomości. Zresztą, wyobrażałeś siebie kiedyś jako prezes jednej z większych firm kosmicznych? Ja też nie.&%&%Ale gra toczy się dalej i widzę, że masz sporo na głowie. Dlatego dodaję Ci kilka misji załogowych, abyś miał jeszcze więcej. Misje załogowe muszą być wysyłane regularnie do międzynarodowej stacji kosmicznej.&%&%Oh, prawie zapomniałem: upewnij się, że rakiety Ci nie wybuchną, bo będzie źle jak spalisz ludzi, lol.
+
+teslaRoadsterHeader█Misja: Tesla Roadster
+teslaRoadsterContent█Wystrzel auto w kosmos, bo czemu nie!
+
+contract_newPayloadsHeader█Nowe ładunki!
+contract_newPayloadsContent█Te satelity zostały zbudowane i przetestowane:&%{0}&%Idź je wystrzelić.&%{1}
+contract_goLaunchThemOkNow█Mam na myśli teraz.&%&%Czemu wciąż tu jesteś lol&%&%ok idź je wystrzel albo usunę twoje rakiety
+
+contract_hurryUpHeader█Pośpiesz się!
+contract_hurryUpContent█Musisz wystrzelić te ładunki jak najszybciej się da:&%{0}&%&%Na co czekasz? Twoje rakiety nie są autonomiczne, idź i je wystrzel!
+
+contract_badBoyHeader█Źle zrobiłeś(aś).
+contract_badBoyContent█Musisz zapłacić 15% ceny każdej satelity jako odszkodowanie za spóźnienie się:&%{0}&%&%Świat się jeszcze nie skończył. Idź zdobądź nowe kontrakty! :)
+
+staticFireIssueFound█Twoi pracownicy znaleźli błąd w rakiecie i go naprawili.
+
+cantBuildNoFactories█Potrzebujesz fabryk, aby zbudować rakietę!
+cantBuildSoManyVehicles█Nie możesz budować tylu pojazdów w tym samym momencie!
+cantLaunchSoManyVehicles█Nie możesz startować tylu rakiet w tym samym momencie!
+cantRepairSoManyVehicles█Nie możesz naprawiać tylu pojazdów w tym samym momencie!
+
+cantRemoveProject█Nie możesz usunąć tego projektu, ponieważ są w nim pojazdy.
+
+noHangars█Nie posiadasz żadnego hangaru lub nie masz w nich miejsca.
+
+projectMustHaveName█Projekt musi mieć jakąś nazwę. Widziałeś kiedyś rakietę bez nazwy?
+projectSameName█{0} już istnieje. Może nazwij ją <color=yellow><b><size=20>'{0} Max Pro Ultra Slim'?
+
+moduleUnlocked█Moduł odblokowany!
+moduleUpgraded█Moduł ulepszony!
+notEnoughSkillPoints█Za mało punktów doświadczenia!
+
+congratulations█Gratulacje!
+congratulations_content█Gratuluję pierwszego udanego lotu!&%Chciałbym Cię poinformować, że Twoja firma otrzymała fundusze na dalszy rozój twoich rakiet.&%<color=#64B5F6><b>Nie zmarnuj ich</color>.
+
+buildingWorking█Ten budynek aktualnie pracuje.
+hangarStoring█Ten hangar przechowuje rakiety.
+rocketLaunching█Rakieta aktualnie startuje z tego stanowiska.
+
+cantBuildOffices█Nie możesz budować tylu biur.
+cantBuildFactories█Nie możesz budować tylu fabryk.
+
+cantBuildSimpleLP█Nie możesz teraz zbudować prostego stanowiska.
+cantBuildAdvancedLP█Nie możesz teraz zbudować zaawansowanego stanowiska.
+cantBuildMegaLP█Nie możesz teraz zbudować mega stanowiska.
+
+
+
+
