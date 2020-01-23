@@ -16,7 +16,7 @@ tweet_deploy_4█Congrats {1} team!!
 tweet_deploy_5█Back live for satellite deploy→ (this feature is coming soon) <color=#64B5F6>#earthx</color>
 
 
-tweet_land_1█{0} has landed!
+tweet_land_1█{0} has landed! 
 tweet_land_2█{0} has landed! It's our {1} landing! <color=#64B5F6>#earthx</color>
 tweet_land_3█{0} first stage has landed! Full footage tmrw. <color=#64B5F6>#earthx</color>
 

@@ -97,7 +97,7 @@ news_bankrupt_content_p34█I wonder which company is next.
 
 
 news_bankrupt_header1█Sad end of the {0}. {1} says goodbye to the space sector.
-news_bankrupt_header2█No more dreams of Mars. {0} closes its factories..
+news_bankrupt_header2█No more dreams of Mars. {0} closes its factories.
 news_bankrupt_header3█"The expectations of the shareholders have exceeded our expectations" - {1} refers to the end of {0}.
 news_bankrupt_header4█{1} - visionary and... bankrupt. 
 news_bankrupt_header5█There will be no more {0} flights. The company goes bankrupt.
