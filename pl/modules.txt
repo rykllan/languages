@@ -15,7 +15,7 @@ mdl_s_engine█Prosty Silnik,Wymagany do małych rakiet.
 mdl_a_engine█Zaawansowany Silnik,Wymagany do średnich rakiet.
 mdl_a4_engine█4 Zaawansowane Silniki,Wymagane do ręcznie lądujących/wynoszących kapsuły rakiet.
 mdl_a9_engine█9 Zaawansowanych Silników,Wymagane do dużych/automatycznie lądujących rakiet.
-mdl_m27_engine█27 Metanowych Silników,Wymagane do ogromnych rakiet.
+mdl_m27_engine█37 Metanowych Silników,Wymagane do ogromnych rakiet.
 ---FuelTanks---█---FuelTanks---
 mdl_s_fueltank█Mały Zbiornik Paliwa,Wymagany do małych rakiet.
 mdl_m_fueltank█Średni Zbiornik Paliwa,Wymagany do średnich/wynoszących kapsuły rakiet.
