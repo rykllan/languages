@@ -119,7 +119,7 @@ progress_landRockets█Wyląduj rakietami: {0}
 progress_reuseRockets█Użyj {0} rakiet ponownie!
 progress_launchPayloadsAtOnce█Wystrzel {0} ładunki na raz!
 progress_launchFromOwnLaunchPad█Wystrzel z własnego stanowiska: {0}
-progress_launchTesla█Launch Tesla Roadster!
+progress_launchTesla█Wystrzel auto!
 progress_buildFactories█Zbuduj fabryki: {0}
 progress_buildOffices█Zbuduj biura: {0}
 progress_buildLaunchPads█Zbuduj proste lub zaawasowane stanowisko: {0}
@@ -136,7 +136,7 @@ progress_fundraiserNAF█Nowa zbiórka: <b><color=#64B5F6>Sprzedawaj nie-Miotacz
 progress_fundraiserRocketquilla█Nowa zbiórka: <b><color=#64B5F6>Sprzedawaj Rakietoquillasy!
 progress_issSupplierMission█Misja Specjalna: <b><color=#64B5F6>Dostawca MSK
 progress_issCrewMission█Misja Specjalna: <b><color=#64B5F6>Komercyjne Loty Załogowe MSK
-progress_teslaRoadsterMission█Misja Specjalna: <b><color=#64B5F6>Tesla Roadster
+progress_teslaRoadsterMission█Misja Specjalna: <b><color=#64B5F6>Wystrzel auto
 progress_simpleLaunchPad█Nowy budynek: <b><color=#64B5F6>Proste Stanowisko
 progress_advancedLaunchPad█Nowy budynek: <b><color=#64B5F6>Zaawansowane Stanowisko
 progress_megaLaunchPad█Nowy budynek: <b><color=#64B5F6>Mega Stanowisko

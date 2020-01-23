@@ -119,7 +119,7 @@ progress_landRockets█Land with {0} rocket(s)
 progress_reuseRockets█Reuse {0} rocket(s)
 progress_launchPayloadsAtOnce█Launch {0} payloads at once
 progress_launchFromOwnLaunchPad█Launch {0} rocket(s) from your own launch pad!
-progress_launchTesla█Launch Tesla Roadster!
+progress_launchTesla█Launch a car!
 progress_buildFactories█Build {0} factories!
 progress_buildOffices█Build {0} offices!
 progress_buildLaunchPads█Build {0} small or advanced launch pad(s)!
@@ -136,7 +136,7 @@ progress_fundraiserNAF█New Fundraiser: <b><color=#64B5F6>Sell (not a) Flamethr
 progress_fundraiserRocketquilla█New Fundraiser: <b><color=#64B5F6>Sell Rocketquillas!
 progress_issSupplierMission█Special Mission: <b><color=#64B5F6>ISS Supplier
 progress_issCrewMission█Special Mission: <b><color=#64B5F6>ISS Commercial Crew
-progress_teslaRoadsterMission█Special Mission: <b><color=#64B5F6>Tesla Roadster
+progress_teslaRoadsterMission█Special Mission: <b><color=#64B5F6>Launch a car
 progress_simpleLaunchPad█New Building: <b><color=#64B5F6>Simple Launch Pad
 progress_advancedLaunchPad█New Building: <b><color=#64B5F6>Advanced Launch Pad
 progress_megaLaunchPad█New Building: <b><color=#64B5F6>Mega Launch Pad
