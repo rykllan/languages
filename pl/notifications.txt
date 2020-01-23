@@ -8,7 +8,7 @@ iss_CRSContent█Hej!&%&%Udowodniłeś, że potrafisz wysyłać ładunki na orbi
 iss_CCPHeader█Misja: ISS Commercial Crew Programm
 iss_CCPContent█Hej!&%&%Twoja firma bardzo urosła od ostatniej wiadomości. Zresztą, wyobrażałeś sobie kiedyś siebie jako prezesa jednej z większych firm kosmicznych? Ja też nie.&%&%Ale gra toczy się dalej i widzę, że masz sporo na głowie. Dlatego dodaję Ci kilka misji załogowych, abyś miał jeszcze więcej pracy. Misje załogowe muszą być wysyłane regularnie do Międzynarodowej Stacji Kosmicznej.&%&%Oh, prawie zapomniałem: upewnij się, że rakiety Ci nie wybuchną, bo będzie źle jak spalisz ludzi, lol.
 
-teslaRoadsterHeader█Misja: Tesla Roadster
+teslaRoadsterHeader█Misja: Auto w kosmosie
 teslaRoadsterContent█Wystrzel auto w kosmos!
 
 contract_newPayloadsHeader█Nowe ładunki!
