@@ -2,7 +2,7 @@ company_ceoAndCompanyMustHaveName█Company and the CEO must have a name!
 
 earthxWelcome█Hey, Elo- oh, this is you... <color=#64B5F6>{0}</color>!&%I see you've finally set up the rocket company you've mentioned before. "<color=#64B5F6>{1}</color>" is actually a cool name! I have to tell you, you're very brave.&%&%Big companies that have a monopoly on the launch provider market have not invested in some newer technology for years. They're still using inefficient boosters and obsolete engines. What if they could land their rockets back on Earth? Then it would be possible to send multiple payloads with only 1 rocket! I hope you can build a landing rocket or even a sidebooster one in a few years.&%&%Good luck!
 
-iss_CRSHeader█ISS Commercial ReSupply Missions
+iss_CRSHeader█ISS Commercial Resupply Services
 iss_CRSContent█Hey!&%&%You've proven you can launch rockets and cargo capsules. For this reason you were chosen by the creator of this game to regularly supply the international space station for several years.&%&%You are forced to do this because I have not programmed the option to refuse, and the game without this mission would be... boring.
 
 iss_CCPHeader█ISS Commercial Crew Programm
