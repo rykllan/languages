@@ -18,7 +18,7 @@ fail18█Not enough silver tape
 fail19█Overpressure: Engine combustion champer exploded.
 fail20█Looks the like rocket blew up due to aliens... don't worry we will keep it a secret.
 fail21█Leakage: The fuel found its way out of the fuel tank.
-fail22█What goes up, musk crash down
+fail22█What goes up, must crash down
 fail23█Leakage: A small hole between engine and fuel tank caused boom boom
 fail24█Your rocket defied physics...that is why it crashed
 fail25█Hydraulic Failure: An important rocket part couldn't move.
