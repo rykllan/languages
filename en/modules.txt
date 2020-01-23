@@ -15,7 +15,7 @@ mdl_s_engine█Simple Engine,Required for small rockets.
 mdl_a_engine█Advanced Engine,Required for medium rockets.
 mdl_a4_engine█4 Advanced Engines,Required for manual landing rockets.
 mdl_a9_engine█9 Advanced Engines,Required for large/automatic landing rockets.
-mdl_m27_engine█27 Methane Engines,Required for very large rockets. (Superheavy Boi)
+mdl_m27_engine█37 Methane Engines,Required for very large rockets. (Superheavy Boi)
 ---FuelTanks---█---FuelTanks---
 mdl_s_fueltank█Small Fuel Tank,Required for small rockets.
 mdl_m_fueltank█Medium Fuel Tank,Required for medium/capsule rockets.
