@@ -1,58 +1,56 @@
-company_ceoAndCompanyMustHaveName█Company and the CEO must have a name!
+company_ceoAndCompanyMustHaveName█Компания и CEO должны иметь имена!
 
-earthxWelcome█Hey, Elo- oh, this is you... <color=#64B5F6>{0}</color>!&%I see you've finally set up the rocket company you've mentioned before. "<color=#64B5F6>{1}</color>" is actually a cool name! I have to tell you, you're very brave.&%&%Big companies that have a monopoly on the launch provider market have not invested in some newer technology for years. They're still using inefficient boosters and obsolete engines. What if they could land their rockets back on Earth? Then it would be possible to send multiple payloads with only 1 rocket! I hope you can build a landing rocket or even a sidebooster one in a few years.&%&%Good luck!
+earthxWelcome█Привет, Ило- а, это ты... <color=#64B5F6>{0}</color>!&%Я вижу вы наконец-то основали ракетную компанию, о которой говорили ранее. "<color=#64B5F6>{1}</color>" - на самом деле классное название! Я должен сказать вам, вы очень смелый.&%&%Крупные компании, которые имеют монополию на запуск ракет, годами не инвестировали в новые технологии. Они все время используют неэффективные ускорители на устаревших двигателях. Что, если они смогут вернуть свои ракеты обратно на землю? Тогда можно было бы отправить даже несколько полезных грузов только с одной ракетой! Я надеюсь, что вы сможете собрать ракету, которая совершит посадку, или даже ракету с боковыми ускорителями через несколько лет.&%&%Удачи!
 
-iss_CRSHeader█ISS Commercial ReSupply Missions
-iss_CRSContent█Hey!&%&%You've proven you can launch rockets and cargo capsules. For this reason you were chosen by the creator of this game to regularly supply the international space station for several years.&%&%You are forced to do this because I have not programmed the option to refuse, and the game without this mission would be... boring.
+iss_CRSHeader█Миссии коммерческого снабжения МКС
+iss_CRSContent█Привет!&%&%Вы доказали, что можете запускать ракеты и грузовые корабли. Именно поэтому вы были выбраны создателем этой игры для регулярных поставок на МКС в течение нескольких лет.&%&%Вы вынуждены это делать, потому что я не запрограммировал вариант отказа, и игра без этой миссии была бы... скучной. 
 
-iss_CCPHeader█ISS Commercial Crew Programm
-iss_CCPContent█Hey!&%&%Your company has grown very much since its foundation. Anyway, have you ever imagined yourself as the CEO of one of the biggest space companies in the world? Well, neither have I.&%&%But the game goes on and I see that you have a lot on your mind, so I give you 6 additional crew missions (the creator of the game detected that you already have the necessary capsule). Crew missions must be sent regularly to the international space station.&%&%Oh, I almost forgot, make sure your rocket doesn't explode, or it'll be bad if you burn people, lol.
+iss_CCPHeader█Миссии коммерческого экипажа для МКС
+iss_CCPContent█Привет!&%&%Ваша компания очень выросла с момента основания. Вы когда-нибудь представляли себя генеральным директором одной из крупнейших космических компаний в мире? Ну, я тоже.&%&%Но игра продолжается, и я вижу, что у тебя много чего на уме, поэтому я даю тебе 6 дополнительных пилотируемых миссий (создатель игры обнаружил, что у тебя уже есть необходимый корабль).  Пилотируемые миссии должны регулярно отправляться на МКС.&%&%Чуть не забыл, убедитесь, что ваша ракета не взорвется, иначе будет плохо, если вы сожжете людей, лол. 
 
-teslaRoadsterHeader█Tesla Roadster Mission
-teslaRoadsterContent█Launch a car into space because why not!
+Переведено с помощью www.DeepL.com/Translator (бесплатная версия)
 
-contract_newPayloadsHeader█New payloads!
-contract_newPayloadsContent█These payloads were constructed and tested:&%{0}&%Now you can launch them.&%{1}
-contract_goLaunchThemOkNow█I mean really now.&%&%Why are you still here lol&%&%ok just go launch them or i will delete your rockets
+teslaRoadsterHeader█Миссия по доставке автомобиля в космос
+teslaRoadsterContent█Отправьте автомобиль в космос, потому что вы можете!
 
-contract_hurryUpHeader█Hurry up!
-contract_hurryUpContent█You need to complete these payloads as soon as possible:&%{0}&%&%What are you waiting for? Your rockets aren't autonomous, go and launch them!
+contract_newPayloadsHeader█Новые нагрузки!
+contract_newPayloadsContent█Эти полезные нагрузки были произведены и протестированы:&%{0}&%Теперь выможете запустить их.&%{1}
+contract_goLaunchThemOkNow█Я серьёзно имею ввиду сейчас.&%&%Почему ты ещё здесь лол&%&%ок, просто запусти их или я удалю твои ракеты
 
-contract_badBoyHeader█Bad boy. (or girl)
-contract_badBoyContent█You were fined 15% of each payload because you didn't launch these payloads in time:&%{0}&%&%The world isn't over yet. Go and grab more contracts! :)
+contract_hurryUpHeader█Поторопитесь!
+contract_hurryUpContent█Вы должны запустить эти нагрузки как можно быстрее:&%{0}&%&%Чего вы ждёте? Ваши ракеты не автономны, идите и запустите их!
 
-staticFireIssueFound█Your engineers have found an issue in your rocket and they have fixed it.
+contract_badBoyHeader█Плохой мальчик. (или девочка)
+contract_badBoyContent█Вы были оштрафованы на 15% за каждую нагрузку, потому что вы не запустили их вовремя:&%{0}&%&%Мир еще не закончился. Идите и возьмите больше контрактов! :)
 
-cantBuildNoFactories█You need factories to build rockets!
-cantBuildSoManyVehicles█You can't build so many vehicles at the same time!
-cantLaunchSoManyVehicles█You can't launch so many rockets at the same time!
-cantRepairSoManyVehicles█You can't repair so many vehicles at the same time!
+staticFireIssueFound█Ваши инженеры нашли проблему в ракете и исправили её.
 
-cantRemoveProject█You can't remove this project, because there are vehicles in it.
+cantBuildNoFactories█Вам нужны фабрики для производства ракет!
+cantBuildSoManyVehicles█Вы не можете производить так много ракет одновременно!
+cantLaunchSoManyVehicles█Вы не можете запускать так многоракет одновременно!
+cantRepairSoManyVehicles█Вы не можете ремонтировать так много ракет одновременно!
 
-noHangars█You have no hangars or there's too little space to store vehicles it!
+cantRemoveProject█Вы неможете удалить этот проект, потому что он содержит ракету.
 
-projectMustHaveName█Project must have a name. Have you ever seen a rocket without a name?
-projectSameName█{0} already exists. Maybe name it <color=yellow><b><size=20>'{0} Max Pro Ultra Slim'?
+noHangars█У вас нет ангаров или слишком мало места для хранения ракет!
 
-moduleUnlocked█Module unlocked!
-moduleUpgraded█Module upgraded!
-notEnoughSkillPoints█Not enough skill points!
+projectMustHaveName█У проекта должно быть название.  Вы когда-нибудь видели ракету без названия? 
+projectSameName█{0} уже существует. Может назвать это <color=yellow><b><size=20>'{0} Max Pro Ultra Slim'?
 
-congratulations█Congratulations!
-congratulations_content█Congratulations on your first successful flight!&%We would like to inform you that your company was granted funds from the government for further research and development.&%<color=#64B5F6><b>Don't waste them</color>.
+moduleUnlocked█Модуль разблокирован!
+moduleUpgraded█Модуль улучшен!
+notEnoughSkillPoints█Недостаточно очков навыков!
 
-buildingWorking█This building is working now.
-hangarStoring█This hangar is storing vehicles.
-rocketLaunching█A rocket is launching from this launchpad now.
+congratulations█Поздравляем!
+congratulations_content█Поздравляем с вашим первым успешным запуском!&%Мы хотели бы сообщить вам, что ваша компания получила средства от государства на дальнейшие исследования и разработки.&%<color=#64B5F6><b>Не потратьте их впустую</color>.
 
-cantBuildOffices█You can't build so many offices.
-cantBuildFactories█You can't build so many factories.
+buildingWorking█Это здание работает сейчас.
+hangarStoring█В этом анграе уже содержатся ракеты.
+rocketLaunching█С этой площадки уже запускается ракета.
 
-cantBuildSimpleLP█You can't build simple launch pads now.
-cantBuildAdvancedLP█You can't build advanced launch pads now.
-cantBuildMegaLP█You can't build mega launch pads now.
+cantBuildOffices█Вы не можете построить так много офисов.
+cantBuildFactories█Вы не можете построить так много фабрик.
 
-
-
-
+cantBuildSimpleLP█Вы не можете сейчас построить простую стартовую площадку.
+cantBuildAdvancedLP█Вы не можете сейчас построить продвинутую стартовую площадку.
+cantBuildMegaLP█Вы не можете сейчас построить "Мега-пад".
