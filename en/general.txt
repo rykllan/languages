@@ -74,6 +74,8 @@ company_progressHeader█Company Progress
 company_progressLevel█Level
 company_progressNewStuff█New Stuff
 company_progressCompleteChallenges█Complete Challenges
+company_progressNextLevel█Next Level
+company_progressPreviousLevel█Previous Level
 locked█Locked
 unlock█Unlock
 unlocked█Unlocked
@@ -213,6 +215,10 @@ launchSetup_selectVehicle█Select vehicle
 launchSetup_selectLaunchPad█Select launch pad
 launchSetup_selectLandingZone█Select landing zone
 
+launchSetup_barge█Barge
+launchSetup_lz1█LZ-1
+launchSetup_lz2█LZ-2
+
 launchSetup_testFlight█Test Flight
 launchSetup_concrete█Concrete
 launchSetup_cheese█Cheese
@@ -260,7 +266,7 @@ creator_vehicleCanGoAnywhere█This vehicle can go to any place you want.
 no_module_unlocked█No module is unlocked.
 
 contracts_header█Contracts
-contracts_payloads█Payloads
+contracts_payloads█{0} payloads
 contracts_availableIn█Available in
 contracts_noRockets█No capable rockets!
 contracts_negotiating█Negotiating
@@ -275,7 +281,7 @@ contracts_onMissionFailure█On Mission Failure
 deadline_critical█Very critical!
 deadline_launchNow█Launch now!
 deadline_yearLeft█1 year left!
-deadline_yearsLeft█years left!
+deadline_yearsLeft█{0} years left!
 
 building█Building
 building_office█Office
