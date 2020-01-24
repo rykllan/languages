@@ -223,6 +223,10 @@ launchSetup_earthPlush█Pluszowa Ziemia
 launchSetup_everydayStickers█Naklejki Everyday
 launchSetup_landingZone█Strefa lądowania
 
+launchSetup_barge█Barka
+launchSetup_lz1█Strefa 1
+launchSetup_lz2█Strefa 2
+
 launchSetup_success█Sukces
 launchSetup_crash█Wybuch
 failure█Niepowodzenie
