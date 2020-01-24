@@ -262,7 +262,7 @@ creator_vehicleCanGoAnywhere█This vehicle can go to any place you want.
 no_module_unlocked█No module is unlocked.
 
 contracts_header█Contracts
-contracts_payloads█Payloads
+contracts_payloads█{0} payloads
 contracts_availableIn█Available in
 contracts_noRockets█No capable rockets!
 contracts_negotiating█Negotiating
