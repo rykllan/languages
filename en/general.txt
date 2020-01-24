@@ -74,6 +74,8 @@ company_progressHeader█Company Progress
 company_progressLevel█Level
 company_progressNewStuff█New Stuff
 company_progressCompleteChallenges█Complete Challenges
+company_progressNextLevel█Next Level
+company_progressPreviousLevel█Previous Level
 locked█Locked
 unlock█Unlock
 unlocked█Unlocked
@@ -275,7 +277,7 @@ contracts_onMissionFailure█On Mission Failure
 deadline_critical█Very critical!
 deadline_launchNow█Launch now!
 deadline_yearLeft█1 year left!
-deadline_yearsLeft█years left!
+deadline_yearsLeft█{0} years left!
 
 building█Building
 building_office█Office
