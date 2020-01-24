@@ -74,6 +74,8 @@ company_progressHeader█Postęp firmy
 company_progressLevel█Poziom
 company_progressNewStuff█Nowe przedmioty
 company_progressCompleteChallenges█Ukończ zadania
+company_progressNextLevel█Następny Poziom
+company_progressPreviousLevel█Poprzedni Poziom
 locked█Zablokowane
 unlock█Odblokuj
 unlocked█Odblokowane
@@ -275,7 +277,7 @@ contracts_onMissionFailure█Jeśli wybuchnie
 deadline_critical█Krytyczny!
 deadline_launchNow█Wystrzel teraz!
 deadline_yearLeft█Pozostał 1 rok!
-deadline_yearsLeft█lata na wystrzelenie!
+deadline_yearsLeft█{0} lata na wystrzelenie!
 
 building█Building
 building_office█Biuro
