@@ -215,6 +215,10 @@ launchSetup_selectVehicle█Select vehicle
 launchSetup_selectLaunchPad█Select launch pad
 launchSetup_selectLandingZone█Select landing zone
 
+launchSetup_barge█Barge
+launchSetup_lz1█LZ-1
+launchSetup_lz2█LZ-2
+
 launchSetup_testFlight█Test Flight
 launchSetup_concrete█Concrete
 launchSetup_cheese█Cheese
