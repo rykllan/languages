@@ -8,11 +8,11 @@ menu_save█Save
 menu_notAvailable█Not available in this version, sorry :(
 menu_saveNotSupported█Playing on saves from older versions of EarthX is not supported.
 
-menu_createNewGame█Create new game
+menu_createNewGame█Create a new game
 menu_tutorial█Tutorial
 menu_classicHeader█Classic
-menu_classicDesc█Play the classic mode, where you have to build your own space company.
-menu_sandboxHeader█Snadbox
+menu_classicDesc█Play the classic mode where you have to build your own space company.
+menu_sandboxHeader█Sandbox
 menu_sandboxDesc█In sandbox mode everything is unlocked and unlimited. Use your imagination!
 
 menu_quality█Quality
@@ -53,7 +53,7 @@ tooltip_skillPoints█Skill Points
 
 enterText█Enter text...
 
-company_createNewCompany█Create new company
+company_createNewCompany█Create a new company
 company_ceoName█CEO name
 company_companyName█Company name
 company_createCompany█Create company
@@ -96,17 +96,17 @@ levelTitle7█Acceleration
 levelTitle8█Webcast
 levelTitle9█Remember to land
 levelTitle10█The power of computers
-levelTitle11█1st April haha (not funny I know)
+levelTitle11█April 1 haha (not funny I know)
 levelTitle12█Going Heavy
 levelTitle13█Infrastructure
 levelTitle14█Practice
-levelTitle15█Do not put Humans inside Fairings
+levelTitle15█Do not put Humans inside the Fairings
 levelTitle16█Human Factor
 levelTitle17█Going Big
 levelTitle18█"We're going to make it happen. As God is my bloody witness, I'm hell-bent on making it work." - Elon Musk
 levelTitle19█Big Fu*king Rocket
 levelTitle20█Early Access Endgame (More soon :))
-levelTitle21█haha, you won't get the level that easy :D
+levelTitle21█Haha, you won't get this level that easy :D
 
 progress_unlockAllModules█Unlock all modules
 progress_launchSmallRockets█Launch {0} small rocket(s)
