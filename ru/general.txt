@@ -106,7 +106,7 @@ levelTitle17█Становимся большими
 levelTitle18█"Мы собираемся сделать это. Поскольку Бог - мой кровавый свидетель, я одержим желанием заставить его работать." - Илон Маск
 levelTitle19█Big Fu*king Rocket
 levelTitle20█Эндгейм раннего доступа (скоро будет больше :))
-levelTitle21█хаха, ты не получишь такой легкий уровень :D
+levelTitle21█https://www.youtube.com/watch?v=CfqCQQe2E2s
 
 progress_unlockAllModules█Разблокировать все модули
 progress_launchSmallRockets█Запустить малых ракет: {0}
