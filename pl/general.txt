@@ -108,13 +108,13 @@ levelTitle17█Idziemy w wielkość
 levelTitle18█"Zrobimy to. Bóg jest moim wielkim świadkiem, jestem cholernie zdeterminowany, by to się udało." - Elon Musk
 levelTitle19█Bardzo Duża Rakieta
 levelTitle20█Tu kończy się zawartość wczesnego dostępu (Dzięki za grę, niedługo dodam więcej funkcji!)
-levelTitle21█Nie będzie łatwo! Teraz idź i wystrzel te 1000 rakiet, ok?
+levelTitle21█https://youtu.be/CfqCQQe2E2s
 
 progress_unlockAllModules█Odblokuj wszystkie moduły
-progress_launchSmallRockets█Odpal małe rakiety: {0}
-progress_launchMediumRockets█Odpal średnie rakiety: {0}
-progress_launchLargeRockets█Odpal duże rakiety: {0}
-progress_launchSuperheavyRockets█Odpal ogromne rakiety: {0}
+progress_launchSmallRockets█Odpal rakiety LEO: {0}
+progress_launchMediumRockets█Odpal rakiety MEO: {0}
+progress_launchLargeRockets█Odpal rakiety GEO: {0}
+progress_launchSuperheavyRockets█Odpal statek kosmiczny: {0}
 progress_launchCargoCapsules█Wystrzel kapsuły ładunkowe: {0}
 progress_launchCrewCapsules█Wystrzel kapsuły załogowe: {0}
 progress_landRockets█Wyląduj rakietami: {0}
