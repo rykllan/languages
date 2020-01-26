@@ -108,13 +108,13 @@ levelTitle17█Going Big
 levelTitle18█"We're going to make it happen. As God is my bloody witness, I'm hell-bent on making it work." - Elon Musk
 levelTitle19█Big Fu*king Rocket
 levelTitle20█Early Access Endgame (More soon :))
-levelTitle21█Haha, you won't get this level that easy :D
+levelTitle21█https://youtu.be/CfqCQQe2E2s
 
 progress_unlockAllModules█Unlock all modules
-progress_launchSmallRockets█Launch {0} small rocket(s)
-progress_launchMediumRockets█Launch {0} medium rocket(s)
-progress_launchLargeRockets█Launch {0} large rocket(s)
-progress_launchSuperheavyRockets█Launch {0} superheavy rocket(s)
+progress_launchSmallRockets█Launch {0} LEO rocket(s)
+progress_launchMediumRockets█Launch {0} MEO rocket(s)
+progress_launchLargeRockets█Launch {0} GEO rocket(s)
+progress_launchSuperheavyRockets█Launch {0} spaceship(s)
 progress_launchCargoCapsules█Launch {0} cargo capsule(s)
 progress_launchCrewCapsules█Launch {0} crew capsule(s)
 progress_landRockets█Land with {0} rocket(s)
