@@ -109,10 +109,10 @@ levelTitle20█Эндгейм раннего доступа (скоро буде
 levelTitle21█https://www.youtube.com/watch?v=CfqCQQe2E2s
 
 progress_unlockAllModules█Разблокировать все модули
-progress_launchSmallRockets█Запустить LEO ракет: {0}
-progress_launchMediumRockets█Запустить MEO ракет: {0}
-progress_launchLargeRockets█Запустить GEO ракет: {0}
-progress_launchSuperheavyRockets█Запустить Spaceship(s): {0}
+progress_launchSmallRockets█Запустить НОО-ракет: {0}
+progress_launchMediumRockets█Запустить MEO-ракет: {0}
+progress_launchLargeRockets█Запустить GEO-ракет: {0}
+progress_launchSuperheavyRockets█Запустить Spaceship: {0}
 progress_launchCargoCapsules█Запустить грузовых кораблей: {0}
 progress_launchCrewCapsules█Запустить пилотируемых кораблей: {0}
 progress_landRockets█Посадить ракет: {0}
