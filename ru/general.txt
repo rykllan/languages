@@ -74,6 +74,8 @@ company_progressHeader█Прогресс компании
 company_progressLevel█Уровень
 company_progressNewStuff█Новое
 company_progressCompleteChallenges█Выполните задания
+company_progressNextLevel█Следующий уровень
+company_progressPreviousLevel█Предыдущий уровень
 locked█Заблокировано
 unlock█Разблокировать
 unlocked█Разблокировано
@@ -213,6 +215,10 @@ launchSetup_selectVehicle█Выберите ракету
 launchSetup_selectLaunchPad█Выберите площадку
 launchSetup_selectLandingZone█Выберите зону посадки
 
+launchSetup_barge█Баржа
+launchSetup_lz1█LZ-1
+launchSetup_lz2█LZ-2
+
 launchSetup_testFlight█Тестовый полёт
 launchSetup_concrete█Бетон
 launchSetup_cheese█Сыр
@@ -220,16 +226,13 @@ launchSetup_pizza█Пицца
 launchSetup_earthPlush█Плюшевая Земля
 launchSetup_everydayStickers█Стикеры Everyday
 launchSetup_landingZone█Зона посадки
-launchSetup_barge█Баржа
-launchSetup_lz1█LZ-1
-launchSetup_lz2█LZ-2
 
 launchSetup_success█Успешно
 launchSetup_crash█Авария
 failure█Неуспешно
 noData█Неизвестно
 flights█Полётов
-failures█Failures
+failures█Неудач
 partialSuccess█Частично успешно
 
 launchPanel_telemetry█Телеметрия
@@ -318,6 +321,3 @@ laboratory█<b><color=#FF9F43>Лаборатория</color></b>&%<size=13>По
 simpleLP█<b><color=#FF9F43>Простой стартовый стол</color></b>&%<size=13>Позволяет запускать только лёгкие ракеты.</size>&%32 500 000 <color=#16A085>$
 advancedLP█<b><color=#FF9F43>Продвинутый стартовый стол</color></b>&%<size=13>Позволяет запускать только средние и тяжёлые ракеты.</size>&%99 000 000 <color=#16A085>$
 megaLP█<b><color=#FF9F43>"Мега-пад"</color></b>&%<size=13>Позволяет запускать только сверхтяжёлые ракеты. (Superheavy и Starship)</size>&%580 000 000 <color=#16A085>$
-
-company_progressNextLevel█Следующий уровень
-company_progressPreviousLevel█Предыдущий уровень
