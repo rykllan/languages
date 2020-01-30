@@ -228,7 +228,8 @@ launchSetup_success█Успешно
 launchSetup_crash█Авария
 failure█Неуспешно
 noData█Неизвестно
-flights█Полётов:
+flights█Полётов
+failures█Failures
 partialSuccess█Частично успешно
 
 launchPanel_telemetry█Телеметрия
