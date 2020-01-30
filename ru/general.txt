@@ -149,7 +149,7 @@ payload_size_medium█Сред.
 payload_size_large█Больш.
 payload_size_veryLarge█Очень больш.
 orbit_so█Суб-орбита
-orbit_leo█LEO
+orbit_leo█НОО
 orbit_meo█MEO
 orbit_geo█GEO
 orbit_iss█МКС
