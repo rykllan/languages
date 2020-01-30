@@ -231,7 +231,8 @@ launchSetup_success█Sukces
 launchSetup_crash█Wybuch
 failure█Niepowodzenie
 noData█Brak danych
-flights█Loty:
+flights█Loty
+failures█Eksplozje
 partialSuccess█Połowiczny sukces
 
 launchPanel_telemetry█Telemetria
