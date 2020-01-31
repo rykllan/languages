@@ -186,6 +186,7 @@ build█Zbuduj
 built█Zbudowano
 launch█Wystrzel
 repair█Napraw
+turnExpendable█Przemień w jednorazową
 
 capabilities█Możliwości
 reliability█Niezawodność
