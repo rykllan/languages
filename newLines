@@ -1,4 +1,11 @@
 0.3.0:
+
 general.txt:
 failures█Failures
 confirm_abortRocket█Do you really want to abort that rocket?
+confirm_turnExpendable█Do you really want to remove the landing gear? The rocket will burn in the atmosphere after the flight.
+
+
+
+
+
