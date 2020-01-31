@@ -49,7 +49,7 @@ mdl_a_escape_engines█Advanced Escape Engines,Required for crew capsules.
 mdl_s_escape_engines█Simple Escape Engines,Required for crew capsules.
 mdl_a_parachutes█Advanced Parachutes,Required for crew capsules.
 mdl_s_parachutes█Simple Parachutes,Required for cargo capsules.
-mdl_camera█Camera,Camera allows you to see what rockets sees (Webcast). Assign this module and focus your camera on the rocket launch.
+mdl_camera█Camera,Camera allows you to see what the rockets see (Webcast). Add this module and focus your camera on the rocket launch.
 mdl_s_altitude(capsule)█Altitude Sensor,Required for crew capsules.
 mdl_s_altitude(rocket)█Altitude Sensor,This sensor gives you more telemetry data on your launch. See how fast your rocket is!
 mdl_s_heat█Heat Sensor,Required for crew capsules.

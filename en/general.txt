@@ -193,7 +193,7 @@ notBuiltYet█Not built yet
 constructing█Constructing...
 repairing█Repairing...
 flying█Flying
-dockedToISS█Docked to ISS (Will comeback soon.)
+dockedToISS█Docked to ISS (Will come back soon.)
 
 reusable█Reusable
 manual█Manual
