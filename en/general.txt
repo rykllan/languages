@@ -287,6 +287,9 @@ deadline_launchNow█Launch now!
 deadline_yearLeft█1 year left!
 deadline_yearsLeft█{0} years left!
 
+buildingsCategory█Buildings
+launchpadsCategory█Launchpads
+
 building█Building
 building_office█Office
 building_factory█Factory
