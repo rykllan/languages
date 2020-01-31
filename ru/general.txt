@@ -186,6 +186,7 @@ build█Произвести
 built█Произведено
 launch█Запустить
 repair█Починить
+turnExpendable█Turn Expendable
 
 capabilities█Прочность
 reliability█Надёжность
