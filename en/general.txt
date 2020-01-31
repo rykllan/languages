@@ -186,6 +186,7 @@ build█Build
 built█Built
 launch█Launch
 repair█Repair
+turnExpendable█Turn Expendable
 
 capabilities█Capabilities
 reliability█Reliability
