@@ -287,6 +287,9 @@ deadline_launchNow█Wystrzel teraz!
 deadline_yearLeft█Pozostał 1 rok!
 deadline_yearsLeft█{0} lata na wystrzelenie!
 
+buildingsCategory█Budynki
+launchpadsCategory█Stanowiska
+
 building█Building
 building_office█Biuro
 building_factory█Fabryka
