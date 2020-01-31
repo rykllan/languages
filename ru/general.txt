@@ -37,6 +37,7 @@ gameLoaded█Игра была загружена. Веселитесь!
 confirm█Вы уверены?
 confirm_removeVehicle█Вы точно хотите убрать этот транспорт?
 confirm_destroyBuilding█Вы точно хотите снести это здание?
+confirm_abortRocket█Do you really want to abort that rocket?
 confirm_exitGame█Вы покидаете меня, да? :(
 confirm_deleteSave█Возможно в следующий раз вы не станете банкротом.
 yes█Да
