@@ -287,6 +287,9 @@ deadline_launchNow█Дедлайн близко!
 deadline_yearLeft█Остался 1 год!
 deadline_yearsLeft█Лет осталось: {0}!
 
+buildingsCategory█Buildings
+launchpadsCategory█Launchpads
+
 building█Здание
 building_office█Офис
 building_factory█Фабрика
