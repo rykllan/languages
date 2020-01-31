@@ -38,6 +38,7 @@ confirm█Вы уверены?
 confirm_removeVehicle█Вы точно хотите убрать этот транспорт?
 confirm_destroyBuilding█Вы точно хотите снести это здание?
 confirm_abortRocket█Do you really want to abort that rocket?
+confirm_turnExpendable█Do you really want to remove the landing gear? The rocket will burn in the atmosphere after the flight.
 confirm_exitGame█Вы покидаете меня, да? :(
 confirm_deleteSave█Возможно в следующий раз вы не станете банкротом.
 yes█Да
