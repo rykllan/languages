@@ -38,6 +38,7 @@ confirm█Czy jesteś pewien?
 confirm_removeVehicle█Usunąć pojazd?
 confirm_destroyBuilding█Zburzyć budynek?
 confirm_abortRocket█Anulować rakietę?
+confirm_turnExpendable█Czy napewno chcesz zdjąć przyrządy do lądowania? Rakieta spłonie w atmosferze po misji.
 confirm_exitGame█Już mnie zostawiasz, prawda? :(
 confirm_deleteSave█Może następnym razem nie zbankrutujesz. 
 yes█Tak
