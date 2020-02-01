@@ -37,8 +37,8 @@ gameLoaded█Игра была загружена. Веселитесь!
 confirm█Вы уверены?
 confirm_removeVehicle█Вы точно хотите убрать этот транспорт?
 confirm_destroyBuilding█Вы точно хотите снести это здание?
-confirm_abortRocket█Do you really want to abort that rocket?
-confirm_turnExpendable█Do you really want to remove the landing gear? The rocket will burn in the atmosphere after the flight.
+confirm_abortRocket█Вы точно хотите прервать запуск этой ракеты?
+confirm_turnExpendable█Вы точно хотите убрать посадочные опоры? Ступень сгорит в атмосфере после полёта.
 confirm_exitGame█Вы покидаете меня, да? :(
 confirm_deleteSave█Возможно в следующий раз вы не станете банкротом.
 yes█Да
@@ -186,7 +186,7 @@ build█Произвести
 built█Произведено
 launch█Запустить
 repair█Починить
-turnExpendable█Turn Expendable
+turnExpendable█Сделать одноразовой
 
 capabilities█Прочность
 reliability█Надёжность
@@ -287,8 +287,8 @@ deadline_launchNow█Дедлайн близко!
 deadline_yearLeft█Остался 1 год!
 deadline_yearsLeft█Лет осталось: {0}!
 
-buildingsCategory█Buildings
-launchpadsCategory█Launchpads
+buildingsCategory█Здания
+launchpadsCategory█Стартовые пл.
 
 building█Здание
 building_office█Офис
