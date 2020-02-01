@@ -37,6 +37,8 @@ gameLoaded█La partida ha sido cargada. ¡Diviértete!
 confirm█¿Estás seguro?
 confirm_removeVehicle█¿Realmente quieres eliminar este vehículo?
 confirm_destroyBuilding█¿Realmente quieres destruir esta construcción?
+confirm_abortRocket█Do you really want to abort that rocket?
+confirm_turnExpendable█Do you really want to remove the landing gear? The rocket will burn in the atmosphere after the flight.
 confirm_exitGame█Me abandonas, ¿eh? :(
 confirm_deleteSave█Quizá la próxima vez no caerás en bancarrota.
 yes█Si
@@ -180,6 +182,7 @@ build█Construir
 built█Construido
 launch█Lanzar
 repair█Reparar
+turnExpendable█Turn Expendable
 
 capabilities█Capacidades
 reliability█Fiabilidad
@@ -222,6 +225,7 @@ launchSetup_landingZone█Zona de aterrizaje
 launchSetup_success█Éxito
 launchSetup_crash█Caída
 failure█Fracaso
+failures█Failures
 noData█Sin datos
 flights█Vuelos:
 partialSuccess█Éxito parcial
@@ -274,6 +278,9 @@ deadline_critical█¡Muy crítico!
 deadline_launchNow█¡Lanza ahora!
 deadline_yearLeft█¡Queda 1 año!
 deadline_yearsLeft█¡años restantes!
+
+buildingsCategory█Buildings
+launchpadsCategory█Launchpads
 
 building_office█Oficina
 building_factory█Fábrica
