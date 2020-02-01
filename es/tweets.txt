@@ -1,0 +1,27 @@
+﻿
+tweet_static_fire_1█¡El fuego estático de {0} salió increiblemente bien! Se lanzará pronto. <color=#64B5F6>#earthx</color>
+tweet_static_fire_2█El fuego estático produce mucho ruido y humo, pero podemos revisar el cohete antes del lanzamiento. {0} <color=#64B5F6>#space_company</color> <color=#64B5F6>#earthx</color>
+tweet_static_fire_3█¡Ahh! <color=#64B5F6>#el_fuego_estático</color> del cohete {0} ha fallado... perdimos la carga útil del cliente. No debería pasar.<color=#64B5F6>#earthx</color>
+tweet_static_fire_4█No fue una explosión en realidad, sólo fue un desensamblaje rápido y no programado. El fuego estático de {0} ha fallado. <color=#64B5F6>#earthx</color> <color=#64B5F6>#static_fire</color>
+
+
+tweet_abort_1█Tuvimos que abortar la misión de {0} el dia de hoy justo unos momentos antes del lanzamiento. ¡Mas información proximamente! <color=#64B5F6>#earthx</color>
+tweet_abort_2█Nuestro cliente encontró un problema en su carga útil, así que tuvimos que quitarlo. ¡{0} realiza el lanzamiento en unos dias! <color=#64B5F6>#earthx</color>
+
+
+tweet_deploy_1█¡Muchas gracias al equipo {1} por el lanzamiento de {0} el dia de hoy! ¡Tenemos a unos cuantos empleados valiosos ahí! <color=#64B5F6>#earthx</color>
+tweet_deploy_2█La carga útil se dirige ahora a la órbita de destino (aproximadamente una hora de vuelo). ¡El equipo {1} es genial! {0} <color=#64B5F6>#earthx</color>
+tweet_deploy_3█¡Separación! ¡La carga se dirige ahora a la órbita de destino con {0} segunda etapa! <color=#64B5F6>#earthx</color>
+tweet_deploy_4█¡¡¡Felicidades equipo {1}!!!
+tweet_deploy_5█De vuelta en vivo para el despliegue del satélite→ (esta función estará disponible pronto) <color=#64B5F6>#earthx</color>
+
+
+tweet_land_1█¡{0} ha aterrizado! 
+tweet_land_2█¡{0} ha aterrizado! ¡Es nuestro {1} aterrizaje! <color=#64B5F6>#earthx</color>
+tweet_land_3█¡{0} primera etapa ha aterrizado! La grabación completa mañana. <color=#64B5F6>#earthx</color>
+
+
+tweet_crash_1█Bueno, eso fue inesperado. {0} <color=#64B5F6>#earthx</color>
+tweet_crash_2█Nuestro equipo esta investigando la explosión del cohete {0}.
+tweet_crash_3█Mira, no fue una explosión. Sólo fue un desensamblaje rápido y no programado. {0} <color=#64B5F6>#earthx</color>
+tweet_crash_4█Nuestro equipo encontró el problema. Fue debido al {1}. No debería suceder de nuevo en nuestros futuros vuelos. {0} <color=#64B5F6>#earthx</color>
