@@ -206,6 +206,9 @@ spaceshipsOnly█Spaceships only
 capsulesOnly█Capsules only
 fairingRecovery█Fairing recovery
 
+landingNotSupported█Landing not supported! You need to assign:&%-Grid Fins & Landing Legs&%-Battery&%-GPS (for automatic reusability)
+capsulesNotSupported█Capsules not supported! You need to assign:&%-Battery&%-GPS
+
 payload█Payload
 crew█Crew
 cargo█Cargo
