@@ -33,6 +33,7 @@ mdl_s_fairings█Small Fairing,Required for small rockets.
 mdl_m_fairings█Medium Fairing,Required for medium rockets.
 mdl_l_fairings█Large Fairing,Required for large rockets.
 mdl_vc_fairings█Vehicle Connector,Required for capsule/spaceship rockets.
+mdl_fairingParachutes█Fairing Parachutes,Reusable rocket is required to recover the fairings.
 ---Landing Stuff---█---Landing Stuff---
 mdl_a_gridfins█Aluminium Grid Fins,Required for manual landing rockets.
 mdl_t_gridfins█Titanium Grid Fins,Required for auto landing rockets.
