@@ -8,6 +8,8 @@ confirm_turnExpendable█Do you really want to remove the landing gear? The rock
 buildingsCategory█Buildings
 launchpadsCategory█Launchpads
 fairingRecovery█Fairing recovery
+landingNotSupported█Landing not supported! You need to assign:&%-Grid Fins & Landing Legs&%-Battery&%-GPS (for automatic reusability)
+capsulesNotSupported█Capsules not supported! You need to assign:&%-Battery&%-GPS
 
 modules.txt:
 mdl_fairingParachutes█Fairing Parachutes,Reusable rocket is required to recover the fairings.
