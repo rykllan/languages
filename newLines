@@ -8,7 +8,11 @@ confirm_turnExpendable█Do you really want to remove the landing gear? The rock
 buildingsCategory█Buildings
 launchpadsCategory█Launchpads
 
+modules.txt:
+mdl_fairingParachutes█Fairing Parachutes,Reusable rocket is required to recover the fairings.
 
+news.txt:
+- coming soon -
 
 
 
