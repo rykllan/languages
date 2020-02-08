@@ -7,6 +7,7 @@ confirm_abortRocket█Do you really want to abort that rocket?
 confirm_turnExpendable█Do you really want to remove the landing gear? The rocket will burn in the atmosphere after the flight.
 buildingsCategory█Buildings
 launchpadsCategory█Launchpads
+fairingRecovery█Fairing recovery
 
 modules.txt:
 mdl_fairingParachutes█Fairing Parachutes,Reusable rocket is required to recover the fairings.
