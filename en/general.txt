@@ -206,8 +206,8 @@ spaceshipsOnly█Spaceships only
 capsulesOnly█Capsules only
 fairingRecovery█Fairing recovery
 
-landingNotSupported█Landing not supported! You need to assign:&%-Grid Fins & Landing Legs&%-Battery&%-GPS (for automatic reusability)
-capsulesNotSupported█Capsules not supported! You need to assign:&%-Battery&%-GPS
+landingNotSupported█Landing not supported! You need:<b>&%-Grid Fins & Landing Legs&%-Battery&%-GPS (for automatic reusability)&%-4 or 9 Advanced Engines</b>&%
+capsulesNotSupported█Capsules not supported! You need:<b>&%-Battery&%-GPS&%-4 Advanced Engines</b>&%
 
 payload█Payload
 crew█Crew
