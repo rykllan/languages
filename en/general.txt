@@ -204,6 +204,7 @@ sideboosters█Sideboosters
 superheavy█Superheavy
 spaceshipsOnly█Spaceships only
 capsulesOnly█Capsules only
+fairingRecovery█Fairing recovery
 
 payload█Payload
 crew█Crew
