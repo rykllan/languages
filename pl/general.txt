@@ -94,13 +94,13 @@ levelTitle1█Początki
 levelTitle2█"Kiedy coś jest wystarczająco ważne, robisz to nawet jeśli szanse nie są na twoją korzyść." - Elon Musk
 levelTitle3█"Ś" jak Średnie
 levelTitle4█"Mogę albo patrzeć, jak to się dzieje, albo być tego częścią." - Elon Musk
-levelTitle5█"Wytrwałość jest bardzo ważna. Nie powinieneś się poddawać, chyba że zostaniesz zmuszony do poddania się." - Elon Musk
+levelTitle5█Niezapomnij wylądować!
 levelTitle6█Dostawca
 levelTitle7█Akceleracja
 levelTitle8█Na żywo
-levelTitle9█Pamiętaj o lądowaniu!
+levelTitle9█Akceleracja
 levelTitle10█Potęga komputerów
-levelTitle11█Prima Aprils! (wiem, nie śmieszne)
+levelTitle11█Złap!
 levelTitle12█Idziemy w masę!
 levelTitle13█Infrastruktura
 levelTitle14█Praktyka
@@ -129,6 +129,9 @@ progress_buildOffices█Zbuduj biura: {0}
 progress_buildLaunchPads█Zbuduj proste lub zaawasowane stanowisko: {0}
 progress_buildMegaLaunchPads█Zbuduj mega stanowisko: {0}
 progress_getContracts█Zdobądź kontrakty: {0}
+progress_buildLaboratories█Zbuduj laboratoria: {0}!
+progress_launchCat█Wystrzel kota!
+progress_launchTechnician█Wystrzel technika!
 
 progress_maxFactories█Maks. Fabryk:
 progress_maxOffices█Maks. Biur:
@@ -141,6 +144,8 @@ progress_fundraiserRocketquilla█Nowa zbiórka: <b><color=#64B5F6>Sprzedawaj Ra
 progress_issSupplierMission█Misja Specjalna: <b><color=#64B5F6>Dostawca MSK
 progress_issCrewMission█Misja Specjalna: <b><color=#64B5F6>Komercyjne Loty Załogowe MSK
 progress_teslaRoadsterMission█Misja Specjalna: <b><color=#64B5F6>Auto w Kosmosie
+progress_catMission█Special Mission: <b><color=#64B5F6>Astronaut's Cat
+progress_technicianMission█Special Mission: <b><color=#64B5F6>Technician in a Suitcase
 progress_simpleLaunchPad█Nowy budynek: <b><color=#64B5F6>Proste Stanowisko
 progress_advancedLaunchPad█Nowy budynek: <b><color=#64B5F6>Zaawansowane Stanowisko
 progress_megaLaunchPad█Nowy budynek: <b><color=#64B5F6>Mega Stanowisko
