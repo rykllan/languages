@@ -11,8 +11,26 @@ fairingRecovery█Fairing recovery
 landingNotSupported█Landing not supported!&%You need:<size=12><b>&%-Grid Fins & Landing Legs&%-Battery&%-GPS (for automatic reusability)&%-4 or 9 Advanced Engines</b></size>&%
 capsulesNotSupported█Capsules not supported!&%You need:<size=12><b>&%-Battery&%-GPS&%-4 Advanced Engines</b></size>&%
 
+progress_catMission█Special Mission: <b><color=#64B5F6>Astronaut's Cat
+progress_technicianMission█Special Mission: <b><color=#64B5F6>Technician in a Suitcase
+progress_buildLaboratories█Build {0} laboratories!
+progress_launchCat█Launch a cat!
+progress_launchTechnician█Launch a technician!
+levelTitle11█Catch it!
+levelTitle9█Acceleration
+levelTitle5█Remember to land
+
+
+
+
+
 modules.txt:
 mdl_fairingParachutes█Fairing Parachutes,Reusable rocket is required to recover the fairings.
+
+
+
+
+
 
 news.txt:
 - coming soon -
