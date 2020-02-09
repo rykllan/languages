@@ -204,6 +204,10 @@ sideboosters█Dodatkowe boostery
 superheavy█Ogromna
 spaceshipsOnly█Tylko statki kosmiczne
 capsulesOnly█Tylko kapsuły
+fairingRecovery█Odzyskiwalne owiewki
+
+landingNotSupported█Rakieta nie wyląduje!&%Potrzebujesz:<size=12><b>&%-Lotki & Podwozie&%-Bateria&%-GPS (do automatycznego lądowania)&%-4 lub 9 Zaawansowane Silniki</b></size>&%
+capsulesNotSupported█Kapsuły nie wspierane!&%Potrzebujesz:<size=12><b>&%-Bateria&%-GPS&%-4 Zaawansowane Silniki</b></size>&%
 
 payload█Ładunek
 crew█Załoga
