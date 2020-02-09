@@ -94,13 +94,13 @@ levelTitle1█Стартап
 levelTitle2█"Когда что-то достаточно важно, вы делаете это, даже если шансы не в вашу пользу." - Илон Маск
 levelTitle3█"С" как Средний
 levelTitle4█"Я мог бы либо наблюдать за этим, либо быть частью этого." - Илон Маск
-levelTitle5█"Настойчивость очень важна. Вы не должны сдаваться, если вы не вынуждены сдаваться." - Илон Маск
+levelTitle5█Remember to land
 levelTitle6█Поставщик
 levelTitle7█Ускорение
 levelTitle8█Веб-трансляция
-levelTitle9█Не забудь приземлиться
+levelTitle9█Acceleration
 levelTitle10█Мощь компьютеров
-levelTitle11█Первое апреля хаха (не смешно, я знаю)
+levelTitle11█Catch it!
 levelTitle12█Становимся мощными
 levelTitle13█Инфраструктура
 levelTitle14█Практика
@@ -129,6 +129,9 @@ progress_buildOffices█Построить офисов: {0}
 progress_buildLaunchPads█Построить простых или продвинутых площадок: {0}
 progress_buildMegaLaunchPads█Построить "Мега-падов": {0}
 progress_getContracts█Получить контрактов: {0}
+progress_buildLaboratories█Build {0} laboratories!
+progress_launchCat█Launch a cat!
+progress_launchTechnician█Launch a technician!
 
 progress_maxFactories█Макс. фабрик:
 progress_maxOffices█Макс. офисов:
@@ -141,6 +144,8 @@ progress_fundraiserRocketquilla█Новое финансирование: <b><c
 progress_issSupplierMission█Специальная миссия: <b><color=#64B5F6>Снабжение МКС
 progress_issCrewMission█Специальная миссия: <b><color=#64B5F6>Коммерческие экипажи для МКС
 progress_teslaRoadsterMission█Специальная миссия: <b><color=#64B5F6>Автомобиль
+progress_catMission█Special Mission: <b><color=#64B5F6>Astronaut's Cat
+progress_technicianMission█Special Mission: <b><color=#64B5F6>Technician in a Suitcase
 progress_simpleLaunchPad█Новое здание: <b><color=#64B5F6>Простая стартовая площадка
 progress_advancedLaunchPad█Новое здание: <b><color=#64B5F6>Продвинутая стартовая площадка
 progress_megaLaunchPad█Новое здание: <b><color=#64B5F6>"Мега-пад"
