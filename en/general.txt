@@ -132,6 +132,7 @@ progress_buildMegaLaunchPads█Build {0} mega launch pad(s)!
 progress_getContracts█Get {0} contract(s)
 progress_launchCat█Launch a cat!
 progress_launchTechnician█Launch a technician!
+progress_catchFairings█Catch {0} fairings!
 
 progress_maxFactories█Max Factories:
 progress_maxOffices█Max Offices:
