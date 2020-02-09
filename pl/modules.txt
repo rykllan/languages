@@ -33,6 +33,7 @@ mdl_s_fairings█Małe Owiewki,Wymagane do małych rakiet.
 mdl_m_fairings█Średnie Owiewki,Wymagane do średnich rakiet.
 mdl_l_fairings█Duże Owiewki,Wymagane do dużych rakiet.
 mdl_vc_fairings█Złącze Pojazdów,Wymagane do rakiet wynoszących kapsuły i statki kosmiczne.
+mdl_fairingParachutes█Spadochron do Owiewek,Lądująca rakieta jest wymagana, aby odzyskać owiewki.
 ---Landing Stuff---█---Landing Stuff---
 mdl_a_gridfins█Aluminiowe Lotki,Wymagane do ręcznie lądujących rakiet.
 mdl_t_gridfins█Tytanowe Lotki,Wymagane do automatycznie lądujących rakiet.
