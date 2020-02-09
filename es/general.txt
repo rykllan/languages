@@ -92,13 +92,13 @@ levelTitle1█Arranque
 levelTitle2█"Cuando algo es lo suficientemente importante, lo haces aunque las probabilidades no estén a tu favor". - Elon Musk
 levelTitle3█"M" de Mediano
 levelTitle4█"Podría ver lo que pasa o ser parte de ello". - Elon Musk
-levelTitle5█"La persistencia es muy importante. No debes rendirte a menos que te veas forzado a hacerlo". - Elon Musk
+levelTitle5█Remember to land
 levelTitle6█Proveedor
 levelTitle7█Aceleración
 levelTitle8█Webcast
-levelTitle9█Recuerda aterrizar
+levelTitle9█Acceleration
 levelTitle10█El poder de las computadoras
-levelTitle11█1ro de Abril jaja (no es gracioso, lo sé)
+levelTitle11█Catch it!
 levelTitle12█Poniendose pesado
 levelTitle13█Infraestructura
 levelTitle14█Práctica
@@ -127,6 +127,9 @@ progress_buildOffices█¡Construye {0} oficinas!
 progress_buildLaunchPads█¡Construye {0} plataforma(s) de lanzamiento pequeña(s) o avanzada(s)!
 progress_buildMegaLaunchPads█¡Construye {0} mega plataforma(s) de lanzamiento!
 progress_getContracts█Obten {0} contrato(s)
+progress_buildLaboratories█Build {0} laboratories!
+progress_launchCat█Launch a cat!
+progress_launchTechnician█Launch a technician!
 
 progress_maxFactories█Máximo de fabricas:
 progress_maxOffices█Máximo de oficinas:
@@ -139,6 +142,8 @@ progress_fundraiserRocketquilla█Nueva Recaudación de fondos: <b><color=#64B5F
 progress_issSupplierMission█Misión especial: <b><color=#64B5F6>Proveedor de EEI
 progress_issCrewMission█Misión especial: <b><color=#64B5F6>Tripulación comercial de EEI
 progress_teslaRoadsterMission█Misión especial: <b><color=#64B5F6>Tesla Roadster
+progress_catMission█Special Mission: <b><color=#64B5F6>Astronaut's Cat
+progress_technicianMission█Special Mission: <b><color=#64B5F6>Technician in a Suitcase
 progress_simpleLaunchPad█Nueva construcción: <b><color=#64B5F6>Plataforma simple de lanzamiento
 progress_advancedLaunchPad█Nueva construcción: <b><color=#64B5F6>Plataforma avanzada de lanzamiento
 progress_megaLaunchPad█Nueva construcción: <b><color=#64B5F6>Mega plataforma de lanzamiento
