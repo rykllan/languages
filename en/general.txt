@@ -94,16 +94,16 @@ levelTitle1█Startup
 levelTitle2█"When something is important enough, you do it even if the odds are not in your favor." - Elon Musk
 levelTitle3█"M" like Medium
 levelTitle4█"I could either watch it happen or be a part of it." - Elon Musk
-levelTitle5█"Persistence is very important. You should not give up unless you are forced to give up." - Elon Musk
+levelTitle5█Remember to land
 levelTitle6█Supplier
 levelTitle7█Acceleration
-levelTitle8█Webcast
+levelTitle8█The Cat
 levelTitle9█Remember to land
 levelTitle10█The power of computers
-levelTitle11█April 1 haha (not funny I know)
+levelTitle11█Catch it!
 levelTitle12█Going Heavy
 levelTitle13█Infrastructure
-levelTitle14█Practice
+levelTitle14█Emergency
 levelTitle15█Do not put Humans inside the Fairings
 levelTitle16█Human Factor
 levelTitle17█Going Big
@@ -126,9 +126,12 @@ progress_launchFromOwnLaunchPad█Launch {0} rocket(s) from your own launch pad!
 progress_launchTesla█Launch a car!
 progress_buildFactories█Build {0} factories!
 progress_buildOffices█Build {0} offices!
+progress_buildLaboratories█Build {0} laboratories!
 progress_buildLaunchPads█Build {0} small or advanced launch pad(s)!
 progress_buildMegaLaunchPads█Build {0} mega launch pad(s)!
 progress_getContracts█Get {0} contract(s)
+progress_launchCat█Launch a cat!
+progress_launchTechnician█Launch a technician!
 
 progress_maxFactories█Max Factories:
 progress_maxOffices█Max Offices:
@@ -141,6 +144,8 @@ progress_fundraiserRocketquilla█New Fundraiser: <b><color=#64B5F6>Sell Rocketq
 progress_issSupplierMission█Special Mission: <b><color=#64B5F6>ISS Supplier
 progress_issCrewMission█Special Mission: <b><color=#64B5F6>ISS Commercial Crew
 progress_teslaRoadsterMission█Special Mission: <b><color=#64B5F6>Launch a car
+progress_catMission█Special Mission: <b><color=#64B5F6>Astronaut's Cat
+progress_technicianMission█Special Mission: <b><color=#64B5F6>Technician in a Suitcase
 progress_simpleLaunchPad█New Building: <b><color=#64B5F6>Simple Launch Pad
 progress_advancedLaunchPad█New Building: <b><color=#64B5F6>Advanced Launch Pad
 progress_megaLaunchPad█New Building: <b><color=#64B5F6>Mega Launch Pad
