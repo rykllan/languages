@@ -98,7 +98,7 @@ levelTitle5█Remember to land
 levelTitle6█Supplier
 levelTitle7█Acceleration
 levelTitle8█The Cat
-levelTitle9█Remember to land
+levelTitle9█Acceleration
 levelTitle10█The power of computers
 levelTitle11█Catch it!
 levelTitle12█Going Heavy
