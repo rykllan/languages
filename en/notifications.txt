@@ -5,7 +5,7 @@ earthxWelcome█Hey, Elo- oh, this is you... <color=#64B5F6>{0}</color>!&%I see 
 iss_CRSHeader█ISS Commercial Resupply Services
 iss_CRSContent█Hey!&%&%You've proven you can launch rockets and cargo capsules. For this reason you were chosen by the creator of this game to regularly supply the international space station for several years.&%&%You are forced to do this because I have not programmed the option to refuse, and the game without this mission would be... boring.
 
-iss_CCPHeader█ISS Commercial Crew Programme
+iss_CCPHeader█ISS Commercial Crew Program
 iss_CCPContent█Hey!&%&%Your company has grown very much since its foundation. Anyway, have you ever imagined yourself as the CEO of one of the biggest space companies in the world? Well, neither have I.&%&%But the game goes on and I see that you have a lot on your mind, so I give you 6 additional crew missions (the creator of the game detected that you already have the necessary capsule). Crew missions must be sent regularly to the international space station.&%&%Oh, I almost forgot, make sure your rocket doesn't explode, or it'll be bad if you burn people, lol.
 
 teslaRoadsterHeader█Car in space Mission
