@@ -9,7 +9,9 @@ buildingsCategory█Buildings
 launchpadsCategory█Launchpads
 fairingRecovery█Fairing recovery
 landingNotSupported█Landing not supported!&%You need:<size=12><b>&%-Grid Fins & Landing Legs&%-Battery&%-GPS (for automatic reusability)&%-4 or 9 Advanced Engines</b></size>&%
-capsulesNotSupported█Capsules not supported!&%You need:<size=12><b>&%-Battery&%-GPS&%-4 Advanced Engines</b></size>&%
+capsulesNotSupported█Capsules not supported!&%You need:<size=12><b>&%-Battery&%-GPS&%-4 or 9 Advanced Engines</b></size>&%
+heavyNotSupported█Heavy rocket not supported!&%You need:<size=12><b>&%-Rocket with automatic reusability</b></size>&%
+fairingCatchingNotSupported█Fairing catching not supported!&%You need:<size=12><b>&%-Rocket with automatic reusability</b></size>&%
 
 progress_catMission█Special Mission: <b><color=#64B5F6>Astronaut's Cat
 progress_technicianMission█Special Mission: <b><color=#64B5F6>Technician in a Suitcase
