@@ -1,0 +1,57 @@
+﻿company_ceoAndCompanyMustHaveName█¡La empresa y el CEO deben tener un nombre!
+
+earthxWelcome█Oye, Elon!...oh, eres tú... <color=#64B5F6>{0}</color>!&%Veo que por fin has creado la empresa de cohetes que habías mencionado antes. ¡"<color=#64B5F6>{1}</color>" es de hecho un nombre genial! Debo decirte que eres muy valiente.&%&%Las grandes empresas que tienen el monopolio del mercado de proveedores de lanzamientos no han invertido en alguna tecnología más nueva durante años. Todavía están usando propulsores ineficientes y motores obsoletos. ¿Y si pudieran aterrizar sus cohetes en la Tierra? ¡Entonces sería posible enviar múltiples cargas útiles con sólo un cohete! Espero que puedas construir un cohete que aterrice o incluso uno de propulsores laterales en unos pocos años.&%&%¡Buena suerte!
+
+iss_CRSHeader█Misiones de reabastecimiento comercial de la EEI
+iss_CRSContent█Oye!&%&%Has demostrado que puedes lanzar cohetes y cápsulas de carga. Por esta razón fuiste elegido por el creador de este juego para abastecer regularmente a la estación espacial internacional por varios años.&%&%Estás obligado a hacer esto porque no he programado la opción para rehusarse, y el juego sin esta misión sería... aburrido.
+
+iss_CCPHeader█Programa de la tripulación comercial de la EEI
+iss_CCPContent█Oye!&%&%Tu empresa ha crecido mucho desde su fundación. Como sea, ¿alguna vez te imaginaste como el CEO de una de las mayores compañías espaciales del mundo? Bueno, yo tampoco.&%&%Pero el juego continúa y veo que tienes muchas cosas en la cabeza, así que te doy 6 misiones adicionales para la tripulación (el creador del juego detectó que ya tienes la cápsula necesaria). Las misiones de la tripulación deben ser enviadas regularmente a la estación espacial internacional.&%&%Oh, casi lo olvido, asegúrate de que tu cohete no explote, o será malo si quemas a la gente, lol.
+
+teslaRoadsterHeader█Misión del Tesla Roadster
+teslaRoadsterContent█Lanza un auto al espacio porque pues...¿por qué no?
+
+contract_newPayloadsHeader█¡Nuevas cargas útiles!
+contract_newPayloadsContent█Estas cargas útiles fueron construidas y probadas:&%{0}&%Ahora puedes lanzarlas.&%{1}
+contract_goLaunchThemOkNow█Realmente me refiero a ahora&%&%¿por qué aún sigues aqui? lol&%&%Bien, solo ve a lanzarlos o borraré tus cohetes.
+
+contract_hurryUpHeader█¡Apresúrate!
+contract_hurryUpContent█Necesitas completar estas cargas útiles lo antes posible:&%{0}&%&%¿Qué estás esperando? Tus cohetes no son autónomos, ¡ve y lánzalos!
+
+contract_badBoyHeader█Chico malo. (o chica)
+contract_badBoyContent█Se te multó con el 15% de cada carga útil porque no la lanzaste a tiempo:&%{0}&%&%El mundo aún no se acaba. ¡Ve y consigue más contratos! :)
+
+staticFireIssueFound█Tus ingenieros han encontrado un problema en tu cohete y lo han solucionado.
+cantBuildNoFactories█¡Necesitas fábricas para construir cohetes!
+cantBuildSoManyVehicles█¡No puedes construir tantos vehículos al mismo tiempo!
+cantLaunchSoManyVehicles█¡No puedes lanzar tantos cohetes al mismo tiempo!
+cantRepairSoManyVehicles█¡No puedes reparar tantos vehículos al mismo tiempo!
+
+cantRemoveProject█No puedes quitar este proyecto porque hay vehículos en él.
+
+noHangars█¡No tienes hangares o hay muy poco espacio para guardar los vehículos!
+
+projectMustHaveName█El proyecto debe tener un nombre. ¿Alguna vez has visto un cohete sin nombre?
+projectSameName█{0} ya existe. ¿Quizá nombralo <color=yellow><b><size=20>'{0} Max Pro Ultra Slim'?
+
+moduleUnlocked█¡Módulo desbloqueado!
+moduleUpgraded█¡Módulo mejorado!
+notEnoughSkillPoints█¡Puntos de habilidad insuficientes!
+
+congratulations█¡Felicidades!
+congratulations_content█¡Felicidades por tu primer vuelo exitoso!&%Nos gustaría informarte que tu empresa recibió fondos del gobierno para continuar con la investigación y el desarrollo.&%<color=#64B5F6><b>No los desperdicies</color>.
+
+buildingWorking█Esta construcción esta funcionando ahora.
+hangarStoring█Este hangar está almacenando vehículos.
+rocketLaunching█Un cohete está siendo lanzado desde esta plataforma de lanzamiento ahora.
+
+cantBuildOffices█No puedes construir tantas oficinas.
+cantBuildFactories█No puedes construir tantas fábricas.
+
+cantBuildSimpleLP█No puedes construir plataformas de lanzamiento simples en este momento.
+cantBuildAdvancedLP█No puedes construir plataformas de lanzamiento avanzadas en este momento.
+cantBuildMegaLP█No puedes construir mega plataformas de lanzamiento en este momento.
+
+
+
+

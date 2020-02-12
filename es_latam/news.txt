@@ -1,0 +1,121 @@
+﻿
+
+
+news_technology_content_p11█¡Todos los fans de {0} han estado esperando esto! La conferencia de prensa del CEO de hoy no deja lugar a dudas - estamos siendo testigos de otro gran avance en la investigación que llevará a la humanidad a Marte.
+news_technology_content_p12█¡Vivimos en tiempos interesantes! La carrera por Marte empezó para bien y tenemos curiosidad por saber qué saldrá de ella. ¿Cumplirá {1} sus promesas?
+news_technology_content_p13█Hoy estamos a la espera de la empresa {0}. ¿Podrán sus vuelos tripulados poner un pie en Marte? Lo veremos en unos pocos años.
+news_technology_content_p14█Has estado esperando esto, ¿verdad? Tenemos las últimas noticias de la sede de la empresa {0}. Todo parece indicar que su tecnología se está desarrollando muy rápidamente
+
+news_technology_content_p21█{1}: "Los cohetes que estamos desarrollando actualmente están lejos de ser competitivos". Esperemos que no sea un simple alarde para obtener más beneficios en el mercado de valores. ¿Tiene {0} realmente mejores tecnologías? ¿Alguna vez pondremos un pie en Marte? 
+news_technology_content_p22█"Esperamos mirar hacia el futuro. Las mejoras en nuestros cohetes no sólo nos permitirán llevar cargas más grandes a la órbita. Este es el comienzo del camino que la humanidad seguirá en las próximas décadas". - {1}, {0}. 
+news_technology_content_p23█El motor de nueva generación presentado por %company name% acaba de pasar sus primeras pruebas exitosas el año pasado. {1} anunció que dentro de 10 años el motor estará a bordo de uno de los cohetes para probarlo en un vacío espacial. ¿Tiene la competencia algo que temer?
+news_technology_content_p24█"¡Estoy seguro de que funcionará!", dijo {1} en la conferencia de ayer. Él quiere recuperar los cohetes que caen a la Tierra después del lanzamiento de la carga útil en órbita. Un cohete que cae a una velocidad muy alta abriría el paracaídas en el momento adecuado y luego caería en el océano. ¡Este es otro paso hacia vuelos más baratos al espacio y a Marte! 
+
+news_technology_content_p31█¡Estamos deseando escuchar más buenas noticias sobre {0}!
+news_technology_content_p32█{1} está contando el dinero, nosotros estamos contando nuestras visitas a la página. ¿Tal vez es hora de introducir anuncios?
+news_technology_content_p33█Los sueños de un aterrizaje humano en Marte se hacen realidad ante nuestros ojos.
+news_technology_content_p34█¿Cuál es la primera? ¿La Luna o Marte? {1} probablemente ya lo sepa, pero no quiere decirlo.
+
+
+
+news_technology_header1█{0} se encuentra desarrollando. {1} está sacando provecho de las nuevas tecnologías.
+news_technology_header2█Los nuevos laboratorios {0} están funcionando a alta velocidad. 
+news_technology_header3█{1} invierte en el desarrollo. ¿Habrán nuevos modelos de cohetes pronto?
+news_technology_header4█Me pregunto de dónde sacó el dinero para eso. {1} Invierte en desarrollo. 
+news_technology_header5█{1}: "Nuestra meta es Marte. Estamos trabajando duro en nuevos módulos de cohetes".
+news_technology_header6█Los inversionistas están encantados. ¿Ganará {0} la carrera espacial?
+news_technology_header7█¿Te diriges a Marte? {0} presenta nuevos módulos para sus cohetes.
+news_technology_header8█Más y más alto. ¿Nuevo lema, {0}?
+news_technology_header9█{2} en Twitter: "Estoy impresionado con lo que {1} está haciendo. Pero ganaremos de todos modos".
+news_technology_header10█Un gran avance en {0}. Pronto se usarán nuevos módulos para cohetes.
+
+
+
+
+
+
+news_fail_content_p11█Noticias perturbadoras de {0}. Su cohete terminó inesperadamente su misión con una gran explosión. 
+news_fail_content_p12█Los residentes de las ciudades cercanas al lugar de lanzamientos de la corporación {0} fueron testigos de un asombroso espectáculo en el cielo hoy. Según nuestro corresponsal, la bola de fuego que apareció en el cielo esta mañana es un cohete de {0}.
+news_fail_content_p13█Parece que el sonido de los cohetes que despegan cerca de las ciudades es el menor de los problemas para sus ciudadanos. Hasta que los cohetes comienzan a explotar. Por la mañana, nuestra oficina comenzó a recibir quejas de ciudadanos ansiosos que habían sido despertados por una fuerte explosión.
+news_fail_content_p14█Otro día, otra desagradable noticia del campamento {0}. Un cohete perteneciente a un billonario llamado {1}terminó su misión de una manera inesperada y ruidosa.
+
+news_fail_content_p21█Actualmente se están investigando las causas de la explosión. El CEO de la compañía, {1}, comentó la situación en un breve post de Twitter: "Quien no hace nada no comete errores. ¡Tu salud!" La entrada fue enriquecida con una foto en medio de una botella vacía de "Żubrówka" polaco. 
+news_fail_content_p22█Nuestro informante anónimo estrechamente asociado a la compañía informa que a 3 minutos del lanzamiento del cohete hubo un fallo hidráulico en la cámara de combustión del motor. Los detalles se anunciarán probablemente en una conferencia de prensa prevista para hoy. 
+news_fail_content_p23█Las causas del accidente aún no están bien identificadas y se investigarán en detalle en los próximos meses. Independientemente de la causa, la explosión significa una gran pérdida de imagen para {0}. 
+news_fail_content_p24█Todo el equipo está trabajando duro para explicar las razones de la explosión. Pronto descubriremos si el equipo falló, si fue un fallo humano o si fue un acto de competencia desleal.
+news_fail_content_p25█La amargura de la situación no es ocultada por los fans de la compañía en todo el mundo, para quienes {1} desde el comienzo de su actividad fue la encarnación de la innovación y el empresario ideal. "¡Estoy harto y cansado y estoy vendiendo todas mis acciones ahora! Quiero ver vuelos hermosos, no explosiones..." - fue escrito por el usuario @denis-szwarc en reddit.com.
+
+news_fail_content_p31█Esperamos que los próximos vuelos sean más exitosos, pero no menos espectaculares.
+news_fail_content_p32█Le deseamos al dueño de {0} más suerte en los próximos lanzamientos.
+news_fail_content_p33█Creemos firmemente en que las causas del desastre se explicarán rápidamente y que no se producirán más explosiones.
+news_fail_content_p34█En este desagradable momento del día para {0} no nos queda nada más que hacer sino cruzar los dedos para las próximas salidas.
+news_fail_content_p35█Ya no queremos escribir sobre explosiones de cohetes, pero no tenemos otra opción.
+news_fail_content_p36█Ya no queremos escribir sobre explosiones de cohetes, pero no tenemos otra opción.
+
+
+
+
+
+
+
+news_fail_header1█{1}: "Esta es una dolorosa pero importante lección para todos nosotros. El último vuelo de nuestro cohete de {0} terminó en fuegos artificiales.
+news_fail_header2█Un cohete se convirtió en una enorme bola de fuego. {0} examina las causas del desastre.
+news_fail_header3█{0} está en problemas. La explosión de su cohete despertó a los residentes de la ciudad cercana.
+news_fail_header4█Ese cohete ya no existe. El cohete perteneciente a {0} se quemó en la atmósfera.
+news_fail_header5█{1}: "Pensamos que esta vez funcionaría. Un cohete en llamas no es lo que queríamos ver hoy. 
+news_fail_header6█"¡Estaremos a todo volumen!" Las palabras del CEO de {0} se acaban de hacer realidad. Sus cohetes explotan como locos.
+news_fail_header7█¡{1} aterroriza el cielo! Sucesivas explosiones de cohetes amenazan el flujo financiero de {0}.
+news_fail_header8█{0}: La poderosa explosión de nuestro cohete amenaza la posición de la compañía. ¿{1} con un pie afuera?
+
+
+
+
+
+
+
+
+
+
+news_bankrupt_content_p11█{1}, el CEO de {0} anunció hoy en una conferencia de prensa el cierre de su compañía y de todas las oficinas y fábricas. 
+news_bankrupt_content_p12█Los problemas con la explosión de cohetes, el incumplimiento de los contratos y el desorden en los documentos financieros no son probablemente los únicos errores del presidente de {0}. {1} se declaró hoy en bancarrota.
+news_bankrupt_content_p13█Probablemente esperaremos mucho tiempo para la primera misión exitosa de la tripulación a Marte. El mercado no perdona los errores cometidos por {1}, el dueño de {0}. La compañía fue cerrada hoy.
+news_bankrupt_content_p14█Podríamos haber esperado eso. Después de muchos lanzamientos fallidos de los cohetes, llegó el momento de la liquidación de la junta directiva. El director general, {1}ya puede hacer las maletas.
+
+news_bankrupt_content_p21█Este triste final de los sueños de conquistar el espacio es sólo el comienzo de los problemas financieros de {0}. De acuerdo con la información que hemos recibido, la empresa está inundada de demandas por daños a la propiedad. Todo por las partes del cohete que caen sobre las viviendas privadas.
+news_bankrupt_content_p22█La emotiva declaración que {1} envió a los medios de comunicación no carece de palabras amargas hacia los demás miembros del consejo de administración de la empresa. "Mis sueños fueron robados (...) por traidores y ladrones. Hice todo lo que estaba a mi alcance y ahora me he quedado sin nada. Lo siento".
+news_bankrupt_content_p23█La conferencia de prensa de {0} fue dramática. {1} apareció en ella con un ojo morado. Según explicó, hubo una pequeña pelea con otro miembro del consejo de administración. Extraoficialmente, nos enteramos de que era el último billete de 100 dólares que quedaba en la caja fuerte de la compañía. Desafortunadamente, las declaraciones del fundador de {0} no serán resumidas - al leerlas lloró tan fuerte que no entendimos nada.
+
+news_bankrupt_content_p31█¿Honestamente? Ni siquiera sentimos lástima por ellos. 
+news_bankrupt_content_p32█Esperamos que {1} oculte algo de dinero en el calcetín.
+news_bankrupt_content_p33█Ahora todo está en manos de {2}.
+news_bankrupt_content_p34█Me pregunto qué compañía es la siguiente.
+
+
+
+
+
+
+news_bankrupt_header1█Triste el final de {0}. {1} se despide del sector espacial.
+news_bankrupt_header2█No más sueños sobre Marte. {0} cierra sus fábricas.
+news_bankrupt_header3█"Las expectativas de los accionistas han superado nuestras expectativas" - {1} se refiere al final de {0}.
+news_bankrupt_header4█{1} - visionario y... en bancarrota. 
+news_bankrupt_header5█No habrá más vuelos de {0}. La compañía va a la quiebra.
+news_bankrupt_header6█Ya no hay lugar para {0} en la industria. {0} está en vacaciones forzadas.
+news_bankrupt_header7█Había una compañía, y no hay ninguna compañía. ¡Enrollan sus cohetes!
+news_bankrupt_header8█El Presidente {1} se suponía que iba a ir al espacio pero va a ir a la cárcel. ¿Qué pasó con el dinero de {0}?
+news_bankrupt_header9█Huelga de empleados de {0}. {1}No tiene dinero para los pagos.
+news_bankrupt_header10█{1} no fue a la escuela y no sabe contar? El presupuesto de {0} está en un nivel muy bajo.
+news_bankrupt_header11█Los analistas lo saben desde hace mucho tiempo. {0} se fue a la bancarrota!
+news_bankrupt_header12█{2} se ríe del CEO de {0}: "¡Le falta imaginación! ¡Sabía que no duraría mucho!"
+
+
+
+
+
+
+
+
+news_yearsummary_beforeRes_header█¿Cómo les iba a las compañías espaciales en {0}? ¡Gran resumen! 
+news_yearsummary_beforeRes_content█Este año, al igual que los demás, hubo muchas decisiones, eventos y vuelos interesantes. Es increíble que cada vez más compañías espaciales sean... ¡privadas! Esto acelerará mucho el desarrollo de los cohetes.&%&%Aquí hay algunas estadísticas anuales:&%&%<color=#64B5F6>Vuelos</color>:&%{0}&%<color=#64B5F6>Contratos</color>:&%{1}&%<color=#64B5F6>Presupuesto</color>:&%{2}&%Todos estamos esperando los acontecimientos del año que viene. Sabemos que {3} está trabajando actualmente en cohetes reutilizables. Esta empresa es divertida, ¿cómo puedes siquiera aterrizar con un palo metálico? Esto es imposible.
+news_yearsummary_afterRes_header█
+news_yearsummary_afterRes_content█
