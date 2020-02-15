@@ -39,7 +39,7 @@ news.txt:
 news_FundraisingHats_header█{1} has sold 20,000 hats with the {0} logo. The perfect way to finance space business?
 news_FundraisingHats_content█{1} is amazing. Crazy, but still amazing. {0}'s CEO was told by the management to add some cash to the company's budget in the sharpest possible way. A normal CEO would probably lay off a few employees to reduce the cost of hiring.&%&%{1} sold... hats. And quite a lot, almost 20,000. Is this the last such unusual act by {1}?
 
-news_FundraisingBricks_header█"Hey, get the Brick!" - a surprising campaign of {0}.
+news_FundraisingBricks_header█"Hey, get a Brick!" - a surprising campaign of {0}.
 news_FundraisingBricks_content█{1} did it again. Exactly. After this one we know that {0} is in very good hands, and bankruptcy is unlikely to happen.&%&%{1} decided this time to sell several thousand bricks to improve the financial flow of the company. An additional advantage is that the bricks are almost half the price of those competing. They are also ECO. From the first reports of the company we know that the bricks sell very good.
 
 news_FundraisingNotFlamethrowers_header█The shipping companies have said that...
