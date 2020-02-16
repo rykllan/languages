@@ -70,3 +70,30 @@ news_yearsummary_beforeRes_header█Statystyki z sektora kosmicznego na rok {0}!
 news_yearsummary_beforeRes_content█W tym roku, podobnie jak i w innych, podjęto wiele ciekawych decyzji, wydarzeń i lotów! To niesamowite, że coraz więcej firm kosmicznych jest.... prywatnych! Przyspieszy to znacznie rozwój całego sektora kosmicznego.&%&%Tutaj kilka statystyk z poprzedniego roku:&%&%<color=#64B5F6>Loty</color>:&%{0}&%&%<color=#64B5F6>Wygrane Kontrakty</color>:&%{1}&%&%<color=#64B5F6>Finanse</color>:&%{2}&%&%Wszyscy czekamy na kolejne ciekawe wydarzenia. Wiemy, że firma {3} aktualnie pracuje nad rakietami wielokrotnego użytku. Ta firma jest śmieszna. Jak w ogóle chcesz wylądować metalową parówką? To jest niemożliwe.
 news_yearsummary_afterRes_header█
 news_yearsummary_afterRes_content█
+
+
+
+
+news_iss_2002q4_header█Kolejna misja promu Atlantis - nowy moduł ITS S1 trafił na ISS.
+news_iss_2002q4_content█Ma prawie 14 m długości, 4.6 m szerokości i 1.8 m wysokości. Ważący ponad 14 ton moduł ITS S1 właśnie dołączył do rozbudowywanej stacji ISS. ITS S1 jest pierwszym, żebrowym, bocznym segmentem domocowanym z jednej strony do centralnego segmentu ITS S0. Zostały na nim zamontowane trzy potężne radiatory, które będą miały za zadanie chłodzić system energetyczny stacji. Na ITS S1 zainstalowany został także kolejny system komunikacji stacji, mający polepszyć jakość i przepustowość transmisji fonicznych oraz kilka platform do eksperymentów przeprowadzanych w próżni. S1 wyposażony jest także w dwie kamery, które w przyszłości ułatwią obserwację tego sektora stacji. Kratownica posiada własny komputer pokładowy, który odpowiedzialny jest za sterowanie chłodzeniem, w tym monitorowanie zbiorników z amoniakiem, linii chłodzących oraz zestawów pomp. &%&%To trzecia misja promu Atlantis, mająca za zadanie dostarczać kolejne części budowanej właśnie Międzynarodowej Stacji Kosmicznej.
+
+news_iss_2007q3_header█Harmony (Node 2) dostarczony na orbitę - połączy moduły Destiny, Columbus i Kibo.
+news_iss_2007q3_content█Sukcesem zakończyła się misja promu Discovery, który 23 października 2007 r. wyniósł na orbitę moduł Harmony (Node 2). Harmony to swoisty rozgałęźnik, który połączy trzy moduły  - amerykański, japoński (dołączy do stacji w późniejszym terminie) i europejski (laboratorium Columbus zostanie umieszczone na orbicie prawdopodobnie na początku 2008 r.). Posiada na pokładzie regały zawierające instrumenty odpowiedzialne za przetwarzanie energii elektrycznej i przesyłanie jej do wspomnianych wyżej modułów. &%&%Na podstawie porozumienia pomiędzy NASA i ESA, Node 2 zbudowała włoska spółka Alenia Spazio, w swoim ośrodku w Turynie.
+
+news_iss_2008q1_header█Europejskie laboratorium Columbus dołączyło do ISS!
+news_iss_2008q1_content█Międzynarodowa Stacja Kosmiczna coraz większa. W ramach lotu 1E - STS-122 promu Atlantis wyniesiony na orbitę został kolejny, ogromny moduł. Prowadzone w nim eksperymenty naukowe obejmą takie pola badań jak biologia roślin, egzobiologia, heliofizyka, fizjologia człowieka oraz fizyka płynów. &%&%Polskim wkładem w konstrukcję laboratorium są dwie miniaturowe anteny ARISS zaprojektowane przez zespół pod kierownictwem dr. Pawła Kabacika z Politechniki Wrocławskiej. &%&%Columbus waży ponad 10 ton, a budowano go 10 lat.
+
+news_iss_2008q2_header█Prom Endeavour dostarczył na ISS pierwszą część japońskiego modułu Kibo.
+news_iss_2008q2_content█Głównym przeznaczeniem, zaprojektowanego przez Japońską Agencję Eksploracji Aerokosmicznej Kibo (JEM), będzie przeprowadzanie eksperymentów naukowych w próżni. JEM posiadać ma stanowiska do jednoczesnej pracy dwóch osób, jednakże w laboratorium będzie mogło przebywać nawet czterech członków załogi Międzynarodowej Stacji Kosmicznej. &%&%Podczas misji promu Endeavour nastąpiła również wymiana członków załogi Ekspedycji 16.
+
+news_iss_2009q4_header█Rosyjski Mały Moduł Badawczy nr 2 „Poisk” już na orbicie.
+news_iss_2009q4_content█Misja rosyjskiej rakiety Sojuz-U z modułem Poisk na pokładzie zakończona sukcesem. Śluza powietrzna Poisk dotarła do stacji za pomocą zmodyfikowanego segmentu przyrządowo-napędowego statku Progress. &%&%To już druga misja rosyjskiego Sojuza, mająca na celu rozbudowę ISS.
+
+news_iss_2010q1_header█Jeden z ważniejszych elementów ISS już na swoim miejscu!
+news_iss_2010q1_content█Cupola (Kopuła) została wyniesiona w przestrzeń kosmiczną z pomocą amerykańskiego promu Endeavour. Moduł pozwoli na bezpośredni panoramiczny podgląd z wnętrza stacji na czynności wykonywane na zewnątrz. Będą to między innymi operacje wykonywane automatycznym manipulatorem, spacery kosmiczne, manewry dokowania wahadłowców czy przegląd i ocena stanu technicznego urządzeń zewnętrznych. &%&%Kopuła będzie stanowić doskonały punkt obserwacyjny Ziemi oraz innych ciał niebieskich.
+
+news_iss_2010q2_header█Amerykańsko - rosyjska współpraca zasiliła ISS o kolejny moduł.
+news_iss_2010q2_content█Trzydziesty drugi lot promu Atlantis i już sto trzydziesta druga misja programu lotów wahadłowców zakończyła się sukcesem. Tym razem do Międzynarodowej Stacji Kosmicznej dołączył moduł Rasswiet (PL: Świt). Będzie wykorzystywany przede wszystkim do przechowywania ładunków oraz jako moduł dokujący do stacji. &%&%Wykorzystując pojemność Rassveta, NASA umieściła w module 1360 kilogramów sprzętu, części zamiennych, żywności i prowiantu do przewiezienia na stację.
+
+news_iss_2011q1_header█Ostatnia misja wahadłowca Discovery. Leonardo dołączony do ISS.
+news_iss_2011q1_content█Dziś o godzinie 14:50 moduł Leonardo (PMM) znajdujący się na pokładzie wahadłowca Discovery zacumowanego do ISS został na stałe przymocowany do węzła modułu Harmony. &%&%Wielofunkcyjny Moduł Logistyczny (MPLM) Leonardo to duży hermetyczny kontener używany w misjach zaopatrzeniowych wahadłowców do przewozu ładunków do i z ISS. Po misji STS-131 Leonardo został przebudowany w Stały Moduł Wielofunkcyjny (PMM). Przebudowa pozwoliła na stałe połączenie z ISS przez nieograniczony czas - tym samym Leonardo będzie pełnił funkcję dodatkowego magazynu na Międzynarodowej Stacji Kosmicznej.
