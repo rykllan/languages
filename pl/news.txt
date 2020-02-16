@@ -73,6 +73,24 @@ news_yearsummary_afterRes_content█
 
 
 
+news_FundraisingHats_header█{1} sprzedał 20.000 czapeczek z logiem {0}. Idealny sposób na finansowanie kosmicznego biznesu?
+news_FundraisingHats_content█{1} jest niesamowity. Szalony, lecz niesamowity. Prezes firmy {0} dostał polecenie od zarządu, aby w jak najostrzejszych krokach dodał firmie trochę gotówki do portfela. Normalny prezes zapewne zwolnił by kilku pracowników, aby zmniejszyć koszta ich utrzymania. &%&%{1} natomiast sprzedał… czapki. I to całkiem sporo, bo niemal 20 tysięcy. Czy to ostatni tak nietypowy czyn ze strony {1}?
+
+news_FundraisingBricks_header█“Hej, no kup Cegłę!” - zaskakująca kampania {0}.
+news_FundraisingBricks_content█{1} znowu to zrobił. Dokładnie tak. Po tej akcji wiemy, że {0} jest w bardzo dobrych rękach, a bankructwo jej raczej nie grozi. &%&%{1} postanowił tym razem sprzedać kilka tysięcy sztuk cegieł, aby poprawić finansowe flow w firmie. Dodatkowym atutem jest to, że cegły są niemal o połowę tańsze od tych konkurencyjnych. Są też EKO. Z pierwszych raportów firmy wiemy, że cegły sprzedają się jak ciepłe bułeczki.
+
+news_FundraisingNotFlamethrowers_header█Firmy przesyłkowe zadeklarowały, że...
+news_FundraisingNotFlamethrowers_content█...nie będą przewozić niczego, co ma “Miotacz Ognia” w swojej nazwie. Co zrobił {1}? Oczywiście zmienił ich nazwę na “Nie-Miotacze Ognia”. &%&%{1} wpadł na kolejny pomysł zarobienia kilku dodatkowych dolarów. Tym razem stworzył on ogromną zapalniczkę, sprzedała się w ponad 20 tysiącach sztuk! Pierwsze plotki mówią, że zarobił on na tym ponad 30 milionów w gotówce. Coś czuję, że firmie {0} nie straszne już bankructwo.
+
+
+news_FundraisingRocketquilla_header█Fani mocnych trunków rzucili się na alkoholowy napój od {0}.
+news_FundraisingRocketquilla_content█Fani ubioru dostali czapki, Budowlańcy tanie cegły, fanatycy zapałek wielkości telewizora (nie)miotacze ognia, a lubiący sobie wypić... wybuchową mieszankę alkoholu. &%&%Tequila w wersji rakietowej od {1} zadebiutowała właśnie na rynku i… szybko się skończyła, zasilając portfel kosmicznego przedsiębiorstwa kwotą przekraczającą 100 milionów dolarów. Udało wam się ją kupić?
+
+
+
+
+
+
 
 news_iss_2002q4_header█Kolejna misja promu Atlantis - nowy moduł ITS S1 trafił na ISS.
 news_iss_2002q4_content█Ma prawie 14 m długości, 4.6 m szerokości i 1.8 m wysokości. Ważący ponad 14 ton moduł ITS S1 właśnie dołączył do rozbudowywanej stacji ISS. ITS S1 jest pierwszym, żebrowym, bocznym segmentem domocowanym z jednej strony do centralnego segmentu ITS S0. Zostały na nim zamontowane trzy potężne radiatory, które będą miały za zadanie chłodzić system energetyczny stacji. Na ITS S1 zainstalowany został także kolejny system komunikacji stacji, mający polepszyć jakość i przepustowość transmisji fonicznych oraz kilka platform do eksperymentów przeprowadzanych w próżni. S1 wyposażony jest także w dwie kamery, które w przyszłości ułatwią obserwację tego sektora stacji. Kratownica posiada własny komputer pokładowy, który odpowiedzialny jest za sterowanie chłodzeniem, w tym monitorowanie zbiorników z amoniakiem, linii chłodzących oraz zestawów pomp. &%&%To trzecia misja promu Atlantis, mająca za zadanie dostarczać kolejne części budowanej właśnie Międzynarodowej Stacji Kosmicznej.
