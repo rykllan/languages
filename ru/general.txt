@@ -94,13 +94,13 @@ levelTitle1█Стартап
 levelTitle2█"Когда что-то достаточно важно, вы делаете это, даже если шансы не в вашу пользу." - Илон Маск
 levelTitle3█"С" как Средний
 levelTitle4█"Я мог бы либо наблюдать за этим, либо быть частью этого." - Илон Маск
-levelTitle5█Remember to land
+levelTitle5█Не забудьте про посадку
 levelTitle6█Поставщик
 levelTitle7█Ускорение
 levelTitle8█Веб-трансляция
-levelTitle9█Acceleration
+levelTitle9█Ускорение
 levelTitle10█Мощь компьютеров
-levelTitle11█Catch it!
+levelTitle11█Поймай это!
 levelTitle12█Становимся мощными
 levelTitle13█Инфраструктура
 levelTitle14█Практика
@@ -129,9 +129,9 @@ progress_buildOffices█Построить офисов: {0}
 progress_buildLaunchPads█Построить простых или продвинутых площадок: {0}
 progress_buildMegaLaunchPads█Построить "Мега-падов": {0}
 progress_getContracts█Получить контрактов: {0}
-progress_buildLaboratories█Build {0} laboratories!
-progress_launchCat█Launch a cat!
-progress_launchTechnician█Launch a technician!
+progress_buildLaboratories█Простроить лабораторий: {0}
+progress_launchCat█Запустить кота!
+progress_launchTechnician█Запустить инженера!
 
 progress_maxFactories█Макс. фабрик:
 progress_maxOffices█Макс. офисов:
@@ -144,8 +144,8 @@ progress_fundraiserRocketquilla█Новое финансирование: <b><c
 progress_issSupplierMission█Специальная миссия: <b><color=#64B5F6>Снабжение МКС
 progress_issCrewMission█Специальная миссия: <b><color=#64B5F6>Коммерческие экипажи для МКС
 progress_teslaRoadsterMission█Специальная миссия: <b><color=#64B5F6>Автомобиль
-progress_catMission█Special Mission: <b><color=#64B5F6>Astronaut's Cat
-progress_technicianMission█Special Mission: <b><color=#64B5F6>Technician in a Suitcase
+progress_catMission█Специальная миссия: <b><color=#64B5F6>Кот астронавта
+progress_technicianMission█Специальная миссия: <b><color=#64B5F6>Инженер в чемодане
 progress_simpleLaunchPad█Новое здание: <b><color=#64B5F6>Простая стартовая площадка
 progress_advancedLaunchPad█Новое здание: <b><color=#64B5F6>Продвинутая стартовая площадка
 progress_megaLaunchPad█Новое здание: <b><color=#64B5F6>"Мега-пад"
