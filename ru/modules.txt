@@ -33,7 +33,7 @@ mdl_s_fairings█Мал. обтекатель,Требуется для лёгк
 mdl_m_fairings█Сред. обтекатель,Требуется для средних ракет.
 mdl_l_fairings█Больш. обтекатель,Требуется для тяжёлых ракет.
 mdl_vc_fairings█Vehicle Connector,Требуется для грузовых/пилотируемых ракет и Spaceship.
-mdl_fairingParachutes█Fairing Parachutes,Reusable rocket is required to recover the fairings.
+mdl_fairingParachutes█Парафойл парашюта,Многоразовая ракета требует восстановления обтекателей.
 ---Landing Stuff---█---Landing Stuff---
 mdl_a_gridfins█Алюминиевые решётчатые рули,Требуются для ракеты с ручной посадкой.
 mdl_t_gridfins█Титановые решётчатые рули,Требуются для ракеты с автоматической посадкой.
