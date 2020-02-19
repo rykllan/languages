@@ -40,6 +40,7 @@ confirm_destroyBuilding█Zburzyć budynek?
 confirm_abortRocket█Anulować rakietę?
 confirm_turnExpendable█Czy napewno chcesz zdjąć przyrządy do lądowania? Rakieta spłonie w atmosferze po misji.
 confirm_exitGame█Już mnie zostawiasz, prawda? :(
+confirm_exitMainMenu█Inne gry powiedziałby Ci teraz, że niezapisany postęp zostanie usunięty.
 confirm_deleteSave█Może następnym razem nie zbankrutujesz. 
 yes█Tak
 no█Nie
@@ -63,6 +64,8 @@ company_createCompany█Stwórz firmę
 company_header█Firma
 company_overview█Podgląd
 company_fundraising█Zbiórka pieniędzy
+company_financeHistory█Historia Wydatków
+company_flightHistory█Historia Lotów
 
 fundraising_productionCost█Koszty produkcji:
 fundraising_sales█Sprzedaż:
@@ -126,12 +129,14 @@ progress_launchFromOwnLaunchPad█Wystrzel z własnego stanowiska: {0}
 progress_launchTesla█Wystrzel Auto!
 progress_buildFactories█Zbuduj fabryki: {0}
 progress_buildOffices█Zbuduj biura: {0}
+progress_buildLaboratories█Zbuduj laboratoria: {0}
 progress_buildLaunchPads█Zbuduj proste lub zaawasowane stanowisko: {0}
 progress_buildMegaLaunchPads█Zbuduj mega stanowisko: {0}
 progress_getContracts█Zdobądź kontrakty: {0}
 progress_buildLaboratories█Zbuduj laboratoria: {0}!
 progress_launchCat█Wystrzel kota!
 progress_launchTechnician█Wystrzel technika!
+progress_catchFairings█Złap owiewki: {0}
 
 progress_maxFactories█Maks. Fabryk:
 progress_maxOffices█Maks. Biur:
@@ -212,7 +217,9 @@ capsulesOnly█Tylko kapsuły
 fairingRecovery█Odzyskiwalne owiewki
 
 landingNotSupported█Rakieta nie wyląduje!&%Potrzebujesz:<size=12><b>&%-Lotki & Podwozie&%-Bateria&%-GPS (do automatycznego lądowania)&%-4 lub 9 Zaawansowane Silniki</b></size>&%
-capsulesNotSupported█Kapsuły nie wspierane!&%Potrzebujesz:<size=12><b>&%-Bateria&%-GPS&%-4 Zaawansowane Silniki</b></size>&%
+capsulesNotSupported█Kapsuły niewspierane!&%Potrzebujesz:<size=12><b>&%-Bateria&%-GPS&%-4 Zaawansowane Silniki</b></size>&%
+heavyNotSupported█Rakieta z bocznymi boosterami niewspierana!&%Potrzebujesz:<size=12><b>&%-Rakietę z automatycznym lądowaniem</b></size>&%
+fairingCatchingNotSupported█Odzyskiwanie owiewek niewspierane!&%Potrzebujesz:<size=12><b>&%-Rakietę z automatycznym lądowaniem</b></size>&%
 
 payload█Ładunek
 crew█Załoga
@@ -340,7 +347,15 @@ megaLP█<b><color=#FF9F43>Mega Stanowisko</color></b>&%<size=13>Startuj tylko o
 
 
 
-
+lp_cape█Cape Canaveral
+lp_vandenberg█Vandenberg
+lp_pacificSpaceport█Port Pacyficzny
+lp_guiana█Guiana
+lp_midAtlanticSpaceport█Port Atlantyczny
+lp_balkonur█Baikonur
+lp_plesetsk█Plesetsk
+lp_xichang█Xichang
+lp_rocketComplex█Port Prywatny
 
 
 
