@@ -63,6 +63,8 @@ company_createCompany█Создать компанию
 company_header█Компания
 company_overview█Обзор
 company_fundraising█Финансирование
+company_financeHistory█Финансовая история
+company_flightHistory█История полётов
 
 fundraising_productionCost█Стоимость производства:
 fundraising_sales█Продажи:
@@ -110,7 +112,7 @@ levelTitle17█Становимся большими
 levelTitle18█"Мы собираемся сделать это. Поскольку Бог - мой кровавый свидетель, я одержим желанием заставить его работать." - Илон Маск
 levelTitle19█Big Fu*king Rocket
 levelTitle20█Эндгейм раннего доступа (скоро будет больше :))
-levelTitle21█https://www.youtube.com/watch?v=CfqCQQe2E2s
+levelTitle21█https://youtu.be/CfqCQQe2E2s
 
 progress_unlockAllModules█Разблокировать все модули
 progress_launchSmallRockets█Запустить НОО-ракет: {0}
@@ -126,12 +128,13 @@ progress_launchFromOwnLaunchPad█Запустить ракет с собств�
 progress_launchTesla█Запустить автомобиль
 progress_buildFactories█Построить фабрик: {0}
 progress_buildOffices█Построить офисов: {0}
+progress_buildLaboratories█Простроить лабораторий: {0}
 progress_buildLaunchPads█Построить простых или продвинутых площадок: {0}
 progress_buildMegaLaunchPads█Построить "Мега-падов": {0}
 progress_getContracts█Получить контрактов: {0}
-progress_buildLaboratories█Простроить лабораторий: {0}
 progress_launchCat█Запустить кота!
 progress_launchTechnician█Запустить инженера!
+progress_catchFairings█Поймать обтекателей: {0}
 
 progress_maxFactories█Макс. фабрик:
 progress_maxOffices█Макс. офисов:
@@ -209,10 +212,12 @@ sideboosters█Боковые ускорители
 superheavy█Superheavy
 spaceshipsOnly█Только Spaceship
 capsulesOnly█Только корабли
-fairingRecovery█Fairing recovery
+fairingRecovery█Возврат обтекателей
 
-landingNotSupported█Landing not supported!&%You need:<size=12><b>&%-Grid Fins & Landing Legs&%-Battery&%-GPS (for automatic reusability)&%-4 or 9 Advanced Engines</b></size>&%
-capsulesNotSupported█Capsules not supported!&%You need:<size=12><b>&%-Battery&%-GPS&%-4 Advanced Engines</b></size>&%
+landingNotSupported█Посадка не поддерживается!&%Вам требуются:<size=12><b>&%-Решётчатые рули & Посадочные опоры&%-Аккумулятор&%-GPS (для автоматической посадки)&%-4 или 9 продвинутых двигателя</b></size>&%
+capsulesNotSupported█Корабли не поддерживаются!&%Вам требуются:<size=12><b>&%-Аккумулятор&%-GPS&%-4 или 9 продвинутых двигателя</b></size>&%
+heavyNotSupported█Heavy-ракета не поддерживается!&%You need:<size=12><b>&%-Ракета с автоматической посадкой</b></size>&%
+fairingCatchingNotSupported█Возврат обтекателей не поддерживается!&%Вам требуется:<size=12><b>&%-Ракета с автоматической посадкой</b></size>&%
 
 payload█Нагрузка
 crew█Экипаж
@@ -336,3 +341,13 @@ laboratory█<b><color=#FF9F43>Лаборатория</color></b>&%<size=13>По
 simpleLP█<b><color=#FF9F43>Простой стартовый стол</color></b>&%<size=13>Позволяет запускать только лёгкие ракеты.</size>&%32 500 000 <color=#16A085>$
 advancedLP█<b><color=#FF9F43>Продвинутый стартовый стол</color></b>&%<size=13>Позволяет запускать только средние и тяжёлые ракеты.</size>&%99 000 000 <color=#16A085>$
 megaLP█<b><color=#FF9F43>"Мега-пад"</color></b>&%<size=13>Позволяет запускать только сверхтяжёлые ракеты. (Superheavy и Starship)</size>&%580 000 000 <color=#16A085>$
+
+lp_cape█Мыс Канаверал
+lp_vandenberg█Ванденберг
+lp_pacificSpaceport█Тихоокеанский космодром
+lp_guiana█Гвиана
+lp_midAtlanticSpaceport█Атлантический космодром
+lp_balkonur█Байконур
+lp_plesetsk█Плесецк
+lp_xichang█Сичан
+lp_rocketComplex█Приватный космодром
