@@ -342,7 +342,15 @@ simpleLP█<b><color=#FF9F43>Simple Launch Pad</color></b>&%<size=13>Launch only
 advancedLP█<b><color=#FF9F43>Advanced Launch Pad</color></b>&%<size=13>Launch only medium and large rockets.</size>&%99 000 000 <color=#16A085>$
 megaLP█<b><color=#FF9F43>Mega Launch Pad</color></b>&%<size=13>Launch only very large rockets. (Superheavy with Starships :o)</size>&%580 000 000 <color=#16A085>$
 
-
+lp_cape█Cape Canaveral
+lp_vandenberg█Vandenberg
+lp_pacificSpaceport█Pacific Spaceport
+lp_guiana█Guiana
+lp_midAtlanticSpaceport█Atlantic Spaceport
+lp_balkonur█Baikonur
+lp_plesetsk█Plesetsk
+lp_xichang█Xichang
+lp_rocketComplex█Private Spaceport
 
 
 
