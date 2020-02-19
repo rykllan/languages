@@ -1,6 +1,3 @@
-
-
-
 news_technology_content_p11█All {0} fans have been waiting for this! Today's CEO's press conference leaves no room for illusions - we are witnessing another major breakthrough in the research that will lead humanity to Mars.
 news_technology_content_p12█We live in interesting times! The race to Mars started for good and we are curious what will come out of it. Will {1} keep his promises?
 news_technology_content_p13█Today we are looking forward to the {0} company. Will their human missions ever set foot on Mars? We will see in a few years.
