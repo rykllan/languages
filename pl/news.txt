@@ -74,7 +74,7 @@ news_yearsummary_afterRes_content█
 
 
 news_FundraisingHats_header█{1} sprzedał 20.000 czapeczek z logiem {0}. Idealny sposób na finansowanie kosmicznego biznesu?
-news_FundraisingHats_content█{1} jest niesamowity. Szalony, lecz niesamowity. Prezes firmy {0} dostał polecenie od zarządu, aby w jak najostrzejszych krokach dodał firmie trochę gotówki do portfela. Normalny prezes zapewne zwolnił by kilku pracowników, aby zmniejszyć koszta ich utrzymania. &%&%{1} natomiast sprzedał… czapki. I to całkiem sporo, bo niemal 20 tysięcy. Czy to ostatni tak nietypowy czyn ze strony {1}?
+news_FundraisingHats_content█{1} jest niesamowity. Szalony, lecz niesamowity. Prezes firmy {0} dostał polecenie od zarządu, aby w jak najostrzejszych krokach dodał firmie trochę gotówki do portfela. Normalny prezes zapewne zwolniłby kilku pracowników, aby zmniejszyć koszta ich utrzymania. &%&%{1} natomiast sprzedał… czapki. I to całkiem sporo, bo niemal 20 tysięcy. Czy to ostatni tak nietypowy czyn ze strony {1}?
 
 news_FundraisingBricks_header█“Hej, no kup Cegłę!” - zaskakująca kampania {0}.
 news_FundraisingBricks_content█{1} znowu to zrobił. Dokładnie tak. Po tej akcji wiemy, że {0} jest w bardzo dobrych rękach, a bankructwo jej raczej nie grozi. &%&%{1} postanowił tym razem sprzedać kilka tysięcy sztuk cegieł, aby poprawić finansowe flow w firmie. Dodatkowym atutem jest to, że cegły są niemal o połowę tańsze od tych konkurencyjnych. Są też EKO. Z pierwszych raportów firmy wiemy, że cegły sprzedają się jak ciepłe bułeczki.
