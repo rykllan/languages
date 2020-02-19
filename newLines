@@ -5,6 +5,7 @@ failures█Failures
 turnExpendable█Turn Expendable
 confirm_abortRocket█Do you really want to abort that rocket?
 confirm_turnExpendable█Do you really want to remove the landing gear? The rocket will burn in the atmosphere after the flight.
+confirm_exitMainMenu█Other games would tell you here, that your unsaved progress will be lost.
 buildingsCategory█Buildings
 launchpadsCategory█Launchpads
 fairingRecovery█Fairing recovery
