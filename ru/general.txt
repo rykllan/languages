@@ -56,7 +56,7 @@ tooltip_skillPoints█Очки исследований
 enterText█Введите текст...
 
 company_createNewCompany█Создать новую компанию
-company_ceoName█Имя CEO
+company_ceoName█Имя исполнительного директора
 company_companyName█Название компании
 company_createCompany█Создать компанию
 
