@@ -64,7 +64,7 @@ company_header█Компания
 company_overview█Обзор
 company_fundraising█Финансирование
 company_financeHistory█Финансовая история
-company_flightHistory█История полётов
+company_flightHistory█История запусков
 
 fundraising_productionCost█Стоимость производства:
 fundraising_sales█Продажи:
@@ -274,7 +274,7 @@ missionReportSecondVehicleLanding█Посадка корабля
 missionReportMissionIncome█Доход с миссии
 missionReportDamageCompensation█Компенсация урона
 missionReportLandedRocket█Севшая первая ступень
-profit█приыль
+profit█прибыль
 loss█убыток
 
 creator_header█Новый проект
