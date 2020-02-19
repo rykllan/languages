@@ -1,6 +1,6 @@
 0.3.0:
 
-general.txt:
+----------------- general.txt: ----------------- 
 failures█Failures
 turnExpendable█Turn Expendable
 confirm_abortRocket█Do you really want to abort that rocket?
@@ -30,15 +30,17 @@ company_flightHistory█Flight History
 
 
 
-modules.txt:
+----------------- modules.txt: ----------------- 
 mdl_fairingParachutes█Fairing Parachutes,Reusable rocket is required to recover the fairings.
 
 
 
+----------------- notifications.txt: ----------------- 
+iss_catHeader█Please help!
+iss_catContent█My cat, Balwina, is in very bad condition... I have to stay on the ISS for another 4 months and I'm very afraid, that I will never be able to met her again!! &%&%Because of this fact, PLEASE put it on your next ISS mission :( &%&%Please consider it and thank you, Teresa
 
 
-
-news.txt:
+----------------- news.txt: ----------------- 
 news_FundraisingHats_header█{1} has sold 20,000 hats with the {0} logo. The perfect way to finance space business?
 news_FundraisingHats_content█{1} is amazing. Crazy, but still amazing. {0}'s CEO was told by the management to add some cash to the company's budget in the sharpest possible way. A normal CEO would probably lay off a few employees to reduce the cost of hiring. &%&%{1} sold... hats. And quite a lot of them, almost 20,000. Is this the last such an unusual act by {1}?
 
