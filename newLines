@@ -30,6 +30,9 @@ levelTitle5█Remember to land
 company_financeHistory█Finance History
 company_flightHistory█Flight History
 
+launchPanel_speedMetric█km/h
+launchPanel_altitudeMetric█km
+
 lp_cape█Cape Canaveral
 lp_vandenberg█Vandenberg
 lp_pacificSpaceport█Pacific Spaceport
