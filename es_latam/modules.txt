@@ -33,6 +33,7 @@ mdl_s_fairings█Carenado pequeño, Requerido para cohetes pequeños.
 mdl_m_fairings█Carenado mediano, Requerido para cohetes medianos.
 mdl_l_fairings█Carenado grande, Requerido para cohetes grandes.
 mdl_vc_fairings█Conector de vehículo, Requerido para cohetes de cápsula o naves espaciales.
+mdl_fairingParachutes█Fairing Parachutes,Reusable rocket is required to recover the fairings.
 ---Landing Stuff---█---Material de aterrizaje---
 mdl_a_gridfins█Aletas de rejilla de aluminio, Requeridas para cohetes de aterrizaje manual.
 mdl_t_gridfins█Aletas de rejilla de titanio, Requeridas para cohetes de aterrizaje automático.
