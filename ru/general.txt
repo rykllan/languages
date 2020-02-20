@@ -40,7 +40,7 @@ confirm_destroyBuilding█Вы точно хотите снести это зд�
 confirm_abortRocket█Вы точно хотите прервать запуск этой ракеты?
 confirm_turnExpendable█Вы точно хотите убрать посадочные опоры? Ступень сгорит в атмосфере после полёта.
 confirm_exitGame█Вы покидаете меня, да? :(
-confirm_exitMainMenu█Other games would tell you here, that your unsaved progress will be lost.
+confirm_exitMainMenu█Другие игры скажут вам здесь, что ваш несохраненный прогресс будет потерян.
 confirm_deleteSave█Возможно в следующий раз вы не станете банкротом.
 yes█Да
 no█Нет
@@ -282,8 +282,8 @@ creator_header█Новый проект
 creator_vehicleName█Название ракеты...
 creator_createProject█Создать проект
 creator_vehicleCanGoAnywhere█Эта ракета может отправиться в любое место.
-creator_capsuleRocket█This rocket can carry only the capsules.
-creator_spaceshipRocket█This rocket can carry only the spaceships.
+creator_capsuleRocket█Эта ракета может запускать только корабли.
+creator_spaceshipRocket█Эта ракета может запускать только Spaceship.
 no_module_unlocked█Нет разблокированных модулей.
 
 contracts_header█Контракты
