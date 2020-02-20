@@ -1,4 +1,4 @@
-﻿
+
 
 
 news_technology_content_p11█¡Todos los fans de {0} han estado esperando esto! La conferencia de prensa del CEO de hoy no deja lugar a dudas - estamos siendo testigos de otro gran avance en la investigación que llevará a la humanidad a Marte.
@@ -119,3 +119,49 @@ news_yearsummary_beforeRes_header█¿Cómo les iba a las compañías espaciales
 news_yearsummary_beforeRes_content█Este año, al igual que los demás, hubo muchas decisiones, eventos y vuelos interesantes. Es increíble que cada vez más compañías espaciales sean... ¡privadas! Esto acelerará mucho el desarrollo de los cohetes.&%&%Aquí hay algunas estadísticas anuales:&%&%<color=#64B5F6>Vuelos</color>:&%{0}&%<color=#64B5F6>Contratos</color>:&%{1}&%<color=#64B5F6>Presupuesto</color>:&%{2}&%Todos estamos esperando los acontecimientos del año que viene. Sabemos que {3} está trabajando actualmente en cohetes reutilizables. Esta empresa es divertida, ¿cómo puedes siquiera aterrizar con un palo metálico? Esto es imposible.
 news_yearsummary_afterRes_header█
 news_yearsummary_afterRes_content█
+
+
+
+
+
+
+
+
+
+news_FundraisingHats_header█{1} has sold 20,000 hats with the {0} logo. The perfect way to finance space business?
+news_FundraisingHats_content█{1} is amazing. Crazy, but still amazing. {0}'s CEO was told by the management to add some cash to the company's budget in the sharpest possible way. A normal CEO would probably lay off a few employees to reduce the cost of hiring. &%&%{1} sold... hats. And quite a lot of them, almost 20,000. Is this the last such an unusual act by {1}?
+
+news_FundraisingBricks_header█"Hey, get a Brick!" - a surprising campaign of {0}.
+news_FundraisingBricks_content█{1} did it again. Exactly. After this one we know that {0} is in very good hands, and bankruptcy is unlikely to happen. &%&%{1} this time decided to sell several thousand bricks to improve the financial flow of the company. An additional advantage is that the bricks are almost half the price of rival products. They are also ECO friendly. From the first reports of the company we know that the bricks sell very good.
+
+news_FundraisingNotFlamethrowers_header█The shipping companies have said that...
+news_FundraisingNotFlamethrowers_content█... they will not transport anything that has "Flamethrower" in its name. What did {1} do? Of course he changed their name to "Not a Flamethrower". &%&%{1} has come up with another idea to make a few extra dollars. This time he made a huge lighter, sold in over 20,000 items! First rumors say he made over 30 million in cash. I have a feeling that {0} is not afraid to go bankrupt anymore.
+
+
+news_FundraisingRocketquilla_header█Fans of strong drinks have pounced on alcohol drinks from {0}.
+news_FundraisingRocketquilla_content█Fans of clothing got hats, builders got cheap bricks, fanatics of TV-sized lighters got (not a) flamethrowers, and those who like to drink got... an explosive mixture of alcohol. &%&%Tequila in the rocket version from {1} has just made its market debut and... quickly sold out adding more than $100 million to the space company's pocket. Did you manage to buy it?
+
+news_iss_2002q4_header█Another mission of the Atlantis shuttle - the new ITS S1 module has been launched on ISS.
+news_iss_2002q4_content█It is almost 14 m long, 4.6 m wide and 1.8 m high. Weighing more than 14 tons, the ITS S1 module has just joined the ISS station that is being built. The ITS S1 is the first ribbed side segment to be attached on one side to the central ITS S0 segment. Three powerful heat sinks have been mounted on it to cool the station's energy system. Another station communication system has also been installed on the ITS S1 to improve the quality and throughput of audio transmission and several platforms for vacuum experiments. The S1 is also equipped with two cameras, which will facilitate future observation of this sector of the station. The grating has its own on-board computer, which is responsible for cooling control, including monitoring of ammonia tanks, cooling circuits and pump sets. &%&%This is the third mission of the Atlantis shuttle to deliver further parts of the International Space Station that is being built.
+
+news_iss_2007q3_header█Harmony (Node 2) delivered to orbit - will connect Destiny, Columbus, and Kibo modules.
+news_iss_2007q3_content█The mission of the Discovery shuttle, which brought on 23rd October 2007 the Harmony module (Node 2) into orbit, ended successfully. Harmony is a kind of splitter that will combine the three modules together - American, Japanese (will join the station later), and European (Columbus laboratory will be placed in orbit probably at the beginning of 2008) module. On its board it has racks containing instruments responsible for processing the electricity and transmitting it to the modules mentioned above. &%&%By the agreement between NASA and ESA, Node 2 was built by the Italian company Alenia Spazio, in its centre in Turin. 
+
+news_iss_2008q1_header█The European Columbus laboratory has joined the ISS!
+news_iss_2008q1_content█The International Space Station is getting bigger. As a part of Flight 1E - STS-122 of the Atlantis shuttle, another huge module was launched into orbit. The scientific experiments conducted there will cover such fields of research as plant biology, exobiology, heliophysics, human physiology, and fluid physics. &%&%Columbus weighs over 10 tons and was being built for 10 years.
+
+news_iss_2008q2_header█Endeavour shuttle delivered the first part of the Japanese Kibo module on ISS.
+news_iss_2008q2_content█As designed by the Japanese Agency for Aerocosmic Exploration, the main purpose of Kibo (JEM) is to conduct scientific experiments in a vacuum. JEM will have stations for two people to work simultaneously, but the laboratory will be able to accommodate up to four crew members of the International Space Station. &%&%During the mission of the ferry Endeavour there was also an exchange of crew members of Expedition 16.
+
+news_iss_2009q4_header█Russian Small Research Module 2 "Poisk" already in orbit.
+news_iss_2009q4_content█The Russian Soyuz-U rocket mission with the Poisk module on board was successful. The Poisk airlock reached the station using the modified instrument-propulsion segment of the Progress vessel. &%&%This is the second Russian Soyuz mission to expand the ISS.
+
+news_iss_2010q1_header█One of the most important elements of ISS already in place!
+news_iss_2010q1_content█The Cupola (Dome) was lifted into space with the help of the American shuttle Endeavour. The module will allow a direct panoramic view from inside of the station to activities performed outside. These will include operations performed with an automatic manipulator, space walks, shuttle docking manoeuvres or review and evaluation of the technical condition of external devices. &%&%The dome will be an excellent observation point of the Earth and other celestial bodies.
+
+news_iss_2010q2_header█The American-Russian cooperation has provided the ISS with another module.
+news_iss_2010q2_content█The thirty-second flight of the Atlantis shuttle and already one hundred and thirty-second mission of the shuttle program was successful. This time the Rassvet module (EN: Dawn) joined the International Space Station. It will be used primarily for cargo storage and as a docking module for the station. &%&%Using the capacity of Rassvet, NASA has placed in the module 3000 pounds (or 1360kg) of equipment, spare parts, food, and victuals to be transported to the station.
+
+news_iss_2011q1_header█The last mission of the Discovery shuttle. Leonardo joined the ISS.
+news_iss_2011q1_content█Today at 2:50 p.m., the Leonardo module (PMM) that is on a board of the Discovery shuttle, which is docked to the ISS, was permanently attached to the Harmony module node. &%&%The Leonardo Multifunctional Logistics Module (MPLM) is a large hermetic container used in supply missions of shuttles to and from ISS. After the STS-131 mission, Leonardo was converted into a Permanent Multifunctional Module (PMM). The conversion allowed a permanent connection to the ISS for an unlimited period of time - thus, Leonardo will serve as an additional storage facility at the International Space Station.
+
