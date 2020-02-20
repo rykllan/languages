@@ -1,4 +1,4 @@
-﻿menu_home█Inicio
+menu_home█Inicio
 menu_play█Jugar
 menu_settings█Configuración
 menu_credits█Créditos
@@ -37,6 +37,9 @@ gameLoaded█La partida ha sido cargada. ¡Diviértete!
 confirm█¿Estás seguro?
 confirm_removeVehicle█¿Realmente quieres eliminar este vehículo?
 confirm_destroyBuilding█¿Realmente quieres destruir esta construcción?
+confirm_abortRocket█Do you really want to abort that rocket?
+confirm_turnExpendable█Do you really want to remove the landing gear? The rocket will burn in the atmosphere after the flight.
+confirm_exitMainMenu█Other games would tell you here, that your unsaved progress will be lost.
 confirm_exitGame█Me abandonas, ¿eh? :(
 confirm_deleteSave█Quizá la próxima vez no caerás en bancarrota.
 yes█Si
@@ -61,6 +64,8 @@ company_createCompany█Crear empresa
 company_header█Empresa
 company_overview█Resumen
 company_fundraising█Recaudación de fondos
+company_financeHistory█Finance History
+company_flightHistory█Flight History
 
 fundraising_productionCost█Costo de producción:
 fundraising_sales█Ventas:
@@ -90,13 +95,13 @@ levelTitle1█Arranque
 levelTitle2█"Cuando algo es lo suficientemente importante, lo haces aunque las probabilidades no estén a tu favor". - Elon Musk
 levelTitle3█"M" de Mediano
 levelTitle4█"Podría ver lo que pasa o ser parte de ello". - Elon Musk
-levelTitle5█"La persistencia es muy importante. No debes rendirte a menos que te veas forzado a hacerlo". - Elon Musk
+levelTitle5█Remember to land
 levelTitle6█Proveedor
 levelTitle7█Aceleración
 levelTitle8█Webcast
-levelTitle9█Recuerda aterrizar
+levelTitle9█Acceleration
 levelTitle10█El poder de las computadoras
-levelTitle11█1ro de Abril jaja (no es gracioso, lo sé)
+levelTitle11█Catch it!
 levelTitle12█Poniendose pesado
 levelTitle13█Infraestructura
 levelTitle14█Práctica
@@ -125,6 +130,10 @@ progress_buildOffices█¡Construye {0} oficina(s)!
 progress_buildLaunchPads█¡Construye {0} plataforma(s) de lanzamiento pequeña(s) o avanzada(s)!
 progress_buildMegaLaunchPads█¡Construye {0} mega plataforma(s) de lanzamiento!
 progress_getContracts█Obten {0} contrato(s)
+progress_buildLaboratories█Build {0} laboratories!
+progress_launchCat█Launch a cat!
+progress_launchTechnician█Launch a technician!
+progress_catchFairings█Catch {0} fairings!
 
 progress_maxFactories█Máximo de fabricas:
 progress_maxOffices█Máximo de oficinas:
@@ -140,6 +149,8 @@ progress_teslaRoadsterMission█Misión especial: <b><color=#64B5F6>Tesla Roadst
 progress_simpleLaunchPad█Nueva construcción: <b><color=#64B5F6>Plataforma simple de lanzamiento
 progress_advancedLaunchPad█Nueva construcción: <b><color=#64B5F6>Plataforma avanzada de lanzamiento
 progress_megaLaunchPad█Nueva construcción: <b><color=#64B5F6>Mega plataforma de lanzamiento
+progress_catMission█Special Mission: <b><color=#64B5F6>Astronaut's Cat
+progress_technicianMission█Special Mission: <b><color=#64B5F6>Technician in a Suitcase
 
 notification█Notificación
 
@@ -197,6 +208,12 @@ sideboosters█Propulsores laterales
 superheavy█Super pesado
 spaceshipsOnly█Naves espaciales únicamente
 capsulesOnly█Cápsulas únicamente
+fairingRecovery█Fairing recovery
+
+landingNotSupported█Landing not supported!&%You need:<size=12><b>&%-Grid Fins & Landing Legs&%-Battery&%-GPS (for automatic reusability)&%-4 or 9 Advanced Engines</b></size>&%
+capsulesNotSupported█Capsules not supported!&%You need:<size=12><b>&%-Battery&%-GPS&%-4 or 9 Advanced Engines</b></size>&%
+heavyNotSupported█Heavy rocket not supported!&%You need:<size=12><b>&%-Rocket with automatic reusability</b></size>&%
+fairingCatchingNotSupported█Fairing catching not supported!&%You need:<size=12><b>&%-Rocket with automatic reusability</b></size>&%
 
 payload█Cargas útiles
 crew█Tripulación
@@ -225,6 +242,8 @@ failure█Fracaso
 noData█Sin datos
 flights█Vuelos:
 partialSuccess█Éxito parcial
+failures█Failures
+turnExpendable█Turn Expendable
 
 launchPanel_telemetry█Telemetría
 launchPanel_noSupportTelemetry█Este cohete no es compatible con telemetría.
@@ -275,6 +294,9 @@ deadline_launchNow█¡Lanza ahora!
 deadline_yearLeft█¡Queda 1 año!
 deadline_yearsLeft█¡años restantes!
 
+buildingsCategory█Buildings
+launchpadsCategory█Launchpads
+
 building_office█Oficina
 building_factory█Fábrica
 building_laboratory█Laboratorio
@@ -314,7 +336,15 @@ megaLP█<b><color=#FF9F43>Mega plataforma de lanzamiento</color></b>&%<size=13>
 
 
 
-
+lp_cape█Cape Canaveral
+lp_vandenberg█Vandenberg
+lp_pacificSpaceport█Pacific Spaceport
+lp_guiana█Guiana
+lp_midAtlanticSpaceport█Atlantic Spaceport
+lp_balkonur█Baikonur
+lp_plesetsk█Plesetsk
+lp_xichang█Xichang
+lp_rocketComplex█Private Spaceport
 
 
 
