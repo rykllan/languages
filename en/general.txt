@@ -282,6 +282,8 @@ creator_header█New project
 creator_vehicleName█Vehicle name...
 creator_createProject█Create project
 creator_vehicleCanGoAnywhere█This vehicle can go to any place you want.
+creator_capsuleRocket█This rocket can carry only the capsules.
+creator_spaceshipRocket█This rocket can carry only the spaceships.
 no_module_unlocked█No module is unlocked.
 
 contracts_header█Contracts
