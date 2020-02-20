@@ -1,4 +1,3 @@
-
 tweet_static_fire_1█Static fire of the {0} went amazingly well! Launching soon. <color=#64B5F6>#earthx</color>
 tweet_static_fire_2█Static fire makes a lot of noise and smoke, but we can check the rocket before the launch. {0} <color=#64B5F6>#space_company</color> <color=#64B5F6>#earthx</color>
 tweet_static_fire_3█Ahh! <color=#64B5F6>#static_fire</color> of {0} rocket has failed... We've lost the customer payload. Shouldn't have happened. <color=#64B5F6>#earthx</color>
