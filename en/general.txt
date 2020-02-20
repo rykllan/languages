@@ -258,6 +258,8 @@ launchPanel_noSupportTelemetry█This rocket does not support telemetry.
 launchPanel_speed█Speed
 launchPanel_altitude█Altitude
 launchPanel_staticFire█Static fire
+launchPanel_speedMetric█km/h
+launchPanel_altitudeMetric█km
 
 buildPanel_moveToHangar█Move to hangar
 
