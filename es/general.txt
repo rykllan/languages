@@ -274,6 +274,8 @@ creator_header█Nuevo proyecto
 creator_vehicleName█Nombre del vehículo...
 creator_createProject█Crear proyecto
 creator_vehicleCanGoAnywhere█Éste vehículo puede ir a donde quieras.
+creator_capsuleRocket█This rocket can carry only the capsules.
+creator_spaceshipRocket█This rocket can carry only the spaceships.
 no_module_unlocked█Ningún módulo está desbloqueado.
 
 contracts_header█Contratos
