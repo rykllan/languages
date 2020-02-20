@@ -1,4 +1,4 @@
-type_fairings█Fairings
+type_fairings█Fairing
 type_fuelTank█Fuel Tank
 type_engine█Engine
 type_computer█Computer
