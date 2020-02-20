@@ -8,6 +8,12 @@ iss_CRSContent█Oye!&%&%Has demostrado que puedes lanzar cohetes y cápsulas de
 iss_CCPHeader█Programa de la tripulación comercial de la EEI
 iss_CCPContent█Oye!&%&%Tu empresa ha crecido mucho desde su fundación. Como sea, ¿alguna vez te imaginaste como el CEO de una de las mayores compañías espaciales del mundo? Bueno, yo tampoco.&%&%Pero el juego continúa y veo que tienes muchas cosas en la cabeza, así que te doy 6 misiones adicionales para la tripulación (el creador del juego detectó que ya tienes la cápsula necesaria). Las misiones de la tripulación deben ser enviadas regularmente a la estación espacial internacional.&%&%Oh, casi lo olvido, asegúrate de que tu cohete no explote, o será malo si quemas a la gente, lol.
 
+iss_catHeader█Please help!
+iss_catContent█My cat, Balwina, is in very bad condition... I have to stay on the ISS for another 4 months and I'm very afraid, that I will never be able to met her again!! &%&%Because of this fact, PLEASE put it on your next ISS mission :( &%&%Please consider it and thank you, Teresa
+
+iss_technicianHeader█Emergency on the ISS
+iss_technicianContent█Good evening, &%&%There are currently 4 astronauts on the International Space Station. Their lives are in danger because of medium-sized leakage in one of the modules. &%&%We know, that your company does not have any crew capsules, that's why you will need to launch a technician in a cargo capsule. &%&%Please do it as fast as you can AND don't talk with the press about that flight. No one can know that we're about to launch a human in a cargo capsule! &%&%Thanks for your cooperation, you will get paid after the mission.
+
 teslaRoadsterHeader█Misión del Tesla Roadster
 teslaRoadsterContent█Lanza un auto al espacio porque pues...¿por qué no?
 
