@@ -14,6 +14,9 @@ capsulesNotSupported█Capsules not supported!&%You need:<size=12><b>&%-Battery&
 heavyNotSupported█Heavy rocket not supported!&%You need:<size=12><b>&%-Rocket with automatic reusability</b></size>&%
 fairingCatchingNotSupported█Fairing catching not supported!&%You need:<size=12><b>&%-Rocket with automatic reusability</b></size>&%
 
+creator_capsuleRocket█This rocket can carry only the capsules.
+creator_spaceshipRocket█This rocket can carry only the spaceships.
+
 progress_catMission█Special Mission: <b><color=#64B5F6>Astronaut's Cat
 progress_technicianMission█Special Mission: <b><color=#64B5F6>Technician in a Suitcase
 progress_buildLaboratories█Build {0} laboratories!
