@@ -259,6 +259,8 @@ launchPanel_noSupportTelemetry█Ta rakieta nie wspiera telemetrii.
 launchPanel_speed█Prędkość
 launchPanel_altitude█Wysokość
 launchPanel_staticFire█Test statyczny
+launchPanel_speedMetric█km/h
+launchPanel_altitudeMetric█km
 
 buildPanel_moveToHangar█Przenieś do hangaru
 
