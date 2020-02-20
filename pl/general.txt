@@ -283,6 +283,8 @@ creator_header█Nowy projekt
 creator_vehicleName█Nazwa projektu...
 creator_createProject█Stwórz projekt
 creator_vehicleCanGoAnywhere█Ten pojazd może lecieć wszędzie, gdzie tylko chcesz.
+creator_capsuleRocket█Ta rakieta może wynosić tylko kapsuły.
+creator_spaceshipRocket█Ta rakieta może wynosić tylko statki kosmiczne.
 no_module_unlocked█Żaden moduł nie jest odblokowany.
 
 contracts_header█Kontrakty
