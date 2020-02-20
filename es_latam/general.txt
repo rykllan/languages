@@ -250,6 +250,8 @@ launchPanel_noSupportTelemetry█Este cohete no es compatible con telemetría.
 launchPanel_speed█Velocidad
 launchPanel_altitude█Altitud
 launchPanel_staticFire█Fuego estático
+launchPanel_speedMetric█km/h
+launchPanel_altitudeMetric█km
 
 buildPanel_moveToHangar█Mover al hangar
 
