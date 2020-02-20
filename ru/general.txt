@@ -282,6 +282,8 @@ creator_header█Новый проект
 creator_vehicleName█Название ракеты...
 creator_createProject█Создать проект
 creator_vehicleCanGoAnywhere█Эта ракета может отправиться в любое место.
+creator_capsuleRocket█This rocket can carry only the capsules.
+creator_spaceshipRocket█This rocket can carry only the spaceships.
 no_module_unlocked█Нет разблокированных модулей.
 
 contracts_header█Контракты
