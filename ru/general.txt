@@ -258,8 +258,8 @@ launchPanel_noSupportTelemetry█Эта ракета не поддерживае
 launchPanel_speed█Скорость
 launchPanel_altitude█Высота
 launchPanel_staticFire█Статический прожиг
-launchPanel_speedMetric█km/h
-launchPanel_altitudeMetric█km
+launchPanel_speedMetric█км/ч
+launchPanel_altitudeMetric█км
 
 buildPanel_moveToHangar█Переместить в ангар
 
