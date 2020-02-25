@@ -16,7 +16,7 @@ tweet_deploy_5█Возвращаемся в прямой эфир для отд
 
 
 tweet_land_1█{0} сел!
-tweet_land_2█{0} сел! Это наша {0} посадка! <color=#64B5F6>#earthx</color>
+tweet_land_2█{0} сел! Это посадка нашей ракеты {0}! <color=#64B5F6>#earthx</color>
 tweet_land_3█Первая ступень {0} села! Полное видео завтра <color=#64B5F6>#earthx</color>
 
 
