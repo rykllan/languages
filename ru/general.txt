@@ -271,7 +271,7 @@ missionReportMissionResult█Результат миссии
 missionReportLaunch█Запуск
 missionReportDeploy█Отделение
 missionReportLanding█Посадка
-missionReportFairingLanding█Посадка обтекателей
+missionReportFairingLanding█Ловля обтекателей
 missionReportSecondVehicleLanding█Посадка корабля
 
 missionReportMissionIncome█Доход с миссии
