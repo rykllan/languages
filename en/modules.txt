@@ -58,3 +58,7 @@ mdl_s_heat█Heat Sensor,Required for crew capsules.
 mdl_methane_fueltank█Methane Fuel Tank,Required for Spaceships.
 mdl_methane_engine█6 Methane Engines,Required for Spaceships.
 mdl_stainlesssteel_structure█Stainless Steel Body,Required for Spaceships.
+
+mdl_cargoUtility█Cargo Utility,Cargo Spaceship Module
+mdl_crewUtility█Crew Utility,Crew Spaceship Module
+mdl_fuelUtility█Fuel Utility,Tanker Spaceship
