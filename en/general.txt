@@ -371,6 +371,9 @@ laboratory_desc█Produces skill points.
 megaLP█Mega Launch Pad
 megaLP_desc█You can launch Spaceships.
 
+terminal█LinkLink Terminal
+terminal_desc█Terminals are connecting people on Earth with LinkLinks. More terminals == more users capacity.
+
 lp_cape█Cape Canaveral
 lp_vandenberg█Vandenberg
 lp_pacificSpaceport█Pacific Spaceport
