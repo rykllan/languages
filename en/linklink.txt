@@ -1,2 +1,29 @@
 linkLink_announcement_header█LinkLink - the internet of the future?
 linkLink_announcement_content█{1}, the owner of the space company {0} is expanding. It would seem that sending a man to Mars is the CEO's top ambition.&%&%This time {1} has set himself the goal of providing fast and cheap internet to the people of our planet. He wants to achieve this with hundreds of small telecommunications satellites sent into Earth's orbit. The name of the technology was also announced - "LinkLink".&%&%We will keep you informed about the progress of work on this new technology.
+
+
+linkLink_tintin_header█First LinkLink satellites in orbit!
+linkLink_tintin_content█Today's rocket launch will be in history. There were {5} small LinkLink satellites on board to give us fast and cheap internet access from {0}. &%&%We don't know exactly when the service will be launched for a wide range of users.  
+
+
+linkLink_terminals_header█The construction of mysterious {0} antennas is completed.
+linkLink_terminals_content█There have been mysterious circular constructions placed near the largest cities in the world. As we managed to determine, these are the antennas responsible for communication with the LinkLink satellite constellation. &%&%The service will start soon?
+
+
+linkLink_run_header█The first users started testing the LinkLink Internet!
+linkLink_run_content█The future is today! {0} has just connected the first users to its satellite internet of the future. &%&%Users taking part in the tests most praise the speed and stability of the connection.
+
+
+linkLink_10k_header█LinkLink internet sells like fresh buns!
+linkLink_10k_content█Tests completed! {0} has started selling the service - on the first day from the start, contracts were signed by 10 000 people. &%&%{1} can open his champagne!
+
+
+linkLink_250k_header█250,000 LinkLink users!
+linkLink_250k_content█{0} is not slowing down. Their wireless, high-speed internet is an incredible success. &%&%At today's press conference, the CEO {1} shared, that more than 250,000 people around the world use LinkLink's Internet. &%&%Low price and high availability is a real recipe for success!
+
+linkLink_million_header█LinkLink financial success. {1} earns millions!
+linkLink_million_content█More than one million dollars a year, that's the latest earnings figures for the company {0}. It is worth noting that the amount applies only to LinkLink's Internet access service. &%&%We hope that {1} will spend his money well - for example, he would send a man to Mars.
+
+
+linkLink_failure_header█The great failure of LinkLink - users without access to the Internet for 24 hours.
+linkLink_failure_content█Concerned LinkLink subscribers report a failure of their Internet access. More than half of the users can't connect to the network for almost 24 hours. &%&%{1}'s technicians are already working on removing the causes of the failure. We hope that such failures will not be repeated in the future.
