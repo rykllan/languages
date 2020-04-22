@@ -23,4 +23,4 @@ tweet_land_3█{0} first stage has landed! Full footage tmrw. <color=#64B5F6>#ea
 tweet_crash_1█Well, that was unexpected. {0} <color=#64B5F6>#earthx</color>
 tweet_crash_2█Our team is investigating the {0} rocket explosion.
 tweet_crash_3█Look, it wasn't an explosion. It was just a rapid unscheduled disassembly. {0} <color=#64B5F6>#earthx</color>
-tweet_crash_4█Our team found the issue. It was something with {1}. Shouldn't happen again in our future flights. {0} <color=#64B5F6>#earthx</color>
+tweet_crash_4█Our team found the issue. It was something with the engine. Shouldn't happen again in our future flights. {0} <color=#64B5F6>#earthx</color>
