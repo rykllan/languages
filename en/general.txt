@@ -338,14 +338,38 @@ buildingSetup_manageEmployees█Manage employees
 
 buildingSetup_destroyBuilding█Destroy building
 
+small_factory█Small Factory
+small_factory_desc█You can build only small modules.
 
-office█<b><color=#FF9F43>Office</color></b>&%<size=13>Hire office employees to get a higher negotiation power in contracts window.</size>&%745 000 <color=#16A085>$
-factory█<b><color=#FF9F43>Factory</color></b>&%<size=13>Build vehicle modules.</size>&%1 550 000 <color=#16A085>$
-hangar█<b><color=#FF9F43>Hangar</color></b>&%<size=13>Store up to 3 vehicles.</size>&%215 000 <color=#16A085>$
-laboratory█<b><color=#FF9F43>Laboratory</color></b>&%<size=13>Gain skill points for module unlocks and upgrades.</size>&%715 000 <color=#16A085>$
-simpleLP█<b><color=#FF9F43>Simple Launch Pad</color></b>&%<size=13>Launch only small rockets.</size>&%32 500 000 <color=#16A085>$
-advancedLP█<b><color=#FF9F43>Advanced Launch Pad</color></b>&%<size=13>Launch only medium and large rockets.</size>&%99 000 000 <color=#16A085>$
-megaLP█<b><color=#FF9F43>Mega Launch Pad</color></b>&%<size=13>Launch only very large rockets. (Superheavy with Starships :o)</size>&%580 000 000 <color=#16A085>$
+medium_factory█Medium Factory
+medium_factory_desc█You can build only small and medium modules.
+
+large_factory█Large Factory
+large_factory_desc█You can build all kinds of vehicles except Spaceships and Superheavies.
+
+giga_factory█Giga Factory
+giga_factory_desc█You can build every kind of vehicles and LinkLink.
+
+small_hangar█Small Hangar
+small_hangar_desc█You can store only rockets.
+
+medium_hangar█Medium Hangar
+medium_hangar_desc█You can store only rockets and capsules.
+
+large_hangar█Large Hangar
+large_hangar_desc█You can store more rockets and capsules.
+
+mega_hangar█Mega Hangar
+mega_hangar_desc█You can store only Spaceships and Superheavies.
+
+office█Office
+office_desc█Office employees are giving you more negotiation power (you can offer higher price at negotiating).
+
+laboratory█Laboratory
+laboratory_desc█Produces skill points.
+
+megaLP█Mega Launch Pad
+megaLP_desc█You can launch Spaceships.
 
 lp_cape█Cape Canaveral
 lp_vandenberg█Vandenberg
@@ -356,6 +380,8 @@ lp_balkonur█Baikonur
 lp_plesetsk█Plesetsk
 lp_xichang█Xichang
 lp_rocketComplex█Private Spaceport
+lp_australia█Australia Launch Pad
+lp_india█India Launch Pad
 
 
 
