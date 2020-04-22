@@ -384,7 +384,7 @@ lp_plesetsk█Plesetsk
 lp_xichang█Xichang
 lp_rocketComplex█Private Spaceport
 lp_australia█Australia Launch Pad
-lp_india█India Launch Pad
+lp_india█Satish Dhawan
 
 
 
