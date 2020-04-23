@@ -383,7 +383,7 @@ lp_balkonur█Baikonur
 lp_plesetsk█Plesetsk
 lp_xichang█Xichang
 lp_rocketComplex█Private Spaceport
-lp_australia█Woomera Launch Pad
+lp_australia█Woomera
 lp_india█Satish Dhawan
 
 
