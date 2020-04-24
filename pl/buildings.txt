@@ -1,6 +1,6 @@
 
 
-building█Building
+building█Budynek
 building_office█Biuro
 building_factory█Fabryka
 building_laboratory█Laboratorium
@@ -9,9 +9,9 @@ building_simpleLP█Proste Stanowisko
 building_advancedLP█Zaawansowane Stanowisko
 building_megaLP█Mega Stanowisko
 
-building_category_all█All
-building_category_factories█Factories
-building_category_hangars█Hangars
+building_category_all█Wszystkie
+building_category_factories█Fabryki
+building_category_hangars█Hangary
 
 buildingSetup_buildingName█Nazwa budynku...
 buildingSetup_overview█Podgląd
@@ -26,48 +26,48 @@ buildingSetup_negotiationPowerBuilding█Ogólna siła negocjacji budynku
 buildingSetup_oneEmployee█Jeden pracownik
 buildingSetup_negotiationPower█Siła negocjacji
 
-buildingSetup_vehicleStored█Pojazdy przechowywane
+buildingSetup_vehicleStored█Przechowywane pojazdy
 
 buildingSetup_employees█<size=14>{0} pracowników</size>&%{1} <color=#16A085>$</color> za rok&%<size=14>{2} <color=#16A085>$</color> za każdy
 buildingSetup_manageEmployees█Zatrudnij pracowników
 
 buildingSetup_destroyBuilding█Zburz budynek
 
-small_factory█Small Factory
-small_factory_desc█You can build only small modules.
+small_factory█Mała Fabryka
+small_factory_desc█Możesz budować tylko małe moduły.
 
-medium_factory█Medium Factory
-medium_factory_desc█You can build only small and medium modules.
+medium_factory█Średnia Fabryka
+medium_factory_desc█Możesz budować tylko małe i średnie moduły.
 
-large_factory█Large Factory
-large_factory_desc█You can build all kinds of vehicles except Spaceships and Superheavies.
+large_factory█Duża Fabryka
+large_factory_desc█Możesz budować każdy typ pojazdu oprócz statków kosmicznych oraz Superheavy.
 
-giga_factory█Giga Factory
-giga_factory_desc█You can build every kind of vehicles and LinkLink.
+giga_factory█Giga Fabryka
+giga_factory_desc█Możesz budować wszystkie pojazdy oraz LinkLink.
 
-small_hangar█Small Hangar
-small_hangar_desc█You can store only rockets.
+small_hangar█Mały Hangar
+small_hangar_desc█Możesz przechowywać tylko rakiety.
 
-medium_hangar█Medium Hangar
-medium_hangar_desc█You can store only rockets and capsules.
+medium_hangar█Średni Hangar
+medium_hangar_desc█Możesz przechowywać tylko rakiety i kapsuły.
 
-large_hangar█Large Hangar
-large_hangar_desc█You can store more rockets and capsules.
+large_hangar█Duży Hangar
+large_hangar_desc█Możesz przechowywać więcej rakiet i kapsuł.
 
 mega_hangar█Mega Hangar
-mega_hangar_desc█You can store only Spaceships and Superheavies.
+mega_hangar_desc█Możesz przechowywać tylko statki kosmiczne oraz Superheavy.
 
-office█Office
-office_desc█Office employees are giving you more negotiation power (you can offer higher price at negotiating).
+office█Biuro
+office_desc█Pracownicy biurowi dają Ci większą siłę negocjacyjną (możesz zaoferować wyższą cenę przy negocjacjach).
 
-laboratory█Laboratory
-laboratory_desc█Produces skill points.
+laboratory█Laboratorium
+laboratory_desc█Produkuje punkty doświadczenia.
 
-megaLP█Mega Launch Pad
-megaLP_desc█You can launch Spaceships.
+megaLP█Mega Stanowisko
+megaLP_desc█Możesz startować statki kosmiczne.
 
-terminal█LinkLink Terminal
-terminal_desc█Terminals are connecting people on Earth with LinkLinks. More terminals == more users capacity.
+terminal█Odbiornik LinkLink
+terminal_desc█Odbiorniki łączą użytkowników z usługą LinkLink. Więcej odbiorników == więcej użytkowników.
 
 lp_cape█Cape Canaveral
 lp_vandenberg█Vandenberg
