@@ -25,13 +25,13 @@ tweet_land_3█Pierwszy stopień rakiety {0} wylądował! Pełne nagranie jutro.
 tweet_crash_1█Cóż, tego się nie spodziewałem. {0} <color=#64B5F6>#earthx</color>
 tweet_crash_2█Nasz zespół pracuje nad zbadaniem przyczyn dzisiejszej eksplozji rakiety {0}.
 tweet_crash_3█To nie była eksplozja. To był szybki, nieplanowany demontaż. {0} <color=#64B5F6>#earthx</color>
-tweet_crash_4█Our team found the issue. It was something with the engine. Shouldn't happen again in our future flights. {0} <color=#64B5F6>#earthx</color>
+tweet_crash_4█Nasz zespół znalazł już błąd. To było coś z silnikiem. Nie powinno się już powtórzyć w naszych przyszłych lotach. {0} <color=#64B5F6>#earthx</color>
 
 
-tweet_linklink_first█Sending this tweet through space via LinkLink satellite
-tweet_linklink_worked█Whoa, it worked!!
-tweet_linklink_visible█I wonder if you can see them from Earth <color=#64B5F6>#linklink</color> <color=#64B5F6>#internet</color>
-tweet_linklink_failure█<color=#64B5F6>#linklink</color> We're doing our best. Our technicians are the best in the world! <color=#64B5F6>#failure</color> {0}
+tweet_linklink_first█Wysyłam tego tweeta przez kosmos w systemie LinkLink
+tweet_linklink_worked█Woah, to działa!!
+tweet_linklink_visible█Zastanawiam się, czy widać je z ziemi <color=#64B5F6>#linklink</color> <color=#64B5F6>#internet</color>
+tweet_linklink_failure█<color=#64B5F6>#linklink</color> Staramy się jak możemy. Nasi technicy są najlepsi na świecie! <color=#64B5F6>#wielki_błąd</color> {0}
 
 
 
