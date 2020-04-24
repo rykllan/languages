@@ -34,12 +34,12 @@ linkLink_giga_factory_needed█You need a GigaFactory in order to build LinkLink
 
 linkLink_production█Production
 
-linkLink_100_required█You need at least <color=#64B5F6><b>100</b></color> LinkLinks in order to 
+linkLink_100_required█You need at least <color=#64B5F6><b>100</b></color> LinkLinks in order to run the service.
 
 linkLink_run█Run LinkLink
 linkLink_customerPrice█Customer price (per month)
 linkLink_customersHistory█Customers History
-linkLink_serviceDown█LinkLink services down. Technicians are working on fixing this. 
+linkLink_serviceDown█LinkLink services down. Technicians are working on fixing this. (it may take even a year)
 
 linkLink_build█Build LinkLink
 
