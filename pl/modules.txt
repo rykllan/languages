@@ -12,7 +12,7 @@ type_body█Konstrukcja
 type_parachutes█Spadochron
 type_sensors█Sensor
 type_antenna█Antena
-type_utility█Utility
+type_utility█Typ
 ---Engines---█---Engines---
 mdl_s_engine█Prosty Silnik,Wymagany do małych rakiet.
 mdl_a_engine█Zaawansowany Silnik,Wymagany do średnich rakiet.
@@ -62,9 +62,9 @@ mdl_methane_fueltank█Zbiornik Metanu,Wymagany do zbudowania statku kosmicznego
 mdl_methane_engine█6 Metanowych Silników,Wymagane do zbudowania statku kosmicznego.
 mdl_stainlesssteel_structure█Stalowa Konstrukcja,Wymagana do zbudowania statku kosmicznego.
 
-mdl_cargoUtility█Cargo Utility,Cargo Spaceship Module
-mdl_crewUtility█Crew Utility,Crew Spaceship Module
-mdl_fuelUtility█Fuel Utility,Tanker Spaceship
+mdl_cargoUtility█Typ Towarowy,Towarowy Statek Kosmiczny
+mdl_crewUtility█Typ Załogowy,Załogowy Statek Kosmiczny
+mdl_fuelUtility█Typ Cysterny,Cysternowy Statek Kosmiczny
 
 
 
