@@ -1,3 +1,5 @@
+
+
 type_fairings█Owiewki
 type_fuelTank█Zbiornik Paliwa
 type_engine█Silnik
@@ -63,4 +65,6 @@ mdl_stainlesssteel_structure█Stalowa Konstrukcja,Wymagana do zbudowania statku
 mdl_cargoUtility█Cargo Utility,Cargo Spaceship Module
 mdl_crewUtility█Crew Utility,Crew Spaceship Module
 mdl_fuelUtility█Fuel Utility,Tanker Spaceship
+
+
 

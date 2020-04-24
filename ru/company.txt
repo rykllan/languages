@@ -1,3 +1,5 @@
+
+
 company_createNewCompany█Создать новую компанию
 company_ceoName█Имя исполнительного директора
 company_companyName█Название компании
@@ -8,6 +10,7 @@ company_overview█Обзор
 company_fundraising█Финансирование
 company_financeHistory█Финансовая история
 company_flightHistory█История запусков
+company_competitionHistory█Competition History
 
 fundraising_productionCost█Стоимость производства:
 fundraising_sales█Продажи:
@@ -33,3 +36,34 @@ upgradeHeader█<b>УЛУЧШЕНИЕ</b>&%<size=13><color=#64B5F6>15 очков
 upgrade_reliability█<b>Надёжность:</b> <color=#81C784>+10%
 upgrade_buildCost█<b>Стоимость произв.:</b> <color=#81C784>-10%
 upgrade_buildTime█<b>Время производства:</b> <color=#81C784>-10%
+
+company_menu_finance█Finance
+company_menu_flights█Flights
+company_menu_competition█Competition
+
+company_summary█Finance Summary (Last 10 Years)&%<size=14>Where do you spend most money?
+
+company_successes█Successes
+company_failures█Failures
+company_flights█Flights
+company_income█Income
+company_outcome█Outcome
+company_balance█Balance
+
+company_launches█Launches
+company_construction█Construction
+company_employees█Employees
+company_others█Others
+company_lossPerYear█Average <mark=#E74C3C25>loss</mark> per year
+company_profitPerYear█Average <mark=#E74C3C25>loss</mark> per year
+
+
+
+
+
+
+
+
+
+
+

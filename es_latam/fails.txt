@@ -1,3 +1,5 @@
+
+
 fail1█Bueno, técnicamente si aterrizó... mas no en una sola pieza.
 fail2█Básicamente, no sabemos lo que pasó, ¿bien?
 fail3█Error 404: Cohete no encontrado.
@@ -18,7 +20,7 @@ fail18█No fue suficiente cinta plateada.
 fail19█Sobrepresión: La cámara de combustión del motor explotó.
 fail20█Parece que el cohete explotó debido a extraterrestres... no te preocupes, lo mantendremos en secreto.
 fail21█Fuga: El combustible encontró su camino fuera del tanque de combustible.
-fail22█Todo lo que sube, se tiene que estrellar.
+fail22█What goes up, musk crash down.
 fail23█Fuga: Un pequeño agujero entre el motor y el tanque de combustible causó el boom boom.
 fail24█Tu cohete desafió a la física... por eso se estrelló.
 fail25█Fallo hidráulico: Una parte importante del cohete no se pudo mover.
@@ -33,4 +35,6 @@ fail33█Compresión: El combustible se comprimió un poquito demasiado.
 fail34█La carga útil no estaba en modo cohete.
 fail35█El combustible estaba demasiado caliente dentro del tanque de combustible.
 fail36█Nota personal, no pegar las etapas con Blue Tac.
+
+
 

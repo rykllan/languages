@@ -1,3 +1,5 @@
+
+
 news_technology_content_p11█Wszyscy fani {0} na to czekali! Dzisiejsza konferencja prasowa prezesa firmy nie pozostawia złudzeń - jesteśmy świadkami kolejnego, dużego przełomu w badaniach, które zaprowadzą ludzkość na Marsa.
 news_technology_content_p12█Żyjemy w ciekawych czasach! Wyścig na Marsa rozpoczął się na dobre i sami jesteśmy ciekawi co z tego wyjdzie. Czy {1} spełni swoje obietnice?
 news_technology_content_p13█Dziś spoglądamy z nadzieją na firmę {0}. Czy kiedykolwiek ich załogi postawią nogę na Marsie? Przekonamy się już za kilka lat.
@@ -168,4 +170,6 @@ news_iss_2010q2_content█Trzydziesty drugi lot promu Atlantis i już sto trzydz
 
 news_iss_2011q1_header█Ostatnia misja wahadłowca Discovery. Leonardo dołączony do ISS.
 news_iss_2011q1_content█Dziś o godzinie 14:50 moduł Leonardo (PMM) znajdujący się na pokładzie wahadłowca Discovery zacumowanego do ISS został na stałe przymocowany do węzła modułu Harmony. &%&%Wielofunkcyjny Moduł Logistyczny (MPLM) Leonardo to duży hermetyczny kontener używany w misjach zaopatrzeniowych wahadłowców do przewozu ładunków do i z ISS. Po misji STS-131 Leonardo został przebudowany w Stały Moduł Wielofunkcyjny (PMM). Przebudowa pozwoliła na stałe połączenie z ISS przez nieograniczony czas - tym samym Leonardo będzie pełnił funkcję dodatkowego magazynu na Międzynarodowej Stacji Kosmicznej.
+
+
 

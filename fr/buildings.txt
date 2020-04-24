@@ -1,0 +1,84 @@
+
+
+building█Bâtiment
+building_office█Bureau
+building_factory█Usine
+building_laboratory█Laboratoire
+building_hangar█Hangar
+building_simpleLP█Rampe de lancement simple
+building_advancedLP█Rampe de lancement avancée
+building_megaLP█Méga rampe de lancement
+
+building_category_all█All
+building_category_factories█Factories
+building_category_hangars█Hangars
+
+buildingSetup_buildingName█Nom du bâtiment...
+buildingSetup_overview█Aperçu
+buildingSetup_setup█Préparation
+buildingSetup_billsCurrentQuarter█Projets pour le trimestre en cours
+
+buildingSetup_nowWorkingOn█Travaillant actuellement sur
+buildingSetup_queue█Queue
+
+buildingSetup_negotiationPowerEachEmployee█Pouvoir de négociation pour chaque employé
+buildingSetup_negotiationPowerBuilding█Pouvoir de négociation en construction
+buildingSetup_oneEmployee█Un employé
+buildingSetup_negotiationPower█Pouvoir de négociation
+
+buildingSetup_vehicleStored█Véhicules stockés
+
+buildingSetup_employees█<size=14>{0} employés</size>&%{1} <color=#16A085>$</color> / year&%<size=14>{2} <color=#16A085>$</color> / chaque
+buildingSetup_manageEmployees█Gérer les employés
+
+buildingSetup_destroyBuilding█Détruire bâtiment
+
+small_factory█Small Factory
+small_factory_desc█You can build only small modules.
+
+medium_factory█Medium Factory
+medium_factory_desc█You can build only small and medium modules.
+
+large_factory█Large Factory
+large_factory_desc█You can build all kinds of vehicles except Spaceships and Superheavies.
+
+giga_factory█Giga Factory
+giga_factory_desc█You can build every kind of vehicles and LinkLink.
+
+small_hangar█Small Hangar
+small_hangar_desc█You can store only rockets.
+
+medium_hangar█Medium Hangar
+medium_hangar_desc█You can store only rockets and capsules.
+
+large_hangar█Large Hangar
+large_hangar_desc█You can store more rockets and capsules.
+
+mega_hangar█Mega Hangar
+mega_hangar_desc█You can store only Spaceships and Superheavies.
+
+office█Office
+office_desc█Office employees are giving you more negotiation power (you can offer higher price at negotiating).
+
+laboratory█Laboratory
+laboratory_desc█Produces skill points.
+
+megaLP█Mega Launch Pad
+megaLP_desc█You can launch Spaceships.
+
+terminal█LinkLink Terminal
+terminal_desc█Terminals are connecting people on Earth with LinkLinks. More terminals == more users capacity.
+
+lp_cape█Cap Canaveral
+lp_vandenberg█Vandenberg
+lp_pacificSpaceport█Port spatial du Pacifique
+lp_guiana█Guyane
+lp_midAtlanticSpaceport█Port spatial de l'Atlantique
+lp_balkonur█Baikonur
+lp_plesetsk█Plesetsk
+lp_xichang█Xichang
+lp_rocketComplex█Port spatial privé
+lp_australia█Woomera
+lp_india█Satish Dhawan
+
+

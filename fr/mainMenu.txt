@@ -1,0 +1,36 @@
+
+
+menu_home█Menu	
+menu_play█Jouer
+menu_settings█Réglages
+menu_credits█Crédits
+menu_exit█Quitter
+menu_backToMainMenu█Retour au menu
+menu_save█Sauvegarder
+menu_notAvailable█Non disponible dans cette version, désolé :(
+menu_saveNotSupported█Les sauvegardes des anciennes versions d'EarthX ne sont pas prises en charge.
+
+menu_createNewGame█Créer nouvelle partie
+menu_tutorial█Tutoriel
+menu_classicHeader█Classique
+menu_classicDesc█Joue en mode classique et construis ta propre compagnie, à la conquête de l'espace !
+menu_sandboxHeader█Bac à sable
+menu_sandboxDesc█En mode bac à sable, tout est déverrouillé et illimité. Fais appel à ton imagination !
+
+menu_quality█Qualité
+menu_low█Basse
+menu_medium█Moyenne
+menu_high█Haute
+menu_effects█Effets
+menu_postprocessings█Post-traitement
+menu_gameplay█Jouabilité
+menu_autoSave█Sauvegarde automatique ?
+menu_autoPause█Pause automatique ?
+menu_video█Vidéo
+menu_fullscreen█Plein écran ?
+menu_audio█Audio
+menu_music█Musique ?
+menu_sounds█Sons ?
+menu_language█Langue
+
+

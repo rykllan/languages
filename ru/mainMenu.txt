@@ -1,3 +1,5 @@
+
+
 menu_home█Главная
 menu_play█Играть
 menu_settings█Настройки
@@ -30,3 +32,5 @@ menu_audio█Аудио
 menu_music█Музыка
 menu_sounds█Звуки
 menu_language█Язык
+
+

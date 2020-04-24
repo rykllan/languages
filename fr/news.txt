@@ -1,0 +1,175 @@
+
+
+news_technology_content_p11█Tous les fans de {0} l'attendaient ! La conférence de presse du PDG d'aujourd'hui ne laisse aucun doute - nous assistons à une autre avancée majeure dans la recherche qui conduira l'humanité vers Mars.
+news_technology_content_p12█Nous vivons une époque intéressante ! La course vers Mars a commencé pour de bon et nous sommes curieux de savoir ce qui en sortira. {1} gardera-t-il ses promesses ?
+news_technology_content_p13█Aujourd'hui, nous attendons avec impatience la compagnie {0}. Leurs missions humaines poseront-elles un jour le pied sur Mars ? Nous le verrons dans quelques années.
+news_technology_content_p14█Vous attendiez ce moment avec impatience, n'est-ce pas ? Nous avons les dernières nouvelles du siège social de la compagnie {0}. Tout semble indiquer que leur technologie se développe très rapidement.
+
+news_technology_content_p21█{1}: "Les fusées que nous développons actuellement sont loin d'être compétitives. Espérons que ce n'est pas une simple fanfaronnade pour faire plus de profits en bourse. {0} dispose-t-elle vraiment de meilleures technologies ? Poserons-nous un jour le pied sur Mars ? 
+news_technology_content_p22█"Nous espérons pouvoir nous tourner vers l'avenir. Les améliorations apportées à nos fusées ne nous permettront pas seulement de transporter des charges plus importantes en orbite. C'est le début du chemin que l'humanité va suivre au cours des prochaines décennies. - {1}, {0}. 
+news_technology_content_p23█Le moteur de nouvelle génération présenté par %company name% vient de passer avec succès ses premiers tests l'année dernière. {1} a annoncé que d'ici 10 ans, le moteur sera à bord de l'une des fusées pour le tester dans le vide spatial. Les concurrents ont-ils des raisons d'avoir peur ?
+news_technology_content_p24█"Je suis sûr que ça marchera !", déclare {1} lors de la conférence hier. Il veut récupérer les fusées qui sont tombées sur la Terre après le lancement de la charge utile en orbite. Une fusée tombant à très grande vitesse ouvrirait le parachute au bon moment et tomberait ensuite dans l'océan. C'est un pas de plus vers des vols moins chers dans l'espace et vers Mars !
+
+news_technology_content_p31█Nous sommes impatients d'entendre d'autres bonnes nouvelles à propos de {0} !
+news_technology_content_p32█{1} compte son argent, nous comptons nos nombre de vues par page. Il est peut-être temps d'introduire des publicités ?
+news_technology_content_p33█Les rêves d'un atterrissage humain sur Mars se réalisent sous nos yeux.
+news_technology_content_p34█Quelle est la première ? La Lune ou Mars ? {1} le sait probablement déjà, mais ne veulent pas le dire.
+
+
+
+news_technology_header1█{0} se développe. {1} tire profit des nouvelles technologies.
+news_technology_header2█Les nouveaux laboratoires {0} fonctionnent à plein gaz.
+news_technology_header3█{1} investit dans le développement. De nouveaux modèles de fusées à venir ?
+news_technology_header4█Je me demande comment il peut se l'offrir ? {1} investit dans le développement.
+news_technology_header5█{1} : "Notre objectif est Mars. Nous travaillons dur sur de nouveaux modules de fusée.
+news_technology_header6█Les investisseurs sont ravis. {0} gagnera-t-il la course à l'espace ?
+news_technology_header7█En route pour Mars ? {0} présente de nouveaux modules pour ses fusées.
+news_technology_header8█De plus en plus haut. Une  nouvelle devise {0} ?
+news_technology_header9█{2} sur Twitter: "Je suis impressionné par ce que fait {1}. Mais nous gagnerons quand même.
+news_technology_header10█Grosse découverte à {0}. De nouveaux modules pour les fusées seront bientôt utilisés.
+
+
+
+
+
+
+
+news_fail_content_p11█Nouvelles inquiétantes de {0}. Leur fusée a terminé sa mission de façon inattendue par une énorme explosion.
+news_fail_content_p12█Les citoyens près de l'aire de lancement de la société {0} ont assisté aujourd'hui à un spectacle étonnant. Selon notre correspondant, la boule de feu qui est apparue dans le ciel ce matin est une fusée de la compagnie {0}.
+news_fail_content_p13█Il semblerait que le bruit des fusées qui décollent près des villes soit le moindre souci de leurs citoyens. Jusqu'à ce que les fusées commencent à exploser. Le matin, notre bureau a commencé à recevoir des plaintes de citoyens anxieux qui ont été réveillés par une forte explosion.
+news_fail_content_p14█Un autre jour, une autre nouvelle désagréable du camp {0}. Une fusée appartenant à un milliardaire du nom de {1} a terminé sa mission de manière plutôt inattendue et bruyante.
+
+news_fail_content_p21█Les causes de l'explosion font actuellement l'objet d'une enquête. Le PDG de l'entreprise, {1}, a commenté la situation dans un bref message sur Twitter : "Celui qui ne fait rien ne fait pas d'erreur. Santé !". Une photo a également été ajoutée à ce post - une photo d'une bouteille de vodka polonaise "Żubrówka" à moitié vide. 
+news_fail_content_p22█Notre source anonyme, étroitement associée à la compagnie, informe que dans les 3 minutes qui ont suivi le lancement de la fusée, il y a eu une défaillance de l'hydraulique dans la chambre de combustion du moteur. Les détails seront probablement annoncés lors de la conférence de presse prévue aujourd'hui.
+news_fail_content_p23█Les causes de l'accident ne sont pas encore bien identifiées et seront étudiées en détail dans les mois à venir. Quelle que soit la cause, l'explosion signifie une perte importante pour l'image de {0}.
+news_fail_content_p24█Toute l'équipe travaille dur pour expliquer les raisons de l'explosion. Nous allons bientôt savoir si le matériel a échoué, s'il s'agit d'une défaillance humaine ou d'un acte de concurrence déloyale.
+news_fail_content_p25█L'amertume de la situation se fait sentir chez les fans de la compagnie dans le monde entier, pour qui {1} dès le début de son activité était l'incarnation de l'innovation et de l'entrepreneur idéal. "J'en ai vraiment assez et je vends toutes mes actions maintenant ! Je veux voir de beaux vols, pas des explosions..." - a écrit @denis-szwarc, utilisateur de reddit.com.
+
+news_fail_content_p31█Nous espérons que les prochains vols seront plus réussis, mais pas moins spectaculaires.
+news_fail_content_p32█Nous souhaitons au propriétaire de {0} plus de chance lors des prochains lancements.
+news_fail_content_p33█Nous croyons fermement que les causes de la catastrophe seront rapidement expliquées et qu'il n'y aura plus d'explosions.
+news_fail_content_p34█En cette journée désagréable pour {0}, nous ne pouvons plus rien faire d'autre que de croiser les doigts pour les prochains départs.
+news_fail_content_p35█Nous ne voulons plus écrire sur les explosions de fusées, mais nous n'avons pas d'autre choix.
+news_fail_content_p36█Ne me lancez pas sur le sujet.
+
+
+
+
+
+
+
+news_fail_header1█{1}: "C'est une leçon douloureuse mais importante pour nous tous. Le dernier vol de notre fusée de {0} s'est terminé par un feu d'artifice.
+news_fail_header2█Une fusée s'est transformée en une énorme boule de feu. {0} examine les causes de la catastrophe.
+news_fail_header3█{0} est en difficulté. L'explosion de leur fusée a réveillé les habitants de la ville voisine.
+news_fail_header4█Cette fusée n'existe plus. La fusée appartenant à {0} a brûlé dans l'atmosphère.
+news_fail_header5█{1}: "Nous pensions que cette fois, ça marcherait. Une fusée en feu n'est pas ce que nous voulions voir aujourd'hui.
+news_fail_header6█"Nous ferons beaucoup de bruit !" Les paroles du PDG de {0} viennent de se réaliser. Leurs fusées explosent dans tous les sens.
+news_fail_header7█{1} terrorise le ciel ! Les explosions successives de fusées menacent le flux financier des {0}.
+news_fail_header8█{0}: La puissante explosion de notre fusée menace la position de la compagnie. {1} en déroute ?
+
+
+
+
+
+
+
+
+
+
+news_bankrupt_content_p11█{1}, le PDG de {0} a annoncé aujourd'hui, lors d'une conférence de presse, la fermeture de l'entreprise avec tous ses bureaux et usines.
+news_bankrupt_content_p12█Les problèmes d'explosion de fusées, le non-respect des contrats et le désordre dans les documents financiers ne sont probablement pas les seules erreurs du président de {0}. {1} a déclaré aujourd'hui sa faillite.
+news_bankrupt_content_p13█Nous allons probablement attendre longtemps la première mission réussie de l'équipage vers Mars. Le marché ne pardonne pas les erreurs commises par {1}, le propriétaire de {0}. L'entreprise a fermé aujourd'hui.
+news_bankrupt_content_p14█L'on aurait pu s'y attendre. Après de nombreux lancements infructueux des fusées {0}, le moment est venu de mettre en place le conseil d'administration. Le PDG, {1} peut déjà remballer ses affaires.
+
+news_bankrupt_content_p21█Cette triste fin des rêves de conquête spatiale n'est que le début des problèmes financiers {0}. Selon les informations que nous avons reçues, l'entreprise est inondée de procès pour dommages matériels. Tout cela à cause des pièces de fusée qui tombent sur des maisons privées.
+news_bankrupt_content_p22█La déclaration émotionnelle que {1} a envoyée aux médias ne manque pas de commentaires amers envers les autres membres du conseil d'administration. "Mes rêves m'ont été volés (...) par des traîtres et des voleurs. J'ai fait tout ce qui était en mon pouvoir et maintenant je n'ai plus rien. Je suis désolé."
+news_bankrupt_content_p23█La conférence de presse de {0} a été dramatique. {1} y est apparu avec un oeil au beurre noir. Comme il l'a expliqué, il y a eu une petite dispute avec un autre membre du conseil d'administration. Officieusement, nous avons appris que c'était le dernier billet de 100 $ qui était resté dans le coffre-fort de la compagnie. Malheureusement, les déclarations du fondateur de {0} ne seront pas résumées - en les lisant, il a pleuré si fort que nous n'avons rien compris.
+
+news_bankrupt_content_p31█Honnêtement ? Nous ne sommes même pas désolés pour eux.
+news_bankrupt_content_p32█Nous espérons que {1} a mis un peu d'argent dans la tirelire.
+news_bankrupt_content_p33█Maintenant, tout est entre les mains de {2}.
+news_bankrupt_content_p34█Je me demande quelle sera la prochaine entreprise.
+
+
+
+
+
+
+news_bankrupt_header1█Triste fin pour {0}. {1} dit au revoir au secteur spatial.
+news_bankrupt_header2█Plus de rêves de Mars. {0} ferme ses usines.
+news_bankrupt_header3█"Les attentes des actionnaires ont dépassé nos attentes" - {1} fait référence à la fin de {0}.
+news_bankrupt_header4█{1} - visionnaire et... en faillite.
+news_bankrupt_header5█Il n'y aura plus de vols {0}. La compagnie fait faillite.
+news_bankrupt_header6█Il n'y a plus de place pour {0} dans l'industrie. {0} est en congé administratif.
+news_bankrupt_header7█Il y avait une compagnie, et il n'y a plus de compagnie. {0} remballe ses fusées !
+news_bankrupt_header8█Le Président {1} devait aller dans l'espace mais il va aller en prison. Qu'est-il arrivé à l'argent de la compagnie ? 
+news_bankrupt_header9█Grève des employés de {0}. {1} n'a pas d'argent pour leurs salaires !
+news_bankrupt_header10█{1} n'est pas allé à l'école et ne sait pas compter ? Le budget de {0} est très faible.
+news_bankrupt_header11█Les analystes le savent depuis longtemps. {0} a fait faillite !
+news_bankrupt_header12█{2} se moque du PDG de {0} : "1} manque d'imagination ! Je savais que ça ne durerait pas longtemps !"
+
+
+
+
+
+
+
+
+news_yearsummary_beforeRes_header█Comment se portaient les entreprises spatiales à {0} ? Grand résumé !
+news_yearsummary_beforeRes_content█Cette année, ainsi que les autres, a apporté beaucoup de décisions, d'événements et de vols intéressants ! C'est incroyable que de plus en plus de compagnies spatiales soient... privées ! Cela va beaucoup accélérer le développement des fusées.&%&%Voici quelques statistiques annuelles:&%&%<color=#64B5F6>Vols</color>:&%{0}&%<color=#64B5F6>Contrats</color>:&%{1}&%<color=#64B5F6>Budget</color>:&%{2}&%Nous attendons tous les événements de l'année prochaine. Nous savons que {3} travaille actuellement sur des fusées réutilisables. Cette compagnie est drôle, comment peut-on atterrir avec un bâton en métal ? C'est impossible.
+news_yearsummary_afterRes_header█
+news_yearsummary_afterRes_content█
+
+
+
+
+
+
+
+news_FundraisingHats_header█{1} a vendu 20 000 casquettes portant le logo {0}. Le moyen idéal de financer le commerce spatial ?
+news_FundraisingHats_content█{1} est étonnant. Fou, mais toujours étonnant. La direction a demandé au PDG de la société d'ajouter des liquidités au budget de l'entreprise de la manière la plus pointue possible. Un PDG normal licencierait probablement quelques employés pour réduire le coût de l'embauche. &%&%{1} a vendu... des casquettes. Et en bon nombre : près de 20 000. Est-ce le dernier acte aussi inhabituel de la part de {1} ?
+
+news_FundraisingBricks_header█"Hé, prenez une brique !" - une campagne surprenante de {0}.
+news_FundraisingBricks_content█{1} a recommencé. Exactement. Après ça, nous savons que {0} est entre de très bonnes mains, et que la faillite est peu probable. &%&%{1} a décidé cette fois-ci de vendre plusieurs milliers de briques pour améliorer le flux financier de l'entreprise. Un avantage supplémentaire est que les briques sont presque deux fois moins chères que les produits concurrents. Elles sont également écologiques. D'après les premiers rapports de l'entreprise, nous savons que les briques se vendent très bien.
+
+news_FundraisingNotFlamethrowers_header█Les compagnies maritimes ont dit que...
+news_FundraisingNotFlamethrowers_content█... ils ne transporteront rien qui porte le nom de "lance-flammes". Qu'a fait {1} ? Bien sûr, il a changé leur nom en "Pas un lance-flammes". &%&%{1} a eu une autre idée pour gagner quelques dollars supplémentaires. Cette fois-ci, il a fabriqué un énorme briquet, vendu à plus de 20 000 exemplaires ! Les premières rumeurs disent qu'il a fait plus de 30 millions en liquide. J'ai le sentiment que {0} n'a plus peur de faire faillite.
+
+
+news_FundraisingRocketquilla_header█Les amateurs de boissons fortes se sont jetés sur les boissons alcoolisées de {0}.
+news_FundraisingRocketquilla_content█Les amateurs de vêtements ont reçu des casquettes, les constructeurs des briques bon marché, les fanatiques de briquets de la taille d'une télévision ont reçu (pas un) lance-flammes, et ceux qui aiment boire ont reçu... un mélange explosif d'alcool. &%&%La tequila dans la version fusée de {1} vient de faire son entrée sur le marché et... s'est rapidement vendue, ajoutant plus de 100 millions de dollars à la poche de la société spatiale. Avez-vous réussi à l'acheter ?
+
+
+
+
+
+
+
+
+
+news_iss_2002q4_header█Une autre mission de la navette Atlantis - le nouveau module ITS S1 a été lancé sur la SSI.
+news_iss_2002q4_content█Il mesure près de 14 m de long, 4,6 m de large et 1,8 m de haut. Pesant plus de 14 tonnes, le module ITS S1 vient de rejoindre la station SSI en cours de construction. L'ITS S1 est le premier segment latéral nervuré à être fixé d'un côté au segment central de l'ITS S0. Trois puissants dissipateurs thermiques y ont été montés pour refroidir le système énergétique de la station. Un autre système de communication de la station a également été installé sur l'ITS S1 pour améliorer la qualité et le débit de la transmission audio et plusieurs plates-formes pour les expériences sous vide. Le S1 est également équipé de deux caméras, ce qui facilitera l'observation future de ce secteur de la station. La grille possède son propre ordinateur de bord, qui est responsable du contrôle du refroidissement, y compris la surveillance des réservoirs d'ammoniac, des circuits de refroidissement et des groupes de pompes. &%&%C'est la troisième mission de la navette Atlantis pour livrer d'autres parties de la station spatiale internationale en cours de construction.
+
+news_iss_2007q3_header█Harmony (Nœud 2) mis en orbite - reliera les modules Destiny, Columbus et Kibo.
+news_iss_2007q3_content█La mission de la navette Discovery, qui a mis en orbite le 23 octobre 2007 le module Harmony (Nœud 2), s'est terminée avec succès. Harmony est une sorte de séparateur qui combinera les trois modules ensemble - module américain, japonais (qui rejoindra la station plus tard), et européen (le laboratoire Columbus sera mis en orbite probablement au début de 2008). Il est équipé de racks contenant des instruments chargés de traiter l'électricité et de la transmettre aux modules mentionnés ci-dessus. &%&%Selon l'accord entre la NASA et l'ESA, le nœud 2 a été construit par la société italienne Alenia Spazio, dans son centre de Turin.
+
+news_iss_2008q1_header█Le laboratoire européen Columbus a rejoint la SSI !
+news_iss_2008q1_content█La Station spatiale internationale s'agrandit. Dans le cadre du vol 1E - STS-122 de la navette Atlantis, un autre énorme module a été lancé en orbite. Les expériences scientifiques qui y seront menées couvriront des domaines de recherche tels que la biologie végétale, l'exobiologie, l'héliophysique, la physiologie humaine et la physique des fluides. &%&%Columbus pèse plus de 10 tonnes et a été construit en 10 ans.
+
+news_iss_2008q2_header█La navette Endeavour a livré la première partie du module japonais Kibo sur la SSI.
+news_iss_2008q2_content█Tel que conçu par l'Agence japonaise d'exploration aérospatiale, le principal objectif de Kibo (JEM) est de mener des expériences scientifiques dans le vide. Le JEM disposera de stations permettant à deux personnes de travailler simultanément, mais le laboratoire pourra accueillir jusqu'à quatre membres d'équipage de la Station spatiale internationale. &%&%Au cours de la mission du ferry Endeavour, il y a eu également un échange de membres d'équipage de l'Expédition 16.
+
+news_iss_2009q4_header█Le petit module de recherche russe 2 "Poisk" est déjà en orbite.
+news_iss_2009q4_content█La mission russe de la fusée Soyouz-U avec le module Poisk à bord a été couronnée de succès. Le sas Poisk a atteint la station en utilisant le segment modifié de propulsion d'instruments du vaisseau Progress. &%&%C'est la deuxième mission russe Soyouz d'expansion de la SSI.
+
+news_iss_2010q1_header█Un des éléments les plus importants de la SSI déjà en place !
+news_iss_2010q1_content█La coupole (Dome) a été soulevée dans l'espace avec l'aide de la navette américaine Endeavour. Le module permettra d'avoir une vue panoramique directe de l'intérieur de la station vers les activités réalisées à l'extérieur. Celles-ci comprendront les opérations effectuées avec un manipulateur automatique, les sorties dans l'espace, les manœuvres d'amarrage de la navette ou l'examen et l'évaluation de l'état technique des dispositifs externes. &%&%Le dôme sera un excellent point d'observation de la Terre et des autres corps célestes.
+
+news_iss_2010q2_header█La coopération américano-russe a permis de doter la SSI d'un autre module.
+news_iss_2010q2_content█Le trente-deuxième vol de la navette Atlantis et déjà la cent trente-deuxième mission du programme de la navette ont été couronnés de succès. Cette fois, le module Rassvet (EN : Dawn) a rejoint la Station spatiale internationale. Il sera utilisé principalement pour le stockage des cargaisons et comme module d'amarrage de la station. &%&%En utilisant la capacité de Rassvet, la NASA a placé dans le module 3000 livres (ou 1360kg) d'équipement, de pièces détachées, de nourriture et de victuailles à transporter vers la station.
+
+news_iss_2011q1_header█La dernière mission de la navette Discovery. Leonardo a rejoint la SSI.
+news_iss_2011q1_content█Aujourd'hui à 14h50, le module Leonardo (PMM) qui se trouve à bord de la navette Discovery, qui est amarrée à la SSI, a été fixé de manière permanente au noeud du module Harmony. &%&%Le module logistique multifonctionnel Leonardo (MPLM) est un grand conteneur hermétique utilisé dans les missions de ravitaillement des navettes à destination et en provenance de la SSI. Après la mission STS-131, Leonardo a été converti en un module multifonctionnel permanent (MPLM). La conversion a permis une connexion permanente à la SSI pour une durée illimitée - ainsi, Leonardo servira d'installation de stockage supplémentaire à la Station spatiale internationale.
+
+
+

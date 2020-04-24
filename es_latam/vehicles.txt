@@ -1,3 +1,5 @@
+
+
 rocket█Cohete
 capsule█Cápsula
 spaceship█Nave espacial
@@ -35,7 +37,7 @@ condition█Condición
 notBuiltYet█Aun no construido
 constructing█Construyendo...
 repairing█Reparando...
-flying█Volando
+flying█Flying now
 dockedToISS█Acoplado a la EEI (Volverá pronto.)
 
 reusable█Reutilizable
@@ -118,3 +120,5 @@ creator_vehicleCanGoAnywhere█Éste vehículo puede ir a donde quieras.
 creator_capsuleRocket█This rocket can carry only the capsules.
 creator_spaceshipRocket█This rocket can carry only the spaceships.
 no_module_unlocked█Ningún módulo está desbloqueado.
+
+

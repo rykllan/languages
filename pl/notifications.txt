@@ -1,3 +1,5 @@
+
+
 company_ceoAndCompanyMustHaveName█Firma oraz Prezes muszą się jakoś nazywać.
 
 earthxWelcome█Witaj, <color=#64B5F6>{0}</color>!&%Widzę, że w końcu założyłeś rakietową firmę, o której wspominałeś. "<color=#64B5F6>{1}</color>" to nawet fajna nazwa!. Muszę Ci przyznać, że jesteś bardzo odważny.&%&%Duże firmy, które mają monopol na wysyłanie ładunków na orbitę, od lat nie zainwestowały w nowszą technologię. Cały czas używają jakichś niewydajnych rakiet na przestarzałych silnikach. A gdyby tak rakiety mogły lądować? Wtedy można by było wysłać nawet kilka ładunków jedną rakietą! Mam nadzieję, że uda Ci się zbudować lądujące rakiety, a może nawet rakietę z bocznymi boosterami?&%&%Powodzenia!
@@ -36,7 +38,8 @@ cantRepairSoManyVehicles█Nie możesz naprawiać tylu pojazdów w tym samym mom
 
 cantRemoveProject█Nie możesz usunąć tego projektu, ponieważ są w nim pojazdy.
 
-noHangars█Nie posiadasz żadnego hangaru lub nie masz w nich miejsca.
+noHangars█You can't store this vehicle because there's no space in your hangar or you need to build a <color=#64B5F6>{0}</color> in order to store that {1}.
+noFactories█{0} can't be built because you need a {2} to be able to build {1} modules.
 
 projectMustHaveName█Projekt musi mieć jakąś nazwę. Widziałeś kiedyś rakietę bez nazwy?
 projectSameName█{0} już istnieje. Może nazwij ją <color=yellow><b><size=20>'{0} Max Pro Ultra Slim'?

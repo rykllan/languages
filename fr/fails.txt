@@ -1,0 +1,40 @@
+
+
+fail1█Techniquement, elle a atterri... mais pas en une pièce
+fail2█Bon, on sait pas trop ce qui s'est passé
+fail3█Erreur 404 : fusée introuvable
+fail4█Court-circuit : des câbles non isolés ont pris feu
+fail5█La fusée ne répond pas, appuie sur une touche pour continuer
+fail6█Une mise à jour a fait redémarrer la fusée pendant le vol......
+fail7█La fusée est partie poursuivre son rêve de devenir un feu d'artifice au succès planétaire.
+fail8█Surchauffe de la batterie (Boum !)
+fail9█Même ÇA, ça peut casser ?
+fail11█Capteurs défaillants : ça n'a pas marché (Appuie sur F pour rendre hommage).
+fail12█Qui a oublié le pied d'atterrissage?
+fail13█Le véhicule a perdu la connexion avec le centre de lancement, il ne savait pas quoi faire.
+fail14█Et c'est pour ça qu'on n'allume pas de moteur avec un lance-flammes
+fail15█Antenne défaillante : l'ordinateur de bord manque des informations venant du centre.
+fail16█Bordel, qu'est-ce que fait la charge dans le réservoir ?!?!
+fail17█biscuits à volonté : https://discord.gg/sbXwwMs
+fail18█Pas assez de gaffer
+fail19█Surpression : la chambre de combustion a explosé.
+fail20█On dirait que les aliens ont fait exploser la fusée... ça restera secret !
+fail21█Fuite : le carburant a glissé en-dehors du réservoir. 
+fail22█What goes up, musk crash down.
+fail23█Fuite : un petit trou entre le moteur et le réservoir a fait boum
+fail24█Ta fusée a défié la physique et s'est écrasée
+fail25█Défaillance hydraulique : une pièce principale s'est bloquée.
+fail26█Mais, ce n'est pas le bouton d'allumage !
+fail27█Surpression : la charge a comme... explosé en vol. La fusée n'y est pour rien !
+fail28█Mince, on a oublié d'ouvrir les parachutes...
+fail29█Abruti d'employé : il a oublié ses outils dans le tuyau et l'a bloqué.
+fail30█Greta a bombardé ta fusée... C'est mauvais pour l'environnement !
+fail31█Défaillance hydraulique : les coiffes n'ont pas pu s'ouvrir 
+fail32█Pas de souci, c'est qu'une égratinure
+fail33█Compression : le carburant a été un peu trop compressé.
+fail34█La charge n'était pas sur le bon mode
+fail35█Le carburant était trop chaud dans le réservoir.
+fail36█Note pour plus tard, ne pas coller les étages de la fusée avec de la Patafix
+
+
+

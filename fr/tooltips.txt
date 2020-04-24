@@ -1,0 +1,13 @@
+
+
+tooltip_companyProgress█Évolution de la compagnie
+tooltip_vehicles█Véhicules
+tooltip_contracts█Missions
+tooltip_news█Actualités
+tooltip_company█Compagnie
+tooltip_buildMode█Mode construction
+tooltip_money█Argent
+tooltip_skillPoints█Points de compétence
+tooltip_linkLink█LinkLink
+
+

@@ -1,0 +1,68 @@
+
+
+company_ceoAndCompanyMustHaveName█L'entreprise et le PDG doivent avoir un nom !
+
+earthxWelcome█Hey, Elo- oh, c'est vous... <color=#64B5F6>{0}</color>!&%Je vois que vous avez enfin mis sur pied la compagnie de fusées dont vous aviez parlé auparavant. "<color=#64B5F6>{1}</color>" est en fait un nom cool ! Je dois vous dire que vous êtes très courageux... &%&%De grandes entreprises qui ont le monopole du marché des fournisseurs de lancement n'ont pas investi dans une technologie plus récente depuis des années. Elles utilisent encore des propulseurs inefficaces et des moteurs obsolètes. Et s'ils pouvaient faire atterrir leurs fusées sur la Terre ? Il serait alors possible d'envoyer plusieurs charges utiles avec une seule fusée ! J'espère que vous pourrez construire une fusée d'atterrissage ou même un propulseur latéral dans quelques années.&%&%Bonne chance !
+
+iss_CRSHeader█Services de réapprovisionnement commercial de la SSI
+iss_CRSContent█Hey!&%&%Vous avez prouvé que vous pouvez lancer des fusées et des capsules de cargaison. C'est pourquoi vous avez été choisi par le créateur de ce jeu pour approvisionner régulièrement la station spatiale internationale pendant plusieurs années.&%&%Vous êtes obligé de le faire parce que je n'ai pas programmé l'option de refus, et le jeu sans cette mission serait... ennuyeux.
+
+iss_CCPHeader█Programme des équipages commerciaux de la SSI
+iss_CCPContent█Hey!&%&%Votre entreprise s'est beaucoup développée depuis sa création. En tout cas, vous êtes-vous déjà imaginé comme le PDG d'une des plus grandes entreprises spatiales du monde ? Eh bien, moi non plus.&%&%Mais le jeu continue et je vois que vous avez beaucoup de choses en tête, alors je vous donne 6 missions d'équipage supplémentaires (le créateur du jeu a détecté que vous avez déjà la capsule nécessaire). Les missions d'équipage doivent être envoyées régulièrement à la station spatiale internationale.&%&%Oh, j'allais oublier, assure-toi que ta fusée n'explose pas, sinon ce sera mauvais si tu brûles des gens, lol.
+
+iss_catHeader█À l'aide, s'il vous plaît !
+iss_catContent█Mon chat, Balwina, est en très mauvais état... Je dois rester à bord de la SSI pendant encore 4 mois et j'ai très peur de ne plus jamais pouvoir la voir !!!&%&%De ce fait, S'IL VOUS PLAÎT, mettez-la sur votre prochaine mission SSI :(&%&%Pensez-y s'il vous plaît, et merci,&%&%Teresa
+
+iss_technicianHeader█Urgence à la SSI
+iss_technicianContent█Bonsoir,&%&%Il y a actuellement 4 astronautes à bord de la Station spatiale internationale. Leur vie est en danger à cause d'une fuite de taille moyenne dans l'un des modules.&%&%Nous savons que votre entreprise n'a pas de capsules d'équipage, c'est pourquoi vous devrez faire monter un technicien dans une capsule de cargaison.&%&%Veuillez le faire aussi vite que possible ET ne pas parler de ce vol à la presse. Personne ne doit savoir que nous sommes sur le point de lancer un humain dans une capsule de cargaison !&%&%Merci de votre coopération, vous serez payé après la mission.
+
+teslaRoadsterHeader█Une voiture dans l'espace
+teslaRoadsterContent█Lance une voiture dans l'espace, après tout pourquoi pas !
+
+contract_newPayloadsHeader█Nouvelles charges utiles !
+contract_newPayloadsContent█Ces charges utiles ont été construites et testées:&%{0}&%Vous pouvez maintenant les lancer.&%{1}
+contract_goLaunchThemOkNow█Je veux vraiment dire maintenant.&%&%Pourquoi es-tu encore là lol&%&%Ok va juste les lancer ou je vais supprimer tes fusées
+
+contract_hurryUpHeader█Dépêche-toi !
+contract_hurryUpContent█Tu dois t'occuper de ces charges utiles dès que possible:&%{0}&%&%Qu'est-ce que tu attends ? Tes fusées ne sont pas autonomes, va les lancer !
+
+contract_badBoyHeader█Bad boy. (ou "girl")
+contract_badBoyContent█Tu as été condamné à une amende de 15 % de chaque charge utile parce que tu ne les as pas lancées à temps :&%{0}&%&%Mais ce n'est pas la fin du monde. Va chercher d'autres contrats ! :)
+
+staticFireIssueFound█Vos ingénieurs ont trouvé un problème dans votre fusée et ils l'ont résolu.
+
+cantBuildNoFactories█Il faut des usines pour construire des fusées !
+cantBuildSoManyVehicles█Tu ne peux pas construire autant de véhicules en même temps !
+cantLaunchSoManyVehicles█Tu ne peux pas lancer autant de fusées en même temps !
+cantRepairSoManyVehicles█Tu ne peux pas réparer autant de véhicules en même temps !
+
+cantRemoveProject█Tu ne peux pas supprimer ce projet parce qu'il y a des véhicules dedans.
+
+noHangars█You can't store this vehicle because there's no space in your hangar or you need to build a <color=#64B5F6>{0}</color> in order to store that {1}.
+noFactories█{0} can't be built because you need a {2} to be able to build {1} modules.
+
+projectMustHaveName█Le projet doit avoir un nom. Tu as déjà vu une fusée sans nom ?
+projectSameName█{0} existe déjà. Tu peux peut-être l'appeler <color=yellow><b><size=20>'{0} Max Pro Ultra Slim' ?
+
+moduleUnlocked█Module déverrouillé !
+moduleUpgraded█Module mis à jour !
+notEnoughSkillPoints█Pas assez de points de compétences !
+
+congratulations█Félicitations !
+congratulations_content█Félicitations pour votre premier vol réussi !&%Nous tenons à vous informer que votre entreprise a reçu des fonds du gouvernement pour poursuivre la recherche et le développement.&%<color=#64B5F6><b>Ne les gaspillez pas</color>.
+
+buildingWorking█Ce bâtiment fonctionne à présent.
+hangarStoring█Ce hangar entrepose des véhicules.
+rocketLaunching█Une fusée est actuellement lancée depuis cette rampe de lancement.
+
+cantBuildOffices█Tu ne peux pas construire autant de bureaux.
+cantBuildFactories█Tu ne peux pas construire autant d'usines.
+
+cantBuildSimpleLP█Tu ne peux plus construire de rampes de lancement simples maintenant.
+cantBuildAdvancedLP█Tu ne peux plus construire de rampes de lancement avancées maintenant.
+cantBuildMegaLP█Tu ne peux plus construire de méga-rampes de lancement maintenant.
+
+
+
+
+

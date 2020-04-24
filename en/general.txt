@@ -1,8 +1,11 @@
+
+
 gameSaved█Game has been auto-saved. Don't worry!
 gameLoaded█Game has been loaded. Have fun!
 
 yes█Yes
 no█No
+ok█Ok
 
 enterText█Enter text...
 
@@ -18,6 +21,11 @@ orbit_leo█LEO
 orbit_meo█MEO
 orbit_geo█GEO
 orbit_iss█ISS
+
+map_settings_linklink_visible█LinkLink Visible
+map_settings_satellites_visible█Satellites Visible
+map_settings_linklink_outline█LinkLink Outline
+
 
 
 

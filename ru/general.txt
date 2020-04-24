@@ -1,8 +1,11 @@
+
+
 gameSaved█Игра была сохранена. Не волнуйтесь!
 gameLoaded█Игра была загружена. Веселитесь!
 
 yes█Да
 no█Нет
+ok█Ok
 
 enterText█Введите текст...
 
@@ -18,6 +21,10 @@ orbit_leo█НОО
 orbit_meo█MEO
 orbit_geo█GEO
 orbit_iss█МКС
+
+map_settings_linklink_visible█LinkLink Visible
+map_settings_satellites_visible█Satellites Visible
+map_settings_linklink_outline█LinkLink Outline
 
 
 

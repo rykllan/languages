@@ -1,3 +1,5 @@
+
+
 news_technology_content_p11█All {0} fans have been waiting for this! Today's CEO's press conference leaves no room for illusions - we are witnessing another major breakthrough in the research that will lead humanity to Mars.
 news_technology_content_p12█We live in interesting times! The race to Mars started for good and we are curious what will come out of it. Will {1} keep his promises?
 news_technology_content_p13█Today we are looking forward to the {0} company. Will their human missions ever set foot on Mars? We will see in a few years.
@@ -168,3 +170,6 @@ news_iss_2010q2_content█The thirty-second flight of the Atlantis shuttle and a
 
 news_iss_2011q1_header█The last mission of the Discovery shuttle. Leonardo joined the ISS.
 news_iss_2011q1_content█Today at 2:50 p.m., the Leonardo module (PMM) that is on a board of the Discovery shuttle, which is docked to the ISS, was permanently attached to the Harmony module node. &%&%The Leonardo Multifunctional Logistics Module (MPLM) is a large hermetic container used in supply missions of shuttles to and from ISS. After the STS-131 mission, Leonardo was converted into a Permanent Multifunctional Module (PMM). The conversion allowed a permanent connection to the ISS for an unlimited period of time - thus, Leonardo will serve as an additional storage facility at the International Space Station.
+
+
+

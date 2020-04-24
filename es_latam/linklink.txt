@@ -1,3 +1,5 @@
+
+
 linkLink_announcement_header█LinkLink - the internet of the future?
 linkLink_announcement_content█{1}, the owner of the space company {0} is expanding. It would seem that sending a man to Mars is the CEO's top ambition.&%&%This time {1} has set himself the goal of providing fast and cheap internet to the people of our planet. He wants to achieve this with hundreds of small telecommunications satellites sent into Earth's orbit. The name of the technology was also announced - "LinkLink".&%&%We will keep you informed about the progress of work on this new technology.
 
@@ -27,4 +29,39 @@ linkLink_million_content█More than one million dollars a year, that's the late
 
 linkLink_failure_header█The great failure of LinkLink - users without access to the Internet for 24 hours.
 linkLink_failure_content█Concerned LinkLink subscribers report a failure of their Internet access. More than half of the users can't connect to the network for almost 24 hours. &%&%{1}'s technicians are already working on removing the causes of the failure. We hope that such failures will not be repeated in the future.
+
+linkLink_giga_factory_needed█You need a GigaFactory in order to build LinkLink satellites.
+
+linkLink_production█Production
+
+linkLink_100_required█You need at least <color=#64B5F6><b>100</b></color> LinkLinks in order to 
+
+linkLink_run█Run LinkLink
+linkLink_customerPrice█Customer price (per month)
+linkLink_customersHistory█Customers History
+linkLink_serviceDown█LinkLink services down. Technicians are working on fixing this. 
+
+linkLink_build█Build LinkLink
+
+linkLink_totalCustomers█Users
+linkLink_totalLinkLinks█Total LinkLinks
+linkLink_income█Yearly Income
+linkLink_stability█Connection Stability
+linkLink_capacity█LinkLink Capacity (Max users)
+linkLink_terminalCapacity█Terminal Capacity (Max users)
+
+linkLink_smallFailure█Some of your LinkLinks stopped working and have been deorbited.
+linkLink_30_deorbited█30% of your LinkLinks have been deorbited because their lifetime has ended.
+
+
+linkLink_welcome_header█LinkLink
+linkLink_welcome_content█Later in EarthX, you will be able to create your own satellite constelation, which will provide cheap internet worldwide.&%&%However to do so, you need to launch 2 test satellites first.&%&%Good luck!
+
+
+
+
+
+
+
+
 

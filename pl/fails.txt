@@ -1,3 +1,5 @@
+
+
 fail1█Cóż, rakieta wylądowała, tyle, że nie w jednym kawałku.	
 fail2█Mówiąc szczerze, nie wiemy dlaczego to wybuchło.	
 fail3█Błąd 404: rakieta nie znaleziona.	
@@ -18,7 +20,7 @@ fail18█Użyłeś za mało srebrnej taśmy...
 fail19█Za duże ciśnienie: silnik wybuchł.	
 fail20█Wygląda na to, że rakieta wybuchła przez kosmitów. Nie martw się, nie powiemy nikomu.	
 fail21█Przeciek: paliwo wydostało się ze zbiornika.	
-fail22█Co leci do góry, musi spaść na dół.	
+fail22█What goes up, musk crash down.
 fail23█Przeciek: mała dziura w zbiorniku paliwa zrobiła bum, bum!	
 fail24█Twoja rakieta stawiła czoła fizyce. Dlatego wybuchła.	
 fail25█Awaria hydrauliki: ważny element rakiety nie mógł się poruszyć.	
@@ -33,4 +35,6 @@ fail33█Kompresja: paliwo było skompresowane trochę zbyt mocno.
 fail34█Satelita nie był w trybie rakietowym.	
 fail35█Paliwo było zbyt gorące.	
 fail36█Nie łącz modułów rakiet taśmą.
+
+
 

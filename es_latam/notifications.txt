@@ -1,3 +1,5 @@
+
+
 company_ceoAndCompanyMustHaveName█¡La empresa y el CEO deben tener un nombre!
 
 earthxWelcome█Oye, Elon!...oh, eres tú... <color=#64B5F6>{0}</color>!&%Veo que por fin has creado la empresa de cohetes que habías mencionado antes. ¡"<color=#64B5F6>{1}</color>" es de hecho un nombre genial! Debo decirte que eres muy valiente.&%&%Las grandes empresas que tienen el monopolio del mercado de proveedores de lanzamientos no han invertido en alguna tecnología más nueva durante años. Todavía están usando propulsores ineficientes y motores obsoletos. ¿Y si pudieran aterrizar sus cohetes en la Tierra? ¡Entonces sería posible enviar múltiples cargas útiles con sólo un cohete! Espero que puedas construir un cohete que aterrice o incluso uno de propulsores laterales en unos pocos años.&%&%¡Buena suerte!
@@ -36,7 +38,8 @@ cantRepairSoManyVehicles█¡No puedes reparar tantos vehículos al mismo tiempo
 
 cantRemoveProject█No puedes quitar este proyecto porque hay vehículos en él.
 
-noHangars█¡No tienes hangares o hay muy poco espacio para guardar los vehículos!
+noHangars█You can't store this vehicle because there's no space in your hangar or you need to build a <color=#64B5F6>{0}</color> in order to store that {1}.
+noFactories█{0} can't be built because you need a {2} to be able to build {1} modules.
 
 projectMustHaveName█El proyecto debe tener un nombre. ¿Alguna vez has visto un cohete sin nombre?
 projectSameName█{0} ya existe. ¿Quizá nombralo <color=yellow><b><size=20>'{0} Max Pro Ultra Slim'?

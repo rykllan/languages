@@ -1,3 +1,5 @@
+
+
 levelTitle0█Company Registered
 levelTitle1█Startup
 levelTitle2█"When something is important enough, you do it even if the odds are not in your favor." - Elon Musk
@@ -6,12 +8,12 @@ levelTitle4█"I could either watch it happen or be a part of it." - Elon Musk
 levelTitle5█Remember to land
 levelTitle6█Supplier
 levelTitle7█Acceleration
-levelTitle8█The Cat
+levelTitle8█Tintin
 levelTitle9█Acceleration
 levelTitle10█The power of computers
 levelTitle11█Catch it!
 levelTitle12█Going Heavy
-levelTitle13█Infrastructure
+levelTitle13█LinkLink
 levelTitle14█Emergency
 levelTitle15█Do not put Humans inside the Fairings
 levelTitle16█Human Factor
@@ -33,29 +35,56 @@ progress_reuseRockets█Reuse {0} rocket(s)
 progress_launchPayloadsAtOnce█Launch {0} payloads at once
 progress_launchFromOwnLaunchPad█Launch {0} rocket(s) from your own launch pad!
 progress_launchTesla█Launch a car!
-progress_buildFactories█Build {0} factories!
-progress_buildOffices█Build {0} offices!
-progress_buildLaboratories█Build {0} laboratories!
-progress_buildLaunchPads█Build {0} small or advanced launch pad(s)!
+progress_buildFactories█Build {0} factorie(s)!
+progress_buildOffices█Build {0} office(s)!
+progress_buildLaboratories█Build {0} laboratorie(s)!
 progress_buildMegaLaunchPads█Build {0} mega launch pad(s)!
 progress_getContracts█Get {0} contract(s)
 progress_launchCat█Launch a cat!
 progress_launchTechnician█Launch a technician!
 progress_catchFairings█Catch {0} fairings!
+progress_launchLinkLinks█Launch LinkLinks: {0}
+progress_reachLinkLinkUsers█LinkLink users: {0}
+progress_hireEmployees█Hire employees: {0}
 
-progress_maxFactories█Max Factories:
 progress_maxOffices█Max Offices:
-progress_maxLaunchesATST█Max launches at the same time:
-progress_multiplePayloads█You can now launch <b><color=#64B5F6>many</b></color> payloads at once!
-progress_fundraiserHats█New Fundraiser: <b><color=#64B5F6>Sell hats!
-progress_fundraiserBricks█New Fundraiser: <b><color=#64B5F6>Sell bricks!
-progress_fundraiserNAF█New Fundraiser: <b><color=#64B5F6>Sell (not a) Flamethrowers!
-progress_fundraiserRocketquilla█New Fundraiser: <b><color=#64B5F6>Sell Rocketquillas!
+progress_multiplePayloads█[<color=#81C784>FEATURE</color>] Launch many payloads at once!
+progress_fundraiserHats█[<color=#FF9F43>FUNDRAISING</color>] Sell hats!
+progress_fundraiserBricks█[<color=#FF9F43>FUNDRAISING</color>] Sell bricks!
+progress_fundraiserNAF█[<color=#FF9F43>FUNDRAISING</color>] Sell (not) flamethrowers!
+progress_fundraiserRocketquilla█[<color=#FF9F43>FUNDRAISING</color>] Sell rocketquillas!
 progress_issSupplierMission█Special Mission: <b><color=#64B5F6>ISS Supplier
 progress_issCrewMission█Special Mission: <b><color=#64B5F6>ISS Commercial Crew
 progress_teslaRoadsterMission█Special Mission: <b><color=#64B5F6>Launch a car
 progress_catMission█Special Mission: <b><color=#64B5F6>Astronaut's Cat
 progress_technicianMission█Special Mission: <b><color=#64B5F6>Technician in a Suitcase
-progress_simpleLaunchPad█New Building: <b><color=#64B5F6>Simple Launch Pad
-progress_advancedLaunchPad█New Building: <b><color=#64B5F6>Advanced Launch Pad
-progress_megaLaunchPad█New Building: <b><color=#64B5F6>Mega Launch Pad
+
+progress_smallFactory█[<color=#E74C3C>BUILDING</color>] Small Factory
+progress_mediumFactory█[<color=#E74C3C>BUILDING</color>] Medium Factory
+progress_largeFactory█[<color=#E74C3C>BUILDING</color>] Large Factory
+progress_gigaFactory█[<color=#E74C3C>BUILDING</color>] Giga Factory
+
+progress_smallHangar█[<color=#E74C3C>BUILDING</color>] Small Hangar
+progress_mediumHangar█[<color=#E74C3C>BUILDING</color>] Medium Hangar
+progress_largeHangar█[<color=#E74C3C>BUILDING</color>] Large Hangar
+progress_megaHangar█[<color=#E74C3C>BUILDING</color>] Mega Hangar
+
+progress_linkLinkTerminal█[<color=#E74C3C>BUILDING</color>] LinkLink Terminal
+progress_megaLaunchPad█[<color=#E74C3C>BUILDING</color>] Mega Launch Pad
+
+progress_linkLink15█[<color=#81C784>FEATURE</color>] LinkLink (15)
+progress_linkLink30█[<color=#81C784>FEATURE</color>] LinkLink (30)
+progress_linkLink60█[<color=#81C784>FEATURE</color>] LinkLink (60)
+progress_linkLinkCapacity50█[<color=#81C784>LinkLink</color>] LinkLink Capacity +50%
+progress_linkLinkCapacity25█[<color=#81C784>LinkLink</color>] LinkLink Capacity +25%
+progress_linkLinkCosts█[<color=#81C784>LinkLink</color>] LinkLink Production Costs -25%
+
+
+
+
+
+
+
+
+
+

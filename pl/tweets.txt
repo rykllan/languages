@@ -1,3 +1,5 @@
+
+
 tweet_static_fire_1█Test statyczny naszej rakiety {0} zakonczył się sukcesem. Start już jutro! <color=#64B5F6>#earthx</color>
 tweet_static_fire_2█Test statyczny generuje duży hałas, ale dzięki temu możemy sprawdzić podstawowe systemy rakiety tuż przed jej odpaleniem. {0} <color=#64B5F6>#firma_kosmiczna</color> <color=#64B5F6>#earthx</color>
 tweet_static_fire_3█Ahh! <color=#64B5F6>#test_statyczny</color> naszej rakiety {0} zakończył się katastrofą... Straciliśmy ładunek, co nie powinno się stać. Służby ratunkowe już w drodze! <color=#64B5F6>#earthx</color>
@@ -23,11 +25,13 @@ tweet_land_3█Pierwszy stopień rakiety {0} wylądował! Pełne nagranie jutro.
 tweet_crash_1█Cóż, tego się nie spodziewałem. {0} <color=#64B5F6>#earthx</color>
 tweet_crash_2█Nasz zespół pracuje nad zbadaniem przyczyn dzisiejszej eksplozji rakiety {0}.
 tweet_crash_3█To nie była eksplozja. To był szybki, nieplanowany demontaż. {0} <color=#64B5F6>#earthx</color>
-tweet_crash_4█Nasz zespół znalazł prawdopodobny błąd w rakiecie. To było coś związanego z {1}. Nie powinno się zdarzyć ponownie w naszych przyszłych lotach. {0} <color=#64B5F6>#earthx</color>
+tweet_crash_4█Our team found the issue. It was something with the engine. Shouldn't happen again in our future flights. {0} <color=#64B5F6>#earthx</color>
 
 
 tweet_linklink_first█Sending this tweet through space via LinkLink satellite
 tweet_linklink_worked█Whoa, it worked!!
 tweet_linklink_visible█I wonder if you can see them from Earth <color=#64B5F6>#linklink</color> <color=#64B5F6>#internet</color>
 tweet_linklink_failure█<color=#64B5F6>#linklink</color> We're doing our best. Our technicians are the best in the world! <color=#64B5F6>#failure</color> {0}
+
+
 

@@ -1,17 +1,51 @@
-contracts_header█Contracts
+
+
+contracts_header█Missions
+
+contracts_menu_payloads█Payloads
+contracts_menu_contracts█Contracts
+contracts_menu_offers█Offers
+
 contracts_payloads█{0} payloads
 contracts_availableIn█Available in
 contracts_noRockets█No capable rockets!
-contracts_negotiating█Negotiating
+contracts_negotiators█Negotiators
 contracts_approx█Approx.
 contracts_selectLaunchPrice█Select launch price
 contracts_avgRocketPrice█Avg. rocket price:
 contracts_avgProfit█Avg. profit:
+
 contracts_submitOffer█Submit offer
+contracts_negotiate█Negotiate
+
 contracts_onMissionSuccess█On Mission Success
 contracts_onMissionFailure█On Mission Failure
+
+contracts_offer_decline█Decline Offer
+contracts_offer_accept█Accept Offer
+contracts_offer_accepted█You accepted this offer.
 
 deadline_critical█Very critical!
 deadline_launchNow█Launch now!
 deadline_yearLeft█1 year left!
 deadline_yearsLeft█{0} years left!
+
+contract_negotiating█Negotiating
+contract_active█Active
+contract_completed█Completed
+
+contract_won_status█<color=#64B5F6><b>You won this contract.</b></color>&%<align=\"left\">&%<size=13>You will need to launch these payloads in time, <mark=#64B5F625>starting in {0}</mark>:</size></align>&%&%{1}
+
+
+contract_decline_confirm█Do you really want to decline this offer?
+
+contract_deadline_fine█Fine:
+
+payload_preparing_to_fly█Preparing to fly
+
+
+
+
+
+
+

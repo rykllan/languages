@@ -1,0 +1,124 @@
+
+
+rocket█Fusée
+capsule█Capsule
+spaceship█Navette spatiale
+
+rocketRequiresCapsule█Fusée (Requiert capsule)
+rocketRequiresSpaceship█Fusée (Requiert navette spatiale)
+
+vehicles█Véhicules
+vehicles_newProjectHeader█Créer nouveau projet
+vehicles_newProjectButton█Nouveau projet
+vehicles_newVehicleHeader█Créer nouveau véhicule
+vehicles_newVehicleButton█Nouveau véhicule
+
+land█Atterrir
+
+reusedVehicle█Véhicule réutilisé :
+buildCosts█Coûts de production
+buildTime█Temps de production
+originalBuildCosts█Coûts de production originaux
+optimizedBuildCosts█Coûts de production optimisés
+launchCosts█Produire coûts
+
+inQueue█In queue&%<size=14><b><color=#64B5F6>Le module sera construit dans un petit moment
+
+build█Construire		
+built█Construit
+launch█Lancer
+repair█Réparer
+turnExpendable█Turn Expendable
+
+capabilities█Capacités
+reliability█Fiabilité
+condition█Etat
+
+notBuiltYet█Pas encore construit
+constructing█En construction...
+repairing█En réparation...
+flying█Flying now
+dockedToISS█Atterris à la SSI (Reviendra bientôt.)
+
+reusable█Réutilisable
+manual█Manuel
+sideboosters█Propulseurs Latéraux
+superheavy█Superlourd
+spaceshipsOnly█Réservé aux navettes spatiales
+capsulesOnly█Réservé aux capsules
+fairingRecovery█Récupération de la coiffe
+
+landingNotSupported█Atterrissage impossible !&%Tu as besoin de :<size=12><b>&%- ailettes en grille & pieds d'atterrissage&%-Batterie&%-GPS (pour réutilisation automatique)&%-4 ou 9 moteurs avancés</b></size>&%
+capsulesNotSupported█Capsules impossible !&%Tu as besoin de :<size=12><b>&%-Batterie&%-GPS&%-4 ou 9 moteurs avancés</b></size>&%
+heavyNotSupported█Fusée lourde non supportée !&%Tu as besoin de :<size=12><b>&%-fusée à réutilisation automatique</b></size>&%
+fairingCatchingNotSupported█Récupération des coiffes impossible !&%Tu as besoin de :<size=12><b>&%- fusée à réutilisation automatique</b></size>&%
+
+payload█Charge utile
+crew█Equipage
+cargo█Cargaison
+
+launchSetup_header█Préparation du lancement
+launchSetup_missionName█Titre de la mission...
+launchSetup_mission█Mission
+launchSetup_noVehiclesFound█[Aucun véhicule trouvé.]
+launchSetup_noPayloadsFound█[Aucune charge en capacité trouvée.]
+launchSetup_selectVehicle█Sélectionner véhicule
+launchSetup_selectLaunchPad█Sélectionner rampe
+launchSetup_selectLandingZone█Sélectionner zone d'atterrissage
+
+launchSetup_barge█Barge
+launchSetup_lz1█LZ-1
+launchSetup_lz2█LZ-2
+
+launchSetup_testFlight█Vol test
+launchSetup_concrete█Béton
+launchSetup_cheese█Fromage
+launchSetup_pizza█Pizza
+launchSetup_earthPlush█Peluche Terre
+launchSetup_everydayStickers█Stickers du quotidien
+launchSetup_landingZone█Zone d'atterrissage
+
+launchSetup_success█Succès
+launchSetup_crash█Crash
+failure█Echec
+noData█Pas de données
+flights█Vols
+failures█Echecs
+partialSuccess█Succès en partie
+
+launchPanel_telemetry█Télémetrie
+launchPanel_noSupportTelemetry█Cette fusée de supporte pas la télémétrie.
+launchPanel_speed█Vitesse
+launchPanel_altitude█Altitude
+launchPanel_staticFire█Feu statique
+launchPanel_speedMetric█km/h
+launchPanel_altitudeMetric█km
+
+buildPanel_moveToHangar█Déplacer au hangar
+
+missionReportHeader█Rapport de mission
+missionReportMissionName█Titre de la mission :
+missionReportRocketName█Fusée :
+missionReportMissionResult█Résultats de la mission
+
+missionReportLaunch█Lancement
+missionReportDeploy█Déploiement
+missionReportLanding█Atterrissage
+missionReportFairingLanding█Atterrissage des coiffes
+missionReportSecondVehicleLanding█Atterrissage du second véhicule
+
+missionReportMissionIncome█Revenus de la mission
+missionReportDamageCompensation█Compensation des dégâts
+missionReportLandedRocket█Fusée atterrie
+profit█profit
+loss█perte
+
+creator_header█Nouveau projet
+creator_vehicleName█Nom du véhicule...
+creator_createProject█Créer projet
+creator_vehicleCanGoAnywhere█Ce véhicule peut aller partout où tu voudras.
+creator_capsuleRocket█Cette fusée ne peut ne peut porter que les capsules.
+creator_spaceshipRocket█Cette fusée ne peut porter que les navettes spatiales.
+no_module_unlocked█Aucun module n'est déverrouillé.
+
+

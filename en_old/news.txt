@@ -1,0 +1,170 @@
+news_technology_content_p11█All {0} fans have been waiting for this! Today's CEO's press conference leaves no room for illusions - we are witnessing another major breakthrough in the research that will lead humanity to Mars.
+news_technology_content_p12█We live in interesting times! The race to Mars started for good and we are curious what will come out of it. Will {1} keep his promises?
+news_technology_content_p13█Today we are looking forward to the {0} company. Will their human missions ever set foot on Mars? We will see in a few years.
+news_technology_content_p14█You've been waiting for this, haven't you? We have the latest news from the company headquarters of {0}. Everything seems to indicate that their technology is developing very fast.
+
+news_technology_content_p21█{1}: "The rockets we are currently developing are far from competitive. Let's hope it's not just a simple boast to make more profits on the stock market. Does {0} really have better technologies? Will we ever set foot on Mars? 
+news_technology_content_p22█"We hope to look to the future. Improvements of our rockets will not only allow us to carry larger charges into orbit. This is the beginning of the path that mankind will follow over the next decades. - {1}, {0}. 
+news_technology_content_p23█The new generation engine presented by %company name% has just passed its first successful tests last year. {1} announced that within 10 years the engine will be on the board of one of the rockets to test it in the vacuum of space. Do the competitors have a reason to fear?
+news_technology_content_p24█"I'm sure it'll work!", says {1} at yesterday's conference. He wants to recover the rockets that fell to the Earth after the launch of the payload into orbit. A rocket falling at a very high speed would open the parachute at the right time and then fall into the ocean. This is another step towards cheaper flights into space and to Mars! 
+
+news_technology_content_p31█We are looking forward to hearing more good news about {0}!
+news_technology_content_p32█{1} is counting money, we are counting our page views. Maybe it's time to introduce ads?
+news_technology_content_p33█Dreams of a human landing on Mars are coming true in front of our eyes.
+news_technology_content_p34█What's the first one? Moon or Mars? {1} probably already knows it, but they don't want to say it.
+
+
+
+news_technology_header1█{0} is developing. {1} is cashing in on new technologies.
+news_technology_header2█The new {0} laboratories are running at high speed. 
+news_technology_header3█{1} invests in development. New rocket models coming soon?
+news_technology_header4█I wonder how can he afford that? {1} invests in development. 
+news_technology_header5█{1}: "Our goal is Mars. We are working hard on new rocket modules.
+news_technology_header6█Investors are delighted. Will {0} win the space race?
+news_technology_header7█Heading for Mars? {0} presents new modules for its rockets.
+news_technology_header8█More and higher. New motto {0}?
+news_technology_header9█{2} on Twitter: "I am impressed with what {1} is doing. But we will win anyway.
+news_technology_header10█Big breakthrough in {0}. New modules for rockets will soon be in use.
+
+
+
+
+
+
+
+news_fail_content_p11█Disturbing news from {0}. Their rocket unexpectedly ended its mission with a huge explosion. 
+news_fail_content_p12█Citizens near the launch area of the {0} corporation witnessed an amazing, sky-high spectacle today. According to our correspondent, the fireball that appeared in the sky this morning is a rocket from {0}.
+news_fail_content_p13█It would seem that the sound of rockets taking off near cities is the smallest problem for their citizens. Until the rockets start to explode. In the morning, our office began to receive complaints from anxious citizens who have been woken up by a loud explosion.
+news_fail_content_p14█Another day, another unpleasant news from the camp {0}. A rocket that belongs to a billionaire named {1} ended its mission in a rather unexpected and loud way.
+
+news_fail_content_p21█The causes of the explosion are currently being investigated. The company's CEO, {1}, commented on the situation in a short Twitter post: "The one who does nothing makes no mistakes. Cheers!". There was also a picture added to the post - a photograph of a half-empty bottle of polish vodka "Żubrówka". 
+news_fail_content_p22█Our anonymous source, closely associated with the company, informs that in 3 minutes from the launch of the rocket there was a failure of hydraulics in the combustion chamber of the engine. Details will probably be announced at the press conference planned for today. 
+news_fail_content_p23█The causes of the accident are not yet well identified and will be investigated in detail in the coming months. Regardless of the cause, the explosion means a major image loss for {0}. 
+news_fail_content_p24█The whole team is working hard to explain the reasons for the explosion. We will soon find out whether the equipment failed, whether it was a human failure or whether it was an act of unfair competition.
+news_fail_content_p25█The bitterness of the situation is not hidden by the fans of the company all over the world, for whom {1} from the beginning of its activity was the embodiment of innovation and ideal entrepreneur. "I am sick and tired and I am selling all my shares now! I want to see beautiful flights, not explosions..." - was written by @denis-szwarc, the user of reddit.com.
+
+news_fail_content_p31█We hope that the next flights will be more successful, but not less spectacular.
+news_fail_content_p32█We wish the owner of {0} more luck during the next launches.
+news_fail_content_p33█We firmly believe that the causes of the disaster will be explained quickly and that no more explosions will take place.
+news_fail_content_p34█In this unpleasant day for {0} there is nothing left for us to do but to keep our fingers crossed for the next starts.
+news_fail_content_p35█We don't want to write about rocket explosions anymore, but we have no other choice.
+news_fail_content_p36█Don't get me started.
+
+
+
+
+
+
+
+news_fail_header1█{1}: "This is a painful but important lesson for all of us. The last flight of our rocket from {0} ended with fireworks.
+news_fail_header2█A rocket turned into a huge fireball. {0} examines the causes of the disaster.
+news_fail_header3█{0} is in trouble. The explosion of their rocket woke up the residents of the nearby city.
+news_fail_header4█That rocket is no longer in existence. The rocket belonging to the {0} burned in the atmosphere.
+news_fail_header5█{1}: "We thought it would work this time. A rocket on fire is not what we wanted to see today. 
+news_fail_header6█"We'll be out loud!" The words of the CEO of {0} have just come true. Their rockets explode like crazy.
+news_fail_header7█{1} terrorizes the sky! Successive rocket explosions threaten the financial flow of the {0}.
+news_fail_header8█{0}: The powerful explosion of our rocket threatens the company's position. {1} at the exit?
+
+
+
+
+
+
+
+
+
+
+news_bankrupt_content_p11█{1}, the CEO of {0} announced today at a press conference the closure of the company with all offices and factories. 
+news_bankrupt_content_p12█Problems with exploding rockets, failure to comply with contracts and mess in financial documents are probably not the only mistakes of the chairman of {0}. {1} today declared bankruptcy.
+news_bankrupt_content_p13█We will probably wait a long time for the first successful crew mission to Mars. The market does not forgive the mistakes made by {1}, the owner of {0}. The company was closed today.
+news_bankrupt_content_p14█We could have expected that. After many unsuccessful launches of the {0} rockets, there came the time for the settlement of the management board. The CEO, {1} can already pack his stuff. 
+
+news_bankrupt_content_p21█This sad end of the dreams about conquering space is only the beginning of {0} financial problems. According to the information we have received, the company is flooded with lawsuits for property damage. All because of the rocket parts falling on private homes.
+news_bankrupt_content_p22█The emotional statement that {1} sent to the media does not lack bitter words towards the other members of the management board. "My dreams were stolen (...) by traitors and thieves. I did everything in my power and now I am left with nothing. I'm sorry."
+news_bankrupt_content_p23█The press conference of {0} was a dramatic one. {1} appeared on it with a black eye. As he explained, there was a small fight with another member of the management board. Unofficially, we learned that it was the last $100 bill that was left in the company's safe. Unfortunately, the statements of the founder of {0} will not be summarized - reading them he cried so loudly that we did not understand anything.
+
+news_bankrupt_content_p31█Honestly? We don't even feel sorry for them. 
+news_bankrupt_content_p32█We hope that {1} put some money into the sock.
+news_bankrupt_content_p33█Now it's all in the hands of {2}.
+news_bankrupt_content_p34█I wonder which company is next.
+
+
+
+
+
+
+news_bankrupt_header1█Sad end of the {0}. {1} says goodbye to the space sector.
+news_bankrupt_header2█No more dreams of Mars. {0} closes its factories.
+news_bankrupt_header3█"The expectations of the shareholders have exceeded our expectations" - {1} refers to the end of {0}.
+news_bankrupt_header4█{1} - visionary and... bankrupt. 
+news_bankrupt_header5█There will be no more {0} flights. The company goes bankrupt.
+news_bankrupt_header6█There is no room for {0} in the industry anymore. {0} on administrative leave.
+news_bankrupt_header7█There was a company, and there is no company. {0} rolls up their rockets!
+news_bankrupt_header8█President {1} was supposed to go into space but he's going to jail. What happened to the {0} money?
+news_bankrupt_header9█Strike of {0} employees. {1} has no money for payouts!
+news_bankrupt_header10█{1} didn't go to school and can't count? The {0} budget is at a very low level.
+news_bankrupt_header11█The analysts have known that for a long time. {0} went bankrupt!
+news_bankrupt_header12█{2} laughs at the CEO of {0}: "{1} lacks imagination! I knew it wouldn't last long!"
+
+
+
+
+
+
+
+
+news_yearsummary_beforeRes_header█How were the space companies doing in {0}? Big summary! 
+news_yearsummary_beforeRes_content█This year, as well as the others, brought a lot of interesting decisions, events, and flights! This is amazing that more and more space companies are… private! This will speed up the rocket development a lot.&%&%Here are some annual stats:&%&%<color=#64B5F6>Flights</color>:&%{0}&%<color=#64B5F6>Contracts</color>:&%{1}&%<color=#64B5F6>Budget</color>:&%{2}&%We are all waiting for next year events. We know that {3} is currently working on reusable rockets. This company is funny, how can you even land with a metal stick? This is impossible.
+news_yearsummary_afterRes_header█
+news_yearsummary_afterRes_content█
+
+
+
+
+
+
+
+news_FundraisingHats_header█{1} has sold 20,000 hats with the {0} logo. The perfect way to finance space business?
+news_FundraisingHats_content█{1} is amazing. Crazy, but still amazing. {0}'s CEO was told by the management to add some cash to the company's budget in the sharpest possible way. A normal CEO would probably lay off a few employees to reduce the cost of hiring. &%&%{1} sold... hats. And quite a lot of them, almost 20,000. Is this the last such an unusual act by {1}?
+
+news_FundraisingBricks_header█"Hey, get a Brick!" - a surprising campaign of {0}.
+news_FundraisingBricks_content█{1} did it again. Exactly. After this one we know that {0} is in very good hands, and bankruptcy is unlikely to happen. &%&%{1} this time decided to sell several thousand bricks to improve the financial flow of the company. An additional advantage is that the bricks are almost half the price of rival products. They are also ECO friendly. From the first reports of the company we know that the bricks sell very good.
+
+news_FundraisingNotFlamethrowers_header█The shipping companies have said that...
+news_FundraisingNotFlamethrowers_content█... they will not transport anything that has "Flamethrower" in its name. What did {1} do? Of course he changed their name to "Not a Flamethrower". &%&%{1} has come up with another idea to make a few extra dollars. This time he made a huge lighter, sold in over 20,000 items! First rumors say he made over 30 million in cash. I have a feeling that {0} is not afraid to go bankrupt anymore.
+
+
+news_FundraisingRocketquilla_header█Fans of strong drinks have pounced on alcohol drinks from {0}.
+news_FundraisingRocketquilla_content█Fans of clothing got hats, builders got cheap bricks, fanatics of TV-sized lighters got (not a) flamethrowers, and those who like to drink got... an explosive mixture of alcohol. &%&%Tequila in the rocket version from {1} has just made its market debut and... quickly sold out adding more than $100 million to the space company's pocket. Did you manage to buy it?
+
+
+
+
+
+
+
+
+
+news_iss_2002q4_header█Another mission of the Atlantis shuttle - the new ITS S1 module has been launched on ISS.
+news_iss_2002q4_content█It is almost 14 m long, 4.6 m wide and 1.8 m high. Weighing more than 14 tons, the ITS S1 module has just joined the ISS station that is being built. The ITS S1 is the first ribbed side segment to be attached on one side to the central ITS S0 segment. Three powerful heat sinks have been mounted on it to cool the station's energy system. Another station communication system has also been installed on the ITS S1 to improve the quality and throughput of audio transmission and several platforms for vacuum experiments. The S1 is also equipped with two cameras, which will facilitate future observation of this sector of the station. The grating has its own on-board computer, which is responsible for cooling control, including monitoring of ammonia tanks, cooling circuits and pump sets. &%&%This is the third mission of the Atlantis shuttle to deliver further parts of the International Space Station that is being built.
+
+news_iss_2007q3_header█Harmony (Node 2) delivered to orbit - will connect Destiny, Columbus, and Kibo modules.
+news_iss_2007q3_content█The mission of the Discovery shuttle, which brought on 23rd October 2007 the Harmony module (Node 2) into orbit, ended successfully. Harmony is a kind of splitter that will combine the three modules together - American, Japanese (will join the station later), and European (Columbus laboratory will be placed in orbit probably at the beginning of 2008) module. On its board it has racks containing instruments responsible for processing the electricity and transmitting it to the modules mentioned above. &%&%By the agreement between NASA and ESA, Node 2 was built by the Italian company Alenia Spazio, in its centre in Turin. 
+
+news_iss_2008q1_header█The European Columbus laboratory has joined the ISS!
+news_iss_2008q1_content█The International Space Station is getting bigger. As a part of Flight 1E - STS-122 of the Atlantis shuttle, another huge module was launched into orbit. The scientific experiments conducted there will cover such fields of research as plant biology, exobiology, heliophysics, human physiology, and fluid physics. &%&%Columbus weighs over 10 tons and was being built for 10 years.
+
+news_iss_2008q2_header█Endeavour shuttle delivered the first part of the Japanese Kibo module on ISS.
+news_iss_2008q2_content█As designed by the Japanese Agency for Aerocosmic Exploration, the main purpose of Kibo (JEM) is to conduct scientific experiments in a vacuum. JEM will have stations for two people to work simultaneously, but the laboratory will be able to accommodate up to four crew members of the International Space Station. &%&%During the mission of the ferry Endeavour there was also an exchange of crew members of Expedition 16.
+
+news_iss_2009q4_header█Russian Small Research Module 2 "Poisk" already in orbit.
+news_iss_2009q4_content█The Russian Soyuz-U rocket mission with the Poisk module on board was successful. The Poisk airlock reached the station using the modified instrument-propulsion segment of the Progress vessel. &%&%This is the second Russian Soyuz mission to expand the ISS.
+
+news_iss_2010q1_header█One of the most important elements of ISS already in place!
+news_iss_2010q1_content█The Cupola (Dome) was lifted into space with the help of the American shuttle Endeavour. The module will allow a direct panoramic view from inside of the station to activities performed outside. These will include operations performed with an automatic manipulator, space walks, shuttle docking manoeuvres or review and evaluation of the technical condition of external devices. &%&%The dome will be an excellent observation point of the Earth and other celestial bodies.
+
+news_iss_2010q2_header█The American-Russian cooperation has provided the ISS with another module.
+news_iss_2010q2_content█The thirty-second flight of the Atlantis shuttle and already one hundred and thirty-second mission of the shuttle program was successful. This time the Rassvet module (EN: Dawn) joined the International Space Station. It will be used primarily for cargo storage and as a docking module for the station. &%&%Using the capacity of Rassvet, NASA has placed in the module 3000 pounds (or 1360kg) of equipment, spare parts, food, and victuals to be transported to the station.
+
+news_iss_2011q1_header█The last mission of the Discovery shuttle. Leonardo joined the ISS.
+news_iss_2011q1_content█Today at 2:50 p.m., the Leonardo module (PMM) that is on a board of the Discovery shuttle, which is docked to the ISS, was permanently attached to the Harmony module node. &%&%The Leonardo Multifunctional Logistics Module (MPLM) is a large hermetic container used in supply missions of shuttles to and from ISS. After the STS-131 mission, Leonardo was converted into a Permanent Multifunctional Module (PMM). The conversion allowed a permanent connection to the ISS for an unlimited period of time - thus, Leonardo will serve as an additional storage facility at the International Space Station.

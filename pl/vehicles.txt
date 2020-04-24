@@ -1,3 +1,5 @@
+
+
 rocket█Rakieta
 capsule█Kapsuła
 spaceship█Statek kosmiczny
@@ -35,7 +37,7 @@ condition█Wytrzymałość
 notBuiltYet█Jeszcze niezbudowana
 constructing█Budowanie...
 repairing█Naprawianie...
-flying█W locie
+flying█Flying now
 dockedToISS█Zadokowany do MSK (Niedługo powróci na ziemię.)
 
 reusable█Wielokrotnego użytku
@@ -118,3 +120,5 @@ creator_vehicleCanGoAnywhere█Ten pojazd może lecieć wszędzie, gdzie tylko c
 creator_capsuleRocket█Ta rakieta może wynosić tylko kapsuły.
 creator_spaceshipRocket█Ta rakieta może wynosić tylko statki kosmiczne.
 no_module_unlocked█Żaden moduł nie jest odblokowany.
+
+

@@ -1,3 +1,5 @@
+
+
 company_createNewCompany█Stwórz nową firmę
 company_ceoName█Imię i nazwisko prezesa
 company_companyName█Nazwa firmy
@@ -8,6 +10,7 @@ company_overview█Podgląd
 company_fundraising█Zbiórka pieniędzy
 company_financeHistory█Historia Wydatków
 company_flightHistory█Historia Lotów
+company_competitionHistory█Competition History
 
 fundraising_productionCost█Koszty produkcji:
 fundraising_sales█Sprzedaż:
@@ -33,3 +36,34 @@ upgradeHeader█<b>ULEPSZ</b>&%<size=13><color=#64B5F6>15 punktów doświadczeni
 upgrade_reliability█<b>Niezawodność:</b> <color=#81C784>+10%
 upgrade_buildCost█<b>Koszt budowy:</b> <color=#81C784>-10%
 upgrade_buildTime█<b>Czas budowy:</b> <color=#81C784>-10%
+
+company_menu_finance█Finance
+company_menu_flights█Flights
+company_menu_competition█Competition
+
+company_summary█Finance Summary (Last 10 Years)&%<size=14>Where do you spend most money?
+
+company_successes█Successes
+company_failures█Failures
+company_flights█Flights
+company_income█Income
+company_outcome█Outcome
+company_balance█Balance
+
+company_launches█Launches
+company_construction█Construction
+company_employees█Employees
+company_others█Others
+company_lossPerYear█Average <mark=#E74C3C25>loss</mark> per year
+company_profitPerYear█Average <mark=#E74C3C25>loss</mark> per year
+
+
+
+
+
+
+
+
+
+
+

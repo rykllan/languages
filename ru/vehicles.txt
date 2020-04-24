@@ -1,3 +1,5 @@
+
+
 rocket█Ракета
 capsule█Корабль
 spaceship█Spaceship
@@ -35,7 +37,7 @@ condition█Состояние
 notBuiltYet█Ещё не произведено
 constructing█Производство...
 repairing█Ремонт...
-flying█В полёте
+flying█Flying now
 dockedToISS█Пристыковано к МКС (скоро вернётся)
 
 reusable█Многоразовая
@@ -102,7 +104,7 @@ missionReportMissionResult█Результат миссии
 missionReportLaunch█Запуск
 missionReportDeploy█Отделение
 missionReportLanding█Посадка
-missionReportFairingLanding█Ловля обтекателей
+missionReportFairingLanding█Посадка обтекателей
 missionReportSecondVehicleLanding█Посадка корабля
 
 missionReportMissionIncome█Доход с миссии
@@ -118,3 +120,5 @@ creator_vehicleCanGoAnywhere█Эта ракета может отправить
 creator_capsuleRocket█Эта ракета может запускать только корабли.
 creator_spaceshipRocket█Эта ракета может запускать только Spaceship.
 no_module_unlocked█Нет разблокированных модулей.
+
+

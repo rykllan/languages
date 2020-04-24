@@ -1,0 +1,35 @@
+
+
+gameSaved█La partie a été sauvegardée automatiquement. Pas de panique !
+gameLoaded█La partie a fini de se charger. Amuse-toi bien !
+
+yes█Oui
+no█Non
+ok█Ok
+
+enterText█Taper texte...
+
+notification█Notification
+
+payload_size_verySmall█Très petit(e)
+payload_size_small█Petit(e)		
+payload_size_medium█Moyen(ne)
+payload_size_large█Grand(e)
+payload_size_veryLarge█Très grand(e)
+orbit_so█Sur orbite
+orbit_leo█OTB
+orbit_meo█MEO
+orbit_geo█GEO
+orbit_iss█SSI
+
+map_settings_linklink_visible█LinkLink Visible
+map_settings_satellites_visible█Satellites Visible
+map_settings_linklink_outline█LinkLink Outline
+
+
+
+
+
+
+
+

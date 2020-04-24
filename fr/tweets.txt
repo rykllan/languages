@@ -1,0 +1,37 @@
+
+
+tweet_static_fire_1█La mise à feu statique de {0} s'est étonnamment bien passée ! Le lancement est prévu pour bientôt. <color=#64B5F6>#earthx</color>
+tweet_static_fire_2█Les mises à feu statique font beaucoup de bruit et de fumée, mais on peut vérifier la fusée avant le lancement. {0} <color=#64B5F6>#space_company</color> <color=#64B5F6>#earthx</color>
+tweet_static_fire_3█Ahh ! <color=#64B5F6>#static_fire</color> de la fusée {0} a échoué... Nous avons perdu la charge utile du client. Cela n'aurait pas dû arriver. <color=#64B5F6>#earthx</color>
+tweet_static_fire_4█En fait, ce n'était pas une explosion, c'était juste un démontage rapide et non programmé. Le feu statique de {0} a échoué. <color=#64B5F6>#earthx</color> <color=#64B5F6>#static_fire</color>
+
+
+tweet_abort_1█Nous avons dû interrompre la mission {0} d'aujourd'hui quelques instants avant le lancement. Plus d'informations bientôt ! <color=#64B5F6>#earthx</color>
+tweet_abort_2█Notre client a trouvé un problème dans sa charge utile, nous avons donc dû l'enlever. Lancement de {0} dans quelques jours ! <color=#64B5F6>#earthx</color>
+
+
+tweet_deploy_1█Un grand merci à l'équipe {1} pour le lancement de {1} aujourd'hui ! Nous avons des employés en or, là-bas ! <color=#64B5F6>#earthx</color>
+tweet_deploy_2█La charge utile se dirige maintenant vers l'orbite cible (environ une heure de vol). L'équipe {1} déchire ! {0} <color=#64B5F6>#earthx</color>
+tweet_deploy_3█Séparation ! La charge utile se dirige maintenant vers l'orbite cible avec le deuxième étage de {0} ! <color=#64B5F6>#earthx</color>
+tweet_deploy_4█Bravo l'équipe {1} !
+tweet_deploy_5█Retourner en direct après la séparation des satellites → (ce reportage sera bientôt disponible) <color=#64B5F6>#earthx</color>
+
+
+tweet_land_1█{0} a atterri !
+tweet_land_2█{0} a atterri ! C'est notre atterrissage {1} ! <color=#64B5F6>#earthx</color>
+tweet_land_3█La première étape de {0} a été franchie ! Images complètes demain. <color=#64B5F6>#earthx</color>
+
+
+tweet_crash_1█Eh bien, c'était inattendu. {0} <color=#64B5F6>#earthx</color>
+tweet_crash_2█Notre équipe enquête sur l'explosion de la fusée {0}.
+tweet_crash_3█Ecoutez, ce n'était pas une explosion. C'était juste un démontage rapide et non programmé. {0} <color=#64B5F6>#earthx</color>
+tweet_crash_4█Our team found the issue. It was something with the engine. Shouldn't happen again in our future flights. {0} <color=#64B5F6>#earthx</color>
+
+
+tweet_linklink_first█Sending this tweet through space via LinkLink satellite
+tweet_linklink_worked█Whoa, it worked!!
+tweet_linklink_visible█I wonder if you can see them from Earth <color=#64B5F6>#linklink</color> <color=#64B5F6>#internet</color>
+tweet_linklink_failure█<color=#64B5F6>#linklink</color> We're doing our best. Our technicians are the best in the world! <color=#64B5F6>#failure</color> {0}
+
+
+

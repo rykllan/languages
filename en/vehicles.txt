@@ -1,3 +1,5 @@
+
+
 rocket█Rocket
 capsule█Capsule
 spaceship█Spaceship
@@ -35,7 +37,7 @@ condition█Condition
 notBuiltYet█Not built yet
 constructing█Constructing...
 repairing█Repairing...
-flying█Flying
+flying█Flying now
 dockedToISS█Docked to ISS (Will come back soon.)
 
 reusable█Reusable
@@ -118,3 +120,5 @@ creator_vehicleCanGoAnywhere█This vehicle can go to any place you want.
 creator_capsuleRocket█This rocket can carry only the capsules.
 creator_spaceshipRocket█This rocket can carry only the spaceships.
 no_module_unlocked█No module is unlocked.
+
+

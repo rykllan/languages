@@ -1,8 +1,13 @@
+
+
 tooltip_companyProgress█Progreso de la empresa.
 tooltip_vehicles█Vehículos
-tooltip_contracts█Contratos
+tooltip_contracts█Missions
 tooltip_news█Noticias
 tooltip_company█Empresa
 tooltip_buildMode█Modo de construcción
 tooltip_money█Dinero
 tooltip_skillPoints█Puntos de habilidad
+tooltip_linkLink█LinkLink
+
+

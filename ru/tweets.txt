@@ -1,3 +1,5 @@
+
+
 tweet_static_fire_1█Статический прожиг {0} прошёл удивительно хорошо! Запуск скоро. <color=#64B5F6>#earthx</color>
 tweet_static_fire_2█Статический прожиг создал много шума и дыма, но мы сможем осмотреть ракету до запуска. {0} <color=#64B5F6>#space_company</color> <color=#64B5F6>#earthx</color>
 tweet_static_fire_3█Эхх! <color=#64B5F6>#статический_прожиг</color> {0} был неудачным... Мы потеряли нагрузку заказчика. Этого не должно было случиться. <color=#64B5F6>#earthx</color>
@@ -16,18 +18,20 @@ tweet_deploy_5█Возвращаемся в прямой эфир для отд
 
 
 tweet_land_1█{0} сел!
-tweet_land_2█{0} сел! Это посадка нашей ракеты {0}! <color=#64B5F6>#earthx</color>
-tweet_land_3█Первая ступень {0} села! Полное видео завтра <color=#64B5F6>#earthx</color>
+tweet_land_2█{0} сел! Это наша {0} посадка! <color=#64B5F6>#earthx</color>
+tweet_land_3█Первая ступень {0} села! Полное видео завтра <color=#>#earthx</color>
 
 
 tweet_crash_1█Ну, это было неожиданно. {0} <color=#64B5F6>#earthx</color>
 tweet_crash_2█Наша команда расследует причину взрыва {0}.
 tweet_crash_3█Смотрите, это был не взрыв. Это просто была быстрая незапланированная разборка. {0} <color=#64B5F6>#earthx</color>
-tweet_crash_4█Наша команда нашла проблему. Это было что-то с {1}. Это не должно повториться в наших будущих полётах. {0} <color=#64B5F6>#earthx</color>
+tweet_crash_4█Our team found the issue. It was something with the engine. Shouldn't happen again in our future flights. {0} <color=#64B5F6>#earthx</color>
 
 
 tweet_linklink_first█Sending this tweet through space via LinkLink satellite
 tweet_linklink_worked█Whoa, it worked!!
 tweet_linklink_visible█I wonder if you can see them from Earth <color=#64B5F6>#linklink</color> <color=#64B5F6>#internet</color>
 tweet_linklink_failure█<color=#64B5F6>#linklink</color> We're doing our best. Our technicians are the best in the world! <color=#64B5F6>#failure</color> {0}
+
+
 
