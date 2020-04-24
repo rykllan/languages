@@ -22,9 +22,9 @@ orbit_meo█MEO
 orbit_geo█GEO
 orbit_iss█MSK
 
-map_settings_linklink_visible█LinkLink Visible
-map_settings_satellites_visible█Satellites Visible
-map_settings_linklink_outline█LinkLink Outline
+map_settings_linklink_visible█LinkLink widoczny
+map_settings_satellites_visible█Satelity widoczne
+map_settings_linklink_outline█Obramówka LinkLink
 
 
 
