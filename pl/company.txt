@@ -10,7 +10,7 @@ company_overview█Podgląd
 company_fundraising█Zbiórka pieniędzy
 company_financeHistory█Historia Wydatków
 company_flightHistory█Historia Lotów
-company_competitionHistory█Competition History
+company_competitionHistory█Historia Konkurencji
 
 fundraising_productionCost█Koszty produkcji:
 fundraising_sales█Sprzedaż:
@@ -37,25 +37,25 @@ upgrade_reliability█<b>Niezawodność:</b> <color=#81C784>+10%
 upgrade_buildCost█<b>Koszt budowy:</b> <color=#81C784>-10%
 upgrade_buildTime█<b>Czas budowy:</b> <color=#81C784>-10%
 
-company_menu_finance█Finance
-company_menu_flights█Flights
-company_menu_competition█Competition
+company_menu_finance█Finanse
+company_menu_flights█Loty
+company_menu_competition█Konkurencja
 
-company_summary█Finance Summary (Last 10 Years)&%<size=14>Where do you spend most money?
+company_summary█Podsumowanie wydatków (Ostatnie 10 lat)&%<size=14>Na co wydajesz pieniądze?
 
-company_successes█Successes
-company_failures█Failures
-company_flights█Flights
-company_income█Income
-company_outcome█Outcome
-company_balance█Balance
+company_successes█Sukcesy
+company_failures█Porażki
+company_flights█Loty
+company_income█Przychód
+company_outcome█Wydatki
+company_balance█Balans
 
-company_launches█Launches
-company_construction█Construction
-company_employees█Employees
-company_others█Others
-company_lossPerYear█Average <mark=#E74C3C25>loss</mark> per year
-company_profitPerYear█Average <mark=#E74C3C25>loss</mark> per year
+company_launches█Starty
+company_construction█Budowy
+company_employees█Pracownicy
+company_others█Inne
+company_lossPerYear█Średnia <mark=#E74C3C25>strata</mark> na rok
+company_profitPerYear█Średni <mark=#E74C3C25>przychód</mark> na rok
 
 
 
