@@ -27,3 +27,4 @@ linkLink_million_content█More than one million dollars a year, that's the late
 
 linkLink_failure_header█The great failure of LinkLink - users without access to the Internet for 24 hours.
 linkLink_failure_content█Concerned LinkLink subscribers report a failure of their Internet access. More than half of the users can't connect to the network for almost 24 hours. &%&%{1}'s technicians are already working on removing the causes of the failure. We hope that such failures will not be repeated in the future.
+

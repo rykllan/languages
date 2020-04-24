@@ -1,0 +1,35 @@
+company_createNewCompany█Stwórz nową firmę
+company_ceoName█Imię i nazwisko prezesa
+company_companyName█Nazwa firmy
+company_createCompany█Stwórz firmę
+
+company_header█Firma
+company_overview█Podgląd
+company_fundraising█Zbiórka pieniędzy
+company_financeHistory█Historia Wydatków
+company_flightHistory█Historia Lotów
+
+fundraising_productionCost█Koszty produkcji:
+fundraising_sales█Sprzedaż:
+hats█Czapki
+bricks█Cegły
+not_a_flamethrowers█<color=#E74C3C><size=10>Nie-</size></color>&%Miotacze Ognia
+rocketquillas█Rakietoquillasy
+use█Użyj
+
+company_progressHeader█Postęp firmy
+company_progressLevel█Poziom
+company_progressNewStuff█Nowe przedmioty
+company_progressCompleteChallenges█Ukończ zadania
+company_progressNextLevel█Następny Poziom
+company_progressPreviousLevel█Poprzedni Poziom
+locked█Zablokowane
+unlock█Odblokuj
+unlocked█Odblokowane
+upgrade█Ulepsz
+XskillPoints█punktów doświadczenia
+
+upgradeHeader█<b>ULEPSZ</b>&%<size=13><color=#64B5F6>15 punktów doświadczenia
+upgrade_reliability█<b>Niezawodność:</b> <color=#81C784>+10%
+upgrade_buildCost█<b>Koszt budowy:</b> <color=#81C784>-10%
+upgrade_buildTime█<b>Czas budowy:</b> <color=#81C784>-10%

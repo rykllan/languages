@@ -1,0 +1,61 @@
+levelTitle0█Зарегестрированная компания
+levelTitle1█Стартап
+levelTitle2█"Когда что-то достаточно важно, вы делаете это, даже если шансы не в вашу пользу." - Илон Маск
+levelTitle3█"С" как Средний
+levelTitle4█"Я мог бы либо наблюдать за этим, либо быть частью этого." - Илон Маск
+levelTitle5█Не забудьте про посадку
+levelTitle6█Поставщик
+levelTitle7█Ускорение
+levelTitle8█Веб-трансляция
+levelTitle9█Ускорение
+levelTitle10█Мощь компьютеров
+levelTitle11█Поймай это!
+levelTitle12█Становимся мощными
+levelTitle13█Инфраструктура
+levelTitle14█Практика
+levelTitle15█Не оставляйте людей внутри обтекателя
+levelTitle16█Человеческий фактор
+levelTitle17█Становимся большими
+levelTitle18█"Мы собираемся сделать это. Поскольку Бог - мой кровавый свидетель, я одержим желанием заставить его работать." - Илон Маск
+levelTitle19█Big Fu*king Rocket
+levelTitle20█Эндгейм раннего доступа (скоро будет больше :))
+levelTitle21█https://youtu.be/CfqCQQe2E2s
+
+progress_unlockAllModules█Разблокировать все модули
+progress_launchSmallRockets█Запустить НОО-ракет: {0}
+progress_launchMediumRockets█Запустить MEO-ракет: {0}
+progress_launchLargeRockets█Запустить GEO-ракет: {0}
+progress_launchSuperheavyRockets█Запустить Spaceship: {0}
+progress_launchCargoCapsules█Запустить грузовых кораблей: {0}
+progress_launchCrewCapsules█Запустить пилотируемых кораблей: {0}
+progress_landRockets█Посадить ракет: {0}
+progress_reuseRockets█Повторно использовать ракет: {0}
+progress_launchPayloadsAtOnce█Запустить за раз нагрузки: {0}
+progress_launchFromOwnLaunchPad█Запустить ракет с собственных площадок: {0}
+progress_launchTesla█Запустить автомобиль
+progress_buildFactories█Построить фабрик: {0}
+progress_buildOffices█Построить офисов: {0}
+progress_buildLaboratories█Простроить лабораторий: {0}
+progress_buildLaunchPads█Построить простых или продвинутых площадок: {0}
+progress_buildMegaLaunchPads█Построить "Мега-падов": {0}
+progress_getContracts█Получить контрактов: {0}
+progress_launchCat█Запустить кота!
+progress_launchTechnician█Запустить инженера!
+progress_catchFairings█Поймать обтекателей: {0}
+
+progress_maxFactories█Макс. фабрик:
+progress_maxOffices█Макс. офисов:
+progress_maxLaunchesATST█Макс. одновременных запусков:
+progress_multiplePayloads█Вы сейчас можете запустить <b><color=#64B5F6>больше</b></color> нагрузки за раз!
+progress_fundraiserHats█Новое финансирование: <b><color=#64B5F6>Продажа кепок!
+progress_fundraiserBricks█Новое финансирование: <b><color=#64B5F6>Продажа кирпичей!
+progress_fundraiserNAF█Новое финансирование: <b><color=#64B5F6>Продажа (не) Огнемётов!
+progress_fundraiserRocketquilla█Новое финансирование: <b><color=#64B5F6>Продажа Рокеткилы! 
+progress_issSupplierMission█Специальная миссия: <b><color=#64B5F6>Снабжение МКС
+progress_issCrewMission█Специальная миссия: <b><color=#64B5F6>Коммерческие экипажи для МКС
+progress_teslaRoadsterMission█Специальная миссия: <b><color=#64B5F6>Автомобиль
+progress_catMission█Специальная миссия: <b><color=#64B5F6>Кот астронавта
+progress_technicianMission█Специальная миссия: <b><color=#64B5F6>Инженер в чемодане
+progress_simpleLaunchPad█Новое здание: <b><color=#64B5F6>Простая стартовая площадка
+progress_advancedLaunchPad█Новое здание: <b><color=#64B5F6>Продвинутая стартовая площадка
+progress_megaLaunchPad█Новое здание: <b><color=#64B5F6>"Мега-пад"

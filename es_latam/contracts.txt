@@ -1,0 +1,17 @@
+contracts_header█Contratos
+contracts_payloads█Cargas útiles
+contracts_availableIn█Estará disponible en
+contracts_noRockets█¡No hay cohetes capaces!
+contracts_negotiating█Negociando
+contracts_approx█Approx.
+contracts_selectLaunchPrice█Selecciona el precio de lanzamiento
+contracts_avgRocketPrice█Precio prom. de los cohetes:
+contracts_avgProfit█Ganancias prom.:
+contracts_submitOffer█Enviar oferta
+contracts_onMissionSuccess█En éxito de misión
+contracts_onMissionFailure█En fracaso de misión
+
+deadline_critical█¡Muy crítico!
+deadline_launchNow█¡Lanza ahora!
+deadline_yearLeft█¡Queda 1 año!
+deadline_yearsLeft█¡años restantes!

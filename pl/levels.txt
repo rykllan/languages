@@ -1,0 +1,61 @@
+levelTitle0█Firma zarejestrowana!
+levelTitle1█Początki
+levelTitle2█"Kiedy coś jest wystarczająco ważne, robisz to nawet jeśli szanse nie są na twoją korzyść." - Elon Musk
+levelTitle3█"Ś" jak Średnie
+levelTitle4█"Mogę albo patrzeć, jak to się dzieje, albo być tego częścią." - Elon Musk
+levelTitle5█Niezapomnij wylądować!
+levelTitle6█Dostawca
+levelTitle7█Akceleracja
+levelTitle8█Na żywo
+levelTitle9█Akceleracja
+levelTitle10█Potęga komputerów
+levelTitle11█Złap!
+levelTitle12█Idziemy w masę!
+levelTitle13█Infrastruktura
+levelTitle14█Praktyka
+levelTitle15█Nie ładuj ludzi w owiewki.
+levelTitle16█Czynnik ludzki
+levelTitle17█Idziemy w wielkość
+levelTitle18█"Zrobimy to. Bóg jest moim wielkim świadkiem, jestem cholernie zdeterminowany, by to się udało." - Elon Musk
+levelTitle19█Bardzo Duża Rakieta
+levelTitle20█Tu kończy się zawartość wczesnego dostępu (Dzięki za grę, niedługo dodam więcej funkcji!)
+levelTitle21█https://youtu.be/CfqCQQe2E2s
+
+progress_unlockAllModules█Odblokuj wszystkie moduły
+progress_launchSmallRockets█Odpal rakiety LEO: {0}
+progress_launchMediumRockets█Odpal rakiety MEO: {0}
+progress_launchLargeRockets█Odpal rakiety GEO: {0}
+progress_launchSuperheavyRockets█Odpal statek kosmiczny: {0}
+progress_launchCargoCapsules█Wystrzel kapsuły ładunkowe: {0}
+progress_launchCrewCapsules█Wystrzel kapsuły załogowe: {0}
+progress_landRockets█Wyląduj rakietami: {0}
+progress_reuseRockets█Użyj {0} rakiet ponownie!
+progress_launchPayloadsAtOnce█Wystrzel {0} ładunki na raz!
+progress_launchFromOwnLaunchPad█Wystrzel z własnego stanowiska: {0}
+progress_launchTesla█Wystrzel Auto!
+progress_buildFactories█Zbuduj fabryki: {0}
+progress_buildOffices█Zbuduj biura: {0}
+progress_buildLaboratories█Zbuduj laboratoria: {0}
+progress_buildLaunchPads█Zbuduj proste lub zaawasowane stanowisko: {0}
+progress_buildMegaLaunchPads█Zbuduj mega stanowisko: {0}
+progress_getContracts█Zdobądź kontrakty: {0}
+progress_launchCat█Wystrzel kota!
+progress_launchTechnician█Wystrzel technika!
+progress_catchFairings█Złap owiewki: {0}
+
+progress_maxFactories█Maks. Fabryk:
+progress_maxOffices█Maks. Biur:
+progress_maxLaunchesATST█Maks. lotów w tym samym czasie:
+progress_multiplePayloads█Możesz wystrzelić <b><color=#64B5F6>wiele</b></color> satelit na raz!
+progress_fundraiserHats█Nowa zbiórka: <b><color=#64B5F6>Sprzedawaj czapki!
+progress_fundraiserBricks█Nowa zbiórka: <b><color=#64B5F6>Sprzedawaj cegły!
+progress_fundraiserNAF█Nowa zbiórka: <b><color=#64B5F6>Sprzedawaj nie-Miotacze Ognia!
+progress_fundraiserRocketquilla█Nowa zbiórka: <b><color=#64B5F6>Sprzedawaj Rakietoquillasy!
+progress_issSupplierMission█Misja Specjalna: <b><color=#64B5F6>Dostawca MSK
+progress_issCrewMission█Misja Specjalna: <b><color=#64B5F6>Komercyjne Loty Załogowe MSK
+progress_teslaRoadsterMission█Misja Specjalna: <b><color=#64B5F6>Auto w Kosmosie
+progress_catMission█Special Mission: <b><color=#64B5F6>Astronaut's Cat
+progress_technicianMission█Special Mission: <b><color=#64B5F6>Technician in a Suitcase
+progress_simpleLaunchPad█Nowy budynek: <b><color=#64B5F6>Proste Stanowisko
+progress_advancedLaunchPad█Nowy budynek: <b><color=#64B5F6>Zaawansowane Stanowisko
+progress_megaLaunchPad█Nowy budynek: <b><color=#64B5F6>Mega Stanowisko

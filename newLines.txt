@@ -1,0 +1,64 @@
+--- NEW LINES ---
+
+
+File: buildings.txt (22)    |||    Original Translation: small_factory█Small Factory
+
+File: buildings.txt (23)    |||    Original Translation: small_factory_desc█You can build only small modules.
+
+File: buildings.txt (24)    |||    Original Translation: medium_factory█Medium Factory
+
+File: buildings.txt (25)    |||    Original Translation: medium_factory_desc█You can build only small and medium modules.
+
+File: buildings.txt (26)    |||    Original Translation: large_factory█Large Factory
+
+File: buildings.txt (27)    |||    Original Translation: large_factory_desc█You can build all kinds of vehicles except Spaceships and Superheavies.
+
+File: buildings.txt (28)    |||    Original Translation: giga_factory█Giga Factory
+
+File: buildings.txt (29)    |||    Original Translation: giga_factory_desc█You can build every kind of vehicles and LinkLink.
+
+File: buildings.txt (30)    |||    Original Translation: small_hangar█Small Hangar
+
+File: buildings.txt (31)    |||    Original Translation: small_hangar_desc█You can store only rockets.
+
+File: buildings.txt (32)    |||    Original Translation: medium_hangar█Medium Hangar
+
+File: buildings.txt (33)    |||    Original Translation: medium_hangar_desc█You can store only rockets and capsules.
+
+File: buildings.txt (34)    |||    Original Translation: large_hangar█Large Hangar
+
+File: buildings.txt (35)    |||    Original Translation: large_hangar_desc█You can store more rockets and capsules.
+
+File: buildings.txt (36)    |||    Original Translation: mega_hangar█Mega Hangar
+
+File: buildings.txt (37)    |||    Original Translation: mega_hangar_desc█You can store only Spaceships and Superheavies.
+
+File: buildings.txt (39)    |||    Original Translation: office_desc█Office employees are giving you more negotiation power (you can offer higher price at negotiating).
+
+File: buildings.txt (41)    |||    Original Translation: laboratory_desc█Produces skill points.
+
+File: buildings.txt (43)    |||    Original Translation: megaLP_desc█You can launch Spaceships.
+
+File: buildings.txt (44)    |||    Original Translation: terminal█LinkLink Terminal
+
+File: buildings.txt (45)    |||    Original Translation: terminal_desc█Terminals are connecting people on Earth with LinkLinks. More terminals == more users capacity.
+
+File: buildings.txt (55)    |||    Original Translation: lp_australia█Woomera
+
+File: buildings.txt (56)    |||    Original Translation: lp_india█Satish Dhawan
+
+File: modules.txt (12)    |||    Original Translation: type_utility█Utility
+
+File: modules.txt (61)    |||    Original Translation: mdl_cargoUtility█Cargo Utility,Cargo Spaceship Module
+
+File: modules.txt (62)    |||    Original Translation: mdl_crewUtility█Crew Utility,Crew Spaceship Module
+
+File: modules.txt (63)    |||    Original Translation: mdl_fuelUtility█Fuel Utility,Tanker Spaceship
+
+File: tweets.txt (18)    |||    Original Translation: tweet_linklink_first█Sending this tweet through space via LinkLink satellite
+
+File: tweets.txt (19)    |||    Original Translation: tweet_linklink_worked█Whoa, it worked!!
+
+File: tweets.txt (20)    |||    Original Translation: tweet_linklink_visible█I wonder if you can see them from Earth <color=#64B5F6>#linklink</color> <color=#64B5F6>#internet</color>
+
+File: tweets.txt (21)    |||    Original Translation: tweet_linklink_failure█<color=#64B5F6>#linklink</color> We're doing our best. Our technicians are the best in the world! <color=#64B5F6>#failure</color> {0}

@@ -1,0 +1,32 @@
+menu_home█Home
+menu_play█Play
+menu_settings█Settings
+menu_credits█Credits
+menu_exit█Exit
+menu_backToMainMenu█Back to Main Menu
+menu_save█Save
+menu_notAvailable█Not available in this version, sorry :(
+menu_saveNotSupported█Playing on saves from older versions of EarthX is not supported.
+
+menu_createNewGame█Create a new game
+menu_tutorial█Tutorial
+menu_classicHeader█Classic
+menu_classicDesc█Play the classic mode where you have to build your own space company.
+menu_sandboxHeader█Sandbox
+menu_sandboxDesc█In sandbox mode everything is unlocked and unlimited. Use your imagination!
+
+menu_quality█Quality
+menu_low█Low
+menu_medium█Medium
+menu_high█High
+menu_effects█Effects
+menu_postprocessings█Post Processing
+menu_gameplay█Gameplay
+menu_autoSave█Auto Save?
+menu_autoPause█Auto Pause?
+menu_video█Video
+menu_fullscreen█Fullscreen?
+menu_audio█Audio
+menu_music█Music?
+menu_sounds█Sounds?
+menu_language█Language

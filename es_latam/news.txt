@@ -1,6 +1,3 @@
-﻿
-
-
 news_technology_content_p11█¡Todos los fans de {0} han estado esperando esto! La conferencia de prensa del CEO de hoy no deja lugar a dudas - estamos siendo testigos de otro gran avance en la investigación que llevará a la humanidad a Marte.
 news_technology_content_p12█¡Vivimos en tiempos interesantes! La carrera por Marte empezó para bien y tenemos curiosidad por saber qué saldrá de ella. ¿Cumplirá {1} sus promesas?
 news_technology_content_p13█Hoy estamos a la espera de la empresa {0}. ¿Podrán sus vuelos tripulados poner un pie en Marte? Lo veremos en unos pocos años.
@@ -28,6 +25,7 @@ news_technology_header7█¿Te diriges a Marte? {0} presenta nuevos módulos par
 news_technology_header8█Más y más alto. ¿Nuevo lema, {0}?
 news_technology_header9█{2} en Twitter: "Estoy impresionado con lo que {1} está haciendo. Pero ganaremos de todos modos".
 news_technology_header10█Un gran avance en {0}. Pronto se usarán nuevos módulos para cohetes.
+
 
 
 
@@ -125,6 +123,7 @@ news_yearsummary_afterRes_content█
 
 
 
+
 news_FundraisingHats_header█{1} has sold 20,000 hats with the {0} logo. The perfect way to finance space business?
 news_FundraisingHats_content█{1} is amazing. Crazy, but still amazing. {0}'s CEO was told by the management to add some cash to the company's budget in the sharpest possible way. A normal CEO would probably lay off a few employees to reduce the cost of hiring. &%&%{1} sold... hats. And quite a lot of them, almost 20,000. Is this the last such an unusual act by {1}?
 
@@ -137,6 +136,14 @@ news_FundraisingNotFlamethrowers_content█... they will not transport anything 
 
 news_FundraisingRocketquilla_header█Fans of strong drinks have pounced on alcohol drinks from {0}.
 news_FundraisingRocketquilla_content█Fans of clothing got hats, builders got cheap bricks, fanatics of TV-sized lighters got (not a) flamethrowers, and those who like to drink got... an explosive mixture of alcohol. &%&%Tequila in the rocket version from {1} has just made its market debut and... quickly sold out adding more than $100 million to the space company's pocket. Did you manage to buy it?
+
+
+
+
+
+
+
+
 
 news_iss_2002q4_header█Another mission of the Atlantis shuttle - the new ITS S1 module has been launched on ISS.
 news_iss_2002q4_content█It is almost 14 m long, 4.6 m wide and 1.8 m high. Weighing more than 14 tons, the ITS S1 module has just joined the ISS station that is being built. The ITS S1 is the first ribbed side segment to be attached on one side to the central ITS S0 segment. Three powerful heat sinks have been mounted on it to cool the station's energy system. Another station communication system has also been installed on the ITS S1 to improve the quality and throughput of audio transmission and several platforms for vacuum experiments. The S1 is also equipped with two cameras, which will facilitate future observation of this sector of the station. The grating has its own on-board computer, which is responsible for cooling control, including monitoring of ammonia tanks, cooling circuits and pump sets. &%&%This is the third mission of the Atlantis shuttle to deliver further parts of the International Space Station that is being built.
@@ -161,3 +168,4 @@ news_iss_2010q2_content█The thirty-second flight of the Atlantis shuttle and a
 
 news_iss_2011q1_header█The last mission of the Discovery shuttle. Leonardo joined the ISS.
 news_iss_2011q1_content█Today at 2:50 p.m., the Leonardo module (PMM) that is on a board of the Discovery shuttle, which is docked to the ISS, was permanently attached to the Harmony module node. &%&%The Leonardo Multifunctional Logistics Module (MPLM) is a large hermetic container used in supply missions of shuttles to and from ISS. After the STS-131 mission, Leonardo was converted into a Permanent Multifunctional Module (PMM). The conversion allowed a permanent connection to the ISS for an unlimited period of time - thus, Leonardo will serve as an additional storage facility at the International Space Station.
+

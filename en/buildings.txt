@@ -1,0 +1,76 @@
+building█Building
+building_office█Office
+building_factory█Factory
+building_laboratory█Laboratory
+building_hangar█Hangar
+building_simpleLP█Simple Launch Pad
+building_advancedLP█Advanced Launch Pad
+building_megaLP█Mega Launch Pad
+
+buildingSetup_buildingName█Building name...
+buildingSetup_overview█Overview
+buildingSetup_setup█Setup
+buildingSetup_billsCurrentQuarter█Bills for current quarter
+
+buildingSetup_nowWorkingOn█Now working on
+buildingSetup_queue█Queue
+
+buildingSetup_negotiationPowerEachEmployee█Negotiation power for each employee
+buildingSetup_negotiationPowerBuilding█Building negotiation power
+buildingSetup_oneEmployee█One employee
+buildingSetup_negotiationPower█Negotiation power
+
+buildingSetup_vehicleStored█Vehicles stored
+
+buildingSetup_employees█<size=14>{0} employees</size>&%{1} <color=#16A085>$</color> / year&%<size=14>{2} <color=#16A085>$</color> / each
+buildingSetup_manageEmployees█Manage employees
+
+buildingSetup_destroyBuilding█Destroy building
+
+small_factory█Small Factory
+small_factory_desc█You can build only small modules.
+
+medium_factory█Medium Factory
+medium_factory_desc█You can build only small and medium modules.
+
+large_factory█Large Factory
+large_factory_desc█You can build all kinds of vehicles except Spaceships and Superheavies.
+
+giga_factory█Giga Factory
+giga_factory_desc█You can build every kind of vehicles and LinkLink.
+
+small_hangar█Small Hangar
+small_hangar_desc█You can store only rockets.
+
+medium_hangar█Medium Hangar
+medium_hangar_desc█You can store only rockets and capsules.
+
+large_hangar█Large Hangar
+large_hangar_desc█You can store more rockets and capsules.
+
+mega_hangar█Mega Hangar
+mega_hangar_desc█You can store only Spaceships and Superheavies.
+
+office█Office
+office_desc█Office employees are giving you more negotiation power (you can offer higher price at negotiating).
+
+laboratory█Laboratory
+laboratory_desc█Produces skill points.
+
+megaLP█Mega Launch Pad
+megaLP_desc█You can launch Spaceships.
+
+terminal█LinkLink Terminal
+terminal_desc█Terminals are connecting people on Earth with LinkLinks. More terminals == more users capacity.
+
+lp_cape█Cape Canaveral
+lp_vandenberg█Vandenberg
+lp_pacificSpaceport█Pacific Spaceport
+lp_guiana█Guiana
+lp_midAtlanticSpaceport█Atlantic Spaceport
+lp_balkonur█Baikonur
+lp_plesetsk█Plesetsk
+lp_xichang█Xichang
+lp_rocketComplex█Private Spaceport
+lp_australia█Woomera
+lp_india█Satish Dhawan

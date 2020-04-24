@@ -24,3 +24,10 @@ tweet_crash_1█Ну, это было неожиданно. {0} <color=#64B5F6>#
 tweet_crash_2█Наша команда расследует причину взрыва {0}.
 tweet_crash_3█Смотрите, это был не взрыв. Это просто была быстрая незапланированная разборка. {0} <color=#64B5F6>#earthx</color>
 tweet_crash_4█Наша команда нашла проблему. Это было что-то с {1}. Это не должно повториться в наших будущих полётах. {0} <color=#64B5F6>#earthx</color>
+
+
+tweet_linklink_first█Sending this tweet through space via LinkLink satellite
+tweet_linklink_worked█Whoa, it worked!!
+tweet_linklink_visible█I wonder if you can see them from Earth <color=#64B5F6>#linklink</color> <color=#64B5F6>#internet</color>
+tweet_linklink_failure█<color=#64B5F6>#linklink</color> We're doing our best. Our technicians are the best in the world! <color=#64B5F6>#failure</color> {0}
+

@@ -1,0 +1,120 @@
+rocket█Cohete
+capsule█Cápsula
+spaceship█Nave espacial
+
+rocketRequiresCapsule█Cohete (Requiere Cápsula)
+rocketRequiresSpaceship█Cohete (Requiere Nave espacial)
+
+vehicles█Vehículos
+vehicles_newProjectHeader█Crear nuevo proyecto
+vehicles_newProjectButton█Nuevo proyecto
+vehicles_newVehicleHeader█Crear nuevo vehículo
+vehicles_newVehicleButton█Nuevo vehículo
+
+land█Aterrizaje
+
+reusedVehicle█Vehículo reutilizado:
+buildCosts█Costos de construcción
+buildTime█Tiempo de construcción
+originalBuildCosts█Costos de construcción originales
+optimizedBuildCosts█Costos de construcción optimizados
+launchCosts█Costos de lanzamiento
+
+inQueue█In queue&%<size=14><b><color=#64B5F6>Module will be built in a moment
+
+build█Construir
+built█Construido
+launch█Lanzar
+repair█Reparar
+turnExpendable█Turn Expendable
+
+capabilities█Capacidades
+reliability█Fiabilidad
+condition█Condición
+
+notBuiltYet█Aun no construido
+constructing█Construyendo...
+repairing█Reparando...
+flying█Volando
+dockedToISS█Acoplado a la EEI (Volverá pronto.)
+
+reusable█Reutilizable
+manual█Manual
+sideboosters█Propulsores laterales
+superheavy█Super pesado
+spaceshipsOnly█Naves espaciales únicamente
+capsulesOnly█Cápsulas únicamente
+fairingRecovery█Fairing recovery
+
+landingNotSupported█Landing not supported!&%You need:<size=12><b>&%-Grid Fins & Landing Legs&%-Battery&%-GPS (for automatic reusability)&%-4 or 9 Advanced Engines</b></size>&%
+capsulesNotSupported█Capsules not supported!&%You need:<size=12><b>&%-Battery&%-GPS&%-4 or 9 Advanced Engines</b></size>&%
+heavyNotSupported█Heavy rocket not supported!&%You need:<size=12><b>&%-Rocket with automatic reusability</b></size>&%
+fairingCatchingNotSupported█Fairing catching not supported!&%You need:<size=12><b>&%-Rocket with automatic reusability</b></size>&%
+
+payload█Cargas útiles
+crew█Tripulación
+cargo█Cargamento
+
+launchSetup_header█Configuración del lanzamiento
+launchSetup_missionName█Nombre de la misión...
+launchSetup_mission█Misión
+launchSetup_noVehiclesFound█[No se encontraron vehículos.]
+launchSetup_noPayloadsFound█[No se encontraron cargas útiles capaces.]
+launchSetup_selectVehicle█Seleccionar vehículo
+launchSetup_selectLaunchPad█Seleccionar plataforma de lanzamiento
+launchSetup_selectLandingZone█Seleccionar zona de aterrizaje
+
+launchSetup_barge█Barge
+launchSetup_lz1█LZ-1
+launchSetup_lz2█LZ-2
+
+launchSetup_testFlight█Vuelo de prueba
+launchSetup_concrete█Concreto
+launchSetup_cheese█Queso
+launchSetup_pizza█Pizza
+launchSetup_earthPlush█Peluche del planeta Tierra
+launchSetup_everydayStickers█Calcomanías cotidianas
+launchSetup_landingZone█Zona de aterrizaje
+
+launchSetup_success█Éxito
+launchSetup_crash█Caída
+failure█Fracaso
+noData█Sin datos
+flights█Vuelos:
+failures█Failures
+partialSuccess█Éxito parcial
+
+launchPanel_telemetry█Telemetría
+launchPanel_noSupportTelemetry█Este cohete no es compatible con telemetría.
+launchPanel_speed█Velocidad
+launchPanel_altitude█Altitud
+launchPanel_staticFire█Fuego estático
+launchPanel_speedMetric█km/h
+launchPanel_altitudeMetric█km
+
+buildPanel_moveToHangar█Mover al hangar
+
+missionReportHeader█Reporte de la misión:
+missionReportMissionName█Nombre de la misión:
+missionReportRocketName█Cohete:
+missionReportMissionResult█Resultado de la misión
+
+missionReportLaunch█Launzar
+missionReportDeploy█Desplegar
+missionReportLanding█Aterrizaje
+missionReportFairingLanding█Aterrizaje de carenado
+missionReportSecondVehicleLanding█Aterrizaje del segundo vehículo
+
+missionReportMissionIncome█Ingresos de la misión
+missionReportDamageCompensation█Compensación de daños
+missionReportLandedRocket█Cohete aterrizado
+profit█Ganancias
+loss█Pérdidas
+
+creator_header█Nuevo proyecto
+creator_vehicleName█Nombre del vehículo...
+creator_createProject█Crear proyecto
+creator_vehicleCanGoAnywhere█Éste vehículo puede ir a donde quieras.
+creator_capsuleRocket█This rocket can carry only the capsules.
+creator_spaceshipRocket█This rocket can carry only the spaceships.
+no_module_unlocked█Ningún módulo está desbloqueado.

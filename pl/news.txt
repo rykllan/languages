@@ -2,14 +2,19 @@ news_technology_content_p11█Wszyscy fani {0} na to czekali! Dzisiejsza konfere
 news_technology_content_p12█Żyjemy w ciekawych czasach! Wyścig na Marsa rozpoczął się na dobre i sami jesteśmy ciekawi co z tego wyjdzie. Czy {1} spełni swoje obietnice?
 news_technology_content_p13█Dziś spoglądamy z nadzieją na firmę {0}. Czy kiedykolwiek ich załogi postawią nogę na Marsie? Przekonamy się już za kilka lat.
 news_technology_content_p14█Czekaliście na to, prawda? Mamy najnowsze doniesienia z siedziby firmy {0}. Wszystko wskazuje na to, że ich technologia rozwija się w bardzo szybkim tempie.
+
 news_technology_content_p21█{1}: “Rakiety, które obecnie tworzymy są daleko przed konkurencją.”. Miejmy nadzieję, że to nie tylko zwykłe przechwalanie się w celu osiągnięcia większych zysków na giełdzie. Czy {0} naprawdę jest w posiadaniu lepszych technologii? Czy kiedykolwiek postawimy stopę na Marsie? 
 news_technology_content_p22█“Z nadzieją spoglądamy w przyszłość. Ulepszenia naszych rakiet pozwolą nam nie tylko wynosić większe ładunki na orbitę. To początek drogi, którą ludzkość będzie zmierzała przez następne dekady.” - {1}, {0}. 
 news_technology_content_p23█Silnik nowej generacji zaprezentowany przez firmę {0} w zeszłym roku właśnie przeszedł pierwsze udane testy. {1} ogłosił, że w ciągu 10 lat silnik znajdzie się na pokładzie jednej z rakiet, aby przetestować go w próżni kosmicznej. Czy konkurencja ma się czego obawiać?
 news_technology_content_p24█“Jestem pewien, że to się uda!”, powiedział {1} na wczorajszej konferencji. Chce on bowiem odzyskiwać rakiety, które spadają na ziemię po wypuszczeniu ładunku na orbitę. Rakieta spadająca z bardzo dużą prędkością miałaby otworzyć spadochron w odpowiednim momencie, a następnie wpaść do oceanu. Jest to kolejny krok w kierunku tańszych lotów w kosmos i na Marsa!
+
 news_technology_content_p31█Nie możemy doczekać się kolejnych dobrych wiadomości dotyczących {0}!
 news_technology_content_p32█{1} liczy pieniądze, my liczymy wyświetlenia naszej strony. Może czas na wprowadzenie reklam?
 news_technology_content_p33█Marzenia o lądowaniu człowieka na Marsie spełniają się na naszych oczach.
 news_technology_content_p34█Co będzie pierwsze? Księżyc czy Mars? {1} zapewne już to wie, ale nie chce powiedzieć.
+
+
+
 news_technology_header1█{0} się rozwija. {1} sypie kasą na nowe technologie.
 news_technology_header2█Nowe laboratoria {0} pracują na wysokich obrotach. 
 news_technology_header3█{1} inwestuje w rozwój. Nowe rakiety już wkrótce?
@@ -20,21 +25,37 @@ news_technology_header7█Kierunek Mars? {0} prezentuje nowe moduły dla swoich 
 news_technology_header8█Więcej i wyżej. Nowe motto {0}?
 news_technology_header9█{2} na Twitterze: “Jestem pod wrażeniem tego, co robi {1}. Ale i tak wygramy.”
 news_technology_header10█Wielki przełom w {0}. Nowe moduły dla rakiet wejdą niebawem do użytku.
+
+
+
+
+
+
+
 news_fail_content_p11█Niepokojące wieści z {0}. Ich rakieta zakończyła niespodziewanie swoją misję ogromnym wybuchem. 
 news_fail_content_p12█Mieszkańcy miast znajdujących się w pobliżu stanowiska startowego korporacji {0} byli dziś świadkami niesamowitego, podniebnego widowiska. Jak donosi nasz korespondent, kula ognia która pojawiła się rano na niebie, to rakieta należąca do firmy {0}.
 news_fail_content_p13█Wydawać by się mogło, że dźwięk startujących w pobliżu miast rakiet, to najmniejszy problem dla ich mieszkańców. Do momentu, kiedy rakiety nie zaczną wybuchać. Do naszej redakcji od godzin porannych zaczęły wpływać skargi zaniepokojonych obywateli, których obudziła głośna eksplozja.
 news_fail_content_p14█Kolejny dzień, kolejne przykre wieści z obozu {0}. Rakieta należąca do miliardera o nazwisku {1} zakończyła swoją misję w dość nieoczekiwany i głośny sposób.
+
 news_fail_content_p21█Przyczyny wybuchu rakiety są obecnie badane. Prezes firmy, {1} w krótkim wpisie w serwisie Twitter skomentował zaistniałą sytuację: “Ten nie popełnia błędów, kto nic nie robi. Wasze zdrowie!”. Wpis był okraszony zdjęciem w połowie pustej butelki polskiej “Żubrówki”.
 news_fail_content_p22█Nasz anonimowy informator blisko związany z firmą informuje, że w 3. minucie od startu rakiety nastąpiła awaria hydrauliki w komorze spalania w silniku. Szczegóły poznamy zapewne na planowanej na dziś konferencji prasowej.
 news_fail_content_p23█Przyczyny wypadku na razie nie są zbyt dobrze rozpoznane i będą one przedmiotem szczegółowego dochodzenia w najbliższych miesiącach. Niezależnie od powodów, eksplozja oznacza duże straty wizerunkowe dla firmy {0}. 
 news_fail_content_p24█Cała ekipa pracuje w pocie czoła nad wyjaśnieniem przyczyn wybuchu. O tym, czy zawiódł sprzęt, człowiek, czy może to działania nieuczciwej konkurencji dowiemy się niebawem.
 news_fail_content_p25█Rozgoryczenia zaistniałą sytuacją nie kryją fani firmy na całym świecie, dla których {1} od początku swojej działalności był uosobieniem innowacyjności i przedsiębiorcy idealnego. “Mam dosyć, sprzedaję wszystkie swoje akcje! Chcę oglądać piękne loty, a nie wybuchy... #rakiety #kosmos” - napisał użytkownik @denis-szwarc w polskim serwisie wykop.pl.
+
 news_fail_content_p31█Mamy nadzieję, że kolejne loty będą bardziej udane, ale nie mniej widowiskowe.
 news_fail_content_p32█Właścicielowi {0} życzymy więcej szczęścia podczas kolejnych startów.
 news_fail_content_p33█Głęboko wierzymy, że przyczyny katastrofy zostaną szybko wyjaśnione, a kolejne eksplozje nie będą miały już miejsca.
 news_fail_content_p34█W tym przykrym dla {0} dniu nie pozostaje nam nic innego, jak mocno trzymać kciuki za kolejne starty.
 news_fail_content_p35█Już nie chcemy pisać o wybuchach rakiet, ale nie mamy innego wyjścia.
 news_fail_content_p36█Szkoda strzępić ryja.
+
+
+
+
+
+
+
 news_fail_header1█{1}: “To bolesna, ale i ważna lekcja dla nas wszystkich.” Ostatni lot rakiety firmy {0} zakończony fajerwerkami.
 news_fail_header2█Rakieta zamieniła się w ogromną kulę ognia. {0} bada przyczyny katastrofy.
 news_fail_header3█{0} ma kłopoty. Wybuch rakiety obudził mieszkańców pobliskiego miasta.
@@ -43,17 +64,35 @@ news_fail_header5█{1}: “Myśleliśmy, że tym razem się uda. Rakieta w ogni
 news_fail_header6█“Będzie o nas głośno!” Słowa prezesa {0} właśnie się ziściły. Ich rakiety wybuchają jak szalone.
 news_fail_header7█{1} terroryzuje przestworza! Kolejne wybuchy rakiet zagrażają płynności finansowej {0}.
 news_fail_header8█{0}: Potężna eksplozja rakiet zagraża pozycji firmy. {1} na wylocie?
+
+
+
+
+
+
+
+
+
+
 news_bankrupt_content_p11█{1}, prezes firmy {0} ogłosił dziś na konferencji prasowej zakończenie działalności swojego przedsiębiorstwa i zamknięcie wszystkich biur oraz fabryk. 
 news_bankrupt_content_p12█Problemy z wybuchającymi rakietami, nie wywiązywanie się z umów oraz bałagan w dokumentach finansowych, to prawdopodobnie nie jedyne grzechy prezesa {0}. {1} ogłosił dziś bankructwo.
 news_bankrupt_content_p13█Prawdopodobnie jeszcze długo poczekamy na pierwszą, udaną misję załogową na Marsa. Rynek nie wybacza błędów, które popełnił {1}, właściciel {0}. Firma została dziś zamknięta.
 news_bankrupt_content_p14█Mogliśmy się tego spodziewać. Po wielu nieudanych startach rakiet {0} przyszedł czas na rozliczenie zarządu. Prezes {1} może się już pakować. 
+
 news_bankrupt_content_p21█Ten smutny koniec marzeń o podboju kosmosu, to dopiero początek problemów finansowych {0}. Z informacji jakie do nas dotarły, firma jest zasypywana pozwami dotyczącymi uszkodzenia mienia. Wszystko za sprawą spadających na prywatne domy części rakiet.
 news_bankrupt_content_p22█W emocjonalnym oświadczeniu, które {1} przesłał do mediów nie brakuje gorzkich słów w kierunku innych członków zarządu firmy. “Ukradli mi moje marzenia (...), zdrajcy i złodzieje. Robiłem wszystko co w mojej mocy, a teraz zostałem z niczym. Przepraszam.”
 news_bankrupt_content_p23█Konferencja prasowa {0} miała dramatyczny przebieg. {1} pojawił się na niej z podbitym okiem. Jak wyjaśnił, doszło do małej bójki z innym członkiem zarządu. Nieoficjalnie dowiedzieliśmy się, że poszło o ostatni 100 dolarowy banknot, który pozostał w firmowym sejfie. Oświadczenia założyciela {0} niestety nie streścimy - odczytując je płakał tak głośno, że nic nie zrozumieliśmy.
+
 news_bankrupt_content_p31█Szczerze? Nawet nam ich nie żal.  
 news_bankrupt_content_p32█Mamy nadzieję, że {1} odkładał pieniądze do skarpety.
 news_bankrupt_content_p33█Teraz wszystko w rękach {2}.
 news_bankrupt_content_p34█Ciekawe, która firma będzie następna.
+
+
+
+
+
+
 news_bankrupt_header1█Smutny koniec {0}. {1} żegna się z sektorem kosmicznym.
 news_bankrupt_header2█Koniec marzeń o Marsie. {0} zamyka swoje fabryki.
 news_bankrupt_header3█“Oczekiwania udziałowców nas przerosły” - {1} o końcu {0}.
@@ -66,10 +105,22 @@ news_bankrupt_header9█Strajk pracowników {0}. {1} nie ma pieniędzy na wypła
 news_bankrupt_header10█{1} nie chodził do szkoły i nie umie liczyć? Budżet {0} na minusie.
 news_bankrupt_header11█Analitycy wiedzieli to od dawna. {0} bankrutem!
 news_bankrupt_header12█{2} naśmiewa się z prezesa {0}: “Brak mu wyobraźni! Wiedziałem, że długo nie pociągnie!”
+
+
+
+
+
+
+
+
 news_yearsummary_beforeRes_header█Statystyki z sektora kosmicznego na rok {0}!
 news_yearsummary_beforeRes_content█W tym roku, podobnie jak i w innych, podjęto wiele ciekawych decyzji, wydarzeń i lotów! To niesamowite, że coraz więcej firm kosmicznych jest.... prywatnych! Przyspieszy to znacznie rozwój całego sektora kosmicznego.&%&%Tutaj kilka statystyk z poprzedniego roku:&%&%<color=#64B5F6>Loty</color>:&%{0}&%&%<color=#64B5F6>Wygrane Kontrakty</color>:&%{1}&%&%<color=#64B5F6>Finanse</color>:&%{2}&%&%Wszyscy czekamy na kolejne ciekawe wydarzenia. Wiemy, że firma {3} aktualnie pracuje nad rakietami wielokrotnego użytku. Ta firma jest śmieszna. Jak w ogóle chcesz wylądować metalową parówką? To jest niemożliwe.
 news_yearsummary_afterRes_header█
 news_yearsummary_afterRes_content█
+
+
+
+
 
 
 
@@ -85,6 +136,8 @@ news_FundraisingNotFlamethrowers_content█...nie będą przewozić niczego, co 
 
 news_FundraisingRocketquilla_header█Fani mocnych trunków rzucili się na alkoholowy napój od {0}.
 news_FundraisingRocketquilla_content█Fani ubioru dostali czapki, Budowlańcy tanie cegły, fanatycy zapałek wielkości telewizora (nie)miotacze ognia, a lubiący sobie wypić... wybuchową mieszankę alkoholu. &%&%Tequila w wersji rakietowej od {1} zadebiutowała właśnie na rynku i… szybko się skończyła, zasilając portfel kosmicznego przedsiębiorstwa kwotą przekraczającą 100 milionów dolarów. Udało wam się ją kupić?
+
+
 
 
 
@@ -115,3 +168,4 @@ news_iss_2010q2_content█Trzydziesty drugi lot promu Atlantis i już sto trzydz
 
 news_iss_2011q1_header█Ostatnia misja wahadłowca Discovery. Leonardo dołączony do ISS.
 news_iss_2011q1_content█Dziś o godzinie 14:50 moduł Leonardo (PMM) znajdujący się na pokładzie wahadłowca Discovery zacumowanego do ISS został na stałe przymocowany do węzła modułu Harmony. &%&%Wielofunkcyjny Moduł Logistyczny (MPLM) Leonardo to duży hermetyczny kontener używany w misjach zaopatrzeniowych wahadłowców do przewozu ładunków do i z ISS. Po misji STS-131 Leonardo został przebudowany w Stały Moduł Wielofunkcyjny (PMM). Przebudowa pozwoliła na stałe połączenie z ISS przez nieograniczony czas - tym samym Leonardo będzie pełnił funkcję dodatkowego magazynu na Międzynarodowej Stacji Kosmicznej.
+

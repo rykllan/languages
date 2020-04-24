@@ -1,0 +1,120 @@
+rocket█Ракета
+capsule█Корабль
+spaceship█Spaceship
+
+rocketRequiresCapsule█Ракета (требует корабль)
+rocketRequiresSpaceship█Ракета (требует корабль Spaceship)
+
+vehicles█Ракеты
+vehicles_newProjectHeader█Создать новый проект
+vehicles_newProjectButton█Новый проект
+vehicles_newVehicleHeader█Создать новую ракету
+vehicles_newVehicleButton█Новая ракета
+
+land█Посадить
+
+reusedVehicle█Повт. исп. ракета:
+buildCosts█Стоимость производства
+buildTime█Время производства
+originalBuildCosts█Ориг. стоимость произв.
+optimizedBuildCosts█Оптимальная стоимость произв.
+launchCosts█Стоимость запуска
+
+inQueue█В очереди&%<size=14><b><color=#64B5F6>Модуль скоро будет произведён
+
+build█Произвести
+built█Произведено
+launch█Запустить
+repair█Починить
+turnExpendable█Сделать одноразовой
+
+capabilities█Прочность
+reliability█Надёжность
+condition█Состояние
+
+notBuiltYet█Ещё не произведено
+constructing█Производство...
+repairing█Ремонт...
+flying█В полёте
+dockedToISS█Пристыковано к МКС (скоро вернётся)
+
+reusable█Многоразовая
+manual█Ручная
+sideboosters█Боковые ускорители
+superheavy█Superheavy
+spaceshipsOnly█Только Spaceship
+capsulesOnly█Только корабли
+fairingRecovery█Возврат обтекателей
+
+landingNotSupported█Посадка не поддерживается!&%Вам требуются:<size=12><b>&%-Решётчатые рули & Посадочные опоры&%-Аккумулятор&%-GPS (для автоматической посадки)&%-4 или 9 продвинутых двигателя</b></size>&%
+capsulesNotSupported█Корабли не поддерживаются!&%Вам требуются:<size=12><b>&%-Аккумулятор&%-GPS&%-4 или 9 продвинутых двигателя</b></size>&%
+heavyNotSupported█Heavy-ракета не поддерживается!&%You need:<size=12><b>&%-Ракета с автоматической посадкой</b></size>&%
+fairingCatchingNotSupported█Возврат обтекателей не поддерживается!&%Вам требуется:<size=12><b>&%-Ракета с автоматической посадкой</b></size>&%
+
+payload█Нагрузка
+crew█Экипаж
+cargo█Груз
+
+launchSetup_header█Настройка запуска
+launchSetup_missionName█Название миссии...
+launchSetup_mission█Миссия
+launchSetup_noVehiclesFound█[Не найдено ракет.]
+launchSetup_noPayloadsFound█[Не найдено нагрузки.]
+launchSetup_selectVehicle█Выберите ракету
+launchSetup_selectLaunchPad█Выберите площадку
+launchSetup_selectLandingZone█Выберите зону посадки
+
+launchSetup_barge█Баржа
+launchSetup_lz1█LZ-1
+launchSetup_lz2█LZ-2
+
+launchSetup_testFlight█Тестовый полёт
+launchSetup_concrete█Бетон
+launchSetup_cheese█Сыр
+launchSetup_pizza█Пицца
+launchSetup_earthPlush█Плюшевая Земля
+launchSetup_everydayStickers█Стикеры Everyday
+launchSetup_landingZone█Зона посадки
+
+launchSetup_success█Успешно
+launchSetup_crash█Авария
+failure█Неуспешно
+noData█Неизвестно
+flights█Полётов
+failures█Неудач
+partialSuccess█Частично успешно
+
+launchPanel_telemetry█Телеметрия
+launchPanel_noSupportTelemetry█Эта ракета не поддерживает телеметрию.
+launchPanel_speed█Скорость
+launchPanel_altitude█Высота
+launchPanel_staticFire█Статический прожиг
+launchPanel_speedMetric█км/ч
+launchPanel_altitudeMetric█км
+
+buildPanel_moveToHangar█Переместить в ангар
+
+missionReportHeader█Результаты миссии
+missionReportMissionName█Название миссии
+missionReportRocketName█Ракета:
+missionReportMissionResult█Результат миссии
+
+missionReportLaunch█Запуск
+missionReportDeploy█Отделение
+missionReportLanding█Посадка
+missionReportFairingLanding█Ловля обтекателей
+missionReportSecondVehicleLanding█Посадка корабля
+
+missionReportMissionIncome█Доход с миссии
+missionReportDamageCompensation█Компенсация урона
+missionReportLandedRocket█Севшая первая ступень
+profit█прибыль
+loss█убыток
+
+creator_header█Новый проект
+creator_vehicleName█Название ракеты...
+creator_createProject█Создать проект
+creator_vehicleCanGoAnywhere█Эта ракета может отправиться в любое место.
+creator_capsuleRocket█Эта ракета может запускать только корабли.
+creator_spaceshipRocket█Эта ракета может запускать только Spaceship.
+no_module_unlocked█Нет разблокированных модулей.

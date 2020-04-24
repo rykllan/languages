@@ -1,0 +1,32 @@
+menu_home█Inicio
+menu_play█Jugar
+menu_settings█Configuración
+menu_credits█Creditos
+menu_exit█Salir
+menu_backToMainMenu█Volver al menu principal
+menu_save█Guardar
+menu_notAvailable█No disponible en esta versión, disculpa :(
+menu_saveNotSupported█No es posible jugar partidas guardadas de versiones anteriores de EarthX.
+
+menu_createNewGame█Crear nueva partida
+menu_tutorial█Tutorial
+menu_classicHeader█Clásico
+menu_classicDesc█Juega al modo clásico, donde tienes que construir tu propia empresa espacial.
+menu_sandboxHeader█Mundo abierto
+menu_sandboxDesc█En el modo Mundo abierto, todo está desbloqueado y es ilimitado.¡Usa tu imaginación!
+
+menu_quality█Calidad
+menu_low█Baja
+menu_medium█Media
+menu_high█Alta
+menu_effects█Efectos
+menu_postprocessings█Postprocesamiento
+menu_gameplay█Jugabilidad
+menu_autoSave█¿Guardado automático?
+menu_autoPause█¿Auto pausado?
+menu_video█Video
+menu_fullscreen█Pantalla completa?
+menu_audio█Audio
+menu_music█Musica?
+menu_sounds█Sonidos?
+menu_language█Idioma

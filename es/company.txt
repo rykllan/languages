@@ -1,0 +1,35 @@
+company_createNewCompany█Crear nueva empresa
+company_ceoName█Nombre del CEO
+company_companyName█Nombre de la empresa
+company_createCompany█Crear empresa
+
+company_header█Empresa
+company_overview█Resumen
+company_fundraising█Recaudación de fondos
+company_financeHistory█Finance History
+company_flightHistory█Flight History
+
+fundraising_productionCost█Costo de producción:
+fundraising_sales█Ventas:
+hats█Sombreros
+bricks█Ladrillos
+not_a_flamethrowers█<color=#E74C3C><size=10>No es un</size></color>&%Lanzallamas
+rocketquillas█Rocketquillas
+use█Usar
+
+company_progressHeader█Progreso de la empresa
+company_progressLevel█Nivel
+company_progressNewStuff█Material nuevo
+company_progressCompleteChallenges█Retos completados
+company_progressNextLevel█Next Level
+company_progressPreviousLevel█Previous Level
+locked█Bloqueado
+unlock█Desbloquear
+unlocked█Desbloqueado
+upgrade█Mejorar
+XskillPoints█Puntos de habilidad
+
+upgradeHeader█<b>MEJORAS</b>&%<size=13><color=#64B5F6>15 puntos de habilidad
+upgrade_reliability█<b>Fiabilidad:</b> <color=#81C784>+10%
+upgrade_buildCost█<b>Costo de construcción:</b> <color=#81C784>-10%
+upgrade_buildTime█<b>Tiempo de construcción:</b> <color=#81C784>-10%

@@ -10,6 +10,7 @@ type_body█Каркас
 type_parachutes█Парашюты
 type_sensors█Сенсоры
 type_antenna█Антенна
+type_utility█Utility
 ---Engines---█---Engines---
 mdl_s_engine█Простой двигатель,Требуется для лёгких ракет.
 mdl_a_engine█Продвинутый двигатель,Требуется для средних ракет.
@@ -58,3 +59,8 @@ mdl_s_heat█Датчик температуры,Требуется для пи�
 mdl_methane_fueltank█Метановый топливный бак,Требуется для Spaceship.
 mdl_methane_engine█6 метановых двигателей,Требуется для Spaceship.
 mdl_stainlesssteel_structure█Каркас из нержавеющей стали,Требуется для Spaceship.
+
+mdl_cargoUtility█Cargo Utility,Cargo Spaceship Module
+mdl_crewUtility█Crew Utility,Crew Spaceship Module
+mdl_fuelUtility█Fuel Utility,Tanker Spaceship
+

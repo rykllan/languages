@@ -1,0 +1,61 @@
+levelTitle0█Empresa registrada
+levelTitle1█Arranque
+levelTitle2█"Cuando algo es lo suficientemente importante, lo haces aunque las probabilidades no estén a tu favor". - Elon Musk
+levelTitle3█"M" de Mediano
+levelTitle4█"Podría ver lo que pasa o ser parte de ello". - Elon Musk
+levelTitle5█Remember to land
+levelTitle6█Proveedor
+levelTitle7█Aceleración
+levelTitle8█Webcast
+levelTitle9█Acceleration
+levelTitle10█El poder de las computadoras
+levelTitle11█Catch it!
+levelTitle12█Poniendose pesado
+levelTitle13█Infraestructura
+levelTitle14█Práctica
+levelTitle15█No pongas a los humanos dentro de los carenados
+levelTitle16█Factor humano
+levelTitle17█Volviendose grande
+levelTitle18█"Vamos a hacer que suceda. Con Dios como mi maldito testigo, estoy decidido a hacer que funcione." - Elon Musk
+levelTitle19█Cohete j*didamente grande
+levelTitle20█Fin del juego en acceso anticipado (Más próximamente :))
+levelTitle21█jaja, no obtendrás el nivel tan fácilmente :D
+
+progress_unlockAllModules█Desbloquear todos los módulos
+progress_launchSmallRockets█Lanza {0} cohete(s) pequeño(s)
+progress_launchMediumRockets█Lanza {0} cohete(s) mediano(s)
+progress_launchLargeRockets█Lanza {0} cohete(s) grande(s)
+progress_launchSuperheavyRockets█Lanza {0} cohete(s) superpesado(s)
+progress_launchCargoCapsules█Lanza {0} capsula(s) de cargamento
+progress_launchCrewCapsules█Lanza {0} capsula(s) de tripulación
+progress_landRockets█Aterriza con {0} cohete(s)
+progress_reuseRockets█Reutiliza {0} cohete(s)
+progress_launchPayloadsAtOnce█Lanza {0} cargas útiles a la vez
+progress_launchFromOwnLaunchPad█Lanza {0} cohete(s) desde tu propia plataforma de lanzamiento!
+progress_launchTesla█¡Lanza el Tesla Roadster!
+progress_buildFactories█¡Construye {0} fábricas!
+progress_buildOffices█¡Construye {0} oficinas!
+progress_buildLaboratories█Build {0} laboratories!
+progress_buildLaunchPads█¡Construye {0} plataforma(s) de lanzamiento pequeña(s) o avanzada(s)!
+progress_buildMegaLaunchPads█¡Construye {0} mega plataforma(s) de lanzamiento!
+progress_getContracts█Obten {0} contrato(s)
+progress_launchCat█Launch a cat!
+progress_launchTechnician█Launch a technician!
+progress_catchFairings█Catch {0} fairings!
+
+progress_maxFactories█Máximo de fabricas:
+progress_maxOffices█Máximo de oficinas:
+progress_maxLaunchesATST█Máximo de lanzamientos a la vez:
+progress_multiplePayloads█¡Ahora puedes lanzar <b><color=#64B5F6>muchas</b></color> cargas útiles a la vez!
+progress_fundraiserHats█Nueva Recaudación de fondos: <b><color=#64B5F6>¡Vende sombreros!
+progress_fundraiserBricks█Nueva Recaudación de fondos: <b><color=#64B5F6>¡Vende ladrillos!
+progress_fundraiserNAF█Nueva Recaudación de fondos: <b><color=#64B5F6>¡Vende (no son) lanzallamas!
+progress_fundraiserRocketquilla█Nueva Recaudación de fondos: <b><color=#64B5F6>¡Vende Rocketquillas!
+progress_issSupplierMission█Misión especial: <b><color=#64B5F6>Proveedor de EEI
+progress_issCrewMission█Misión especial: <b><color=#64B5F6>Tripulación comercial de EEI
+progress_teslaRoadsterMission█Misión especial: <b><color=#64B5F6>Tesla Roadster
+progress_catMission█Special Mission: <b><color=#64B5F6>Astronaut's Cat
+progress_technicianMission█Special Mission: <b><color=#64B5F6>Technician in a Suitcase
+progress_simpleLaunchPad█Nueva construcción: <b><color=#64B5F6>Plataforma simple de lanzamiento
+progress_advancedLaunchPad█Nueva construcción: <b><color=#64B5F6>Plataforma avanzada de lanzamiento
+progress_megaLaunchPad█Nueva construcción: <b><color=#64B5F6>Mega plataforma de lanzamiento

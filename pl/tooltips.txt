@@ -1,0 +1,8 @@
+tooltip_companyProgress█Postęp firmy
+tooltip_vehicles█Pojazdy
+tooltip_contracts█Kontrakty
+tooltip_news█Wiadomości
+tooltip_company█Firma
+tooltip_buildMode█Tryb budowania
+tooltip_money█Pieniądze
+tooltip_skillPoints█Punkty doświadczenia

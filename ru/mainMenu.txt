@@ -1,0 +1,32 @@
+menu_home█Главная
+menu_play█Играть
+menu_settings█Настройки
+menu_credits█Авторы
+menu_exit█Выход
+menu_backToMainMenu█Обратно к главному меню
+menu_save█Сохранить
+menu_notAvailable█Не доступно в этой версии, простите :(
+menu_saveNotSupported█Сохранения со старых версий EarthX не поддерживаются.
+
+menu_createNewGame█Создать новую игру
+menu_tutorial█Туториал
+menu_classicHeader█Классический
+menu_classicDesc█Играйте в классический режим, где вам нужно создать собственную космическую компанию.
+menu_sandboxHeader█Песочница
+menu_sandboxDesc█В этом режиме доступно и бесконечно всё. Используйте свою фантазию!
+
+menu_quality█Графика
+menu_low█Низкая
+menu_medium█Средняя
+menu_high█Высокая
+menu_effects█Эффекты
+menu_postprocessings█Постобработка
+menu_gameplay█Геймплей
+menu_autoSave█Автосохранение
+menu_autoPause█Автопауза
+menu_video█Видео
+menu_fullscreen█Полный экран
+menu_audio█Аудио
+menu_music█Музыка
+menu_sounds█Звуки
+menu_language█Язык

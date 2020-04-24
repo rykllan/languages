@@ -1,0 +1,17 @@
+contracts_header█Contracts
+contracts_payloads█{0} payloads
+contracts_availableIn█Available in
+contracts_noRockets█No capable rockets!
+contracts_negotiating█Negotiating
+contracts_approx█Approx.
+contracts_selectLaunchPrice█Select launch price
+contracts_avgRocketPrice█Avg. rocket price:
+contracts_avgProfit█Avg. profit:
+contracts_submitOffer█Submit offer
+contracts_onMissionSuccess█On Mission Success
+contracts_onMissionFailure█On Mission Failure
+
+deadline_critical█Very critical!
+deadline_launchNow█Launch now!
+deadline_yearLeft█1 year left!
+deadline_yearsLeft█{0} years left!

@@ -1,0 +1,35 @@
+company_createNewCompany█Создать новую компанию
+company_ceoName█Имя исполнительного директора
+company_companyName█Название компании
+company_createCompany█Создать компанию
+
+company_header█Компания
+company_overview█Обзор
+company_fundraising█Финансирование
+company_financeHistory█Финансовая история
+company_flightHistory█История запусков
+
+fundraising_productionCost█Стоимость производства:
+fundraising_sales█Продажи:
+hats█Кепки
+bricks█Кирпичи
+not_a_flamethrowers█<color=#E74C3C><size=10>Не</size></color>&%Огнемёты
+rocketquillas█Рокеткила
+use█Использовать
+
+company_progressHeader█Прогресс компании
+company_progressLevel█Уровень
+company_progressNewStuff█Новое
+company_progressCompleteChallenges█Выполните задания
+company_progressNextLevel█Следующий уровень
+company_progressPreviousLevel█Предыдущий уровень
+locked█Заблокировано
+unlock█Разблокировать
+unlocked█Разблокировано
+upgrade█Улучшить
+XskillPoints█очков опыта
+
+upgradeHeader█<b>УЛУЧШЕНИЕ</b>&%<size=13><color=#64B5F6>15 очков опыта
+upgrade_reliability█<b>Надёжность:</b> <color=#81C784>+10%
+upgrade_buildCost█<b>Стоимость произв.:</b> <color=#81C784>-10%
+upgrade_buildTime█<b>Время производства:</b> <color=#81C784>-10%

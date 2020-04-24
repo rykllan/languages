@@ -1,0 +1,8 @@
+tooltip_companyProgress█Прогресс компании
+tooltip_vehicles█Ракеты
+tooltip_contracts█Контракты
+tooltip_news█Новости
+tooltip_company█Компания
+tooltip_buildMode█Строительство зданий
+tooltip_money█Бюджет
+tooltip_skillPoints█Очки исследований

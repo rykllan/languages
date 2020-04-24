@@ -1,0 +1,32 @@
+menu_home█Strona Główna
+menu_play█Graj
+menu_settings█Ustawienia
+menu_credits█Twórcy
+menu_exit█Opuść grę
+menu_backToMainMenu█Wróć do Menu Głównego
+menu_save█Zapisz
+menu_notAvailable█Niedostępne w tej wersji :(
+menu_saveNotSupported█Zapisy z poprzedniej wersji gry nie są obecnie obsługiwane. Przepraszamy!
+
+menu_createNewGame█Stwórz nową grę
+menu_tutorial█Poradnik
+menu_classicHeader█Tryb Kariery
+menu_classicDesc█W trybie kariery zbudujesz swoją firmę od zera. Podbij świat... i kosmos!
+menu_sandboxHeader█Piaskownica
+menu_sandboxDesc█W piaskownicy liczy się wyobraźnia. Wszystko jest odblokowane!
+
+menu_quality█Grafika
+menu_low█Niska
+menu_medium█Średnia
+menu_high█Wysoka
+menu_effects█Efekty
+menu_postprocessings█Post Processing
+menu_gameplay█Rozgrywka
+menu_autoSave█Auto zapis?
+menu_autoPause█Auto pauza?
+menu_video█Wyświetlanie
+menu_fullscreen█Pełny ekran?
+menu_audio█Dźwięk
+menu_music█Muzyka?
+menu_sounds█Dźwięki?
+menu_language█Język

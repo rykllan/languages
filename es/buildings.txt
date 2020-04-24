@@ -1,0 +1,76 @@
+building█Building
+building_office█Oficina
+building_factory█Fábrica
+building_laboratory█Laboratorio
+building_hangar█Hangar
+building_simpleLP█Plataforma simple de lanzamiento
+building_advancedLP█Plataforma avanzada de lanzamiento
+building_megaLP█Mega plataforma de lanzamiento
+
+buildingSetup_buildingName█Nombre de la construcción...
+buildingSetup_overview█Resumen
+buildingSetup_setup█Configuración
+buildingSetup_billsCurrentQuarter█Facturas del trimestre en curso
+
+buildingSetup_nowWorkingOn█Trabajando actualmente en
+buildingSetup_queue█Cola
+
+buildingSetup_negotiationPowerEachEmployee█Poder de negociación para cada empleado
+buildingSetup_negotiationPowerBuilding█Poder de negociación de la construcción
+buildingSetup_oneEmployee█Un empleado
+buildingSetup_negotiationPower█Poder de negociación
+
+buildingSetup_vehicleStored█Vehículos guardados
+
+buildingSetup_employees█<size=14>{0} empleados</size>&%{1} <color=#16A085>$</color> / año&%<size=14>{2} <color=#16A085>$</color> / cada uno
+buildingSetup_manageEmployees█Administrar empleados
+
+buildingSetup_destroyBuilding█Destruir construcción
+
+small_factory█Small Factory
+small_factory_desc█You can build only small modules.
+
+medium_factory█Medium Factory
+medium_factory_desc█You can build only small and medium modules.
+
+large_factory█Large Factory
+large_factory_desc█You can build all kinds of vehicles except Spaceships and Superheavies.
+
+giga_factory█Giga Factory
+giga_factory_desc█You can build every kind of vehicles and LinkLink.
+
+small_hangar█Small Hangar
+small_hangar_desc█You can store only rockets.
+
+medium_hangar█Medium Hangar
+medium_hangar_desc█You can store only rockets and capsules.
+
+large_hangar█Large Hangar
+large_hangar_desc█You can store more rockets and capsules.
+
+mega_hangar█Mega Hangar
+mega_hangar_desc█You can store only Spaceships and Superheavies.
+
+office█<b><color=#FF9F43>Oficina</color></b>&%<size=13>Contrata empleados de oficina para obtener un mayor poder de negociación en la ventana de contratos.</size>&%745 000 <color=#16A085>$
+office_desc█Office employees are giving you more negotiation power (you can offer higher price at negotiating).
+
+laboratory█<b><color=#FF9F43>Laboratorio</color></b>&%<size=13>Obten puntos de habilidad para desbloquear módulos y mejoras.</size>&%715 000 <color=#16A085>$
+laboratory_desc█Produces skill points.
+
+megaLP█<b><color=#FF9F43>Mega plataforma de lanzamiento</color></b>&%<size=13>Lanza solo cohetes muy grandes. (Super pesado con naves estelares :o)</size>&%580 000 000 <color=#16A085>$
+megaLP_desc█You can launch Spaceships.
+
+terminal█LinkLink Terminal
+terminal_desc█Terminals are connecting people on Earth with LinkLinks. More terminals == more users capacity.
+
+lp_cape█Cape Canaveral
+lp_vandenberg█Vandenberg
+lp_pacificSpaceport█Pacific Spaceport
+lp_guiana█Guiana
+lp_midAtlanticSpaceport█Atlantic Spaceport
+lp_balkonur█Baikonur
+lp_plesetsk█Plesetsk
+lp_xichang█Xichang
+lp_rocketComplex█Private Spaceport
+lp_australia█Woomera
+lp_india█Satish Dhawan

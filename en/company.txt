@@ -1,0 +1,35 @@
+company_createNewCompany█Create a new company
+company_ceoName█CEO name
+company_companyName█Company name
+company_createCompany█Create company
+
+company_header█Company
+company_overview█Overview
+company_fundraising█Fundraising
+company_financeHistory█Finance History
+company_flightHistory█Flight History
+
+fundraising_productionCost█Production cost:
+fundraising_sales█Sales:
+hats█Hats
+bricks█Bricks
+not_a_flamethrowers█<color=#E74C3C><size=10>Not a</size></color>&%Flamethrowers
+rocketquillas█Rocketquillas
+use█Use
+
+company_progressHeader█Company Progress
+company_progressLevel█Level
+company_progressNewStuff█New Stuff
+company_progressCompleteChallenges█Complete Challenges
+company_progressNextLevel█Next Level
+company_progressPreviousLevel█Previous Level
+locked█Locked
+unlock█Unlock
+unlocked█Unlocked
+upgrade█Upgrade
+XskillPoints█skill points
+
+upgradeHeader█<b>UPGRADE</b>&%<size=13><color=#64B5F6>15 skill points
+upgrade_reliability█<b>Reliability:</b> <color=#81C784>+10%
+upgrade_buildCost█<b>Build cost:</b> <color=#81C784>-10%
+upgrade_buildTime█<b>Build time:</b> <color=#81C784>-10%

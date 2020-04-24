@@ -1,4 +1,4 @@
-﻿company_ceoAndCompanyMustHaveName█¡La empresa y el CEO deben tener un nombre!
+company_ceoAndCompanyMustHaveName█¡La empresa y el CEO deben tener un nombre!
 
 earthxWelcome█Oye, Elon!...oh, eres tú... <color=#64B5F6>{0}</color>!&%Veo que por fin has creado la empresa de cohetes que habías mencionado antes. ¡"<color=#64B5F6>{1}</color>" es de hecho un nombre genial! Debo decirte que eres muy valiente.&%&%Las grandes empresas que tienen el monopolio del mercado de proveedores de lanzamientos no han invertido en alguna tecnología más nueva durante años. Todavía están usando propulsores ineficientes y motores obsoletos. ¿Y si pudieran aterrizar sus cohetes en la Tierra? ¡Entonces sería posible enviar múltiples cargas útiles con sólo un cohete! Espero que puedas construir un cohete que aterrice o incluso uno de propulsores laterales en unos pocos años.&%&%¡Buena suerte!
 
@@ -28,6 +28,7 @@ contract_badBoyHeader█Chico malo. (o chica)
 contract_badBoyContent█Se te multó con el 15% de cada carga útil porque no la lanzaste a tiempo:&%{0}&%&%El mundo aún no se acaba. ¡Ve y consigue más contratos! :)
 
 staticFireIssueFound█Tus ingenieros han encontrado un problema en tu cohete y lo han solucionado.
+
 cantBuildNoFactories█¡Necesitas fábricas para construir cohetes!
 cantBuildSoManyVehicles█¡No puedes construir tantos vehículos al mismo tiempo!
 cantLaunchSoManyVehicles█¡No puedes lanzar tantos cohetes al mismo tiempo!
@@ -57,6 +58,7 @@ cantBuildFactories█No puedes construir tantas fábricas.
 cantBuildSimpleLP█No puedes construir plataformas de lanzamiento simples en este momento.
 cantBuildAdvancedLP█No puedes construir plataformas de lanzamiento avanzadas en este momento.
 cantBuildMegaLP█No puedes construir mega plataformas de lanzamiento en este momento.
+
 
 
 

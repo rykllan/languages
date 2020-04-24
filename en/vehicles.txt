@@ -1,0 +1,120 @@
+rocket█Rocket
+capsule█Capsule
+spaceship█Spaceship
+
+rocketRequiresCapsule█Rocket (Requires Capsule)
+rocketRequiresSpaceship█Rocket (Requires Spaceship)
+
+vehicles█Vehicles
+vehicles_newProjectHeader█Create new project
+vehicles_newProjectButton█New project
+vehicles_newVehicleHeader█Create new vehicle
+vehicles_newVehicleButton█New vehicle
+
+land█Land
+
+reusedVehicle█Reused vehicle:
+buildCosts█Build costs
+buildTime█Build time
+originalBuildCosts█Original build costs
+optimizedBuildCosts█Optimized build costs
+launchCosts█Launch costs
+
+inQueue█In queue&%<size=14><b><color=#64B5F6>Module will be built in a moment
+
+build█Build
+built█Built
+launch█Launch
+repair█Repair
+turnExpendable█Turn Expendable
+
+capabilities█Capabilities
+reliability█Reliability
+condition█Condition
+
+notBuiltYet█Not built yet
+constructing█Constructing...
+repairing█Repairing...
+flying█Flying
+dockedToISS█Docked to ISS (Will come back soon.)
+
+reusable█Reusable
+manual█Manual
+sideboosters█Sideboosters
+superheavy█Superheavy
+spaceshipsOnly█Spaceships only
+capsulesOnly█Capsules only
+fairingRecovery█Fairing recovery
+
+landingNotSupported█Landing not supported!&%You need:<size=12><b>&%-Grid Fins & Landing Legs&%-Battery&%-GPS (for automatic reusability)&%-4 or 9 Advanced Engines</b></size>&%
+capsulesNotSupported█Capsules not supported!&%You need:<size=12><b>&%-Battery&%-GPS&%-4 or 9 Advanced Engines</b></size>&%
+heavyNotSupported█Heavy rocket not supported!&%You need:<size=12><b>&%-Rocket with automatic reusability</b></size>&%
+fairingCatchingNotSupported█Fairing catching not supported!&%You need:<size=12><b>&%-Rocket with automatic reusability</b></size>&%
+
+payload█Payload
+crew█Crew
+cargo█Cargo
+
+launchSetup_header█Launch Setup
+launchSetup_missionName█Mission name...
+launchSetup_mission█Mission
+launchSetup_noVehiclesFound█[No vehicles found.]
+launchSetup_noPayloadsFound█[No capable payloads found.]
+launchSetup_selectVehicle█Select vehicle
+launchSetup_selectLaunchPad█Select launch pad
+launchSetup_selectLandingZone█Select landing zone
+
+launchSetup_barge█Barge
+launchSetup_lz1█LZ-1
+launchSetup_lz2█LZ-2
+
+launchSetup_testFlight█Test Flight
+launchSetup_concrete█Concrete
+launchSetup_cheese█Cheese
+launchSetup_pizza█Pizza
+launchSetup_earthPlush█Earth Plush
+launchSetup_everydayStickers█Everyday Stickers
+launchSetup_landingZone█Landing Zone
+
+launchSetup_success█Success
+launchSetup_crash█Crash
+failure█Failure
+noData█No data
+flights█Flights
+failures█Failures
+partialSuccess█Partial Success
+
+launchPanel_telemetry█Telemetry
+launchPanel_noSupportTelemetry█This rocket does not support telemetry.
+launchPanel_speed█Speed
+launchPanel_altitude█Altitude
+launchPanel_staticFire█Static fire
+launchPanel_speedMetric█km/h
+launchPanel_altitudeMetric█km
+
+buildPanel_moveToHangar█Move to hangar
+
+missionReportHeader█Mission report
+missionReportMissionName█Mission name:
+missionReportRocketName█Rocket:
+missionReportMissionResult█Mission Result
+
+missionReportLaunch█Launch
+missionReportDeploy█Deploy
+missionReportLanding█Landing
+missionReportFairingLanding█Fairing landing
+missionReportSecondVehicleLanding█Second vehicle landing
+
+missionReportMissionIncome█Mission income
+missionReportDamageCompensation█Damage compensation
+missionReportLandedRocket█Landed rocket
+profit█profit
+loss█loss
+
+creator_header█New project
+creator_vehicleName█Vehicle name...
+creator_createProject█Create project
+creator_vehicleCanGoAnywhere█This vehicle can go to any place you want.
+creator_capsuleRocket█This rocket can carry only the capsules.
+creator_spaceshipRocket█This rocket can carry only the spaceships.
+no_module_unlocked█No module is unlocked.

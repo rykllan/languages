@@ -33,3 +33,4 @@ fail33█Kompresja: paliwo było skompresowane trochę zbyt mocno.
 fail34█Satelita nie był w trybie rakietowym.	
 fail35█Paliwo było zbyt gorące.	
 fail36█Nie łącz modułów rakiet taśmą.
+

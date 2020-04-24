@@ -1,0 +1,120 @@
+rocket█Rakieta
+capsule█Kapsuła
+spaceship█Statek kosmiczny
+
+rocketRequiresCapsule█Rakieta (Wymaga kapsuły)
+rocketRequiresSpaceship█Rakieta (Wymaga statku kosmicznego)
+
+vehicles█Pojazdy
+vehicles_newProjectHeader█Stwórz nowy projekt
+vehicles_newProjectButton█Nowy projekt
+vehicles_newVehicleHeader█Stwórz nowy pojazd
+vehicles_newVehicleButton█Nowy pojazd
+
+land█Wyląduj
+
+reusedVehicle█Ponowne użycie:
+buildCosts█Koszty budowy
+buildTime█Czas budowy
+originalBuildCosts█Oryginalne koszty
+optimizedBuildCosts█Zoptymalizowane koszty
+launchCosts█Koszty wystrzelenia
+
+inQueue█W kolejce&%<size=14><b><color=#64B5F6>Moduł zostanie zbudowany za moment
+
+build█Zbuduj
+built█Zbudowano
+launch█Wystrzel
+repair█Napraw
+turnExpendable█Przemień w jednorazową
+
+capabilities█Możliwości
+reliability█Niezawodność
+condition█Wytrzymałość
+
+notBuiltYet█Jeszcze niezbudowana
+constructing█Budowanie...
+repairing█Naprawianie...
+flying█W locie
+dockedToISS█Zadokowany do MSK (Niedługo powróci na ziemię.)
+
+reusable█Wielokrotnego użytku
+manual█(ręczna)
+sideboosters█Dodatkowe boostery
+superheavy█Ogromna
+spaceshipsOnly█Tylko statki kosmiczne
+capsulesOnly█Tylko kapsuły
+fairingRecovery█Odzyskiwalne owiewki
+
+landingNotSupported█Rakieta nie wyląduje!&%Potrzebujesz:<size=12><b>&%-Lotki & Podwozie&%-Bateria&%-GPS (do automatycznego lądowania)&%-4 lub 9 Zaawansowane Silniki</b></size>&%
+capsulesNotSupported█Kapsuły niewspierane!&%Potrzebujesz:<size=12><b>&%-Bateria&%-GPS&%-4 Zaawansowane Silniki</b></size>&%
+heavyNotSupported█Rakieta z bocznymi boosterami niewspierana!&%Potrzebujesz:<size=12><b>&%-Rakietę z automatycznym lądowaniem</b></size>&%
+fairingCatchingNotSupported█Odzyskiwanie owiewek niewspierane!&%Potrzebujesz:<size=12><b>&%-Rakietę z automatycznym lądowaniem</b></size>&%
+
+payload█Ładunek
+crew█Załoga
+cargo█Towar
+
+launchSetup_header█Ustawienia lotu
+launchSetup_missionName█Nazwa misji...
+launchSetup_mission█Misja
+launchSetup_noVehiclesFound█[Nie znaleziono pojazdów.]
+launchSetup_noPayloadsFound█[Nie znaleziono odpowiednich ładunków.]
+launchSetup_selectVehicle█Wybierz pojazd
+launchSetup_selectLaunchPad█Wybierz stanowisko
+launchSetup_selectLandingZone█Wybierz strefę lądowania
+
+launchSetup_barge█Barka
+launchSetup_lz1█Strefa 1
+launchSetup_lz2█Strefa 2
+
+launchSetup_testFlight█Lot testowy
+launchSetup_concrete█Beton
+launchSetup_cheese█Ser
+launchSetup_pizza█Pizza
+launchSetup_earthPlush█Pluszowa Ziemia
+launchSetup_everydayStickers█Naklejki Everyday
+launchSetup_landingZone█Strefa lądowania
+
+launchSetup_success█Sukces
+launchSetup_crash█Wybuch
+failure█Niepowodzenie
+noData█Brak danych
+flights█Loty
+failures█Eksplozje
+partialSuccess█Połowiczny sukces
+
+launchPanel_telemetry█Telemetria
+launchPanel_noSupportTelemetry█Ta rakieta nie wspiera telemetrii.
+launchPanel_speed█Prędkość
+launchPanel_altitude█Wysokość
+launchPanel_staticFire█Test statyczny
+launchPanel_speedMetric█km/h
+launchPanel_altitudeMetric█km
+
+buildPanel_moveToHangar█Przenieś do hangaru
+
+missionReportHeader█Raport misji
+missionReportMissionName█Nazwa misji:
+missionReportRocketName█Rakiety:
+missionReportMissionResult█Wynik
+
+missionReportLaunch█Odpalenie
+missionReportDeploy█Wypuszczenie ładunku
+missionReportLanding█Lądowanie
+missionReportFairingLanding█Lądowanie owiewek
+missionReportSecondVehicleLanding█Lądowanie dodatkowego pojazdu
+
+missionReportMissionIncome█Przychód z misji
+missionReportDamageCompensation█Odszkodowanie do zapłacenia
+missionReportLandedRocket█Odzyskana rakieta
+profit█zysk
+loss█strata
+
+creator_header█Nowy projekt
+creator_vehicleName█Nazwa projektu...
+creator_createProject█Stwórz projekt
+creator_vehicleCanGoAnywhere█Ten pojazd może lecieć wszędzie, gdzie tylko chcesz.
+creator_capsuleRocket█Ta rakieta może wynosić tylko kapsuły.
+creator_spaceshipRocket█Ta rakieta może wynosić tylko statki kosmiczne.
+no_module_unlocked█Żaden moduł nie jest odblokowany.

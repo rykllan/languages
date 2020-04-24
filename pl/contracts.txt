@@ -1,0 +1,17 @@
+contracts_header█Kontrakty
+contracts_payloads█Ładunki: {0}
+contracts_availableIn█Dostępne w
+contracts_noRockets█Brak odpowiednich rakiet!
+contracts_negotiating█Negocjacje
+contracts_approx█Około
+contracts_selectLaunchPrice█Wybierz cenę za start
+contracts_avgRocketPrice█Śr. cena rakiety:
+contracts_avgProfit█Śr. zysk:
+contracts_submitOffer█Wystaw ofertę
+contracts_onMissionSuccess█Jeśli nie wybuchnie
+contracts_onMissionFailure█Jeśli wybuchnie
+
+deadline_critical█Krytyczny!
+deadline_launchNow█Wystrzel teraz!
+deadline_yearLeft█Pozostał 1 rok!
+deadline_yearsLeft█{0} lata na wystrzelenie!
