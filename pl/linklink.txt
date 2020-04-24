@@ -30,32 +30,32 @@ linkLink_million_content█Ponad jeden milion dolarów na kwartał - to najnowsz
 linkLink_failure_header█Wielka awaria LinkLink - użytkownicy bez dostępu do internetu od doby.
 linkLink_failure_content█Zaniepokojeni abonenci usługi LinkLink donoszą o awarii dostępu do internetu. Ponad połowa użytkowników od prawie doby nie może połączyć się z siecią. &%&%Technicy {0} już pracują nad usunięciem przyczyn awarii. Mamy nadzieję, że takie awarie nie będą powtarzać się w przyszłości.
 
-linkLink_giga_factory_needed█You need a GigaFactory in order to build LinkLink satellites.
+linkLink_giga_factory_needed█Musisz posiadać Giga Fabrykę aby móc budować satelity LinkLinka.
 
-linkLink_production█Production
+linkLink_production█Produkcja
 
-linkLink_100_required█You need at least <color=#64B5F6><b>100</b></color> LinkLinks in order to 
+linkLink_100_required█Potrzebujesz conajmniej <color=#64B5F6><b>100</b></color> LinkLinków aby uruchomić usługę. 
 
-linkLink_run█Run LinkLink
-linkLink_customerPrice█Customer price (per month)
-linkLink_customersHistory█Customers History
-linkLink_serviceDown█LinkLink services down. Technicians are working on fixing this. 
+linkLink_run█Uruchom LinkLink
+linkLink_customerPrice█Cena za usługę (za miesiąc)
+linkLink_customersHistory█Historia Użytkowników
+linkLink_serviceDown█Problemy techniczne usługi LinkLink. Technicy pracują ciężko, aby to naprawić. (może to potrwać nawet rok)
 
-linkLink_build█Build LinkLink
+linkLink_build█Zbuduj LinkLinka
 
-linkLink_totalCustomers█Users
-linkLink_totalLinkLinks█Total LinkLinks
-linkLink_income█Yearly Income
-linkLink_stability█Connection Stability
-linkLink_capacity█LinkLink Capacity (Max users)
-linkLink_terminalCapacity█Terminal Capacity (Max users)
+linkLink_totalCustomers█Użytkownicy
+linkLink_totalLinkLinks█LinkLinki
+linkLink_income█Przychód roczny
+linkLink_stability█Stabilność połączenia
+linkLink_capacity█Wydajność LinkLinka (Maks. użytk.)
+linkLink_terminalCapacity█Wydajność Odbiorników (Maks. użytk.)
 
-linkLink_smallFailure█Some of your LinkLinks stopped working and have been deorbited.
-linkLink_30_deorbited█30% of your LinkLinks have been deorbited because their lifetime has ended.
+linkLink_smallFailure█Kilka LinkLinków przestało działać i zostały zdeorbitowane.
+linkLink_30_deorbited█30% twoich LinkLinków zostało zdeorbitowane, ponieważ się zużyły.
 
 
 linkLink_welcome_header█LinkLink
-linkLink_welcome_content█Later in EarthX, you will be able to create your own satellite constelation, which will provide cheap internet worldwide.&%&%However to do so, you need to launch 2 test satellites first.&%&%Good luck!
+linkLink_welcome_content█Później w EarthX będziesz mógł stworzyć własną konstelację satelit, która będzie oferowała tani i szybki internet na całym świecie.&%&%Jednakże, aby to zrobić musisz wystrzelić 2 pierwsze satelity LinkLink.&%&%Powodzenia!
 
 
 
