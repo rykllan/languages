@@ -38,8 +38,8 @@ cantRepairSoManyVehicles█Nie możesz naprawiać tylu pojazdów w tym samym mom
 
 cantRemoveProject█Nie możesz usunąć tego projektu, ponieważ są w nim pojazdy.
 
-noHangars█You can't store this vehicle because there's no space in your hangar or you need to build a <color=#64B5F6>{0}</color> in order to store that {1}.
-noFactories█{0} can't be built because you need a {2} to be able to build {1} modules.
+noHangars█Nie możesz przechować tego pojazdu, ponieważ nie masz miejsca w hangarach lub musisz zbudować: <color=#64B5F6>{0}</color> aby przechować: {1}.
+noFactories█{0} nie może zostać zbudowany, ponieważ musisz posiadać: <color=#64B5F6>{2}</color> aby móc budować {1} moduły.
 
 projectMustHaveName█Projekt musi mieć jakąś nazwę. Widziałeś kiedyś rakietę bez nazwy?
 projectSameName█{0} już istnieje. Może nazwij ją <color=yellow><b><size=20>'{0} Max Pro Ultra Slim'?
