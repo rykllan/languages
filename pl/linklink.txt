@@ -1,34 +1,34 @@
 
 
-linkLink_announcement_header█LinkLink - the internet of the future?
-linkLink_announcement_content█{1}, the owner of the space company {0} is expanding. It would seem that sending a man to Mars is the CEO's top ambition.&%&%This time {1} has set himself the goal of providing fast and cheap internet to the people of our planet. He wants to achieve this with hundreds of small telecommunications satellites sent into Earth's orbit. The name of the technology was also announced - "LinkLink".&%&%We will keep you informed about the progress of work on this new technology.
+linkLink_announcement_header█LinkLink - internet przyszłości?
+linkLink_announcement_content█{1}, właściciel firmy kosmicznej {0} rozszerza działalność. Wydawać by się mogło, że wysłanie człowieka na Marsa to szczyt ambicji prezesa.&%&%Tym razem {1} postawił sobie za cel zapewnienie szybkiego i taniego internetu mieszkańcom naszej planety. Chce to osiągnąć za pomocą setek małych satelit telekomunikacyjnych wysłanych na naszą orbitę. Zaprezentowana została także nazwa technologii - "LinkLink".&%&%O postępach prac nad nową technologią będziemy informować na bieżąco.
 
 
-linkLink_tintin_header█First LinkLink satellites in orbit!
-linkLink_tintin_content█Today's rocket launch will be in history. There were {5} small LinkLink satellites on board to give us fast and cheap internet access from {0}. &%&%We don't know exactly when the service will be launched for a wide range of users.  
+linkLink_tintin_header█Pierwsze satelity LinkLink już na orbicie!
+linkLink_tintin_content█Dzisiejszy start rakiety przejdzie do historii. Na jej pokładzie znalazło się {5} małych satelit LinkLink mających zapewnić nam szybki i tani dostęp do internetu od firmy {0}. &%&%Nie wiemy jeszcze kiedy nastąpi uruchomienie usługi dla szerokiego grona użytkowników.
 
 
-linkLink_terminals_header█The construction of mysterious {0} antennas is completed.
-linkLink_terminals_content█There have been mysterious circular constructions placed near the largest cities in the world. As we managed to determine, these are the antennas responsible for communication with the LinkLink satellite constellation. &%&%The service will start soon?
+linkLink_terminals_header█Budowa tajemniczych anten {0} zakończona.
+linkLink_terminals_content█W pobliżu największych miast na świecie stanęły tajemnicze, okrągłe  konstrukcje. Jak udało nam się ustalić, są to anteny odpowiedzialne za komunikację z konstelacjami satelit LinkLink. &%&%Start usługi już wkrótce?
 
 
-linkLink_run_header█The first users started testing the LinkLink Internet!
-linkLink_run_content█The future is today! {0} has just connected the first users to its satellite internet of the future. &%&%Users taking part in the tests most praise the speed and stability of the connection.
+linkLink_run_header█Pierwsi użytkownicy rozpoczęli testy internetu LinkLink!
+linkLink_run_content█Przyszłość jest dziś! {0} podłączyła właśnie pierwszych użytkowników do swojego satelitarnego internetu przyszłości. &%&%Użytkownicy biorący udział w testach najbardziej chwalą prędkość i stabilność połączenia.
 
 
-linkLink_10k_header█LinkLink internet sells like fresh buns!
-linkLink_10k_content█Tests completed! {0} has started selling the service - on the first day from the start, contracts were signed by 10 000 people. &%&%{1} can open his champagne!
+linkLink_10k_header█Internet LinkLink sprzedaje się jak świeże bułeczki!
+linkLink_10k_content█Testy zakończone! {0} rozpoczęła sprzedaż usługi - w pierwszym dniu od startu, umowy podpisało 10 000 osób. &%&%{1} może otwierać szampana!
 
 
-linkLink_250k_header█250,000 LinkLink users!
-linkLink_250k_content█{0} is not slowing down. Their wireless, high-speed internet is an incredible success. &%&%At today's press conference, the CEO {1} shared, that more than 250,000 people around the world use LinkLink's Internet. &%&%Low price and high availability is a real recipe for success!
+linkLink_250k_header█250 tysięcy użytkowników LinkLink!
+linkLink_250k_content█{0} nie zwalnia tempa. Ich bezprzewodowy, szybki internet to niesamowity sukces. &%&%Na dzisiejszej konferencji prasowej prezes {1} pochwalił się najnowszymi danymi sprzedażowymi. Na całym świecie z internetu LinkLink korzysta już ponad 250 tysięcy osób. &%&%Niska cena i wysoka dostępność usługi to prawdziwy przepis na sukces!
 
-linkLink_million_header█LinkLink financial success. {1} earns millions!
-linkLink_million_content█More than one million dollars a year, that's the latest earnings figures for the company {0}. It is worth noting that the amount applies only to LinkLink's Internet access service. &%&%We hope that {1} will spend his money well - for example, he would send a man to Mars.
+linkLink_million_header█LinkLink finansowych sukcesem. {1} zarabia miliony!
+linkLink_million_content█Ponad jeden milion dolarów na kwartał - to najnowsze dane na temat zarobków firmy {0}. Warto zwrócić uwagę, że kwota dotyczy tylko usługi dostępu do internetu LinkLink. &%&%Mamy nadzieję, że {1} dobrze wyda te pieniądze - na przykład wyśle człowieka na Marsa.
 
 
-linkLink_failure_header█The great failure of LinkLink - users without access to the Internet for 24 hours.
-linkLink_failure_content█Concerned LinkLink subscribers report a failure of their Internet access. More than half of the users can't connect to the network for almost 24 hours. &%&%{1}'s technicians are already working on removing the causes of the failure. We hope that such failures will not be repeated in the future.
+linkLink_failure_header█Wielka awaria LinkLink - użytkownicy bez dostępu do internetu od doby.
+linkLink_failure_content█Zaniepokojeni abonenci usługi LinkLink donoszą o awarii dostępu do internetu. Ponad połowa użytkowników od prawie doby nie może połączyć się z siecią. &%&%Technicy {0} już pracują nad usunięciem przyczyn awarii. Mamy nadzieję, że takie awarie nie będą powtarzać się w przyszłości.
 
 linkLink_giga_factory_needed█You need a GigaFactory in order to build LinkLink satellites.
 
