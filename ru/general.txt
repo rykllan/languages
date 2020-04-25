@@ -25,3 +25,4 @@ orbit_iss█МКС
 map_settings_linklink_visible█Видимость LinkLink
 map_settings_satellites_visible█Видимость спутников
 map_settings_linklink_outline█Контур LinkLink
+
