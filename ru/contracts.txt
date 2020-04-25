@@ -1,51 +1,45 @@
 
 
-contracts_header█Missions
+contracts_header█Миссии
 
-contracts_menu_payloads█Payloads
-contracts_menu_contracts█Contracts
-contracts_menu_offers█Offers
+contracts_menu_payloads█Нагрузки
+contracts_menu_contracts█Контракты
+contracts_menu_offers█Сделки
 
 contracts_payloads█Нагрузок: {0}
 contracts_availableIn█Доступно в
 contracts_noRockets█Нет доступных ракет!
-contracts_negotiators█Negotiators
+contracts_negotiators█Участники переговоров
 contracts_approx█Прим.
 contracts_selectLaunchPrice█Выберите цену запуска
 contracts_avgRocketPrice█Сред. стоимость ракеты:
 contracts_avgProfit█Сред. прибыль:
 
-contracts_submitOffer█Подтвердить сделку
-contracts_negotiate█Negotiate
+contracts_submitOffer█Подтвердить
+contracts_negotiate█Подтвердить
 
 contracts_onMissionSuccess█Успех миссии
 contracts_onMissionFailure█Провал миссии
 
-contracts_offer_decline█Decline Offer
-contracts_offer_accept█Accept Offer
-contracts_offer_accepted█You accepted this offer.
+contracts_offer_decline█Отказаться
+contracts_offer_accept█Принять сделку
+contracts_offer_accepted█Вы приняли эту сделку.
 
 deadline_critical█Очень критично!
 deadline_launchNow█Дедлайн близко!
 deadline_yearLeft█Остался 1 год!
 deadline_yearsLeft█Лет осталось: {0}!
 
-contract_negotiating█Negotiating
-contract_active█Active
-contract_completed█Completed
+contract_negotiating█Переговоры
+contract_active█Активно
+contract_completed█Завершено
 
 contract_won_status█<color=#64B5F6><b>You won this contract.</b></color>&%<align=\"left\">&%<size=13>You will need to launch these payloads in time, <mark=#64B5F625>starting in {0}</mark>:</size></align>&%&%{1}
 
 
-contract_decline_confirm█Do you really want to decline this offer?
+contract_decline_confirm█Вы точно хотите отказаться от этой сделки?
 
-contract_deadline_fine█Fine:
+contract_deadline_fine█Штраф:
 
-payload_preparing_to_fly█Preparing to fly
-
-
-
-
-
-
+payload_preparing_to_fly█Подготовка к запуску
 
