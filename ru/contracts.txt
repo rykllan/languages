@@ -44,9 +44,23 @@ contract_deadline_fine█Штраф:
 payload_preparing_to_fly█Подготовка к запуску
 
 
+contract_crs█Commercial Resupply Service
+payload_crs█CRS-{0} (ISS Resupply)
 
+contract_ccp█Commercial Crew Program
+payload_ccp█CCP-{0} (ISS Crew)
 
+payload_tintin█Tintin AB (LinkLink Test)
 
+contract_tesla█Starman
+payload_tesla█Tesla Roadster
 
+contract_potato█Dummy Payloads
+payload_potato█Orbital Potato
+
+contract_balwina█meow... Meow... MEOW!!!
+
+contract_technician█Emergency
+payload_technician█Technician
 
 

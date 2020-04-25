@@ -3,23 +3,65 @@
 --- NEW LINES ---
 
 
-File: modules.txt (13)
-Original Translation: module_factory_small█Small
+File: general.txt (2)
+Original Translation: confirm█Are you sure?
 
-File: modules.txt (14)
-Original Translation: module_factory_medium█Medium
+File: general.txt (3)
+Original Translation: confirm_removeVehicle█Do you really want to remove this vehicle?
 
-File: modules.txt (15)
-Original Translation: module_factory_large█Large
+File: general.txt (4)
+Original Translation: confirm_destroyBuilding█Do you really want to destroy this building?
 
-File: modules.txt (16)
-Original Translation: module_factory_giga█Giga
+File: general.txt (5)
+Original Translation: confirm_abortRocket█Do you really want to abort that rocket?
 
-File: vehicles.txt (10)
-Original Translation: vehicles_projects█Projects
+File: general.txt (6)
+Original Translation: confirm_turnExpendable█Do you really want to remove the landing gear? The rocket will burn in the atmosphere after the flight.
 
-File: vehicles.txt (11)
-Original Translation: vehicles_view█View
+File: general.txt (7)
+Original Translation: confirm_exitGame█You leave me now, huh? :(
+
+File: general.txt (8)
+Original Translation: confirm_exitMainMenu█Other games would tell you here, that your unsaved progress will be lost.
+
+File: general.txt (9)
+Original Translation: confirm_deleteSave█Maybe next time you will not bankrupt.
+
+File: contracts.txt (30)
+Original Translation: contract_crs█Commercial Resupply Service
+
+File: contracts.txt (31)
+Original Translation: payload_crs█CRS-{0} (ISS Resupply)
+
+File: contracts.txt (32)
+Original Translation: contract_ccp█Commercial Crew Program
+
+File: contracts.txt (33)
+Original Translation: payload_ccp█CCP-{0} (ISS Crew)
+
+File: contracts.txt (34)
+Original Translation: payload_tintin█Tintin AB (LinkLink Test)
+
+File: contracts.txt (35)
+Original Translation: contract_tesla█Starman
+
+File: contracts.txt (36)
+Original Translation: payload_tesla█Tesla Roadster
+
+File: contracts.txt (37)
+Original Translation: contract_potato█Dummy Payloads
+
+File: contracts.txt (38)
+Original Translation: payload_potato█Orbital Potato
+
+File: contracts.txt (39)
+Original Translation: contract_balwina█meow... Meow... MEOW!!!
+
+File: contracts.txt (40)
+Original Translation: contract_technician█Emergency
+
+File: contracts.txt (41)
+Original Translation: payload_technician█Technician
 
 
 --- CHANGED LINES ---

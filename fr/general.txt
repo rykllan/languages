@@ -3,6 +3,15 @@
 gameSaved█La partie a été sauvegardée automatiquement. Pas de panique !
 gameLoaded█La partie a fini de se charger. Amuse-toi bien !
 
+confirm█Are you sure?
+confirm_removeVehicle█Do you really want to remove this vehicle?
+confirm_destroyBuilding█Do you really want to destroy this building?
+confirm_abortRocket█Do you really want to abort that rocket?
+confirm_turnExpendable█Do you really want to remove the landing gear? The rocket will burn in the atmosphere after the flight.
+confirm_exitGame█You leave me now, huh? :(
+confirm_exitMainMenu█Other games would tell you here, that your unsaved progress will be lost.
+confirm_deleteSave█Maybe next time you will not bankrupt.
+
 yes█Oui
 no█Non
 ok█Ok
@@ -25,6 +34,7 @@ orbit_iss█SSI
 map_settings_linklink_visible█LinkLink Visible
 map_settings_satellites_visible█Satellites Visible
 map_settings_linklink_outline█LinkLink Outline
+
 
 
 

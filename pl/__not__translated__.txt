@@ -6,6 +6,42 @@
 File: contracts.txt (0)
 Original Translation: contracts_header█Missions
 
+File: contracts.txt (30)
+Original Translation: contract_crs█Commercial Resupply Service
+
+File: contracts.txt (31)
+Original Translation: payload_crs█CRS-{0} (ISS Resupply)
+
+File: contracts.txt (32)
+Original Translation: contract_ccp█Commercial Crew Program
+
+File: contracts.txt (33)
+Original Translation: payload_ccp█CCP-{0} (ISS Crew)
+
+File: contracts.txt (34)
+Original Translation: payload_tintin█Tintin AB (LinkLink Test)
+
+File: contracts.txt (35)
+Original Translation: contract_tesla█Starman
+
+File: contracts.txt (36)
+Original Translation: payload_tesla█Tesla Roadster
+
+File: contracts.txt (37)
+Original Translation: contract_potato█Dummy Payloads
+
+File: contracts.txt (38)
+Original Translation: payload_potato█Orbital Potato
+
+File: contracts.txt (39)
+Original Translation: contract_balwina█meow... Meow... MEOW!!!
+
+File: contracts.txt (40)
+Original Translation: contract_technician█Emergency
+
+File: contracts.txt (41)
+Original Translation: payload_technician█Technician
+
 File: levels.txt (66)
 Original Translation: progress_linkLink15█[<color=#81C784>FEATURE</color>] LinkLink (15)
 
