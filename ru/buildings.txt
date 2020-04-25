@@ -9,9 +9,9 @@ building_simpleLP█Простая стартовая площадка
 building_advancedLP█Продвинутая стартовая площадка
 building_megaLP█"Мега-пад"
 
-building_category_all█All
-building_category_factories█Factories
-building_category_hangars█Hangars
+building_category_all█Всё
+building_category_factories█Фабрики
+building_category_hangars█Ангары
 
 buildingSetup_buildingName█Название здания...
 buildingSetup_overview█Обзор
@@ -33,41 +33,41 @@ buildingSetup_manageEmployees█Управление сотрудниками
 
 buildingSetup_destroyBuilding█Снести здание
 
-small_factory█Small Factory
-small_factory_desc█You can build only small modules.
+small_factory█Малая фабрика
+small_factory_desc█Может производить только модули лёгких ракет.
 
-medium_factory█Medium Factory
-medium_factory_desc█You can build only small and medium modules.
+medium_factory█Средняя фабрика
+medium_factory_desc█Может производить только модули лёгких и средних ракет.
 
-large_factory█Large Factory
-large_factory_desc█You can build all kinds of vehicles except Spaceships and Superheavies.
+large_factory█Большая фабрика
+large_factory_desc█Может производить модули всех ракет кроме Superheavy и Spaceship.
 
-giga_factory█Giga Factory
-giga_factory_desc█You can build every kind of vehicles and LinkLink.
+giga_factory█Гигафабрика
+giga_factory_desc█Может производить любые модули и спутники LinkLink.
 
-small_hangar█Small Hangar
-small_hangar_desc█You can store only rockets.
+small_hangar█Малый ангар
+small_hangar_desc█Может хранить только ракеты.
 
-medium_hangar█Medium Hangar
-medium_hangar_desc█You can store only rockets and capsules.
+medium_hangar█Средний ангар
+medium_hangar_desc█Может хранить только ракеты и капсулы.
 
-large_hangar█Large Hangar
-large_hangar_desc█You can store more rockets and capsules.
+large_hangar█Большой ангар
+large_hangar_desc█Может хранить только ракеты и капсулы.
 
-mega_hangar█Mega Hangar
-mega_hangar_desc█You can store only Spaceships and Superheavies.
+mega_hangar█"Мега-ангар"
+mega_hangar_desc█Может хранить только Superheavy и Starship.
 
-office█Office
-office_desc█Office employees are giving you more negotiation power (you can offer higher price at negotiating).
+office█Офис
+office_desc█Офисные работники дают вам больше влияние на переговорах (вы можете предложить более высокую цену при ведении переговоров).
 
-laboratory█Laboratory
-laboratory_desc█Produces skill points.
+laboratory█Лаборатория
+laboratory_desc█Производит очки исследований.
 
-megaLP█Mega Launch Pad
-megaLP_desc█You can launch Spaceships.
+megaLP█"Мега-пад"
+megaLP_desc█Вы можете запускать Spaceship
 
-terminal█LinkLink Terminal
-terminal_desc█Terminals are connecting people on Earth with LinkLinks. More terminals == more users capacity.
+terminal█Терминал LinkLink
+terminal_desc█Терминалы соединяют людей на Земле с помощью спутников LinkLinks. Больше терминалов = больше пропускной способности.
 
 lp_cape█Мыс Канаверал
 lp_vandenberg█Ванденберг
@@ -78,7 +78,5 @@ lp_balkonur█Байконур
 lp_plesetsk█Плесецк
 lp_xichang█Сичан
 lp_rocketComplex█Приватный космодром
-lp_australia█Woomera
-lp_india█Satish Dhawan
-
-
+lp_australia█Вумера
+lp_india█Космический центр им. Сатиша Дхавана
