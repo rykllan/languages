@@ -65,3 +65,4 @@ mdl_stainlesssteel_structure█Каркас из нержавеющей стал
 mdl_cargoUtility█Грузовой отсек,Грузовой модуль Spaceship
 mdl_crewUtility█Пилотируемый отсек,Пилотируемый модуль Spaceship
 mdl_fuelUtility█Топливный отсек,Танкерный модуль Spaceship
+
