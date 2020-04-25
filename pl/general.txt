@@ -36,11 +36,3 @@ map_settings_satellites_visible█Satelity widoczne
 map_settings_linklink_outline█Obramówka LinkLink
 
 
-
-
-
-
-
-
-
-

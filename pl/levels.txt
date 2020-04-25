@@ -80,13 +80,3 @@ progress_linkLinkCapacity25█[<color=#81C784>LinkLink</color>] Wydajność Link
 progress_linkLinkCosts█[<color=#81C784>LinkLink</color>] Koszt LinkLink -25%
 
 
-
-
-
-
-
-
-
-
-
-

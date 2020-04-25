@@ -36,11 +36,3 @@ map_settings_satellites_visible█Видимость спутников
 map_settings_linklink_outline█Контур LinkLink
 
 
-
-
-
-
-
-
-
-

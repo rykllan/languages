@@ -34,5 +34,3 @@ menu_sounds█Sons ?
 menu_language█Langue
 
 
-
-

@@ -63,8 +63,3 @@ cantBuildAdvancedLP█Tu ne peux plus construire de rampes de lancement avancée
 cantBuildMegaLP█Tu ne peux plus construire de méga-rampes de lancement maintenant.
 
 
-
-
-
-
-

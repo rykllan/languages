@@ -170,6 +170,3 @@ news_iss_2011q1_header█La dernière mission de la navette Discovery. Leonardo 
 news_iss_2011q1_content█Aujourd'hui à 14h50, le module Leonardo (PMM) qui se trouve à bord de la navette Discovery, qui est amarrée à la SSI, a été fixé de manière permanente au noeud du module Harmony. &%&%Le module logistique multifonctionnel Leonardo (MPLM) est un grand conteneur hermétique utilisé dans les missions de ravitaillement des navettes à destination et en provenance de la SSI. Après la mission STS-131, Leonardo a été converti en un module multifonctionnel permanent (MPLM). La conversion a permis une connexion permanente à la SSI pour une durée illimitée - ainsi, Leonardo servira d'installation de stockage supplémentaire à la Station spatiale internationale.
 
 
-
-
-

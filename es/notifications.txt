@@ -63,8 +63,3 @@ cantBuildAdvancedLP█No puedes construir plataformas de lanzamiento avanzadas e
 cantBuildMegaLP█No puedes construir mega plataformas de lanzamiento en este momento.
 
 
-
-
-
-
-

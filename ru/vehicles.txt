@@ -125,5 +125,3 @@ creator_spaceshipRocket█Эта ракета может запускать то
 no_module_unlocked█Нет разблокированных модулей.
 
 
-
-

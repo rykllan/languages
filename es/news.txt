@@ -170,6 +170,3 @@ news_iss_2011q1_header█The last mission of the Discovery shuttle. Leonardo joi
 news_iss_2011q1_content█Today at 2:50 p.m., the Leonardo module (PMM) that is on a board of the Discovery shuttle, which is docked to the ISS, was permanently attached to the Harmony module node. &%&%The Leonardo Multifunctional Logistics Module (MPLM) is a large hermetic container used in supply missions of shuttles to and from ISS. After the STS-131 mission, Leonardo was converted into a Permanent Multifunctional Module (PMM). The conversion allowed a permanent connection to the ISS for an unlimited period of time - thus, Leonardo will serve as an additional storage facility at the International Space Station.
 
 
-
-
-

@@ -53,17 +53,7 @@ linkLink_terminalCapacity█Terminal Capacity (Max users)
 linkLink_smallFailure█Some of your LinkLinks stopped working and have been deorbited.
 linkLink_30_deorbited█30% of your LinkLinks have been deorbited because their lifetime has ended.
 
-
 linkLink_welcome_header█LinkLink
 linkLink_welcome_content█Later in EarthX, you will be able to create your own satellite constelation, which will provide cheap internet worldwide.&%&%However to do so, you need to launch 2 test satellites first.&%&%Good luck!
-
-
-
-
-
-
-
-
-
 
 

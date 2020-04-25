@@ -11,5 +11,3 @@ tooltip_skillPoints█Очки исследований
 tooltip_linkLink█LinkLink
 
 
-
-

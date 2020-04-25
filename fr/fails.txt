@@ -37,6 +37,3 @@ fail35█Le carburant était trop chaud dans le réservoir.
 fail36█Note pour plus tard, ne pas coller les étages de la fusée avec de la Patafix
 
 
-
-
-

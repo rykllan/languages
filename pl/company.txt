@@ -58,14 +58,3 @@ company_lossPerYear█Średnia <mark=#E74C3C25>strata</mark> na rok
 company_profitPerYear█Średni <mark=#E74C3C25>przychód</mark> na rok
 
 
-
-
-
-
-
-
-
-
-
-
-

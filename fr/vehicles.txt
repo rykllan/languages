@@ -125,5 +125,3 @@ creator_spaceshipRocket█Cette fusée ne peut porter que les navettes spatiales
 no_module_unlocked█Aucun module n'est déverrouillé.
 
 
-
-

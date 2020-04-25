@@ -3,66 +3,54 @@
 --- NEW LINES ---
 
 
-File: general.txt (2)
-Original Translation: confirm█Are you sure?
-
-File: general.txt (3)
-Original Translation: confirm_removeVehicle█Do you really want to remove this vehicle?
-
-File: general.txt (4)
-Original Translation: confirm_destroyBuilding█Do you really want to destroy this building?
-
-File: general.txt (5)
-Original Translation: confirm_abortRocket█Do you really want to abort that rocket?
-
-File: general.txt (6)
-Original Translation: confirm_turnExpendable█Do you really want to remove the landing gear? The rocket will burn in the atmosphere after the flight.
-
-File: general.txt (7)
-Original Translation: confirm_exitGame█You leave me now, huh? :(
-
-File: general.txt (8)
-Original Translation: confirm_exitMainMenu█Other games would tell you here, that your unsaved progress will be lost.
-
-File: general.txt (9)
-Original Translation: confirm_deleteSave█Maybe next time you will not bankrupt.
-
-File: contracts.txt (30)
-Original Translation: contract_crs█Commercial Resupply Service
-
-File: contracts.txt (31)
-Original Translation: payload_crs█CRS-{0} (ISS Resupply)
-
-File: contracts.txt (32)
-Original Translation: contract_ccp█Commercial Crew Program
-
-File: contracts.txt (33)
-Original Translation: payload_ccp█CCP-{0} (ISS Crew)
-
-File: contracts.txt (34)
-Original Translation: payload_tintin█Tintin AB (LinkLink Test)
-
-File: contracts.txt (35)
-Original Translation: contract_tesla█Starman
-
-File: contracts.txt (36)
-Original Translation: payload_tesla█Tesla Roadster
-
-File: contracts.txt (37)
-Original Translation: contract_potato█Dummy Payloads
-
-File: contracts.txt (38)
-Original Translation: payload_potato█Orbital Potato
-
-File: contracts.txt (39)
-Original Translation: contract_balwina█meow... Meow... MEOW!!!
-
-File: contracts.txt (40)
-Original Translation: contract_technician█Emergency
-
-File: contracts.txt (41)
-Original Translation: payload_technician█Technician
-
 
 --- CHANGED LINES ---
 
+
+File: contracts.txt (30)
+OLD: contract_crs█
+NEW: contract_crs█Commercial Resupply Service
+
+File: contracts.txt (31)
+OLD: payload_crs█
+NEW: payload_crs█CRS-{0} (ISS Resupply)
+
+File: contracts.txt (32)
+OLD: contract_ccp█
+NEW: contract_ccp█Commercial Crew Program
+
+File: contracts.txt (33)
+OLD: payload_ccp█
+NEW: payload_ccp█CCP-{0} (ISS Crew)
+
+File: contracts.txt (34)
+OLD: payload_tintin█
+NEW: payload_tintin█Tintin AB (LinkLink Test)
+
+File: contracts.txt (35)
+OLD: contract_tesla█
+NEW: contract_tesla█Starman
+
+File: contracts.txt (36)
+OLD: payload_tesla█
+NEW: payload_tesla█Tesla Roadster
+
+File: contracts.txt (37)
+OLD: contract_potato█
+NEW: contract_potato█Dummy Payloads
+
+File: contracts.txt (38)
+OLD: payload_potato█
+NEW: payload_potato█Orbital Potato
+
+File: contracts.txt (39)
+OLD: contract_balwina█
+NEW: contract_balwina█meow... Meow... MEOW!!!
+
+File: contracts.txt (40)
+OLD: contract_technician█
+NEW: contract_technician█Emergency
+
+File: contracts.txt (41)
+OLD: payload_technician█
+NEW: payload_technician█Technician

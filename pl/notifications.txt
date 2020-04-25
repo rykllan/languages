@@ -63,8 +63,3 @@ cantBuildAdvancedLP█Nie możesz teraz zbudować zaawansowanego stanowiska.
 cantBuildMegaLP█Nie możesz teraz zbudować mega stanowiska.
 
 
-
-
-
-
-
