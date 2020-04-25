@@ -5,7 +5,7 @@ gameLoaded█Игра была загружена. Веселитесь!
 
 yes█Да
 no█Нет
-ok█Ok
+ok█Ок
 
 enterText█Введите текст...
 
@@ -22,14 +22,6 @@ orbit_meo█MEO
 orbit_geo█GEO
 orbit_iss█МКС
 
-map_settings_linklink_visible█LinkLink Visible
-map_settings_satellites_visible█Satellites Visible
-map_settings_linklink_outline█LinkLink Outline
-
-
-
-
-
-
-
-
+map_settings_linklink_visible█Видимость LinkLink
+map_settings_satellites_visible█Видимость спутников
+map_settings_linklink_outline█Контур LinkLink
