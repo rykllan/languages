@@ -34,7 +34,7 @@ contract_negotiating█Переговоры
 contract_active█Активно
 contract_completed█Завершено
 
-contract_won_status█<color=#64B5F6><b>You won this contract.</b></color>&%<align=\"left\">&%<size=13>You will need to launch these payloads in time, <mark=#64B5F625>starting in {0}</mark>:</size></align>&%&%{1}
+contract_won_status█<color=#64B5F6><b>You won this contract.</b></color>&%<align="left">&%<size=13>You will need to launch these payloads in time, <mark=#64B5F625>starting in {0}</mark>:</size></align>&%&%{1}
 
 
 contract_decline_confirm█Вы точно хотите отказаться от этой сделки?

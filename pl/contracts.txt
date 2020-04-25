@@ -34,7 +34,7 @@ contract_negotiating█Negocjowanie
 contract_active█Aktywne
 contract_completed█Zakończone
 
-contract_won_status█<color=#64B5F6><b>Wygrałeś ten kontrakt.</b></color>&%<align=\"left\">&%<size=13>Musisz wystrzelić ładunki w terminie, <mark=#64B5F625>zaczynając w {0}</mark>:</size></align>&%&%{1}
+contract_won_status█<color=#64B5F6><b>Wygrałeś ten kontrakt.</b></color>&%<align="left">&%<size=13>Musisz wystrzelić ładunki w terminie, <mark=#64B5F625>zaczynając w {0}</mark>:</size></align>&%&%{1}
 
 
 contract_decline_confirm█Czy napewno chcesz odrzucić tę ofertę?
