@@ -120,5 +120,3 @@ creator_vehicleCanGoAnywhere█Эта ракета может отправить
 creator_capsuleRocket█Эта ракета может запускать только корабли.
 creator_spaceshipRocket█Эта ракета может запускать только Spaceship.
 no_module_unlocked█Нет разблокированных модулей.
-
-
