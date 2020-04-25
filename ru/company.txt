@@ -10,7 +10,7 @@ company_overview█Обзор
 company_fundraising█Финансирование
 company_financeHistory█Финансовая история
 company_flightHistory█История запусков
-company_competitionHistory█Competition History
+company_competitionHistory█История конкуренции
 
 fundraising_productionCost█Стоимость производства:
 fundraising_sales█Продажи:
@@ -37,33 +37,22 @@ upgrade_reliability█<b>Надёжность:</b> <color=#81C784>+10%
 upgrade_buildCost█<b>Стоимость произв.:</b> <color=#81C784>-10%
 upgrade_buildTime█<b>Время производства:</b> <color=#81C784>-10%
 
-company_menu_finance█Finance
-company_menu_flights█Flights
-company_menu_competition█Competition
+company_menu_finance█Финансы
+company_menu_flights█Запуски
+company_menu_competition█Конкерунция
 
-company_summary█Finance Summary (Last 10 Years)&%<size=14>Where do you spend most money?
+company_summary█Финансовая сводка (За последние 10 лет)&%<size=14>Где вы тратите больше всего денег?
 
-company_successes█Successes
-company_failures█Failures
-company_flights█Flights
-company_income█Income
-company_outcome█Outcome
-company_balance█Balance
+company_successes█Успешные
+company_failures█Неуспешные
+company_flights█Запуски
+company_income█Доходы
+company_outcome█Затраты
+company_balance█Баланс
 
-company_launches█Launches
-company_construction█Construction
-company_employees█Employees
-company_others█Others
-company_lossPerYear█Average <mark=#E74C3C25>loss</mark> per year
-company_profitPerYear█Average <mark=#E74C3C25>loss</mark> per year
-
-
-
-
-
-
-
-
-
-
-
+company_launches█Запуски
+company_construction█Строительство
+company_employees█Сотрудники
+company_others█Другое
+company_lossPerYear█Средние <mark=#E74C3C25>затраты</mark> за год
+company_profitPerYear█Средние <mark=#E74C3C25>доходы</mark> за год
