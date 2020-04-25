@@ -55,7 +55,7 @@ company_construction█Construction
 company_employees█Employees
 company_others█Others
 company_lossPerYear█Average <mark=#E74C3C25>loss</mark> per year
-company_profitPerYear█Average <mark=#E74C3C25>loss</mark> per year
+company_profitPerYear█Average <mark=#64B5F625>profit</mark> per year
 
 
 
