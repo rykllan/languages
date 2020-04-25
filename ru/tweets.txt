@@ -25,13 +25,11 @@ tweet_land_3█Первая ступень {0} села! Полное видео
 tweet_crash_1█Ну, это было неожиданно. {0} <color=#64B5F6>#earthx</color>
 tweet_crash_2█Наша команда расследует причину взрыва {0}.
 tweet_crash_3█Смотрите, это был не взрыв. Это просто была быстрая незапланированная разборка. {0} <color=#64B5F6>#earthx</color>
-tweet_crash_4█Our team found the issue. It was something with the engine. Shouldn't happen again in our future flights. {0} <color=#64B5F6>#earthx</color>
+tweet_crash_4█Наша команда обнаружила проблему. Что-то было с двигателем. Не должно будет повториться в наших будущих запусках. {0} <color=#64B5F6>#earthx</color>
 
 
-tweet_linklink_first█Sending this tweet through space via LinkLink satellite
-tweet_linklink_worked█Whoa, it worked!!
-tweet_linklink_visible█I wonder if you can see them from Earth <color=#64B5F6>#linklink</color> <color=#64B5F6>#internet</color>
-tweet_linklink_failure█<color=#64B5F6>#linklink</color> We're doing our best. Our technicians are the best in the world! <color=#64B5F6>#failure</color> {0}
-
-
+tweet_linklink_first█Отправляю этот твит через спутниковую систему LinkLink
+tweet_linklink_worked█Вау, это сработало!!
+tweet_linklink_visible█Я удивлюсь, если вы сможете увидеть их с Земли <color=#64B5F6>#linklink</color> <color=#64B5F6>#internet</color> 
+tweet_linklink_failure█<color=#64B5F6>#linklink</color> Мы делаем все, что в наших силах. Наши инженеры - лучшие в мире! <color=#64B5F6>#failure</color> {0}
 
