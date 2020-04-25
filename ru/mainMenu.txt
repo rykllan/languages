@@ -32,5 +32,3 @@ menu_audio█Аудио
 menu_music█Музыка
 menu_sounds█Звуки
 menu_language█Язык
-
-
