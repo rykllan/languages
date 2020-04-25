@@ -1,0 +1,31 @@
+
+
+--- NOT TRANSLATED ---
+
+
+File: contracts.txt (26)
+Original Translation: contract_won_status█<color=#64B5F6><b>You won this contract.</b></color>&%<align="left">&%<size=13>You will need to launch these payloads in time, <mark=#64B5F625>starting in {0}</mark>:</size></align>&%&%{1}
+
+File: fails.txt (20)
+Original Translation: fail22█What goes up, musk crash down.
+
+File: modules.txt (13)
+Original Translation: module_factory_small█Small
+
+File: modules.txt (14)
+Original Translation: module_factory_medium█Medium
+
+File: modules.txt (15)
+Original Translation: module_factory_large█Large
+
+File: modules.txt (16)
+Original Translation: module_factory_giga█Giga
+
+File: vehicles.txt (10)
+Original Translation: vehicles_projects█Projects
+
+File: vehicles.txt (11)
+Original Translation: vehicles_view█View
+
+File: vehicles.txt (31)
+Original Translation: flying█Flying now

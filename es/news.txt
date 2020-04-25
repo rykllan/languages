@@ -117,8 +117,6 @@ news_bankrupt_header12█{2} se ríe del CEO de {0}: "¡Le falta imaginación! �
 
 news_yearsummary_beforeRes_header█¿Cómo les iba a las compañías espaciales en {0}? ¡Gran resumen! 
 news_yearsummary_beforeRes_content█Este año, al igual que los demás, hubo muchas decisiones, eventos y vuelos interesantes. Es increíble que cada vez más compañías espaciales sean... ¡privadas! Esto acelerará mucho el desarrollo de los cohetes.&%&%Aquí hay algunas estadísticas anuales:&%&%<color=#64B5F6>Vuelos</color>:&%{0}&%<color=#64B5F6>Contratos</color>:&%{1}&%<color=#64B5F6>Presupuesto</color>:&%{2}&%Todos estamos esperando los acontecimientos del año que viene. Sabemos que {3} está trabajando actualmente en cohetes reutilizables. Esta empresa es divertida, ¿cómo puedes siquiera aterrizar con un palo metálico? Esto es imposible.
-news_yearsummary_afterRes_header█
-news_yearsummary_afterRes_content█
 
 
 
@@ -170,6 +168,7 @@ news_iss_2010q2_content█The thirty-second flight of the Atlantis shuttle and a
 
 news_iss_2011q1_header█The last mission of the Discovery shuttle. Leonardo joined the ISS.
 news_iss_2011q1_content█Today at 2:50 p.m., the Leonardo module (PMM) that is on a board of the Discovery shuttle, which is docked to the ISS, was permanently attached to the Harmony module node. &%&%The Leonardo Multifunctional Logistics Module (MPLM) is a large hermetic container used in supply missions of shuttles to and from ISS. After the STS-131 mission, Leonardo was converted into a Permanent Multifunctional Module (PMM). The conversion allowed a permanent connection to the ISS for an unlimited period of time - thus, Leonardo will serve as an additional storage facility at the International Space Station.
+
 
 
 

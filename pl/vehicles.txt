@@ -13,6 +13,9 @@ vehicles_newProjectButton█Nowy projekt
 vehicles_newVehicleHeader█Stwórz nowy pojazd
 vehicles_newVehicleButton█Nowy pojazd
 
+vehicles_projects█Projects
+vehicles_view█View
+
 land█Wyląduj
 
 reusedVehicle█Ponowne użycie:
@@ -120,5 +123,6 @@ creator_vehicleCanGoAnywhere█Ten pojazd może lecieć wszędzie, gdzie tylko c
 creator_capsuleRocket█Ta rakieta może wynosić tylko kapsuły.
 creator_spaceshipRocket█Ta rakieta może wynosić tylko statki kosmiczne.
 no_module_unlocked█Żaden moduł nie jest odblokowany.
+
 
 

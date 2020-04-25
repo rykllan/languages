@@ -1,0 +1,37 @@
+
+
+--- NOT TRANSLATED ---
+
+
+File: contracts.txt (0)
+Original Translation: contracts_header█Missions
+
+File: levels.txt (66)
+Original Translation: progress_linkLink15█[<color=#81C784>FEATURE</color>] LinkLink (15)
+
+File: levels.txt (67)
+Original Translation: progress_linkLink30█[<color=#81C784>FEATURE</color>] LinkLink (30)
+
+File: levels.txt (68)
+Original Translation: progress_linkLink60█[<color=#81C784>FEATURE</color>] LinkLink (60)
+
+File: modules.txt (13)
+Original Translation: module_factory_small█Small
+
+File: modules.txt (14)
+Original Translation: module_factory_medium█Medium
+
+File: modules.txt (15)
+Original Translation: module_factory_large█Large
+
+File: modules.txt (16)
+Original Translation: module_factory_giga█Giga
+
+File: vehicles.txt (10)
+Original Translation: vehicles_projects█Projects
+
+File: vehicles.txt (11)
+Original Translation: vehicles_view█View
+
+File: vehicles.txt (31)
+Original Translation: flying█Flying now

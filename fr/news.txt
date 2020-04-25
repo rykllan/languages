@@ -117,8 +117,6 @@ news_bankrupt_header12█{2} se moque du PDG de {0} : "1} manque d'imagination !
 
 news_yearsummary_beforeRes_header█Comment se portaient les entreprises spatiales à {0} ? Grand résumé !
 news_yearsummary_beforeRes_content█Cette année, ainsi que les autres, a apporté beaucoup de décisions, d'événements et de vols intéressants ! C'est incroyable que de plus en plus de compagnies spatiales soient... privées ! Cela va beaucoup accélérer le développement des fusées.&%&%Voici quelques statistiques annuelles:&%&%<color=#64B5F6>Vols</color>:&%{0}&%<color=#64B5F6>Contrats</color>:&%{1}&%<color=#64B5F6>Budget</color>:&%{2}&%Nous attendons tous les événements de l'année prochaine. Nous savons que {3} travaille actuellement sur des fusées réutilisables. Cette compagnie est drôle, comment peut-on atterrir avec un bâton en métal ? C'est impossible.
-news_yearsummary_afterRes_header█
-news_yearsummary_afterRes_content█
 
 
 
@@ -170,6 +168,7 @@ news_iss_2010q2_content█Le trente-deuxième vol de la navette Atlantis et déj
 
 news_iss_2011q1_header█La dernière mission de la navette Discovery. Leonardo a rejoint la SSI.
 news_iss_2011q1_content█Aujourd'hui à 14h50, le module Leonardo (PMM) qui se trouve à bord de la navette Discovery, qui est amarrée à la SSI, a été fixé de manière permanente au noeud du module Harmony. &%&%Le module logistique multifonctionnel Leonardo (MPLM) est un grand conteneur hermétique utilisé dans les missions de ravitaillement des navettes à destination et en provenance de la SSI. Après la mission STS-131, Leonardo a été converti en un module multifonctionnel permanent (MPLM). La conversion a permis une connexion permanente à la SSI pour une durée illimitée - ainsi, Leonardo servira d'installation de stockage supplémentaire à la Station spatiale internationale.
+
 
 
 

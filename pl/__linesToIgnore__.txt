@@ -1,0 +1,16 @@
+ok
+orbit_leo
+orbit_meo
+orbit_geo
+building_hangar
+mega_hangar
+lp_cape
+lp_vandenberg
+lp_guiana
+lp_balkonur
+lp_plesetsk
+lp_xichang
+lp_australia
+lp_india
+fail22
+

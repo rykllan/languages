@@ -57,3 +57,14 @@ company_others█Другое
 company_lossPerYear█Средние <mark=#E74C3C25>затраты</mark> за год
 company_profitPerYear█Средние <mark=#E74C3C25>доходы</mark> за год
 
+
+
+
+
+
+
+
+
+
+
+

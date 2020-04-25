@@ -33,3 +33,6 @@ tweet_linklink_worked█Вау, это сработало!!
 tweet_linklink_visible█Я удивлюсь, если вы сможете увидеть их с Земли <color=#64B5F6>#linklink</color> <color=#64B5F6>#internet</color> 
 tweet_linklink_failure█<color=#64B5F6>#linklink</color> Мы делаем все, что в наших силах. Наши инженеры - лучшие в мире! <color=#64B5F6>#failure</color> {0}
 
+
+
+

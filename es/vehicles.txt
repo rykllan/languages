@@ -13,6 +13,9 @@ vehicles_newProjectButton█Nuevo proyecto
 vehicles_newVehicleHeader█Crear nuevo vehículo
 vehicles_newVehicleButton█Nuevo vehículo
 
+vehicles_projects█Projects
+vehicles_view█View
+
 land█Aterrizaje
 
 reusedVehicle█Vehículo reutilizado:
@@ -120,5 +123,6 @@ creator_vehicleCanGoAnywhere█Éste vehículo puede ir a donde quieras.
 creator_capsuleRocket█This rocket can carry only the capsules.
 creator_spaceshipRocket█This rocket can carry only the spaceships.
 no_module_unlocked█Ningún módulo está desbloqueado.
+
 
 

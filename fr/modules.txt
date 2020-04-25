@@ -13,37 +13,59 @@ type_parachutes█Parachutes
 type_sensors█Capteurs
 type_antenna█Antenne
 type_utility█Utility
+
+module_factory_small█Small
+module_factory_medium█Medium
+module_factory_large█Large
+module_factory_giga█Giga
+
 ---Engines---█---Moteurs---
+
 mdl_s_engine█Moteur simple,nécessaire pour les petites fusées.
 mdl_a_engine█Moteur avancé,nécessaire pour les fusées moyennes.
 mdl_a4_engine█4 moteurs avancés,nécessaires pour les fusées à atterrissage manuel.
 mdl_a9_engine█9 moteurs avancés,nécessaires pour les fusées d'atterrissage de grande taille/automatiques.
 mdl_m27_engine█ 37 moteurs au méthane,nécessaires pour les très grosses fusées. (Superheavy Boi)
+
+
 ---FuelTanks---█---Réservoirs à carburant---
+
 mdl_s_fueltank█Petit réservoir,nécessaire pour les petites fusées.
 mdl_m_fueltank█Réservoir moyen,nécessaire pour les fusées à capsule moyenne.
 mdl_l_fueltank█Grand réservoir,nécessaire pour les fusées de grande taille/atterrantes.
 mdl_vl_fueltank█Super réservoir,nécessaire pour les très grandes fusées ou les navettes spatiales. (Superheavy Boi)
+
+
 ---Computers---█---Ordinateurs---
+
 mdl_s_computer█Ordinateur simple,nécessaire pour les petites et moyennes fusées.
 mdl_a_computer█Ordinateur avancé,nécessaire pour les fusées de grande taille/à capsule/à atterrissage.
 mdl_sn_computer█Ordinateur Skynet,nécessaire pour les fusées de très grande taille ou les fusées spatiales.
 mdl_s_battery█Petite batterie,nécessaire pour l'atterrissage manuel/les fusées-capsules.
 mdl_a_battery█Batterie avancée,nécessaire pour les fusées automatiques d'atterrissage/capsules/navettes spatiales.
 mdl_gps█GPS,nécessaire pour les capsules et les fusées d'atterrissage.
+
+
 ---Fairings---█---Coiffes---
+
 mdl_s_fairings█Petite coiffe,nécessaire pour les petites fusées.
 mdl_m_fairings█Coiffe moyenne,nécessaire pour les fusées moyennes.
 mdl_l_fairings█Grande coiffe,nécessaire pour les grosses fusées.
 mdl_vc_fairings█Connecteur de véhicule,nécessaire pour les fusées à capsule/navettes spatiales.
 mdl_fairingParachutes█Parachutes de la coiffe,une fusée réutilisable est nécessaire pour récupérer les coiffes.
+
+
 ---Landing Stuff---█---Modules d'atterrissage---
+
 mdl_a_gridfins█Ailettes en grille en aluminium,nécessaires pour les fusées à atterrissage manuel.
 mdl_t_gridfins█Ailettes en grille en titane,nécessaires pour les fusées à atterrissage automatique.
 mdl_m_landingLegs█Pieds d'atterrissage manuel,requis pour les fusées d'atterrissage manuel.
 mdl_a_landingLegs█Pieds d'atterrissage automatique,requis pour les fusées à atterrissage automatique.
 mdl_booster_connector█Connecteur de propulseurs,nécessaire pour les fusées à propulseur latéral. (Falcon Heavy Boi)
+
+
 ---Capsule Stuff---█--Modules de capsule---
+
 mdl_light_structure█Corps léger,nécessaire pour les capsules de cargaison.
 mdl_heavy_structure█Corps lourd,nécessaire pour les capsules d'équipage.
 mdl_chip_computer█Puce d'ordinateur,nécessaire pour les capsules.
@@ -65,6 +87,5 @@ mdl_stainlesssteel_structure█Corps en acier inoxydable,nécessaire pour les na
 mdl_cargoUtility█Cargo Utility,Cargo Spaceship Module
 mdl_crewUtility█Crew Utility,Crew Spaceship Module
 mdl_fuelUtility█Fuel Utility,Tanker Spaceship
-
 
 

@@ -13,6 +13,9 @@ vehicles_newProjectButton█Новый проект
 vehicles_newVehicleHeader█Создать новую ракету
 vehicles_newVehicleButton█Новая ракета
 
+vehicles_projects█Projects
+vehicles_view█View
+
 land█Посадить
 
 reusedVehicle█Повт. исп. ракета:
@@ -120,4 +123,6 @@ creator_vehicleCanGoAnywhere█Эта ракета может отправить
 creator_capsuleRocket█Эта ракета может запускать только корабли.
 creator_spaceshipRocket█Эта ракета может запускать только Spaceship.
 no_module_unlocked█Нет разблокированных модулей.
+
+
 

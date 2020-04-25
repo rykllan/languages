@@ -43,3 +43,10 @@ contract_deadline_fine█Штраф:
 
 payload_preparing_to_fly█Подготовка к запуску
 
+
+
+
+
+
+
+

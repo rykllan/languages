@@ -10,3 +10,5 @@ tooltip_money█Бюджет
 tooltip_skillPoints█Очки исследований
 tooltip_linkLink█LinkLink
 
+
+

@@ -117,8 +117,6 @@ news_bankrupt_header12█{2} naśmiewa się z prezesa {0}: “Brak mu wyobraźni
 
 news_yearsummary_beforeRes_header█Statystyki z sektora kosmicznego na rok {0}!
 news_yearsummary_beforeRes_content█W tym roku, podobnie jak i w innych, podjęto wiele ciekawych decyzji, wydarzeń i lotów! To niesamowite, że coraz więcej firm kosmicznych jest.... prywatnych! Przyspieszy to znacznie rozwój całego sektora kosmicznego.&%&%Tutaj kilka statystyk z poprzedniego roku:&%&%<color=#64B5F6>Loty</color>:&%{0}&%&%<color=#64B5F6>Wygrane Kontrakty</color>:&%{1}&%&%<color=#64B5F6>Finanse</color>:&%{2}&%&%Wszyscy czekamy na kolejne ciekawe wydarzenia. Wiemy, że firma {3} aktualnie pracuje nad rakietami wielokrotnego użytku. Ta firma jest śmieszna. Jak w ogóle chcesz wylądować metalową parówką? To jest niemożliwe.
-news_yearsummary_afterRes_header█
-news_yearsummary_afterRes_content█
 
 
 
@@ -170,6 +168,7 @@ news_iss_2010q2_content█Trzydziesty drugi lot promu Atlantis i już sto trzydz
 
 news_iss_2011q1_header█Ostatnia misja wahadłowca Discovery. Leonardo dołączony do ISS.
 news_iss_2011q1_content█Dziś o godzinie 14:50 moduł Leonardo (PMM) znajdujący się na pokładzie wahadłowca Discovery zacumowanego do ISS został na stałe przymocowany do węzła modułu Harmony. &%&%Wielofunkcyjny Moduł Logistyczny (MPLM) Leonardo to duży hermetyczny kontener używany w misjach zaopatrzeniowych wahadłowców do przewozu ładunków do i z ISS. Po misji STS-131 Leonardo został przebudowany w Stały Moduł Wielofunkcyjny (PMM). Przebudowa pozwoliła na stałe połączenie z ISS przez nieograniczony czas - tym samym Leonardo będzie pełnił funkcję dodatkowego magazynu na Międzynarodowej Stacji Kosmicznej.
+
 
 
 

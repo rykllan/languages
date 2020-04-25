@@ -1,6 +1,6 @@
 
 
---- NEW LINES ---
+--- NOT TRANSLATED ---
 
 
 File: general.txt (4)
@@ -14,6 +14,9 @@ Original Translation: map_settings_satellites_visible█Satellites Visible
 
 File: general.txt (19)
 Original Translation: map_settings_linklink_outline█LinkLink Outline
+
+File: buildings.txt (0)
+Original Translation: building█Building
 
 File: buildings.txt (8)
 Original Translation: building_category_all█All
@@ -72,11 +75,20 @@ Original Translation: mega_hangar█Mega Hangar
 File: buildings.txt (40)
 Original Translation: mega_hangar_desc█You can store only Spaceships and Superheavies.
 
+File: buildings.txt (41)
+Original Translation: office█Office
+
 File: buildings.txt (42)
 Original Translation: office_desc█Office employees are giving you more negotiation power (you can offer higher price at negotiating).
 
+File: buildings.txt (43)
+Original Translation: laboratory█Laboratory
+
 File: buildings.txt (44)
 Original Translation: laboratory_desc█Produces skill points.
+
+File: buildings.txt (45)
+Original Translation: megaLP█Mega Launch Pad
 
 File: buildings.txt (46)
 Original Translation: megaLP_desc█You can launch Spaceships.
@@ -95,6 +107,12 @@ Original Translation: lp_india█Satish Dhawan
 
 File: company.txt (9)
 Original Translation: company_competitionHistory█Competition History
+
+File: company.txt (21)
+Original Translation: company_progressNextLevel█Next Level
+
+File: company.txt (22)
+Original Translation: company_progressPreviousLevel█Previous Level
 
 File: company.txt (32)
 Original Translation: company_menu_finance█Finance
@@ -141,8 +159,8 @@ Original Translation: company_others█Others
 File: company.txt (46)
 Original Translation: company_lossPerYear█Average <mark=#E74C3C25>loss</mark> per year
 
-File: company.txt (47)
-Original Translation: company_profitPerYear█Average <mark=#E74C3C25>loss</mark> per year
+File: contracts.txt (0)
+Original Translation: contracts_header█Missions
 
 File: contracts.txt (1)
 Original Translation: contracts_menu_payloads█Payloads
@@ -178,7 +196,7 @@ File: contracts.txt (25)
 Original Translation: contract_completed█Completed
 
 File: contracts.txt (26)
-Original Translation: contract_won_status█<color=#64B5F6><b>You won this contract.</b></color>&%<align=\"left\">&%<size=13>You will need to launch these payloads in time, <mark=#64B5F625>starting in {0}</mark>:</size></align>&%&%{1}
+Original Translation: contract_won_status█<color=#64B5F6><b>You won this contract.</b></color>&%<align="left">&%<size=13>You will need to launch these payloads in time, <mark=#64B5F625>starting in {0}</mark>:</size></align>&%&%{1}
 
 File: contracts.txt (27)
 Original Translation: contract_decline_confirm█Do you really want to decline this offer?
@@ -189,6 +207,18 @@ Original Translation: contract_deadline_fine█Fine:
 File: contracts.txt (29)
 Original Translation: payload_preparing_to_fly█Preparing to fly
 
+File: fails.txt (20)
+Original Translation: fail22█What goes up, musk crash down.
+
+File: levels.txt (34)
+Original Translation: progress_buildFactories█Build {0} factorie(s)!
+
+File: levels.txt (35)
+Original Translation: progress_buildOffices█Build {0} office(s)!
+
+File: levels.txt (36)
+Original Translation: progress_buildLaboratories█Build {0} laboratorie(s)!
+
 File: levels.txt (42)
 Original Translation: progress_launchLinkLinks█Launch LinkLinks: {0}
 
@@ -197,6 +227,21 @@ Original Translation: progress_reachLinkLinkUsers█LinkLink users: {0}
 
 File: levels.txt (44)
 Original Translation: progress_hireEmployees█Hire employees: {0}
+
+File: levels.txt (46)
+Original Translation: progress_multiplePayloads█[<color=#81C784>FEATURE</color>] Launch many payloads at once!
+
+File: levels.txt (47)
+Original Translation: progress_fundraiserHats█[<color=#FF9F43>FUNDRAISING</color>] Sell hats!
+
+File: levels.txt (48)
+Original Translation: progress_fundraiserBricks█[<color=#FF9F43>FUNDRAISING</color>] Sell bricks!
+
+File: levels.txt (49)
+Original Translation: progress_fundraiserNAF█[<color=#FF9F43>FUNDRAISING</color>] Sell (not) flamethrowers!
+
+File: levels.txt (50)
+Original Translation: progress_fundraiserRocketquilla█[<color=#FF9F43>FUNDRAISING</color>] Sell rocketquillas!
 
 File: levels.txt (56)
 Original Translation: progress_smallFactory█[<color=#E74C3C>BUILDING</color>] Small Factory
@@ -224,6 +269,9 @@ Original Translation: progress_megaHangar█[<color=#E74C3C>BUILDING</color>] Me
 
 File: levels.txt (64)
 Original Translation: progress_linkLinkTerminal█[<color=#E74C3C>BUILDING</color>] LinkLink Terminal
+
+File: levels.txt (65)
+Original Translation: progress_megaLaunchPad█[<color=#E74C3C>BUILDING</color>] Mega Launch Pad
 
 File: levels.txt (66)
 Original Translation: progress_linkLink15█[<color=#81C784>FEATURE</color>] LinkLink (15)
@@ -298,7 +346,7 @@ File: linklink.txt (17)
 Original Translation: linkLink_production█Production
 
 File: linklink.txt (18)
-Original Translation: linkLink_100_required█You need at least <color=#64B5F6><b>100</b></color> LinkLinks in order to 
+Original Translation: linkLink_100_required█You need at least <color=#64B5F6><b>100</b></color> LinkLinks in order to run the service.
 
 File: linklink.txt (19)
 Original Translation: linkLink_run█Run LinkLink
@@ -308,9 +356,6 @@ Original Translation: linkLink_customerPrice█Customer price (per month)
 
 File: linklink.txt (21)
 Original Translation: linkLink_customersHistory█Customers History
-
-File: linklink.txt (22)
-Original Translation: linkLink_serviceDown█LinkLink services down. Technicians are working on fixing this. 
 
 File: linklink.txt (23)
 Original Translation: linkLink_build█Build LinkLink
@@ -339,29 +384,44 @@ Original Translation: linkLink_smallFailure█Some of your LinkLinks stopped wor
 File: linklink.txt (31)
 Original Translation: linkLink_30_deorbited█30% of your LinkLinks have been deorbited because their lifetime has ended.
 
-File: linklink.txt (32)
-Original Translation: linkLink_welcome_header█LinkLink
-
 File: linklink.txt (33)
 Original Translation: linkLink_welcome_content█Later in EarthX, you will be able to create your own satellite constelation, which will provide cheap internet worldwide.&%&%However to do so, you need to launch 2 test satellites first.&%&%Good luck!
 
-File: modules.txt (12)
-Original Translation: type_utility█Utility
+File: modules.txt (13)
+Original Translation: module_factory_small█Small
 
-File: modules.txt (61)
+File: modules.txt (14)
+Original Translation: module_factory_medium█Medium
+
+File: modules.txt (15)
+Original Translation: module_factory_large█Large
+
+File: modules.txt (16)
+Original Translation: module_factory_giga█Giga
+
+File: modules.txt (40)
+Original Translation: mdl_fairingParachutes█Fairing Parachutes,Reusable rocket is required to recover the fairings.
+
+File: modules.txt (65)
 Original Translation: mdl_cargoUtility█Cargo Utility,Cargo Spaceship Module
 
-File: modules.txt (62)
+File: modules.txt (66)
 Original Translation: mdl_crewUtility█Crew Utility,Crew Spaceship Module
 
-File: modules.txt (63)
+File: modules.txt (67)
 Original Translation: mdl_fuelUtility█Fuel Utility,Tanker Spaceship
+
+File: notifications.txt (25)
+Original Translation: noHangars█You can't store this vehicle because there's no space in your hangar or you need to build a <color=#64B5F6>{0}</color> in order to store that {1}.
 
 File: notifications.txt (26)
 Original Translation: noFactories█{0} can't be built because you need a {2} to be able to build {1} modules.
 
-File: tooltips.txt (8)
-Original Translation: tooltip_linkLink█LinkLink
+File: tooltips.txt (2)
+Original Translation: tooltip_contracts█Missions
+
+File: tweets.txt (17)
+Original Translation: tweet_crash_4█Our team found the issue. It was something with the engine. Shouldn't happen again in our future flights. {0} <color=#64B5F6>#earthx</color>
 
 File: tweets.txt (18)
 Original Translation: tweet_linklink_first█Sending this tweet through space via LinkLink satellite
@@ -374,3 +434,18 @@ Original Translation: tweet_linklink_visible█I wonder if you can see them from
 
 File: tweets.txt (21)
 Original Translation: tweet_linklink_failure█<color=#64B5F6>#linklink</color> We're doing our best. Our technicians are the best in the world! <color=#64B5F6>#failure</color> {0}
+
+File: vehicles.txt (10)
+Original Translation: vehicles_projects█Projects
+
+File: vehicles.txt (11)
+Original Translation: vehicles_view█View
+
+File: vehicles.txt (19)
+Original Translation: inQueue█In queue&%<size=14><b><color=#64B5F6>Module will be built in a moment
+
+File: vehicles.txt (31)
+Original Translation: flying█Flying now
+
+File: vehicles.txt (55)
+Original Translation: launchSetup_barge█Barge

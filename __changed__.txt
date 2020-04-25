@@ -1,0 +1,26 @@
+
+
+--- NEW LINES ---
+
+
+File: modules.txt (13)
+Original Translation: module_factory_small█Small
+
+File: modules.txt (14)
+Original Translation: module_factory_medium█Medium
+
+File: modules.txt (15)
+Original Translation: module_factory_large█Large
+
+File: modules.txt (16)
+Original Translation: module_factory_giga█Giga
+
+File: vehicles.txt (10)
+Original Translation: vehicles_projects█Projects
+
+File: vehicles.txt (11)
+Original Translation: vehicles_view█View
+
+
+--- CHANGED LINES ---
+
