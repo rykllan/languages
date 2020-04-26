@@ -3,5 +3,9 @@ orbit_geo
 levelTitle19
 spaceship
 superheavy
+module_factory_small
+module_factory_medium
+module_factory_large
+module_factory_giga
 
 
