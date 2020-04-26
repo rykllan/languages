@@ -1,6 +1,6 @@
 
 
-contracts_header█Missions
+contracts_header█Misje
 
 contracts_menu_payloads█Ładunki
 contracts_menu_contracts█Kontrakty
@@ -45,22 +45,22 @@ payload_preparing_to_fly█Przygotowywanie do lotu
 
 
 contract_crs█Commercial Resupply Service
-payload_crs█CRS-{0} (ISS Resupply)
+payload_crs█CRS-{0} (Dostawa MSK)
 
 contract_ccp█Commercial Crew Program
-payload_ccp█CCP-{0} (ISS Crew)
+payload_ccp█CCP-{0} (Załoga MSK)
 
 payload_tintin█Tintin AB (LinkLink Test)
 
 contract_tesla█Starman
 payload_tesla█Tesla Roadster
 
-contract_potato█Dummy Payloads
+contract_potato█Testowy ładunek
 payload_potato█Orbital Potato
 
-contract_balwina█meow... Meow... MEOW!!!
+contract_balwina█miał... Miał... MIAŁ!!!
 
-contract_technician█Emergency
-payload_technician█Technician
+contract_technician█Nagły wypadek
+payload_technician█Technik
 
 
