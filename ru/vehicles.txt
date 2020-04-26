@@ -13,8 +13,8 @@ vehicles_newProjectButton█Новый проект
 vehicles_newVehicleHeader█Создать новую ракету
 vehicles_newVehicleButton█Новая ракета
 
-vehicles_projects█Projects
-vehicles_view█View
+vehicles_projects█Проекты
+vehicles_view█Просмотр
 
 land█Посадить
 
@@ -40,7 +40,7 @@ condition█Состояние
 notBuiltYet█Ещё не произведено
 constructing█Производство...
 repairing█Ремонт...
-flying█Flying now
+flying█В полёте
 dockedToISS█Пристыковано к МКС (скоро вернётся)
 
 reusable█Многоразовая
