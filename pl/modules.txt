@@ -14,9 +14,9 @@ type_sensors█Sensor
 type_antenna█Antena
 type_utility█Typ
 
-module_factory_small█Small
-module_factory_medium█Medium
-module_factory_large█Large
+module_factory_small█Mały
+module_factory_medium█Średni
+module_factory_large█Duży
 module_factory_giga█Giga
 
 ---Engines---█---Engines---
