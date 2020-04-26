@@ -34,7 +34,7 @@ contract_negotiating█Переговоры
 contract_active█Активно
 contract_completed█Завершено
 
-contract_won_status█<color=#64B5F6><b>You won this contract.</b></color>&%<align="left">&%<size=13>You will need to launch these payloads in time, <mark=#64B5F625>starting in {0}</mark>:</size></align>&%&%{1}
+contract_won_status█<color=#64B5F6><b>Вы выиграли этот контракт.</b></color>&%<align="left">&%<size=13>Вы должны запустить эти нагрузки, <mark=#64B5F625>начиная с {0}</mark>:</size></align>&%&%{1}
 
 
 contract_decline_confirm█Вы точно хотите отказаться от этой сделки?
@@ -45,22 +45,22 @@ payload_preparing_to_fly█Подготовка к запуску
 
 
 contract_crs█Commercial Resupply Service
-payload_crs█CRS-{0} (ISS Resupply)
+payload_crs█CRS-{0} (Снабжение МКС)
 
 contract_ccp█Commercial Crew Program
-payload_ccp█CCP-{0} (ISS Crew)
+payload_ccp█CCP-{0} (Экипаж МКС)
 
 payload_tintin█Tintin AB (LinkLink Test)
 
 contract_tesla█Starman
 payload_tesla█Tesla Roadster
 
-contract_potato█Dummy Payloads
-payload_potato█Orbital Potato
+contract_potato█Макет нагрузки
+payload_potato█Орбитальный картофель
 
-contract_balwina█meow... Meow... MEOW!!!
+contract_balwina█мяу... Мяу... МЯУ!!!
 
-contract_technician█Emergency
-payload_technician█Technician
+contract_technician█Чрезвычайная ситуация
+payload_technician█Инженер
 
 
