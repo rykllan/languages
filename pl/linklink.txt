@@ -9,7 +9,7 @@ linkLink_tintin_content█Dzisiejszy start rakiety przejdzie do historii. Na jej
 
 
 linkLink_terminals_header█Budowa tajemniczych anten {0} zakończona.
-linkLink_terminals_content█W pobliżu największych miast na świecie stanęły tajemnicze, okrągłe  konstrukcje. Jak udało nam się ustalić, są to anteny odpowiedzialne za komunikację z konstelacjami satelit LinkLink. &%&%Start usługi już wkrótce?
+linkLink_terminals_content█W pobliżu największych miast na świecie stanęły tajemnicze okrągłe  konstrukcje. Jak udało nam się ustalić, są to anteny odpowiedzialne za komunikację z konstelacjami satelit LinkLink. &%&%Start usługi już wkrótce?
 
 
 linkLink_run_header█Pierwsi użytkownicy rozpoczęli testy internetu LinkLink!
