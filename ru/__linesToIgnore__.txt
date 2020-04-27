@@ -4,9 +4,7 @@ levelTitle19
 spaceship
 superheavy
 contract_crs
-payload_crs
 contract_ccp
-payload_ccp
 payload_tintin
 contract_tesla
 payload_tesla
