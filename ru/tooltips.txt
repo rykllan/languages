@@ -1,7 +1,7 @@
 
 
 tooltip_companyProgress█Прогресс компании
-tooltip_vehicles█Ракеты
+tooltip_vehicles█Проекты
 tooltip_contracts█Миссии
 tooltip_news█Новости
 tooltip_company█Компания
