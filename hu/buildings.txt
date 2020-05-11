@@ -1,0 +1,85 @@
+
+
+building█Building
+building_office█Iroda
+building_factory█Gyár
+building_laboratory█Laboratórium
+building_hangar█Hangár
+building_simpleLP█Egyszerű kilövőállomás
+building_advancedLP█Fejlett kilövőállomás
+building_megaLP█Mega kilövőállomás
+
+building_category_all█All
+building_category_factories█Factories
+building_category_hangars█Hangars
+
+buildingSetup_buildingName█Épület neve...
+buildingSetup_overview█Áttekintés
+buildingSetup_setup█Beállítás
+buildingSetup_billsCurrentQuarter█Aktuális negyedév számlái
+
+buildingSetup_nowWorkingOn█Most ezen dolgozik:
+buildingSetup_queue█Sor
+
+buildingSetup_negotiationPowerEachEmployee█Alkalmazottak tárgyalási ereje
+buildingSetup_negotiationPowerBuilding█Épületek tárgyalási ereje
+buildingSetup_oneEmployee█Egy alkalmazott
+buildingSetup_negotiationPower█Tárgyalási erő
+
+buildingSetup_vehicleStored█Eltárolt járművek
+
+buildingSetup_employees█<size=14>{0} alkalmazott</size>&%{1} <color=#16A085>$</color> / év&%<size=14>{2} <color=#16A085>$</color> / fejenként
+buildingSetup_manageEmployees█Alkalmazottak kezelése
+
+buildingSetup_destroyBuilding█Épület megsemmisítése
+
+small_factory█Small Factory
+small_factory_desc█You can build only small modules.
+
+medium_factory█Medium Factory
+medium_factory_desc█You can build only small and medium modules.
+
+large_factory█Large Factory
+large_factory_desc█You can build all kinds of vehicles except Spaceships and Superheavies.
+
+giga_factory█Giga Factory
+giga_factory_desc█You can build every kind of vehicles and LinkLink.
+
+small_hangar█Small Hangar
+small_hangar_desc█You can store only rockets.
+
+medium_hangar█Medium Hangar
+medium_hangar_desc█You can store only rockets and capsules.
+
+large_hangar█Large Hangar
+large_hangar_desc█You can store more rockets and capsules.
+
+mega_hangar█Mega Hangar
+mega_hangar_desc█You can store only Spaceships and Superheavies.
+
+office█<b><color=#FF9F43>Iroda</color></b>&%<size=13>Irodai alkalmazottak felvételével magasabb tárgyalási erőhöz juthatsz a szerződések ablakban.</size>&%745 000 <color=#16A085>$
+office_desc█Office employees are giving you more negotiation power (you can offer higher price at negotiating).
+
+laboratory█<b><color=#FF9F43>Laboratórium</color></b>&%<size=13>Képességpontok szerzése modulok feloldásához és fejlesztésekhez.</size>&%715 000 <color=#16A085>$
+laboratory_desc█Produces skill points.
+
+megaLP█<b><color=#FF9F43>Mega kilövőállomás</color></b>&%<size=13>Csak nagyon nagy rakétákat lőhetsz ki. (Csillaghajóknál szupernehezet :o)</size>&%580 000 000 <color=#16A085>$
+megaLP_desc█You can launch Spaceships.
+
+terminal█LinkLink Terminal
+terminal_desc█Terminals are connecting people on Earth with LinkLinks. More terminals == more users capacity.
+
+lp_cape█Cape Canaveral
+lp_vandenberg█Vandenberg
+lp_pacificSpaceport█Pacific Spaceport
+lp_guiana█Guiana
+lp_midAtlanticSpaceport█Atlantic Spaceport
+lp_balkonur█Baikonur
+lp_plesetsk█Plesetsk
+lp_xichang█Xichang
+lp_rocketComplex█Private Spaceport
+lp_australia█Woomera
+lp_india█Satish Dhawan
+
+
+

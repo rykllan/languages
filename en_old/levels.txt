@@ -80,12 +80,3 @@ progress_linkLinkCapacity25█[<color=#81C784>LinkLink</color>] LinkLink Capacit
 progress_linkLinkCosts█[<color=#81C784>LinkLink</color>] LinkLink Production Costs -25%
 
 
-
-
-
-
-
-
-
-
-

@@ -1,0 +1,39 @@
+
+
+gameSaved█A játék automatikusan elmentésre került, ne aggódj!
+gameLoaded█A játék betöltésre került. Jó szórakozást!
+
+confirm█Biztos vagy benne?
+confirm_removeVehicle█Biztosan el akarod távolítani ezt a járművet?
+confirm_destroyBuilding█Biztosan meg akarod semmisíteni ezt az épületet?
+confirm_abortRocket█Do you really want to abort that rocket?
+confirm_turnExpendable█Do you really want to remove the landing gear? The rocket will burn in the atmosphere after the flight.
+confirm_exitGame█Máris elmész, mi? :(
+confirm_exitMainMenu█Other games would tell you here, that your unsaved progress will be lost.
+confirm_deleteSave█Talán legközelebb nem kerülsz csődbe.
+
+yes█Igen
+no█Nem
+ok█Ok
+
+enterText█Szöveg beírása...
+
+notification█Értesítés
+
+payload_size_verySmall█Nagyon kicsi
+payload_size_small█Kicsi
+payload_size_medium█Közepes
+payload_size_large█Nagy
+payload_size_veryLarge█Nagyon nagy
+orbit_so█Szuborbit
+orbit_leo█LEO
+orbit_meo█MEO
+orbit_geo█GEO
+orbit_iss█ISS
+
+map_settings_linklink_visible█LinkLink Visible
+map_settings_satellites_visible█Satellites Visible
+map_settings_linklink_outline█LinkLink Outline
+
+
+

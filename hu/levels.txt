@@ -1,0 +1,83 @@
+
+
+levelTitle0█Vállalat regisztrálva
+levelTitle1█Startup
+levelTitle2█"Amikor valami elég fontos, még akkor is megteszed, ha a kevés rá az esélyed." - Elon Musk
+levelTitle3█"M" mint médium
+levelTitle4█"Végignézhetném, ahogy megtörténik, vagy akár a részese is lehetnék." - Elon Musk
+levelTitle5█"A kitartás nagyon fontos. Sose add fel, hacsak nem kényszerítenek rá." - Elon Musk
+levelTitle6█Beszállító
+levelTitle7█Felgyorsítás
+levelTitle8█Webcast
+levelTitle9█Ne felejts el leszállni
+levelTitle10█A számítógépek ereje
+levelTitle11█Április elseje, haha (tudom, nem vicces)
+levelTitle12█Ahogy a csövön kifér
+levelTitle13█Infrastruktúra
+levelTitle14█Gyakorlás
+levelTitle15█Ne tegyél embereket az orrkúpba
+levelTitle16█Az emberi faktor
+levelTitle17█Játssz nagyban
+levelTitle18█"Meg fogjuk valósítani. Amíg Isten az én tanúm, elszántan dolgozni fogok, hogy működjön." - Elon Musk
+levelTitle19█Rohadt nagy rakéta
+levelTitle20█Korai hozzáférés vége (hamarosan tovább bővül :))
+levelTitle21█haha, ilyen könnyen nem szerezheted meg ezt a szintet :D
+
+progress_unlockAllModules█Oldd fel az összes modult!
+progress_launchSmallRockets█Lőj ki {0} kicsi rakétát!
+progress_launchMediumRockets█Lőj ki {0} közepes rakétát!
+progress_launchLargeRockets█Lőj ki {0} nagy rakétát!
+progress_launchSuperheavyRockets█Lőj ki {0} szupernehéz rakétát!
+progress_launchCargoCapsules█Lőj ki {0} teherkapszulát!
+progress_launchCrewCapsules█Lőj ki {0} legénységkapszulát!
+progress_landRockets█Landolj {0} rakétával!
+progress_reuseRockets█Használj fel újra {0} rakétát!
+progress_launchPayloadsAtOnce█Lőj ki {0} hasznos terhet egyszerre!
+progress_launchFromOwnLaunchPad█Lőj ki {0} rakétát a saját kilövőállomásodról!
+progress_launchTesla█Lődd ki a Tesla Roadstert!
+progress_buildFactories█Építs {0} gyárat!
+progress_buildOffices█Építs {0} irodát!
+progress_buildLaboratories█Build {0} laboratorie(s)!
+progress_buildMegaLaunchPads█Építs {0} mega kilövőállomást!
+progress_getContracts█Szerezz {0} szerződést!
+progress_launchCat█Launch a cat!
+progress_launchTechnician█Launch a technician!
+progress_catchFairings█Catch {0} fairings!
+progress_launchLinkLinks█Launch LinkLinks: {0}
+progress_reachLinkLinkUsers█LinkLink users: {0}
+progress_hireEmployees█Hire employees: {0}
+
+progress_maxOffices█Max. irodák:
+progress_multiplePayloads█Mostantól <b><color=#64B5F6>sok</b></color> hasznos terhet lőhetsz ki egyszerre!
+progress_fundraiserHats█Új adománygyűjtés: <b><color=#64B5F6>Árulj sapkákat!
+progress_fundraiserBricks█Új adománygyűjtés: <b><color=#64B5F6>Árulj téglákat!
+progress_fundraiserNAF█Új adománygyűjtés: <b><color=#64B5F6>Árulj (nem) lángszórókat!
+progress_fundraiserRocketquilla█Új adománygyűjtés: <b><color=#64B5F6>Árulj rakétaquillákat!
+progress_issSupplierMission█Különleges küldetés: <b><color=#64B5F6>ISS beszállító
+progress_issCrewMission█Különleges küldetés: <b><color=#64B5F6>ISS kereskedelmi legénység
+progress_teslaRoadsterMission█Különleges küldetés: <b><color=#64B5F6>Tesla Roadster
+progress_catMission█Special Mission: <b><color=#64B5F6>Astronaut's Cat
+progress_technicianMission█Special Mission: <b><color=#64B5F6>Technician in a Suitcase
+
+progress_smallFactory█[<color=#E74C3C>BUILDING</color>] Small Factory
+progress_mediumFactory█[<color=#E74C3C>BUILDING</color>] Medium Factory
+progress_largeFactory█[<color=#E74C3C>BUILDING</color>] Large Factory
+progress_gigaFactory█[<color=#E74C3C>BUILDING</color>] Giga Factory
+
+progress_smallHangar█[<color=#E74C3C>BUILDING</color>] Small Hangar
+progress_mediumHangar█[<color=#E74C3C>BUILDING</color>] Medium Hangar
+progress_largeHangar█[<color=#E74C3C>BUILDING</color>] Large Hangar
+progress_megaHangar█[<color=#E74C3C>BUILDING</color>] Mega Hangar
+
+progress_linkLinkTerminal█[<color=#E74C3C>BUILDING</color>] LinkLink Terminal
+progress_megaLaunchPad█Új épület: <b><color=#64B5F6>Mega kilövőállomás
+
+progress_linkLink15█[<color=#81C784>FEATURE</color>] LinkLink (15)
+progress_linkLink30█[<color=#81C784>FEATURE</color>] LinkLink (30)
+progress_linkLink60█[<color=#81C784>FEATURE</color>] LinkLink (60)
+progress_linkLinkCapacity50█[<color=#81C784>LinkLink</color>] LinkLink Capacity +50%
+progress_linkLinkCapacity25█[<color=#81C784>LinkLink</color>] LinkLink Capacity +25%
+progress_linkLinkCosts█[<color=#81C784>LinkLink</color>] LinkLink Production Costs -25%
+
+
+

@@ -1,0 +1,37 @@
+
+
+menu_home█Otthon
+menu_play█Indítás
+menu_settings█Beállítások
+menu_credits█Készítők
+menu_exit█Kilépés
+menu_backToMainMenu█Vissza a főmenübe
+menu_save█Mentés
+menu_notAvailable█Nem érhető el ebben a verzióban, sajnálom :(
+menu_saveNotSupported█Az EarthX korábbi verziójában készült mentések nem támogatottak.
+
+menu_createNewGame█Új játék létrehozása
+menu_tutorial█Oktatás
+menu_classicHeader█Klasszikus
+menu_classicDesc█A klasszikus mód indítása, ahol megépítheted a saját űrvállalatodat.
+menu_sandboxHeader█Végtelen
+menu_sandboxDesc█A végtelen módban minden elérhető és korlátlan. Használd a képzeletedet!
+
+menu_quality█Minőség
+menu_low█Alacsony
+menu_medium█Közepes
+menu_high█Magas
+menu_effects█Effektek
+menu_postprocessings█Utófeldolgozás
+menu_gameplay█Játékmenet
+menu_autoSave█Aut. mentés?
+menu_autoPause█Aut. szünet?
+menu_video█Videó
+menu_fullscreen█Teljes képernyő?
+menu_audio█Hang
+menu_music█Zene?
+menu_sounds█Hangok?
+menu_language█Nyelv
+
+
+

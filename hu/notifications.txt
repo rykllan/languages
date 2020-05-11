@@ -1,0 +1,66 @@
+
+
+company_ceoAndCompanyMustHaveName█A vállalat és a vezérigazgató nem maradhat név nélkül!
+
+earthxWelcome█Helló, Elo- ó, te vagy az... <color=#64B5F6>{0}</color>!&%Látom végre megalapítottad a rakétavállalatot, amit korábban említettél. "<color=#64B5F6>{1}</color>" egy igazán menő név! Azt kell mondjam, nagyon bátor vagy.&%&%A nagy vállalatok, amik monopóliumot élveznek a piacon, évek óta nem költöttek az újabb technológiákra. Továbbra is nem hatékony hajtóműveket és elavult motorokat használnak. És ha sikerülne földet érniük a rakétáikkal a Földön? Akkor lehetségessé válna több hasznos terhet küldeni egyetlen rakétával! Remélem te képes leszel néhány éven belül egy leszálló rakétát vagy éppen oldalhajtóműves példányt építeni.&%&%Sok szerencsét!
+
+iss_CRSHeader█ISS kereskedelmi feltöltő küldetések
+iss_CRSContent█Helló!&%&%Bebizonyítottad, hogy képes vagy rakétákat és teherkapszulákat kilőni. Ezen okból kifolyólag a játék fejlesztője kiválasztott téged, hogy több éven át rendszeresen te gondoskodj a nemzetközi űrállomás ellátásáról.&%&%Nem tudod elutasítani, mert nem programoztam le a választási lehetőséget, és a játék a küldetés nélkül... unalmas lenne.
+
+iss_CCPHeader█ISS kereskedelmi legénység program
+iss_CCPContent█Helló!&%&%A vállalatod sokat növekedett a megalapítása óta. Képzelted volna, hogy egyszer a világ egyik legnagyobb űrvállalatának vezérigazgatója válik belőled? Nos, én sem.&%&%A játék azonban megy tovább, és látom, sok a dolgod, szóval további 6 legénységi küldetést kapsz tőlem (a játék fejlesztője észlelte, hogy már rendelkezel a kötelező kapszulával). Rendszeresen kell indítani legénységi küldetéseket a nemzetközi űrállomásra.&%&%Ó, majdnem elfelejtettem: gondoskodj róla, hogy a rakétád ne robbanjon fel, különben rosszat jelent, ha megégeted az embereket, lol!
+
+iss_catHeader█Please help!
+iss_catContent█My cat, Balwina, is in very bad condition... I have to stay on the ISS for another 4 months and I'm very afraid, that I will never be able to met her again!!&%&%Because of this fact, PLEASE put it on your next ISS mission :(&%&%Please consider it and thank you,&%&%Teresa
+
+iss_technicianHeader█Emergency on the ISS
+iss_technicianContent█Good evening,&%&%There are currently 4 astronauts on the International Space Station. Their lives are in danger because of medium-sized leakage in one of the modules.&%&%We know, that your company does not have any crew capsules, that's why you will need to launch a technician in a cargo capsule.&%&%Please do it as fast as you can AND don't talk with the press about that flight. No one can know that we're about to launch a human in a cargo capsule!&%&%Thanks for your cooperation, you will get paid after the mission.
+
+teslaRoadsterHeader█Tesla Roadster küldetés
+teslaRoadsterContent█Lőj ki egy autót az űrbe, mert csak!
+
+contract_newPayloadsHeader█Új hasznos terhek!
+contract_newPayloadsContent█Ezek a hasznos terhek megépültek, és letesztelésre kerültek:&%{0}&%Most már kilőheted őket.&%{1}
+contract_goLaunchThemOkNow█Mármint tényleg most.&%&%Mit keresel még itt, lol&%&%Oké, csak lődd ki őket, különben kitörlöm a rakétáidat!
+
+contract_hurryUpHeader█Siess!
+contract_hurryUpContent█Minél hamarabb gondoskodnod kell ezekről a hasznos terhekről:&%{0}&%&%Mire vársz még? A rakétáid nem önműködőek, szóval menj, és lődd ki őket!
+
+contract_badBoyHeader█Rossz fiú. (vagy lány)
+contract_badBoyContent█15% büntetést kaptál minden egyes hasznos teher után, mert nem lőtted ki őket időben:&%{0}&%&%Ez még nem a világ vége. Menj, és vállalj el további megbízásokat! :)
+
+staticFireIssueFound█A mérnökeid egy hibára bukkantak a rakétádban, és kijavították.
+
+cantBuildNoFactories█Gyárakra van szükséged a rakéták építéséhez!
+cantBuildSoManyVehicles█Nem építhetsz ilyen sok járművet egyszerre!
+cantLaunchSoManyVehicles█Ne lőhetsz ki ilyen sok rakétát egyszerre!
+cantRepairSoManyVehicles█Nem javíthatsz ilyen sok járművet egyszerre!
+
+cantRemoveProject█Nem távolíthatod el ezt a projektet, mert járműveket tartalmaz.
+
+noHangars█Nincsenek hangáraid, vagy túl kevés a helyed járművek eltárolására.
+noFactories█{0} can't be built because you need a {2} to be able to build {1} modules.
+
+projectMustHaveName█A projektnek kötelező nevet adnod. Láttál egyáltalán már nem névtelen rakétát?
+projectSameName█{0} már létezik. Esetleg nevezhetnéd <color=yellow><b><size=20>'{0} Max Pro Ultravékonynak'?
+
+moduleUnlocked█Modul feloldva!
+moduleUpgraded█Modul fejlesztve!
+notEnoughSkillPoints█Nincs elegendő képességpont!
+
+congratulations█Gratulálunk!
+congratulations_content█Gratulálunk az első sikeres repüléshez!&%Szeretnénk tájékoztatni, hogy a kormány pénzt fektetett a vállalatod további kutatásaiba és fejlesztéseibe.&%<color=#64B5F6><b>Ne pazarold el őket!</color>.
+
+buildingWorking█Ez az épület most működik.
+hangarStoring█Ez a hangár járműveket tárol.
+rocketLaunching█Egy rakéta éppen kilövésre kerül erről a kilövőállomásról.
+
+cantBuildOffices█Nem építhetsz ilyen sok irodát.
+cantBuildFactories█Nem építhetsz ilyen sok gyárat.
+
+cantBuildSimpleLP█Most nem építhetsz egyszerű kilövőállomásokat.
+cantBuildAdvancedLP█Most nem építhetsz fejlett kilövőállomásokat.
+cantBuildMegaLP█Most nem építhetsz mega kilövőállomásokat.
+
+
+

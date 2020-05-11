@@ -1,0 +1,173 @@
+
+
+news_technology_content_p11█Minden {0} rajongó már erre várt! A mai vezérigazgatói sajtókonferencia nem hagy az illúzióknak teret. Tanúi lehetünk egy újabb jelentős áttörésnek a kutatásban, amely az emberiséget eljuttatja a Marsra.
+news_technology_content_p12█Érdekes időket élünk! A marsi verseny végleg elkezdődött, és kíváncsiak vagyunk, mi sül ki belőle. Vajon {1} be fogja tartani az ígéretét?
+news_technology_content_p13█Ma a(z) {0} vállalatra várunk. Az ember vezérelte gépeik vajon elérik-e valaha is a Marsot? Néhány éven belül meglátjuk.
+news_technology_content_p14█Már vártak erre, nem igaz? A legfrissebb hírek a(z) {0} vállalat főhadiszállásáról. Minden arra utal, hogy a technológiájuk nagyon gyorsan fejlődik.
+
+news_technology_content_p21█{1}: "A jelenleg fejlesztett rakétáink messze túltesznek a versenyképesen. Reméljük, ez nem csak egy egyszerű dicsekvés, hogy nagyobb nyereséghez jussanak a tőzsdén. Vajon {0} tényleg jobb technológiákkal rendelkezik? Fogunk valaha is a Marsra lépni?
+news_technology_content_p22█"Reményekkel telve tekintünk a jövőbe. A rakétáink fejlesztése nem csak azt teszi lehetővé, hogy nagyobb terhet juttassunk majd bolygóközi pályára. Ez jelenti az út kezdetét, amelyet az emberiség a következő évtizedekben követni fog. - {1}, {0}.
+news_technology_content_p23█A(z) %company name% által bemutatott új generációs motor tavaly teljesítette első sikeres tesztjét. {1} bejelentette, hogy 10 éven belül a motor az egyik rakétába kerül, hogy a űr vákuumában teszteljék. Van a versenytársaknak mitől félnie?
+news_technology_content_p24█"Biztos vagyok benne, hogy működni fog!" - említette {1} a tegnapi konferencián. Vissza akarja szerezni a földre hulló rakétákat, miután a hasznos teher bolygóközi pályára állt. Egy nagyon nagy sebességgel zuhanó rakéta a megfelelő időben ejtőernyőt nyitna ki, majd belezuhanna az óceánba. Ez egy újabb lépést jelent az olcsóbb, űrbe és Marsra irányuló járatok felé! 
+
+news_technology_content_p31█Alig várjuk a(z) {0} további jó híreit!
+news_technology_content_p32█{1} számolgatja a pénzt, mi pedig az oldalunk nézettségi adatait. Talán itt az ideje reklámozni?
+news_technology_content_p33█Az ember Marsra szállásáról szóló álmok a szemünk előtt válnak valóra.
+news_technology_content_p34█Melyik van előbb? A Hold vagy a Mars? {1} valószínűleg már tudja, de nem akarja kimondani.
+
+
+
+news_technology_header1█{0} fejlődik. {1} új technológiákra költ pénzt.
+news_technology_header2█Az új {0} laboratóriumok teljes kapacitással működnek.
+news_technology_header3█{1} a fejlesztésbe fektet be. Új rakétamodellek érkeznek?
+news_technology_header4█Kíváncsi vagyok, honnan volt rá pénze? {1} fejlesztésekbe fektet be.
+news_technology_header5█{1}: "A mi célunk a Mars. Keményen dolgozunk az új rakétamodulokon."
+news_technology_header6█A befektetők el vannak ragadtatva. Vajon {0} megnyeri az űrversenyt?
+news_technology_header7█Irány a Mars? {0} új modulokat mutat be a rakétáihoz.
+news_technology_header8█Egyre többet és egyre magasabbra. {0} új mottója?
+news_technology_header9█{2} a Twitteren: "Lenyűgözött, amit {1} csinál. De akkor is mi fogunk győzni."
+news_technology_header10█{0} nagy áttörése. A rakéták új moduljai hamarosan használatba kerülnek.
+
+
+
+
+
+
+
+news_fail_content_p11█Nyugtalanító hírek érkeztek {0} háza tájáról. A rakétájuk egy hatalmas robbanással váratlanul véget vetett a küldetésének.
+news_fail_content_p12█A(z) {0} vállalat indítási helyének közelében álló városok lakóinak elképesztő, égi látványosságban volt ma részük. Tudósítónk szerint a tűzgolyó, amely ma reggel bukkant fel az égen, {0} egyik rakétája.
+news_fail_content_p13█úgy tűnik, hogy a városok közelében felszálló rakéták zaja mindössze a polgárok legkisebb problémája. Legalábbis amíg a rakéták fel nem robbannak. Az irodánkba reggel panaszok kezdtek érkezni azoktól az ideges lakosoktól, akik hangos robbanásra ébredtek.
+news_fail_content_p14█Újabb nap, újabb kellemetlen hír a(z) {0} táborból. {1}, egy milliárdos rakétája váratlanul és hangosan vetett véget a küldetésének.
+
+news_fail_content_p21█A robbanás okait jelenleg is vizsgálják. A cég vezérigazgatója, {1} egy rövid Twitter üzenetben kommentálta a helyzetet: "Aki nem tesz semmit, nem hibázik. Egészségetekre!" A bejegyzést középen egy üres üveg lengyel "Żubrówka" képével gazdagította.
+news_fail_content_p22█A vállalattal szoros kapcsolatban álló névtelen informátorunk tájékoztatott bennünket, hogy a rakéta kilövésétől számított 3 percen belül meghibásodott a hidraulika motor égéskamrájában. A részleteket valószínűleg egy mára tervezett sajtótájékoztatón jelentik be.
+news_fail_content_p23█A baleset okait még nem sikerült pontosan azonosítani, majd a következő hónapokban részletesen kivizsgáljuk. Az októl függetlenül a robbanás nagyban csorbítja {0} hírnevét.
+news_fail_content_p24█Az egész csapat keményen dolgozik, hogy magyarázatot adjon a robbanás okaira. Hamarosan kiderül, hogy a felszerelés nem működött, emberi hiba történt, vagy tisztességtelen versenyhúzás volt-e.
+news_fail_content_p25█A helyzet keserűségét nem rejthetik el a vállalat rajongói elől a világ minden tájáról, akik számára {1} a működése kezdetétől az innováció és az ideális vállalkozó megtestesülését jelentette. "Beteg vagyok és fáradt, most pedig eladom az összes részvényemet. Szép repüléseket akarok látni, nem robbanásokat..."- írta a @denis-szwarc nevű felhasználó a reddit.com-on.
+
+news_fail_content_p31█Reméljük, hogy a következő repülések sikeresebbek, de nem kevésbé látványosak lesznek.
+news_fail_content_p32█Nagyobb szerencsét kívánunk a(z) {0} tulajdonosának a következő kilövésekhez.
+news_fail_content_p33█Szilárd meggyőződésünk, hogy a katasztrófa okait gyorsan megmagyarázzuk, így nem fog több robbanás történni.
+news_fail_content_p34█Kellemetlen egy nap {0} számára, amikor nincs más teendőnk, mint a következő kilövésekhez drukkolni.
+news_fail_content_p35█Nem szeretnénk már többet rakétarobbanásokról írni, de nincs más választásunk.
+news_fail_content_p36█Nem szeretnénk már többet rakétarobbanásokról írni, de nincs más választásunk.
+
+
+
+
+
+
+
+news_fail_header1█{1}: "Ez egy fájdalmas, de fontos lecke mindannyiunk számára. A(z) {0} rakéta utolsó repülése tűzijátékkal végződött.
+news_fail_header2█Egy rakéta hatalmas tűzgolyóvá változott. {0} kivizsgálja a katasztrófa okait.
+news_fail_header3█{0} bajban van. A rakétájuk robbanása felébresztette a közeli város lakosait.
+news_fail_header4█Az a rakéta már nem létezik. {0} rakétája elégett a légkörben.
+news_fail_header5█{1}: "Azt hittük, ez alkalommal működni fog. Ma nem egy lángoló rakétát akartunk látni.
+news_fail_header6█ "Nagyot fogunk szólni!"A(z) {0} vezérigazgatójának szavai valóra váltak. A rakétáik őrült módon felrobbantak.
+news_fail_header7█{1} terrorizálja az eget! Az egymást követő rakétarobbanások veszélyeztetik a(z) {0} pénzügyi áramlását.
+news_fail_header8█{0}: A rakétánk erőteljes robbanása veszélyezteti a vállalat pozícióját. {1} a bezárásra készül?
+
+
+
+
+
+
+
+
+
+
+news_bankrupt_content_p11█{1}, a(z) {0} vezérigazgatója ma sajtótájékoztatón bejelentette a vállalat, az összes iroda és gyár bezárását. 
+news_bankrupt_content_p12█A felrobbanó rakétákkal kapcsolatos problémák, a szerződések be nem tartása és a pénzügyi dokumentumok körüli káosz valószínűleg nem a(z) {0} elnökének egyedüli hibái. {1} a mai nap csődöt jelentett.
+news_bankrupt_content_p13█Valószínűleg sokáig fogunk várni az első sikeres, marsi legénységi küldetésre- A piac nem bocsátja meg {1} tévedéseit, a(z) {0} tulajdonosa által elkövetett hibákat. A cég a mai napon bezárt.
+news_bankrupt_content_p14█Erre számíthattunk volna. A(z) {0} rakéták számos sikertelen kilövése után eljött az igazgatótanács megállapodásának ideje. A vezérigazgató, {1} már kezdhet csomagolni. 
+
+news_bankrupt_content_p21█Az űr meghódításának szomorú álma még csak a kezdete {0} pénzügyi problémáinak. A kapott információink szerint a céget elárasztották a vagyonkárokkal kapcsolatos perek. Mindezt azért, mert a rakétaalkatrészek magánházakra zuhantak.
+news_bankrupt_content_p22█{1} érzelmes kijelentése, amelyet a médiának küldött, nem szenved hiányt a keserű szavakból a vállalat igazgatótanácsának többi tagja felé. "Az árulók és tolvajok (...) ellopták az álmaimat. Minden tőlem telhetőt megtettem, és mostanra semmim sem maradt. Sajnálom."
+news_bankrupt_content_p23█{0} sajtótájékoztatója drámainak bizonyult. {1} monoklival jelent meg rajta. Ahogy elmagyarázta, történt egy kis harc az igazgatótanács egyik tagjával. Nem hivatalosan megtudtuk, hogy az utolsó 100 dolláros bankjegy okozta, amit a cég széfjében hagytak. Sajnos, a(z) {0} alapítójának nyilatkozata nem kerül összefoglalásra. Olyan hangosan sírt a felolvasása közben, hogy egy szót sem értettünk belőle.
+
+news_bankrupt_content_p31█Őszintén? Egyáltalán nem sajnáljuk őket. 
+news_bankrupt_content_p32█Reméljük, hogy {1} rakott félre pénzt.
+news_bankrupt_content_p33█Most már minden {2} kezében van.
+news_bankrupt_content_p34█Vajon melyik vállalat lesz a következő?
+
+
+
+
+
+
+news_bankrupt_header1█{0} szomorú véget ért. {1} búcsút mond az űrszektornak.
+news_bankrupt_header2█Nincs több marsi álom. {0} bezárja a gyárait.
+news_bankrupt_header3█"A részvényesek elvárásai meghaladták a mieinket" - {1} ezzel a(z) {0} végére hivatkozik.
+news_bankrupt_header4█{1} - látnok és... csődbe ment. 
+news_bankrupt_header5█Nem lesz több {0} repülés. A vállalat csődbe ment.
+news_bankrupt_header6█Nincs több hely a(z) {0} számára az iparban. {0} kényszerű szabadságra vonul.
+news_bankrupt_header7█Egyszer volt egy vállalat, most pedig már nincs. {0} elpakolja a rakétáit.
+news_bankrupt_header8█{1} elnök az űrbe utazott volna, de ehelyett börtön vár rá. Mi történt a(z) {0} pénzével?
+news_bankrupt_header9█{0} alkalmazottai sztrájkolnak. {1} nem rendelkezik pénzzel a kifizetésekhez!
+news_bankrupt_header10█{1} nem járt iskolába, de számít ez egyáltalán? {0} költségvetése nagyon alacsony szinten van.
+news_bankrupt_header11█Az elemzők már régóta tudták. {0} csődbe ment!
+news_bankrupt_header12█{2} kineveti a(z) {0} vezérigazgatóját: "{1} és a fantázia köszönőviszonyban sincsenek egymással! Tudtam, hogy nem tart sokáig!"
+
+
+
+
+
+
+
+
+news_yearsummary_beforeRes_header█Hogyan ment az űrvállalatok dolga a(z) {0}. évben? Nagy összegzés! 
+news_yearsummary_beforeRes_content█Idén, ahogy a többi évben is, számos érdekes döntéshozatal, esemény és repülés történt. Lenyűgöző, hogy egyre több űrvállalat van... magánkézben. Ez lényegesen felgyorsítja a rakétafejlesztést.&%&%Itt olvasható néhány éves statisztika:&%&%<color=#64B5F6>Repülések</color>:&%{0}&%<color=#64B5F6>Megbízások</color>:&%{1}&%<color=#64B5F6>Költségvetés</color>:&%{2}&%Mindannyian a jövő évi eseményeket várjuk. Azt már tudjuk, hogy {3} jelenleg az újrahasználható rakétákon dolgozik. Vicces ez a vállalat, mert hogyan lehetséges egyáltalán földet érni egy fémrúddal? Egyszerűen lehetetlen!
+
+
+
+
+
+
+
+news_FundraisingHats_header█{1} has sold 20,000 hats with the {0} logo. The perfect way to finance space business?
+news_FundraisingHats_content█{1} is amazing. Crazy, but still amazing. {0}'s CEO was told by the management to add some cash to the company's budget in the sharpest possible way. A normal CEO would probably lay off a few employees to reduce the cost of hiring. &%&%{1} sold... hats. And quite a lot of them, almost 20,000. Is this the last such an unusual act by {1}?
+
+news_FundraisingBricks_header█"Hey, get a Brick!" - a surprising campaign of {0}.
+news_FundraisingBricks_content█{1} did it again. Exactly. After this one we know that {0} is in very good hands, and bankruptcy is unlikely to happen. &%&%{1} this time decided to sell several thousand bricks to improve the financial flow of the company. An additional advantage is that the bricks are almost half the price of rival products. They are also ECO friendly. From the first reports of the company we know that the bricks sell very good.
+
+news_FundraisingNotFlamethrowers_header█The shipping companies have said that...
+news_FundraisingNotFlamethrowers_content█... they will not transport anything that has "Flamethrower" in its name. What did {1} do? Of course he changed their name to "Not a Flamethrower". &%&%{1} has come up with another idea to make a few extra dollars. This time he made a huge lighter, sold in over 20,000 items! First rumors say he made over 30 million in cash. I have a feeling that {0} is not afraid to go bankrupt anymore.
+
+
+news_FundraisingRocketquilla_header█Fans of strong drinks have pounced on alcohol drinks from {0}.
+news_FundraisingRocketquilla_content█Fans of clothing got hats, builders got cheap bricks, fanatics of TV-sized lighters got (not a) flamethrowers, and those who like to drink got... an explosive mixture of alcohol. &%&%Tequila in the rocket version from {1} has just made its market debut and... quickly sold out adding more than $100 million to the space company's pocket. Did you manage to buy it?
+
+
+
+
+
+
+
+
+
+news_iss_2002q4_header█Another mission of the Atlantis shuttle - the new ITS S1 module has been launched on ISS.
+news_iss_2002q4_content█It is almost 14 m long, 4.6 m wide and 1.8 m high. Weighing more than 14 tons, the ITS S1 module has just joined the ISS station that is being built. The ITS S1 is the first ribbed side segment to be attached on one side to the central ITS S0 segment. Three powerful heat sinks have been mounted on it to cool the station's energy system. Another station communication system has also been installed on the ITS S1 to improve the quality and throughput of audio transmission and several platforms for vacuum experiments. The S1 is also equipped with two cameras, which will facilitate future observation of this sector of the station. The grating has its own on-board computer, which is responsible for cooling control, including monitoring of ammonia tanks, cooling circuits and pump sets. &%&%This is the third mission of the Atlantis shuttle to deliver further parts of the International Space Station that is being built.
+
+news_iss_2007q3_header█Harmony (Node 2) delivered to orbit - will connect Destiny, Columbus, and Kibo modules.
+news_iss_2007q3_content█The mission of the Discovery shuttle, which brought on 23rd October 2007 the Harmony module (Node 2) into orbit, ended successfully. Harmony is a kind of splitter that will combine the three modules together - American, Japanese (will join the station later), and European (Columbus laboratory will be placed in orbit probably at the beginning of 2008) module. On its board it has racks containing instruments responsible for processing the electricity and transmitting it to the modules mentioned above. &%&%By the agreement between NASA and ESA, Node 2 was built by the Italian company Alenia Spazio, in its centre in Turin. 
+
+news_iss_2008q1_header█The European Columbus laboratory has joined the ISS!
+news_iss_2008q1_content█The International Space Station is getting bigger. As a part of Flight 1E - STS-122 of the Atlantis shuttle, another huge module was launched into orbit. The scientific experiments conducted there will cover such fields of research as plant biology, exobiology, heliophysics, human physiology, and fluid physics. &%&%Columbus weighs over 10 tons and was being built for 10 years.
+
+news_iss_2008q2_header█Endeavour shuttle delivered the first part of the Japanese Kibo module on ISS.
+news_iss_2008q2_content█As designed by the Japanese Agency for Aerocosmic Exploration, the main purpose of Kibo (JEM) is to conduct scientific experiments in a vacuum. JEM will have stations for two people to work simultaneously, but the laboratory will be able to accommodate up to four crew members of the International Space Station. &%&%During the mission of the ferry Endeavour there was also an exchange of crew members of Expedition 16.
+
+news_iss_2009q4_header█Russian Small Research Module 2 "Poisk" already in orbit.
+news_iss_2009q4_content█The Russian Soyuz-U rocket mission with the Poisk module on board was successful. The Poisk airlock reached the station using the modified instrument-propulsion segment of the Progress vessel. &%&%This is the second Russian Soyuz mission to expand the ISS.
+
+news_iss_2010q1_header█One of the most important elements of ISS already in place!
+news_iss_2010q1_content█The Cupola (Dome) was lifted into space with the help of the American shuttle Endeavour. The module will allow a direct panoramic view from inside of the station to activities performed outside. These will include operations performed with an automatic manipulator, space walks, shuttle docking manoeuvres or review and evaluation of the technical condition of external devices. &%&%The dome will be an excellent observation point of the Earth and other celestial bodies.
+
+news_iss_2010q2_header█The American-Russian cooperation has provided the ISS with another module.
+news_iss_2010q2_content█The thirty-second flight of the Atlantis shuttle and already one hundred and thirty-second mission of the shuttle program was successful. This time the Rassvet module (EN: Dawn) joined the International Space Station. It will be used primarily for cargo storage and as a docking module for the station. &%&%Using the capacity of Rassvet, NASA has placed in the module 3000 pounds (or 1360kg) of equipment, spare parts, food, and victuals to be transported to the station.
+
+news_iss_2011q1_header█The last mission of the Discovery shuttle. Leonardo joined the ISS.
+news_iss_2011q1_content█Today at 2:50 p.m., the Leonardo module (PMM) that is on a board of the Discovery shuttle, which is docked to the ISS, was permanently attached to the Harmony module node. &%&%The Leonardo Multifunctional Logistics Module (MPLM) is a large hermetic container used in supply missions of shuttles to and from ISS. After the STS-131 mission, Leonardo was converted into a Permanent Multifunctional Module (PMM). The conversion allowed a permanent connection to the ISS for an unlimited period of time - thus, Leonardo will serve as an additional storage facility at the International Space Station.
+
+
+

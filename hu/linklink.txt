@@ -57,3 +57,4 @@ linkLink_welcome_header█LinkLink
 linkLink_welcome_content█Later in EarthX, you will be able to create your own satellite constelation which will provide affordable Internet worldwide.&%&%However, to do so, you need to launch 2 test satellites first.&%&%Good luck!
 
 
+

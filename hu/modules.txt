@@ -1,0 +1,92 @@
+
+
+type_fairings█Orrkúp
+type_fuelTank█Üzemanyagtartály
+type_engine█Hajtómű
+type_computer█Számítógép
+type_gridFins█Rácsos vezérlőtalpak
+type_landingLegs█Leszállólábak
+type_battery█Akkumulátor
+type_other█Egyéb
+type_body█Test
+type_parachutes█Ejtőernyők
+type_sensors█Érzékelők
+type_antenna█Antenna
+type_utility█Utility
+
+module_factory_small█Small
+module_factory_medium█Medium
+module_factory_large█Large
+module_factory_giga█Giga
+
+---Engines---█---Hajtóművek---
+
+mdl_s_engine█Egyszerű hajtómű, kicsi rakétákhoz szükséges.
+mdl_a_engine█Fejlett hajtómű, közepes rakétákhoz szükséges.
+mdl_a4_engine█4 fejlett hajtómű, manuálisan landoló rakétákhoz szükséges.
+mdl_a9_engine█9 fejlett hajtómű, nagy/automatikusan landoló rakétákhoz szükséges.
+mdl_m27_engine█27 metán hajtómű, nagyon nagy rakétákhoz szükséges. (a szupernehézhez)
+
+
+---FuelTanks---█---Üzemanyagtartályok---
+
+mdl_s_fueltank█Kicsi üzemanyagtartály, kicsi rakétákhoz szükséges.
+mdl_m_fueltank█Közepes üzemanyagtartály, közepes/kapszula rakétákhoz szükséges.
+mdl_l_fueltank█Nagy üzemanyagtartály, nagy/landoló rakétákhoz szükséges.
+mdl_vl_fueltank█Szuper üzemanyagtartály, nagyon nagy/űrhajó rakétákhoz szükséges. (a szupernehézhez)
+
+
+---Computers---█---Számítógépek---
+
+mdl_s_computer█Egyszerű számítógép, kicsi és közepes rakétákhoz szükséges.
+mdl_a_computer█Fejlett számítógép, nagy/kapszula/landoló rakétákhoz szükséges.
+mdl_sn_computer█Skynet számítógép, nagyon nagy/űrhajó rakétákhoz szükséges.
+mdl_s_battery█Kicsi akkumulátor, manuális landolású/kapszula rakétákhoz szükséges.
+mdl_a_battery█Fejlett akkumulátor, automatikus landolású/kapszula/űrhajó rakétákhoz szükséges.
+mdl_gps█GPS, kapszula/landoló rakétákhoz szükséges.
+
+
+---Fairings---█---Orrkúp---
+
+mdl_s_fairings█Kicsi orrkúp, kicsi rakétákhoz szükséges.
+mdl_m_fairings█Közepes orrkúp, közepes rakétákhoz szükséges.
+mdl_l_fairings█Nagy orrkúp, nagy rakétákhoz szükséges.
+mdl_vc_fairings█Jármű csatlakozó, kapszula/űrhajó rakétákhoz szükséges.
+mdl_fairingParachutes█Fairing Parachutes,Reusable rocket is required to recover the fairings.
+
+
+---Landing Stuff---█---Leszálló alkatrészek---
+
+mdl_a_gridfins█Alumínium rácsos vezérlőtalpak, manuálisan landoló rakétákhoz szükséges.
+mdl_t_gridfins█Titá rácsos vezérlőtalpak, automatikusan landoló rakétákhoz szükséges.
+mdl_m_landingLegs█Manuális landolású lábak, manuálisan landoló rakétákhoz szükséges.
+mdl_a_landingLegs█Automatikus landolású lábak, automatikusan landoló rakétákhoz szükséges.
+mdl_booster_connector█Gyorsító csatlakozó, oldalhajtómű rakétákhoz szükséges. (a Falcon nehézhez)
+
+
+---Capsule Stuff---█---Kapszula alkatrészek---
+
+mdl_light_structure█Könnyű test, teherkapszulákhoz szükséges.
+mdl_heavy_structure█Nehéz test, legénységkapszulákhoz szükséges.
+mdl_chip_computer█Számítógépes chip, kapszulákhoz szükséges.
+mdl_a_antenna█Fejlett antenna, legénységkapszulákhoz szükséges.
+mdl_s_antenna█Egyszerű antenna, teherkapszulákhoz szükséges.
+mdl_a_escape_engines█Fejlett mentő hajtómű, legénységkapszulákhoz szükséges.
+mdl_s_escape_engines█Egyszerű mentő hajtómű, legénységkapszulákhoz szükséges.
+mdl_a_parachutes█Fejlett ejtőernyők, legénységkapszulákhoz szükséges.
+mdl_s_parachutes█Egyszerű ejtőernyők, legénységkapszulákhoz szükséges.
+mdl_camera█Kamera, a kamera lehetővé teszi, hogy lásd, amit a rakéták látnak (webcast). Rendeld hozzá ezt a modult, és fordítsd a kamerádat a rakéta kilövésére!
+mdl_s_altitude(capsule)█Magasságérzékelő, legénységkapszulákhoz szükséges.
+mdl_s_altitude(rocket)█Magasságérzékelő, az érzékelő telemetriai adatokat biztosít a kilövéskor. Vajon milyen gyors a rakétád?
+mdl_s_heat█Hőérzékelő, legénységkapszulákhoz szükséges..
+---Spaceship Stuff---█---Űrhajó alkatrészek---
+mdl_methane_fueltank█Metán üzemanyagtartály, űrhajókhoz szükséges.
+mdl_methane_engine█6 metán hajtómű, űrhajókhoz szükséges.
+mdl_stainlesssteel_structure█Rozsdamentes acéltest, űrhajókhoz szükséges.
+
+mdl_cargoUtility█Cargo Utility,Cargo Spaceship Module
+mdl_crewUtility█Crew Utility,Crew Spaceship Module
+mdl_fuelUtility█Fuel Utility,Tanker Spaceship
+
+
+

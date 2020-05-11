@@ -1,0 +1,61 @@
+
+
+company_createNewCompany█Új vállalat létrehozása
+company_ceoName█Igazgató neve
+company_companyName█Vállalat neve
+company_createCompany█Vállalat létrehozása
+
+company_header█Vállalat
+company_overview█Áttekintés
+company_fundraising█Adománygyűjtés
+company_financeHistory█Finance History
+company_flightHistory█Flight History
+company_competitionHistory█Competition History
+
+fundraising_productionCost█Gyártási költségek:
+fundraising_sales█Eladások:
+hats█Sapkák
+bricks█Téglák
+not_a_flamethrowers█<color=#E74C3C><size=10>Nem egy</size></color>&%lángszóró
+rocketquillas█Rakétaquillák
+use█Használ
+
+company_progressHeader█Vállalat előrehaladása
+company_progressLevel█Szint
+company_progressNewStuff█Új holmi
+company_progressCompleteChallenges█Kihívások teljesítése
+company_progressNextLevel█Next Level
+company_progressPreviousLevel█Previous Level
+locked█Lezárva
+unlock█Feloldás
+unlocked█Feloldva
+upgrade█Fejlesztés
+XskillPoints█képességpont
+
+upgradeHeader█<b>UPGRADE</b>&%<size=13><color=#64B5F6>15 képességpont
+upgrade_reliability█<b>Megbízhatóság:</b> <color=#81C784>+10%
+upgrade_buildCost█<b>Építési költség:</b> <color=#81C784>-10%
+upgrade_buildTime█<b>Építési idő:</b> <color=#81C784>-10%
+
+company_menu_finance█Finance
+company_menu_flights█Flights
+company_menu_competition█Competition
+
+company_summary█Finance Summary (Last 10 Years)&%<size=14>Where do you spend most money?
+
+company_successes█Successes
+company_failures█Failures
+company_flights█Flights
+company_income█Income
+company_outcome█Outcome
+company_balance█Balance
+
+company_launches█Launches
+company_construction█Construction
+company_employees█Employees
+company_others█Others
+company_lossPerYear█Average <mark=#E74C3C25>loss</mark> per year
+company_profitPerYear█Average <mark=#64B5F625>profit</mark> per year
+
+
+

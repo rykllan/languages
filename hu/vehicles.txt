@@ -1,0 +1,128 @@
+
+
+rocket█Rakéta
+capsule█Kapszula
+spaceship█Űrhajó
+
+rocketRequiresCapsule█Rakéta (kapszula szükséges)
+rocketRequiresSpaceship█Rakéta (űrhajó szükséges)
+
+vehicles█Járművek
+vehicles_newProjectHeader█Új projekt létrehozása
+vehicles_newProjectButton█Új projekt
+vehicles_newVehicleHeader█Új jármű létrehozása
+vehicles_newVehicleButton█Új jármű
+
+vehicles_projects█Projects
+vehicles_view█View
+
+land█Leszállás
+
+reusedVehicle█Újra felhasznált jármű:
+buildCosts█Építési költségek
+buildTime█Építési idő
+originalBuildCosts█Eredeti építési költségek
+optimizedBuildCosts█Optimalizált építési költségek
+launchCosts█Kilövési költségek
+
+inQueue█In queue&%<size=14><b><color=#64B5F6>Module will be built in a moment
+
+build█Megépítés
+built█Megépítve
+launch█Kilövés
+repair█Megjavítás
+turnExpendable█Turn Expendable
+
+capabilities█Képességek
+reliability█Megbízhatóság
+condition█Állapot
+
+notBuiltYet█Még nincs megépítve
+constructing█Építés alatt...
+repairing█Javítás alatt...
+flying█Repül
+dockedToISS█ISS-re csatlakozva (hamarosan visszatér)
+
+reusable█Újrahasználható
+manual█Útmutató
+sideboosters█Oldalhajtóművek
+superheavy█Szuper nehéz
+spaceshipsOnly█Csak űrhajók
+capsulesOnly█Csak kapszulák
+fairingRecovery█Fairing recovery
+
+landingNotSupported█Landing not supported!&%You need:<size=12><b>&%-Grid Fins & Landing Legs&%-Battery&%-GPS (for automatic reusability)&%-4 or 9 Advanced Engines</b></size>&%
+capsulesNotSupported█Capsules not supported!&%You need:<size=12><b>&%-Battery&%-GPS&%-4 or 9 Advanced Engines</b></size>&%
+heavyNotSupported█Heavy rocket not supported!&%You need:<size=12><b>&%-Rocket with automatic reusability</b></size>&%
+fairingCatchingNotSupported█Fairing catching not supported!&%You need:<size=12><b>&%-Rocket with automatic reusability</b></size>&%
+
+payload█Hasznos teher
+crew█Legénység
+cargo█Teher
+
+launchSetup_header█Kilövési beállítás
+launchSetup_missionName█Küldetés neve...
+launchSetup_mission█Küldetés
+launchSetup_noVehiclesFound█[Nem található jármű.]
+launchSetup_noPayloadsFound█[Nem található alkalmas hasznos teher.]
+launchSetup_selectVehicle█Jármű kiválasztása
+launchSetup_selectLaunchPad█Kilövőállomás kiválasztása
+launchSetup_selectLandingZone█Leszállási zóna kiválasztása
+
+launchSetup_barge█Barge
+launchSetup_lz1█LZ-1
+launchSetup_lz2█LZ-2
+
+launchSetup_testFlight█Repülés tesztelése
+launchSetup_concrete█Beton
+launchSetup_cheese█Sajt
+launchSetup_pizza█Pizza
+launchSetup_earthPlush█Plüss Föld
+launchSetup_everydayStickers█Mindennapi matricák
+launchSetup_landingZone█Leszállási zóna
+
+launchSetup_success█Siker
+launchSetup_crash█Lezuhant
+failure█Kudarc
+noData█Nincs adat
+flights█Repülések:
+failures█Failures
+partialSuccess█Részleges siker
+
+launchPanel_telemetry█Telemetria
+launchPanel_noSupportTelemetry█Ez a rakéta nem támogatja a telemetriát.
+launchPanel_speed█Sebesség
+launchPanel_altitude█Magasság
+launchPanel_staticFire█Statikus tűz
+launchPanel_speedMetric█km/h
+launchPanel_altitudeMetric█km
+
+buildPanel_moveToHangar█Hangárba mozgat
+
+missionReportHeader█Küldetésjelentés
+missionReportMissionName█Küldetés neve:
+missionReportRocketName█Rakéta:
+missionReportMissionResult█Küldetés eredménye
+
+missionReportLaunch█Indítás
+missionReportDeploy█Kibocsátás
+missionReportLanding█Landolás
+missionReportFairingLanding█Orrkúp landolása
+missionReportSecondVehicleLanding█Második jármű landolása
+
+missionReportMissionIncome█Küldetés bevétele
+missionReportDamageCompensation█Sérülés kompenzáció
+missionReportLandedRocket█Rakéta landolt
+profit█haszon
+loss█veszteség
+
+creator_header█Új projekt
+creator_vehicleName█Jármű neve...
+creator_createProject█Projekt létrehozása
+creator_vehicleCanGoAnywhere█Ez a jármű bármilyen helyszínre mehet, ahova csak akarod.
+creator_capsuleRocket█This rocket can carry only the capsules.
+creator_spaceshipRocket█This rocket can carry only the spaceships.
+no_module_unlocked█Nincs feloldott modul.
+
+
+

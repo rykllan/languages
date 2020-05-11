@@ -1,0 +1,37 @@
+
+
+tweet_static_fire_1█A(z) {0} statikus tűzpróbája lenyűgözően jól sikerült! Kilövés hamarosan. <color=#64B5F6>#earthx</color>
+tweet_static_fire_2█A statikus tűzpróba hatalmas zajt és füstöt kelt, de leellenőrizhetjük a rakétát a kilövés előtt. {0} <color=#64B5F6>#űrvállalat</color> <color=#64B5F6>#earthx</color>
+tweet_static_fire_3█Áhh! A(z) rakéta <color=#64B5F6>#statikus_tűzpróbája</color> of {0} nem sikerült... Elveszítettük az ügyfél hasznos terhét. Ennek nem szabadna bekövetkeznie. <color=#64B5F6>#earthx</color>
+tweet_static_fire_4█Igazából nem robbanás történt, csak egy gyors és nem ütemezett szétbontási folyamat. A(z) {0} statikus tűzpróbája nem sikerül. <color=#64B5F6>#earthx</color> <color=#64B5F6>#statikus_tűzpróba</color>
+
+
+tweet_abort_1█Meg kellett szakítanunk a mai {0} küldetést a kilövés előtt néhány pillanattal. Hamarosan több infó! <color=#64B5F6>#earthx</color>
+tweet_abort_2█Az ügyfelünk problémára bukkant a hasznos terhében, így le kellett szednünk. {0} kilövés néhány napon belül! <color=#64B5F6>#earthx</color>
+
+
+tweet_deploy_1█A(z) {1} csapat hatalmas köszönetet érdemel a mai {0} kilövésért! Igazi aranykezű alkalmazottaink vannak! <color=#64B5F6>#earthx</color>
+tweet_deploy_2█A hasznos teher a kiszemelt keringési pálya felé tart (körülbelül egy órányi repüléssel). Király a(z) {1} csapat! {0} <color=#64B5F6>#earthx</color>
+tweet_deploy_3█Leválás! A hasznos teher a kiszemelt keringési pálya felé tart a(z) {0} második szintjével! <color=#64B5F6>#earthx</color>
+tweet_deploy_4█Gratulálok, {1} csapat!!
+tweet_deploy_5█Élő felvétel a szatellit működésbe hozásáról→ (ez a lehetőség hamarosan érkezik) <color=#64B5F6>#earthx</color>
+
+
+tweet_land_1█A(z) {0} földet ért! 
+tweet_land_2█A(z) {0} földet ért! Ez a(z) {1} landolásunk! <color=#64B5F6>#earthx</color>
+tweet_land_3█A(z) {0} első szintje földet ért! Teljes felvétel holnap. <color=#64B5F6>#earthx</color>
+
+
+tweet_crash_1█Nos, ez váratlan volt. {0} <color=#64B5F6>#earthx</color>
+tweet_crash_2█A  csapatunk már vizsgálja a(z) {0} rakéta  felrobbanását.
+tweet_crash_3█Nézzék, nem robbanás történt, csak egy gyors és nem ütemezett szétbontási folyamat. {0} <color=#64B5F6>#earthx</color>
+tweet_crash_4█A csapatunk rábukkant a hibára. A(z) {1} okozott valami gondot. A jövőben már nem szabad megtörténnie. {0} <color=#64B5F6>#earthx</color>
+
+
+tweet_linklink_first█Sending this tweet through space via LinkLink satellite
+tweet_linklink_worked█Whoa, it worked!!
+tweet_linklink_visible█I wonder if you can see them from Earth <color=#64B5F6>#linklink</color> <color=#64B5F6>#internet</color>
+tweet_linklink_failure█<color=#64B5F6>#linklink</color> We're doing our best. Our technicians are the best in the world! <color=#64B5F6>#failure</color> {0}
+
+
+

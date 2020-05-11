@@ -1,0 +1,14 @@
+
+
+tooltip_companyProgress█Vállalat előrehaladása
+tooltip_vehicles█Járművek
+tooltip_contracts█Szerződések
+tooltip_news█Hírek
+tooltip_company█Vállalat
+tooltip_buildMode█Építő mód
+tooltip_money█Pénz
+tooltip_skillPoints█Képességpontok
+tooltip_linkLink█LinkLink
+
+
+
