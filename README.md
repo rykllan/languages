@@ -8,6 +8,8 @@ Polish: Denis Szwarc & Adrian Wesołowski
 
 Russian: Sergey Mostepan
 
+Hungarian: Zsolt Brechler
+
 Spanish: Daniel Yah
 
 Latin American Spanish: Daniel Yah
