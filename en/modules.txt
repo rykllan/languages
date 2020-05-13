@@ -61,7 +61,7 @@ mdl_a_gridfins█Aluminium Grid Fins,Required for manual landing rockets.
 mdl_t_gridfins█Titanium Grid Fins,Required for auto landing rockets.
 mdl_m_landingLegs█Manual Landing Legs,Required for manual landing rockets.
 mdl_a_landingLegs█Automatic Landing Legs,Required for auto landing rockets.
-mdl_booster_connector█Boosters Connector,Required for sidebooster rockets. (Falcon Heavy Boi)
+mdl_booster_connector█Booster Connector,Required for sidebooster rockets. (Falcon Heavy Boi)
 
 
 ---Capsule Stuff---█---Capsule Stuff---
