@@ -63,7 +63,7 @@ news_fail_header2█A rocket turned into a huge fireball. {0} examines the cause
 news_fail_header3█{0} is in trouble. The explosion of their rocket woke up the residents of the nearby city.
 news_fail_header4█That rocket is no longer in existence. The rocket belonging to the {0} burned in the atmosphere.
 news_fail_header5█{1}: "We thought it would work this time. A rocket on fire is not what we wanted to see today. 
-news_fail_header6█"We'll be out loud!" The words of the CEO of {0} have just come true. Their rockets explode like crazy.
+news_fail_header6█"We'll be loud!" The words of the CEO of {0} have just come true. Their rockets explode like crazy.
 news_fail_header7█{1} terrorizes the sky! Successive rocket explosions threaten the financial flow of the {0}.
 news_fail_header8█{0}: The powerful explosion of our rocket threatens the company's position. {1} at the exit?
 
