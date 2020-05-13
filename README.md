@@ -2,7 +2,7 @@ This repository manages the language in an indie game called EarthX.
 
 Translators:
 
-English: Denis Szwarc (Correction by Adrian & Karolina)
+English: Denis Szwarc (Correction by Adrian & Karolina & Trifler)
 
 Polish: Denis Szwarc & Adrian Wesołowski
 
