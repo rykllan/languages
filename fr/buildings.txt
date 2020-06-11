@@ -9,8 +9,8 @@ building_simpleLP█Rampe de lancement simple
 building_advancedLP█Rampe de lancement avancée
 building_megaLP█Méga rampe de lancement
 
-building_category_all█All
-building_category_factories█Factories
+building_category_all█toute
+building_category_factories█usine
 building_category_hangars█Hangars
 
 buildingSetup_buildingName█Nom du bâtiment...
@@ -33,41 +33,39 @@ buildingSetup_manageEmployees█Gérer les employés
 
 buildingSetup_destroyBuilding█Détruire bâtiment
 
-small_factory█Small Factory
-small_factory_desc█You can build only small modules.
+small_factory█petite usine
+small_factory_desc█tu ne peut construire que de petit module
 
-medium_factory█Medium Factory
-medium_factory_desc█You can build only small and medium modules.
+medium_factory█usine moyenne
+medium_factory_desc█tu ne peut construire que des petit et moyen module
 
-large_factory█Large Factory
-large_factory_desc█You can build all kinds of vehicles except Spaceships and Superheavies.
+large_factory█grand usine
+large_factory_desc█tu peut tout construire sauf des starship ou des super heavy
+giga_factory█giga usine
+giga_factory_desc█tu peut construire tout type de veicule et satelite
 
-giga_factory█Giga Factory
-giga_factory_desc█You can build every kind of vehicles and LinkLink.
+small_hangar█petit hangar
+small_hangar_desc█tu ne peut stocker que des fusée
 
-small_hangar█Small Hangar
-small_hangar_desc█You can store only rockets.
+medium_hangar█hangar medium
+medium_hangar_desc█tu ne peut stocker que des fusée et des capsule
+large_hangar█grand hangar
+large_hangar_desc█tu peut stocker plus des fusée et capsule
 
-medium_hangar█Medium Hangar
-medium_hangar_desc█You can store only rockets and capsules.
+mega_hangar█hangar mega
+mega_hangar_desc█tu ne peut que stocker des starship et superheavy
 
-large_hangar█Large Hangar
-large_hangar_desc█You can store more rockets and capsules.
+office█bureau
+office_desc█les empoyer des bureau te donne plus de pouvoir de negotiation(tu peut proposer de plus grand prix a la negotiation).
 
-mega_hangar█Mega Hangar
-mega_hangar_desc█You can store only Spaceships and Superheavies.
+laboratory█Laboratoir
+laboratory_desc█produit des point de skill
 
-office█Office
-office_desc█Office employees are giving you more negotiation power (you can offer higher price at negotiating).
+megaLP█pad de lancement mega
+megaLP_desc█tu peut lancer des starship
 
-laboratory█Laboratory
-laboratory_desc█Produces skill points.
-
-megaLP█Mega Launch Pad
-megaLP_desc█You can launch Spaceships.
-
-terminal█LinkLink Terminal
-terminal_desc█Terminals are connecting people on Earth with LinkLinks. More terminals == more users capacity.
+terminal█terminal linklink
+terminal_desc█les terminale connecte les gens sur terre a linklink. plus de terminale == plus de capacité d'utilisateur.
 
 lp_cape█Cap Canaveral
 lp_vandenberg█Vandenberg
