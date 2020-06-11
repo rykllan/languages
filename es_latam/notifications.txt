@@ -2,7 +2,7 @@
 
 company_ceoAndCompanyMustHaveName█¡La empresa y el CEO deben tener un nombre!
 
-earthxWelcome█Oye, Elon!...oh, eres tú... <color=#64B5F6>{0}</color>!&%Veo que por fin has creado la empresa de cohetes que habías mencionado antes. ¡"<color=#64B5F6>{1}</color>" es de hecho un nombre genial! Debo decirte que eres muy valiente.&%&%Las grandes empresas que tienen el monopolio del mercado de proveedores de lanzamientos no han invertido en alguna tecnología más nueva durante años. Todavía están usando propulsores ineficientes y motores obsoletos. ¿Y si pudieran aterrizar sus cohetes en la Tierra? ¡Entonces sería posible enviar múltiples cargas útiles con sólo un cohete! Espero que puedas construir un cohete que aterrice o incluso uno de propulsores laterales en unos pocos años.&%&%¡Buena suerte!
+earthxWelcome█Oye, Elon!...oh, eres tú... <color=#64B5F6>{0}</color>!&%Veo que por fin has creado la empresa de cohetes que habías mencionado antes. ¡"<color=#64B5F6>{1}</color>" es de hecho un nombre genial! Debo decirte que eres muy valiente.&%&%Las grandes empresas que tienen el monopolio del mercado de proveedores de lanzamientos no han invertido en alguna tecnología más nueva durante años. Todavía están usando propulsores ineficientes y motores obsoletos. ¿Y si pudieran aterrizar sus cohetes en la Tierra? ¡Entonces sería posible enviar múltiples cargas con sólo un cohete! Espero que puedas construir un cohete que aterrice o incluso uno de propulsores laterales en unos pocos años.&%&%¡Buena suerte!
 
 iss_CRSHeader█Misiones de reabastecimiento comercial de la EEI
 iss_CRSContent█Oye!&%&%Has demostrado que puedes lanzar cohetes y cápsulas de carga. Por esta razón fuiste elegido por el creador de este juego para abastecer regularmente a la estación espacial internacional por varios años.&%&%Estás obligado a hacer esto porque no he programado la opción para rehusarse, y el juego sin esta misión sería... aburrido.
@@ -10,24 +10,24 @@ iss_CRSContent█Oye!&%&%Has demostrado que puedes lanzar cohetes y cápsulas de
 iss_CCPHeader█Programa de la tripulación comercial de la EEI
 iss_CCPContent█Oye!&%&%Tu empresa ha crecido mucho desde su fundación. Como sea, ¿alguna vez te imaginaste como el CEO de una de las mayores compañías espaciales del mundo? Bueno, yo tampoco.&%&%Pero el juego continúa y veo que tienes muchas cosas en la cabeza, así que te doy 6 misiones adicionales para la tripulación (el creador del juego detectó que ya tienes la cápsula necesaria). Las misiones de la tripulación deben ser enviadas regularmente a la estación espacial internacional.&%&%Oh, casi lo olvido, asegúrate de que tu cohete no explote, o será malo si quemas a la gente, lol.
 
-iss_catHeader█Please help!
-iss_catContent█My cat, Balwina, is in very bad condition... I have to stay on the ISS for another 4 months and I'm very afraid, that I will never be able to met her again!! &%&%Because of this fact, PLEASE put it on your next ISS mission :( &%&%Please consider it and thank you, Teresa
+iss_catHeader█Ayuda porfavor!
+iss_catContent█Mi gato, Balwina, esta en muy mal estado... Y yo tengo que quedarme en la EEI por otros 4 meses y estoy muy preocupada, que no la podre ver de nuevo!! &%&%Por ello, PORFAVOR ponla en tu próxima misión a la EEI:( &%&%Porfavor consideralo y muchas gracias, Teresa.
 
-iss_technicianHeader█Emergency on the ISS
-iss_technicianContent█Good evening, &%&%There are currently 4 astronauts on the International Space Station. Their lives are in danger because of medium-sized leakage in one of the modules. &%&%We know, that your company does not have any crew capsules, that's why you will need to launch a technician in a cargo capsule. &%&%Please do it as fast as you can AND don't talk with the press about that flight. No one can know that we're about to launch a human in a cargo capsule! &%&%Thanks for your cooperation, you will get paid after the mission.
+iss_technicianHeader█Emergencia en la EEI
+iss_technicianContent█Buenas tardes, &%&%Actualmente hay 4 astronautas en la Espación Espacíal Internacionál. Sus vidas estan en peligro debido a una fuga mediana en uno de los modulos. &%&%Sabemos que tu compañia no tiene capsulas de tripulacion, por eso tendras que usar una capsula de carga. &%&%Porfavor hazlo tan rapido como puedas Y no hables con la prensa sobre el vuelo. Nadie puede saber que mandaremos una persona en una cápsula de carga! &%&%Gracias por la coperación, seras remunerado cuando la misión termine.
 
 teslaRoadsterHeader█Misión del Tesla Roadster
 teslaRoadsterContent█Lanza un auto al espacio porque pues...¿por qué no?
 
-contract_newPayloadsHeader█¡Nuevas cargas útiles!
-contract_newPayloadsContent█Estas cargas útiles fueron construidas y probadas:&%{0}&%Ahora puedes lanzarlas.&%{1}
+contract_newPayloadsHeader█¡Nuevas cargas disponibles!
+contract_newPayloadsContent█Estas cargas fueron construidas y probadas:&%{0}&%Ahora puedes lanzarlas.&%{1}
 contract_goLaunchThemOkNow█Realmente me refiero a ahora&%&%¿por qué aún sigues aqui? lol&%&%Bien, solo ve a lanzarlos o borraré tus cohetes.
 
 contract_hurryUpHeader█¡Apresúrate!
-contract_hurryUpContent█Necesitas completar estas cargas útiles lo antes posible:&%{0}&%&%¿Qué estás esperando? Tus cohetes no son autónomos, ¡ve y lánzalos!
+contract_hurryUpContent█Necesitas lanzar estas cargas lo antes posible:&%{0}&%&%¿Qué estás esperando? Tus cohetes no son autónomos, ¡ve y lánzalos!
 
 contract_badBoyHeader█Chico malo. (o chica)
-contract_badBoyContent█Se te multó con el 15% de cada carga útil porque no la lanzaste a tiempo:&%{0}&%&%El mundo aún no se acaba. ¡Ve y consigue más contratos! :)
+contract_badBoyContent█Se te multó con el 15% de cada carga porque no la lanzaste a tiempo:&%{0}&%&%El mundo aún no se acaba. ¡Ve y consigue más contratos! :)
 
 staticFireIssueFound█Tus ingenieros han encontrado un problema en tu cohete y lo han solucionado.
 
@@ -38,8 +38,8 @@ cantRepairSoManyVehicles█¡No puedes reparar tantos vehículos al mismo tiempo
 
 cantRemoveProject█No puedes quitar este proyecto porque hay vehículos en él.
 
-noHangars█You can't store this vehicle because there's no space in your hangar or you need to build a <color=#64B5F6>{0}</color> in order to store that {1}.
-noFactories█{0} can't be built because you need a {2} to be able to build {1} modules.
+noHangars█No puedes guardar este vehículo por que no tienes espacio en tus hangares o tienes que construir <color=#64B5F6>{0}</color> para guardarlo {1}.
+noFactories█{0} no puede ser construido por que no tienes {2} capaces de hacer {1} módulos.
 
 projectMustHaveName█El proyecto debe tener un nombre. ¿Alguna vez has visto un cohete sin nombre?
 projectSameName█{0} ya existe. ¿Quizá nombralo <color=yellow><b><size=20>'{0} Max Pro Ultra Slim'?
@@ -51,9 +51,9 @@ notEnoughSkillPoints█¡Puntos de habilidad insuficientes!
 congratulations█¡Felicidades!
 congratulations_content█¡Felicidades por tu primer vuelo exitoso!&%Nos gustaría informarte que tu empresa recibió fondos del gobierno para continuar con la investigación y el desarrollo.&%<color=#64B5F6><b>No los desperdicies</color>.
 
-buildingWorking█Esta construcción esta funcionando ahora.
+buildingWorking█Esta estructura esta en construcción.
 hangarStoring█Este hangar está almacenando vehículos.
-rocketLaunching█Un cohete está siendo lanzado desde esta plataforma de lanzamiento ahora.
+rocketLaunching█Un cohete está siendo lanzado desde esta plataforma ahora.
 
 cantBuildOffices█No puedes construir tantas oficinas.
 cantBuildFactories█No puedes construir tantas fábricas.
