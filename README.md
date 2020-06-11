@@ -10,10 +10,10 @@ Russian: Sergey Mostepan
 
 Hungarian: Zsolt Brechler
 
-Spanish: Daniel Yah, Grimidk
+Spanish: Daniel Yah & Juan "Grimidk" Mendez
 
 Latin American Spanish: Daniel Yah
 
-French: Paola Sanchez, Clovis Chateau
+French: Paola Sanchez & Clovis Chateau
 
 Big thanks to Krzysztof Gmyr for organizing the team & helping with the corrections!
