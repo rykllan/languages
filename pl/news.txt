@@ -170,3 +170,26 @@ news_iss_2011q1_header█Ostatnia misja wahadłowca Discovery. Leonardo dołącz
 news_iss_2011q1_content█Dziś o godzinie 14:50 moduł Leonardo (PMM) znajdujący się na pokładzie wahadłowca Discovery zacumowanego do ISS został na stałe przymocowany do węzła modułu Harmony. &%&%Wielofunkcyjny Moduł Logistyczny (MPLM) Leonardo to duży hermetyczny kontener używany w misjach zaopatrzeniowych wahadłowców do przewozu ładunków do i z ISS. Po misji STS-131 Leonardo został przebudowany w Stały Moduł Wielofunkcyjny (PMM). Przebudowa pozwoliła na stałe połączenie z ISS przez nieograniczony czas - tym samym Leonardo będzie pełnił funkcję dodatkowego magazynu na Międzynarodowej Stacji Kosmicznej.
 
 
+
+
+
+news_flat_earth_contract_name█Prawda
+news_flat_earth_contract_desc█Dzień dobry,&%&%Nazywam się Murphy. Jestem prezesem Amerykańskiego Towarzystwa Płaskiej Ziemi. Chcemy raz na zawsze obalić mit o tym, że Ziemia jest okrągła. Jestem zainteresowany lotem w kosmos, nagraniem filmów i zrobieniem zdjęć.&%&%Czy {0} jest w stanie przyjąć to zlecenie?
+
+news_flat_earth_accepted_header█Płaskoziemcy lecą w kosmos - chcą udowodnić wszystkim, że nasza planeta jest płaska.
+news_flat_earth_accepted_content█Na dzisiejszej konferencji prasowej, Murphy poinformował, że sukcesem zakończyła się zbióra pieniedzy na jego lot w kosmos.&%&%Murphy zakupił swój kosmiczny bilet w firmie {0} - lot odblędzie się w ciągu najbliższego roku.
+
+news_flat_earth_declined_header█{0} oskarżany o ukrywanie prawdy. Odmówił lotu w kosmos prezesowi Towarzystwa Płaskiej Ziemi.
+news_flat_earth_declined_content█"{0} dostał od nas wspaniałą ofertę. Nie skorzystał z niej - możemy mieć więc pewność, co przed nami ukrywa" - tak całą sytuację skomentował Murphy, prezes Amerykańskiego Towarzystwa Płaskiej Ziemi.&%&%Loty w kosmos nie dla wszystkich? Prezes {0} nie skomentował sytuacji.
+
+news_flat_earth_ready_header█Kosmiczne szkolenie zakończone. Murphy sprawdzi, czy ziemia jest płaska.
+news_flat_earth_ready_content█{1}, prezes kosmicznej firmy {0} potwierdził dziś, że prezes Towarzystwa Płaskiej Ziemi jest gotowy do lotu.&%&%Czy wszyscy w końcu poznamy prawdę?
+
+news_flat_earth_success_header█Misja {0} z Murphy na pokładzie udana! Co zobaczył prezes z pokładu?
+news_flat_earth_success_content█Turystyczna misja z prezesem Towarzystwa Płaskiej Ziemi zakończyła się sukcesem. Po trwającym kilkanaście dni locie, Murphy nie chciał odpowiadać na pytania dziennikarzy. Wyglądający na smutnego prezes od razu pojechał do hotelu.&%&%Jego telefon milczy.
+
+news_flat_earth_afterSuccess_header█Murphy publicznie przeprasza.
+news_flat_earth_afterSuccess_content█"Zobaczyłem to na własne oczy! Ona nie jest płaska. Jest jak piłka, rozumiecie to? Tam u góry, patrząc na naszą planetę... zrozumiałem, że całe życie dałem się oszukiwać. I oszukiwałem innych. Przepraszam." - powiedział zanosząc się łzami były prezes Towarzystwał Płaskiej Ziemi w filmie opublikowanym na swoim nowym kanale YouTube.&%&%Mira, nowo wybrana prezes stwierdziła, że Murphy kłamie, lub został oszukany przez {1}. "Co, jeśli rakieta zamiast okien, miała monitory i wyświetlała obraz okrągłej ziemi?"
+
+news_flat_earth_failure_header█Rakieta razem z płaskoziemcem Murphy wybuchła przed wejściem na orbitę. Badane są przyczyny katastrofy.
+news_flat_earth_failure_content█Na pokładzie rakiety znajdował się Murphy, który dzięki kosmicznej wyprawie miał zdobyć ostateczny dowód na to, że Ziemia jest płaska.&%&%Wiceprezes Towarzystwa Płaskiej Ziemi wydał krótkie oświadczenie: "Na pewno rozbiła się o kopułę. Murphy jest bohaterem, poświęcił swoje zycie, aby pokazać nam prawdę."
