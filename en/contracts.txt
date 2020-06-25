@@ -63,4 +63,6 @@ contract_balwina█meow... Meow... MEOW!!!
 contract_technician█Emergency
 payload_technician█Technician
 
+payload_flatEarther█Murphy (Flatearther)
+
 
