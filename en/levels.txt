@@ -69,12 +69,42 @@ progress_mediumHangar█[<color=#E74C3C>BUILDING</color>] Medium Hangar
 progress_largeHangar█[<color=#E74C3C>BUILDING</color>] Large Hangar
 progress_megaHangar█[<color=#E74C3C>BUILDING</color>] Mega Hangar
 
-progress_linkLinkTerminal█[<color=#E74C3C>BUILDING</color>] LinkLink Terminal
+progress_linkLinkSmallTerminal█[<color=#E74C3C>BUILDING</color>] LinkLink Small Terminal
+progress_linkLinkLargeTerminal█[<color=#E74C3C>BUILDING</color>] LinkLink Large Terminal
+
 progress_megaLaunchPad█[<color=#E74C3C>BUILDING</color>] Mega Launch Pad
 
-progress_linkLink15█[<color=#81C784>FEATURE</color>] LinkLink (15)
+progress_smallHotel█[<color=#E74C3C>BUILDING</color>] Small Hotel
+progress_mediumHotel█[<color=#E74C3C>BUILDING</color>] Medium Hotel
+progress_largeHotel█[<color=#E74C3C>BUILDING</color>] Large Hotel
+
+progress_mediumGreenhouse█[<color=#E74C3C>BUILDING</color>] Medium Greenhouse
+progress_largeGreenhouse█[<color=#E74C3C>BUILDING</color>] Large Greenhouse
+
+progress_smallSolar█[<color=#E74C3C>BUILDING</color>] Small Solar
+progress_mediumSolar█[<color=#E74C3C>BUILDING</color>] Medium Solar
+
+progress_smallWater█[<color=#E74C3C>BUILDING</color>] Small Water Storage
+progress_mediumWater█[<color=#E74C3C>BUILDING</color>] Medium Water Storage
+progress_largeWater█[<color=#E74C3C>BUILDING</color>] Large Water Storage
+
+progress_smallFuel█[<color=#E74C3C>BUILDING</color>] Small Fuel Storage
+progress_mediumFuel█[<color=#E74C3C>BUILDING</color>] Medium Fuel Storage
+progress_largeFuel█[<color=#E74C3C>BUILDING</color>] Large Fuel Storage
+
+progress_waterFactory█[<color=#E74C3C>BUILDING</color>] Water Factory
+progress_fuelFactory█[<color=#E74C3C>BUILDING</color>] Fuel Factory
+progress_steelFactory█[<color=#E74C3C>BUILDING</color>] Steel Factory
+
+progress_landingZone█[<color=#E74C3C>BUILDING</color>] Landing Zone
+
 progress_linkLink30█[<color=#81C784>FEATURE</color>] LinkLink (30)
-progress_linkLink60█[<color=#81C784>FEATURE</color>] LinkLink (60)
+progress_materials20█[<color=#81C784>FEATURE</color>] Materials (20)
+progress_oxygen40█[<color=#81C784>FEATURE</color>] Oxygen (40)
+progress_martians15█[<color=#81C784>FEATURE</color>] Martians (15)
+progress_cybercar3█[<color=#81C784>FEATURE</color>] Cybercar (3)
+progress_nuke3█[<color=#81C784>FEATURE</color>] Nuke (3)
+
 progress_linkLinkCapacity50█[<color=#81C784>LinkLink</color>] LinkLink Capacity +50%
 progress_linkLinkCapacity25█[<color=#81C784>LinkLink</color>] LinkLink Capacity +25%
 progress_linkLinkCosts█[<color=#81C784>LinkLink</color>] LinkLink Production Costs -25%
