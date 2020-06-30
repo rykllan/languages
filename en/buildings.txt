@@ -66,8 +66,11 @@ laboratory_desc█Produces skill points.
 megaLP█Mega Launch Pad
 megaLP_desc█You can launch Spaceships.
 
-terminal█LinkLink Terminal
-terminal_desc█Terminals are connecting people on Earth with LinkLinks. More terminals == more users capacity.
+smallTerminal█LinkLink Small Terminal
+smallTerminal_desc█Terminals are connecting people on Earth with LinkLinks. More terminals == more users capacity.
+
+largeTerminal█LinkLink Large Terminal
+largeTerminal_desc█Terminals are connecting people on Earth with LinkLinks. More terminals == more users capacity.
 
 landingZone█Landing Zone
 landingZone_desc█Do I really need to describe it?
