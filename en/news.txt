@@ -175,7 +175,7 @@ news_iss_2011q1_content█Today at 2:50 p.m., the Leonardo module (PMM) that is 
 
 
 news_flat_earth_contract_name█The Truth
-news_flat_earth_contract_desc█Good morning,&%&%My name is Murphy. I'm the president of the American Flat Earth Society. We want to disprove once and for all the myth about round Earth. I'm interested in flying into space, making movies and taking pictures.&%&%Can {0} accept this offer?
+news_flat_earth_contract_desc█Good morning,&%&%My name is Murphy. I'm the president of the American Flat Earth Society. We want to disprove once and for all the myth about round Earth. I'm interested in flying into space, making movies and taking pictures.&%&%Can you accept this offer?
 
 news_flat_earth_accepted_header█The flatearthers are flying into space - they want to prove to everyone that our planet is flat.
 news_flat_earth_accepted_content█At today's press conference, Murphy announced that he was successful in collecting the money for his space flight.&%&%Murphy bought his space ticket from the {0} - the flight will take place within the next year.
