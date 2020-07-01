@@ -38,24 +38,42 @@ progress_launchSmallRockets█Launch {0} LEO rocket(s)
 progress_launchMediumRockets█Launch {0} MEO rocket(s)
 progress_launchLargeRockets█Launch {0} GEO rocket(s)
 progress_launchSuperheavyRockets█Launch {0} spaceship(s)
+progress_launchToMars█Launch {0} spaceship(s) to Mars
 progress_launchCargoCapsules█Launch {0} cargo capsule(s)
 progress_launchCrewCapsules█Launch {0} crew capsule(s)
+
 progress_landRockets█Land with {0} rocket(s)
+progress_landOnMars█Land on Mars {0} spaceship(s)
 progress_reuseRockets█Reuse {0} rocket(s)
+progress_catchFairings█Catch {0} fairings!
+
 progress_launchPayloadsAtOnce█Launch {0} payloads at once
 progress_launchFromOwnLaunchPad█Launch {0} rocket(s) from your own launch pad!
+
 progress_launchTesla█Launch a car!
+progress_launchCat█Launch a cat!
+progress_launchTechnician█Launch a technician!
+progress_launchPrologue█Launch SPATE's Prologue EP!
+progress_launchFlatearther█Launch Flatearther Murphy!
+progress_launchMattRescueMission█Launch Matt Rescue Mission!
+progress_launchMarsCamera█Launch Mars Camera!
+
 progress_buildFactories█Build {0} factorie(s)!
 progress_buildOffices█Build {0} office(s)!
 progress_buildLaboratories█Build {0} laboratorie(s)!
 progress_buildMegaLaunchPads█Build {0} mega launch pad(s)!
+progress_buildMarsBuildings█Build {0} building(s) on Mars!
+progress_buildFuelFactories█Build {0} fuel factory(ies)!
+progress_buildSteelFactories█Build {0} steel factory(ies)!
+progress_buildLandingZones█Build {0} landing zone(s)!
+
 progress_getContracts█Get {0} contract(s)
-progress_launchCat█Launch a cat!
-progress_launchTechnician█Launch a technician!
-progress_catchFairings█Catch {0} fairings!
 progress_launchLinkLinks█Launch LinkLinks: {0}
 progress_reachLinkLinkUsers█LinkLink users: {0}
 progress_hireEmployees█Hire employees: {0}
+progress_martiansCount█Have {0} People on Mars
+progress_marsTerraform█Terraform Mars in {0}%
+progress_marsTransportOxygen█Transport {0} Oxygen units to Mars
 
 progress_maxOffices█Max Offices:
 progress_multiplePayloads█[<color=#81C784>FEATURE</color>] &%Launch many payloads at once!
