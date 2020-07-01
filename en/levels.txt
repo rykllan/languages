@@ -20,8 +20,18 @@ levelTitle16█Human Factor
 levelTitle17█Going Big
 levelTitle18█"We're going to make it happen. As God is my bloody witness, I'm hell-bent on making it work." - Elon Musk
 levelTitle19█Big Fu*king Rocket
-levelTitle20█Early Access Endgame (More soon :))
-levelTitle21█https://youtu.be/CfqCQQe2E2s
+levelTitle20█Going Interplanetary
+levelTitle21█Spark
+levelTitle22█Infrastructure
+levelTitle23█Multi-Planetary Species
+levelTitle24█Expansion
+levelTitle25█Route
+levelTitle26█Cybermars
+levelTitle27█Sustainable City
+levelTitle28█Nuclear Bomb Goes Brrrrr
+levelTitle29█Too hot
+levelTitle30█Too cold
+levelTitle31█Home 2.0
 
 progress_unlockAllModules█Unlock all modules
 progress_launchSmallRockets█Launch {0} LEO rocket(s)
