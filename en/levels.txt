@@ -58,11 +58,11 @@ progress_reachLinkLinkUsers█LinkLink users: {0}
 progress_hireEmployees█Hire employees: {0}
 
 progress_maxOffices█Max Offices:
-progress_multiplePayloads█[<color=#81C784>FEATURE</color>]&%Launch many payloads at once!
-progress_fundraiserHats█[<color=#FF9F43>FUNDRAISING</color>]&%Sell hats!
-progress_fundraiserBricks█[<color=#FF9F43>FUNDRAISING</color>]&%Sell bricks!
-progress_fundraiserNAF█[<color=#FF9F43>FUNDRAISING</color>]&%Sell (not) flamethrowers!
-progress_fundraiserRocketquilla█[<color=#FF9F43>FUNDRAISING</color>]&%Sell rocketquillas!
+progress_multiplePayloads█[<color=#81C784>FEATURE</color>] &%Launch many payloads at once!
+progress_fundraiserHats█[<color=#FF9F43>FUNDRAISING</color>] &%Sell hats!
+progress_fundraiserBricks█[<color=#FF9F43>FUNDRAISING</color>] &%Sell bricks!
+progress_fundraiserNAF█[<color=#FF9F43>FUNDRAISING</color>] &%Sell (not) flamethrowers!
+progress_fundraiserRocketquilla█[<color=#FF9F43>FUNDRAISING</color>] &%Sell rocketquillas!
 
 progress_issSupplierMission█Special Mission: <b><color=#64B5F6>ISS Supplier
 progress_issCrewMission█Special Mission: <b><color=#64B5F6>ISS Commercial Crew
@@ -73,18 +73,18 @@ progress_truthMission█Special Mission: <b><color=#64B5F6>The Truth
 progress_mattMission█Special Mission: <b><color=#64B5F6>Matt
 progress_spateMission█Special Mission: <b><color=#64B5F6>Prologue EP
 
-progress_smallFactory█[<color=#E74C3C>BUILDING</color>]&%Small Factory
-progress_mediumFactory█[<color=#E74C3C>BUILDING</color>]&%Medium Factory
-progress_largeFactory█[<color=#E74C3C>BUILDING</color>]&%Large Factory
-progress_gigaFactory█[<color=#E74C3C>BUILDING</color>]&%Giga Factory
+progress_smallFactory█[<color=#E74C3C>BUILDING</color>] &%Small Factory
+progress_mediumFactory█[<color=#E74C3C>BUILDING</color>] &%Medium Factory
+progress_largeFactory█[<color=#E74C3C>BUILDING</color>] &%Large Factory
+progress_gigaFactory█[<color=#E74C3C>BUILDING</color>] &%Giga Factory
 
-progress_smallHangar█[<color=#E74C3C>BUILDING</color>]&%Small Hangar
-progress_mediumHangar█[<color=#E74C3C>BUILDING</color>]&%Medium Hangar
-progress_largeHangar█[<color=#E74C3C>BUILDING</color>]&%Large Hangar
-progress_megaHangar█[<color=#E74C3C>BUILDING</color>]&%Mega Hangar
+progress_smallHangar█[<color=#E74C3C>BUILDING</color>] &%Small Hangar
+progress_mediumHangar█[<color=#E74C3C>BUILDING</color>] &%Medium Hangar
+progress_largeHangar█[<color=#E74C3C>BUILDING</color>] &%Large Hangar
+progress_megaHangar█[<color=#E74C3C>BUILDING</color>] &%Mega Hangar
 
-progress_linkLinkSmallTerminal█[<color=#E74C3C>BUILDING</color>]&%LinkLink Small Terminal
-progress_linkLinkLargeTerminal█[<color=#E74C3C>BUILDING</color>]&%LinkLink Large Terminal
+progress_linkLinkSmallTerminal█[<color=#E74C3C>BUILDING</color>] &%LinkLink Small Terminal
+progress_linkLinkLargeTerminal█[<color=#E74C3C>BUILDING</color>] &%LinkLink Large Terminal
 
 progress_megaLaunchPad█[<color=#E74C3C>BUILDING</color>] &%Mega Launch Pad
 
