@@ -12,12 +12,12 @@ type_body█Cuerpo
 type_parachutes█Paracaídas
 type_sensors█Sensores
 type_antenna█Antena
-type_utility█Utility
+type_utility█Utilidades
 
-module_factory_small█Small
-module_factory_medium█Medium
-module_factory_large█Large
-module_factory_giga█Giga
+module_factory_small█Pequeño
+module_factory_medium█Mediano
+module_factory_large█Grande
+module_factory_giga█Gigante 
 
 ---Engines---█---Motores---
 
@@ -52,7 +52,7 @@ mdl_s_fairings█Carenado pequeño, Requerido para cohetes pequeños.
 mdl_m_fairings█Carenado mediano, Requerido para cohetes medianos.
 mdl_l_fairings█Carenado grande, Requerido para cohetes grandes.
 mdl_vc_fairings█Conector de vehículo, Requerido para cohetes de cápsula o naves espaciales.
-mdl_fairingParachutes█Fairing Parachutes,Reusable rocket is required to recover the fairings.
+mdl_fairingParachutes█Fairing Parachutes,Requiere un cohete reusable para recuperar carenado.
 
 
 ---Landing Stuff---█---Material de aterrizaje---
@@ -84,8 +84,8 @@ mdl_methane_fueltank█Tanque de combustible de metano, Requerido para naves esp
 mdl_methane_engine█6 Motores de metano, Requerido para naves espaciales.
 mdl_stainlesssteel_structure█Cuerpo de acero inoxidable, Requerido para naves espaciales.
 
-mdl_cargoUtility█Cargo Utility,Cargo Spaceship Module
-mdl_crewUtility█Crew Utility,Crew Spaceship Module
-mdl_fuelUtility█Fuel Utility,Tanker Spaceship
+mdl_cargoUtility█Cargo Utility,Módulo de carga de Nave Espacial.
+mdl_crewUtility█Crew Utility,Módulo de tripulación de Nave Espacial.
+mdl_fuelUtility█Fuel Utility,Nave Espacial Tanquero. 
 
 
