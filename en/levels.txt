@@ -32,6 +32,7 @@ levelTitle28█Nuclear Bomb Goes Brrrrr
 levelTitle29█Too hot
 levelTitle30█Too cold
 levelTitle31█Home 2.0
+levelTitle32█https://youtu.be/CfqCQQe2E2s
 
 progress_unlockAllModules█Unlock all modules
 progress_launchSmallRockets█Launch {0} LEO rocket(s)
