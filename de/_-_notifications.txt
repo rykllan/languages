@@ -1,0 +1,65 @@
+
+
+company_ceoAndCompanyMustHaveName█Company and the CEO must have a name!
+
+earthxWelcome█Hey, Elo- oh, this is you... <color=#64B5F6>{0}</color>!&%I see you've finally set up the rocket company you've mentioned before. "<color=#64B5F6>{1}</color>" is actually a cool name! I have to tell you, you're very brave.&%&%Big companies that have a monopoly on the launch provider market have not invested in some newer technology for years. They're still using inefficient boosters and obsolete engines. What if they could land their rockets back on Earth? Then it would be possible to send multiple payloads with only 1 rocket! I hope you can build a landing rocket or even a sidebooster one in a few years.&%&%Good luck!
+
+iss_CRSHeader█ISS Commercial Resupply Services
+iss_CRSContent█Hey!&%&%You've proven you can launch rockets and cargo capsules. For this reason you were chosen by the creator of this game to regularly supply the international space station for several years.&%&%You are forced to do this because I have not programmed the option to refuse, and the game without this mission would be... boring.
+
+iss_CCPHeader█ISS Commercial Crew Program
+iss_CCPContent█Hey!&%&%Your company has grown very much since its foundation. Anyway, have you ever imagined yourself as the CEO of one of the biggest space companies in the world? Well, neither have I.&%&%But the game goes on and I see that you have a lot on your mind, so I give you 6 additional crew missions (the creator of the game detected that you already have the necessary capsule). Crew missions must be sent regularly to the international space station.&%&%Oh, I almost forgot, make sure your rocket doesn't explode, or it'll be bad if you burn people, lol.
+
+iss_catHeader█Please help!
+iss_catContent█My cat, Balwina, is in very bad condition... I have to stay on the ISS for another 4 months and I'm very afraid, that I will never be able to met her again!!&%&%Because of this fact, PLEASE put it on your next ISS mission :(&%&%Please consider it and thank you,&%&%Teresa
+
+iss_technicianHeader█Emergency on the ISS
+iss_technicianContent█Good evening,&%&%There are currently 4 astronauts on the International Space Station. Their lives are in danger because of medium-sized leakage in one of the modules.&%&%We know, that your company does not have any crew capsules, that's why you will need to launch a technician in a cargo capsule.&%&%Please do it as fast as you can AND don't talk with the press about that flight. No one can know that we're about to launch a human in a cargo capsule!&%&%Thanks for your cooperation, you will get paid after the mission.
+
+teslaRoadsterHeader█Car in space Mission
+teslaRoadsterContent█Launch a car into space because why not!
+
+contract_newPayloadsHeader█New payloads!
+contract_newPayloadsContent█These payloads were constructed and tested:&%{0}&%Now you can launch them.&%{1}
+contract_goLaunchThemOkNow█I mean really now.&%&%Why are you still here lol&%&%Ok just go launch them or I will delete your rockets
+
+contract_hurryUpHeader█Hurry up!
+contract_hurryUpContent█You need to complete these payloads as soon as possible:&%{0}&%&%What are you waiting for? Your rockets aren't autonomous, go and launch them!
+
+contract_badBoyHeader█Bad boy. (or girl)
+contract_badBoyContent█You were fined 15% of each payload because you didn't launch these payloads in time:&%{0}&%&%The world isn't over yet. Go and grab more contracts! :)
+
+staticFireIssueFound█Your engineers have found an issue in your rocket and they have fixed it.
+
+cantBuildNoFactories█You need factories to build rockets!
+cantBuildSoManyVehicles█You can't build so many vehicles at the same time!
+cantLaunchSoManyVehicles█You can't launch so many rockets at the same time!
+cantRepairSoManyVehicles█You can't repair so many vehicles at the same time!
+
+cantRemoveProject█You can't remove this project because there are vehicles in it.
+
+noHangars█You can't store this vehicle because there's no space in your hangar or you need to build a <color=#64B5F6>{0}</color> in order to store that {1}.
+noFactories█{0} can't be built because you need a {2} to be able to build {1} modules.
+
+projectMustHaveName█Project must have a name. Have you ever seen a rocket without a name?
+projectSameName█{0} already exists. Maybe name it <color=yellow><b><size=20>'{0} Max Pro Ultra Slim'?
+
+moduleUnlocked█Module unlocked!
+moduleUpgraded█Module upgraded!
+notEnoughSkillPoints█Not enough skill points!
+
+congratulations█Congratulations!
+congratulations_content█Congratulations on your first successful flight!&%We would like to inform you that your company was granted funds from the government for further research and development.&%<color=#64B5F6><b>Don't waste them</color>.
+
+buildingWorking█This building is working now.
+hangarStoring█This hangar is storing vehicles.
+rocketLaunching█A rocket is launching from this launchpad now.
+
+cantBuildOffices█You can't build so many offices.
+cantBuildFactories█You can't build so many factories.
+
+cantBuildSimpleLP█You can't build simple launch pads now.
+cantBuildAdvancedLP█You can't build advanced launch pads now.
+cantBuildMegaLP█You can't build mega launch pads now.
+
+
