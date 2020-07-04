@@ -53,7 +53,7 @@ fairingRecovery█Fairing recovery
 
 landingNotSupported█Landung nich Untestützt!&%Benötigt:<size=12><b>&%-Grid Fins & Landebeine&%-Batterie&%-GPS (für automatische Wiederverwendung)&%-4 oder 9 Fortgeschrittener Antrieb</b></size>&%
 capsulesNotSupported█Kapsel nicht Unterstützt!&%Benötigt:<size=12><b>&%-Batterie&%-GPS&%-4 or 9 Fortgeschrittener Antrieb</b></size>&%
-heavyNotSupported█Heavy Rakete nicht Unterstützt!&%Benötigt:<size=12><b>&%-Rakete mit automatischer Wiederverwendung</b></size>&%
+heavyNotSupported█Schwere Rakete nicht Unterstützt!&%Benötigt:<size=12><b>&%-Rakete mit automatischer Wiederverwendung</b></size>&%
 fairingCatchingNotSupported█Fairing catching nicht Unterstützt!&%Benötigt:<size=12><b>&%-Rakete mit automatischer Wiederverwendung</b></size>&%
 
 payload█Nutzlast
@@ -107,7 +107,7 @@ missionReportMissionResult█Missionsergebnis
 missionReportLaunch█Start
 missionReportDeploy█Deploy
 missionReportLanding█Landung
-missionReportFairingLanding█Verkleidungs Landung
+missionReportFairingLanding█Verkleidungslandung
 missionReportSecondVehicleLanding█Zweitfahrzeuglandung
 
 missionReportMissionIncome█Missionseinnahmen

@@ -7,7 +7,7 @@ tooltip_news█News
 tooltip_company█Unternehmen
 tooltip_buildMode█Baumodus
 tooltip_money█Geld
-tooltip_skillPoints█Skill Punkte
+tooltip_skillPoints█Skillpunkte
 tooltip_linkLink█LinkLink
 
 

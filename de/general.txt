@@ -20,11 +20,11 @@ enterText█Text eingeben...
 
 notification█Mitteilung
 
-payload_size_verySmall█Very Small
-payload_size_small█Small
-payload_size_medium█Medium
-payload_size_large█Large
-payload_size_veryLarge█Very Large
+payload_size_verySmall█Sehr Klein
+payload_size_small█Klein
+payload_size_medium█Mittel
+payload_size_large█Groß
+payload_size_veryLarge█Sehr Groß
 orbit_so█Suborbit
 orbit_leo█LEO
 orbit_meo█MEO

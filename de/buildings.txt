@@ -66,8 +66,62 @@ laboratory_desc█Produziert Skillpunkte.
 megaLP█Mega Startrampe
 megaLP_desc█Du kannst Raumschiffe starten.
 
-terminal█LinkLink Terminal
-terminal_desc█Terminals verbinden Leute auf der Erde mit LinkLinks. Mehr Terminals == Mehr Benutzerkapazität.
+smallTerminal█LinkLink kleines Terminal
+smallTerminal_desc█Terminals verbinden Leute auf der Erde mit LinkLinks. Mehr Terminals == Mehr Benutzerkapazität.
+
+largeTerminal█LinkLink großes Terminal
+largeTerminal_desc█Terminals verbinden Leute auf der Erde mit LinkLinks. Mehr Terminals == Mehr Benutzerkapazität.
+
+landingZone█Landezone
+landingZone_desc█Muss ich das wirklich erläutern?
+
+smallHotel█Kleines Hotel
+smallHotel_desc█Marsianer leben an Orten wie diesem.
+
+mediumHotel█Mittleres Hotel
+mediumHotel_desc█Mehr Marsianer leben an Orten wie diesem.
+
+largeHotel█Großes Hotel
+largeHotel_desc█Sehr viele Marsianer leben an Orten wie diesem.
+
+waterFactory█Wasserfabrik
+waterFactory_desc█Produziert Wasser und Sauerstoff.
+
+fuelFactory█Treibstofffabrik
+fuelFactory_desc█Produziert Treibstoff.
+
+steelFactory█Stahlfabrik
+steelFactory_desc█Produziert Materialien und Cybercars.
+
+mediumGreenhouse█Mittleres Gewächshaus
+mediumGreenhouse_desc█Produziert Nahrung und Sauerstoff.
+
+largeGreenhouse█Großes Gewächshaus
+largeGreenhouse_desc█Produziert mehr Nahrung und Sauerstoff.
+
+smallSolar█Kleines Solarpanel
+smallSolar_desc█Produziert Elektrizität.
+
+mediumSolar█Mittleres Solarpanel
+mediumSolar_desc█Produziert mehr Elektrizität.
+
+smallWaterStorage█Kleiner Wassertank
+smallWaterStorage_desc█Speichert Wasser und Sauerstoff.
+
+mediumWaterStorage█Mittlerer Wassertank
+mediumWaterStorage_desc█Speichert mehr Wasser und Sauerstoff.
+
+largeWaterStorage█Großer Wassertan
+largeWaterStorage_desc█Speichert viel Wasser und Sauerstoff.
+
+smallFuelStorage█Small Fuel Storage
+smallFuelStorage_desc█Speichert Treibstoff.
+
+mediumFuelStorage█Mittlerer Treibstofftank
+mediumFuelStorage_desc█Speichert mehr Treibstoff.
+
+largeFuelStorage█Großer Treibstofftank
+largeFuelStorage_desc█Speichert viel Treibstoff.
 
 lp_cape█Cape Canaveral
 lp_vandenberg█Vandenberg

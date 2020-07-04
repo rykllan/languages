@@ -6,7 +6,7 @@ contracts_menu_payloads█Nutzlasten
 contracts_menu_contracts█Verträge
 contracts_menu_offers█Angebote
 
-contracts_payloads█{0} payloads
+contracts_payloads█{0} Fracht(en)
 contracts_availableIn█Verfügbar in
 contracts_noRockets█Keine geeigneten Raketen!
 contracts_negotiators█Negotiators
@@ -63,4 +63,13 @@ contract_balwina█miau... Miau... MIAU!!!
 contract_technician█Notfall
 payload_technician█Techniker
 
+payload_flatEarther█Murphy (Flatearther)
 
+contract_marsCamera█Reise zum Mars
+payload_marsCamera█Marskamera
+content_marsCamera█Starte die Marskamera mit einer Schweren Rakete in die Mars-Umlaufbahn. Du wirst dann in der Lage sein, den Mars zu sehen und mit ihm zu interagieren!
+
+
+contract_spate█SPATE: Prologue EP
+payload_spate█Prologue EP
+content_spate█Platzhaltertext

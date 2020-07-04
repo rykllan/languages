@@ -7,7 +7,7 @@ company_createCompany█Erstelle Unternehmen
 
 company_header█Unternehmen
 company_overview█Übersicht
-company_fundraising█Fundraising
+company_fundraising█Geldbeschaffug
 company_financeHistory█Finanzgeschichte
 company_flightHistory█Fluggeschichte
 company_competitionHistory█Competition History

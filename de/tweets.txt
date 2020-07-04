@@ -31,6 +31,6 @@ tweet_crash_4█Unser Team fand den Fehler. Es war etwas mit dem Antrieb. Sollte
 tweet_linklink_first█Senden diesen Tweet durch den Weltraum über den LinkLink-Satelliten
 tweet_linklink_worked█Whoa, es hat funktioniert!!
 tweet_linklink_visible█Ich frage mich, ob man sie von der Erde aus sehen kann. <color=#64B5F6>#linklink</color> <color=#64B5F6>#internet</color>
-tweet_linklink_failure█<color=#64B5F6>#linklink</color> Wir tun unser Bestes. Unsere Techniker sind die besten der Welt! <color=#64B5F6>#failure</color> {0}
+tweet_linklink_failure█<color=#64B5F6>#linklink</color> Wir tun unser Bestes. Unsere Techniker sind die besten der Welt! <color=#64B5F6>#fehlschlag</color> {0}
 
 
