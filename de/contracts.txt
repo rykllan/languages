@@ -1,0 +1,75 @@
+
+
+contracts_header█Missionen
+
+contracts_menu_payloads█Nutzlasten
+contracts_menu_contracts█Verträge
+contracts_menu_offers█Angebote
+
+contracts_payloads█{0} Fracht(en)
+contracts_availableIn█Verfügbar in
+contracts_noRockets█Keine geeigneten Raketen!
+contracts_negotiators█Negotiators
+contracts_approx█Ungefähr.
+contracts_selectLaunchPrice█Startpreis auswählen
+contracts_avgRocketPrice█Durchschnittlicher Raketenpreis:
+contracts_avgProfit█Durchschnittlicher Gewinn:
+
+contracts_submitOffer█Angebot abgeben
+contracts_negotiate█Verhandeln
+
+contracts_onMissionSuccess█Bei Missionserfolg
+contracts_onMissionFailure█Bei Missionsfehlschlag
+
+contracts_offer_decline█Angebot ablehnen
+contracts_offer_accept█Angebot annehmen
+contracts_offer_accepted█Du hast das Angebot akzeptiert.
+
+deadline_critical█Äußerst kritisch!
+deadline_launchNow█Sofort Starten!
+deadline_yearLeft█1 Jahr verbleibend!
+deadline_yearsLeft█{0} Jahre verbleibend!
+
+contract_negotiating█In Verhandlung
+contract_active█Aktiv
+contract_completed█Abgeschlossen
+
+contract_won_status█<color=#64B5F6><b>Du hast den Vertrag gewonnen.</b></color>&%<align="left">&%<size=13>Du musst diese Nutzlasten rechtzeitig starten, <mark=#64B5F625>starte in {0}</mark>:</size></align>&%&%{1}
+
+
+contract_decline_confirm█Willst du dieses Angebot wirklich ablehnen?
+
+contract_deadline_fine█Gut:
+
+payload_preparing_to_fly█Vorbereitung zum Start
+
+
+contract_crs█Kommerzieller Wiederversorgungsdienst
+payload_crs█KWD-{0} (ISS Wiederversorgung)
+
+contract_ccp█Commercial Crew Program
+payload_ccp█CCP-{0} (ISS Crew)
+
+payload_tintin█Tintin AB (LinkLink Test)
+
+contract_tesla█Starman
+payload_tesla█Tesla Roadster
+
+contract_potato█Dummy Frachten
+payload_potato█Orbital Potato
+
+contract_balwina█miau... Miau... MIAU!!!
+
+contract_technician█Notfall
+payload_technician█Techniker
+
+payload_flatEarther█Murphy (Flatearther)
+
+contract_marsCamera█Reise zum Mars
+payload_marsCamera█Marskamera
+content_marsCamera█Starte die Marskamera mit einer Schweren Rakete in die Mars-Umlaufbahn. Du wirst dann in der Lage sein, den Mars zu sehen und mit ihm zu interagieren!
+
+
+contract_spate█SPATE: Prologue EP
+payload_spate█Prologue EP
+content_spate█Platzhaltertext

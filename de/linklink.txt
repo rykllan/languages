@@ -1,0 +1,59 @@
+
+
+linkLink_announcement_header█LinkLink - die Zukunft des Internets?
+linkLink_announcement_content█{1}, der Eigentümer von dem Raumfahrtunternehmen {0}, baut sein Geschäft aus. Es scheint, dass die Entsendung eines Mannes zum Mars das oberste Ziel des CEO's ist.&%&%Diesmal hat {1} sich zum Ziel gesetzt, den Menschen auf unserem Planeten ein schnelles und erschwingliches Internet zur Verfügung zu stellen. Dies will {1} mit Hunderten von kleinen Telekommunikationssatelliten erreichen, die in die Erdumlaufbahn geschickt werden. Auch der Name der Technologie wurde bekanntgegeben - "LinkLink".&%&%Wir werden Sie über den Fortschritt der Arbeiten an dieser neuen Technologie auf dem Laufenden halten.
+
+
+linkLink_tintin_header█Erste LinkLink-Satelliten im Orbit!
+linkLink_tintin_content█Der heutige Raketenstart wird Geschichte schreiben. Es waren {5} kleine LinkLink-Satelliten von {0} an Bord, die uns einen schnellen und erschwinglichen Internetzugang ermöglichen sollen. &%&%Wir wissen nicht, wann genau der Dienst für ein breites Spektrum von Benutzern gestartet wird.  
+
+
+linkLink_terminals_header█Der Bau der geheimnisvollen Antennen von {0} ist abgeschlossen.
+linkLink_terminals_content█In der Nähe der größten Städte der Welt gab es mysteriöse kreisförmige Konstruktionen. Wie wir feststellen konnten, sind dies die Antennen, die für die Kommunikation mit der Satellitenkonstellation LinkLink verantwortlich sind. &%&%Der Dienst wird bald beginnen?
+
+
+linkLink_run_header█Die ersten Nutzer begannen mit dem Test des LinLink Internets!
+linkLink_run_content█Die Zukunft ist heute! {0} hat gerade die ersten Nutzer an sein Satelliten-Internet der Zukunft angeschlossen. &%&%Die an den Tests teilnehmenden Benutzer loben vor allem die Geschwindigkeit und Stabilität der Verbindung.
+
+
+linkLink_10k_header█LinkLink Internet verkauft sich wie warme Semmeln!
+linkLink_10k_content█Tests abgeschlossen! {0} hat mit dem Verkauf von LinkLink begonnen - am ersten Tag wurden Verträge von 10 000 Personen unterzeichnet. &%&%{1} kann den Champagner holen!
+
+
+linkLink_250k_header█250,000 LinkLink Nutzer!
+linkLink_250k_content█{0} is not slowing down. Ihr drahtloses Hochgeschwindigkeits-Internet ist ein unglaublicher Erfolg. &%&%Auf der heutigen Pressekonferenz teilte der CEO {1} mit, dass mehr als 250.000 Menschen auf der ganzen Welt den LinkLink-Dienst nutzen. &%&%Niedriger Preis und hohe Verfügbarkeit ist ein echtes Erfolgsrezept!
+
+linkLink_million_header█Der finanzielle Erfolg von LinkLink. {1} verdient Millionen!
+linkLink_million_content█Mehr als eine Million Dollar pro Jahr, das sind die neuesten Gewinnzahlen des Unternehmens {0}. Es ist erwähnenswert, dass dieser Betrag nur für den Internetzugangsdienst von LinkLink gilt.  &%&%Wir hoffen, dass {1} das Geld gut ausgeben wird - zum Beispiel könnte {1} einen Mann zum Mars schicken.
+
+
+linkLink_failure_header█Großer LinkLink-Ausfall - Benutzer ohne Zugang zum Internet für 24 Stunden.
+linkLink_failure_content█Besorgte LinkLink-Abonnenten berichten über einen Ausfall ihres Internetzugangs. Mehr als die Hälfte der Benutzer kann sich fast 24 Stunden lang nicht mit dem Netzwerk verbinden.  &%&%{1}'s Techniker arbeiten bereits an der Beseitigung der Fehlerursachen. Wir hoffen, dass solche Ausfälle in Zukunft nicht mehr vorkommen werden.
+
+linkLink_giga_factory_needed█Du benötigst eine Giga Fabrik, um LinkLink-Satelliten zu bauen.
+
+linkLink_production█Produktion
+
+linkLink_100_required█Du benötigst mindestens <color=#64B5F6><b>100</b></color> LinkLink-Satelliten um den Dienst zu betreiben.
+
+linkLink_run█Starte LinkLink
+linkLink_customerPrice█Kundenpreis (pro Monat)
+linkLink_customersHistory█Kundenverlauf
+linkLink_serviceDown█LinkLink-Dienste ausgefallen. Techniker arbeiten daran, dies zu beheben. (es kann sogar ein Jahr dauern)
+
+linkLink_build█Baue LinkLink
+
+linkLink_totalCustomers█Nutzer
+linkLink_totalLinkLinks█LinkLinks insgesamt
+linkLink_income█Jährliches Einkommen
+linkLink_stability█Stabilität der Verbindung
+linkLink_capacity█LinkLink-Kapazität (Max. Benutzer)
+linkLink_terminalCapacity█Terminal-Kapazität (Max. Benutzer)
+
+linkLink_smallFailure█Einige deiner LinkLinks funktionieren nicht mehr und wurden aus der Umlaufbahn entfernt.
+linkLink_30_deorbited█30% deiner LinkLinks sind aus der Umlaufbahn entfernt worden, weil ihre Lebensdauer abgelaufen ist.
+
+linkLink_welcome_header█LinkLink
+linkLink_welcome_content█Später bei EarthX wirst du in der Lage sein, deine eigene Satellitenkonstellation zu erstellen, die weltweit erschwingliches Internet zur Verfügung stellen wird.&%&%Um dies zu tun, müssen Sie jedoch zuerst 2 Testsatelliten starten.&%&%Viel Glück!
+
+

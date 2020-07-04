@@ -1,0 +1,65 @@
+
+
+company_ceoAndCompanyMustHaveName█Das Unternehmen und der CEO müssen einen Namen haben!
+
+earthxWelcome█Hey, Elo... oh, du bist das nur... <color=#64B5F6>{0}</color>!&%Wie ich sehe, hast du endlich die Raketenfirma gegründet, die du erwähnt hattest. "<color=#64B5F6>{1}</color>" ist eigentlich ein cooler Name! Ich muss dir sagen, du bist sehr mutig.&%&%Große Unternehmen, die ein Monopol auf dem Markt der Startanbieter haben, haben seit Jahren nicht in neuere Technologien investiert. Sie verwenden immer noch ineffiziente Booster und veraltete Triebwerke. Was wäre, wenn sie ihre Raketen wieder auf der Erde landen könnten? Dann wäre es möglich, mit nur einer Rakete mehrere Nutzlasten zu schicken! Ich hoffe, du kannst in ein paar Jahren eine Rakete oder sogar eine Booster zum Landen bauen.&%&%Viel Glück!
+
+iss_CRSHeader█Kommerzielle Wiederversorgungsdienste der ISS
+iss_CRSContent█Hey!&%&%Du hast bewiesen, dass du Raketen und Frachtkapseln starten kannst. Aus diesem Grund wurden Sie vom Schöpfer dieses Spiels ausgewählt, um die internationale Raumstation mehrere Jahre lang regelmäßig zu beliefern.&%&%Du bist dazu gezwungen, weil ich nicht die Option programmiert habe, dies abzulehnen, und das Spiel wäre ohne diese Mission... langweilig.
+
+iss_CCPHeader█ISS Commercial Crew Program
+iss_CCPContent█Hey!&%&%Dein Unternehmen ist seit seiner Gründung sehr stark gewachsen. Wie auch immer, hast du dir jemals vorgestellt, CEO eines der größten Raumfahrtunternehmen der Welt zu sein?Nun, ich auch nicht.&%&%Aber das Spiel geht weiter, und ich sehe, dass dir viel durch den Kopf geht, also gebe ich dir 6 zusätzliche Crew-Missionen (der Schöpfer des Spiels hat festgestellt, dass du bereits die notwendige Kapsel hast).Die Crew-Missionen müssen regelmäßig zur internationalen Raumstation geschickt werden.&%&%Oh, fast hätte ich es vergessen, stelle sicher, dass deine Rakete nicht explodiert, sonst wird es schlimm, wenn du Menschen verbrennst, lol.
+
+iss_catHeader█Hilfe!
+iss_catContent█Meine Katze, Balwina, ist in sehr schlechtem Zustand... Ich muss für weitere 4 Monate auf der ISS bleiben und habe große Angst, dass ich sie nie wieder sehen werde!!! &%&%Bitte setze sie deshalb auf die nächste ISS-Mission:(&%&%Bitte überlege dir das und danke,&%&%Teresa
+
+iss_technicianHeader█Notfall auf der ISS
+iss_technicianContent█Guten Abend,&%&%Zurzeit befinden sich 4 Astronauten auf der Internationalen Raumstation.Ihr Leben ist wegen eines mittelgroßen Lecks in einem der Module in Gefahr.&%&%Wir wissen, dass dein Unternehmen keine Besatzungskapseln hat, deshalb musst du einen Techniker in einer Frachtkapsel starten.&%&%Bitte tu das so schnell wie möglich UND spreche  nicht mit der Presse über diesen Flug. Niemand darf wissen, dass wir im Begriff sind, einen Menschen in einer Frachtkapsel zu starten!&%&%Danke für deine Kooperation, du wirst nach der Mission bezahlt.
+
+teslaRoadsterHeader█Auto-im-Weltraum-Mission
+teslaRoadsterContent█Starte ein Auto in den Weltraum, denn warum nicht!
+
+contract_newPayloadsHeader█Neue Nutzlasten!
+contract_newPayloadsContent█Diese Nutzlasten wurden hergestellt und getestet:&%{0}&%Jetzt kannst du sie starten.&%{1}
+contract_goLaunchThemOkNow█Ich meine wirklich jetzt.&%&%&%Warum bist du noch hier lol&%&%Ok geh einfach und starte sie oder ich werde deine Raketen löschen
+
+contract_hurryUpHeader█Beeil dich!
+contract_hurryUpContent█Du musst diese Nutzlasten so schnell wie möglich fertigstellen:&%{0}&%&% Worauf warten du? Deine Raketen sind nicht autonom, geh und starte sie!
+
+contract_badBoyHeader█Böser Junge. (oder Mädchen)
+contract_badBoyContent█Du musstest für jede Nutzlast 15% Strafe zahlen, weil du diese Nutzlasten nicht rechtzeitig gestartet hast:&%{0}&%&%&%Die Welt ist noch nicht untergegangen. Gehe und hole dir mehr Verträge! :)
+
+staticFireIssueFound█Deine Ingenieure haben ein Problem mit deiner Rakete gefunden und sie haben es behoben.
+
+cantBuildNoFactories█Du brauchst Fabriken, um Raketen zu bauen!
+cantBuildSoManyVehicles█Du kannst nicht so viele Fahrzeuge zur gleichen Zeit bauen!
+cantLaunchSoManyVehicles█Du kannst nicht so viele Raketen gleichzeitig starten!
+cantRepairSoManyVehicles█Du kannst nicht so viele Fahrzeuge zur gleichen Zeit reparieren!
+
+cantRemoveProject█Du kannst dieses Projekt nicht entfernen, weil sich darin Fahrzeuge befinden.
+
+noHangars█Du kannst dieses Fahrzeug nicht lagern, weil es keinen Platz in deinem Hangar gibt oder du baust einen <color=#64B5F6>{0}</color> um {1} dort zu lagern.
+noFactories█{0} can't be built because you need a {2} to be able to build {1} modules.
+
+projectMustHaveName█Das Projekt muss einen Namen haben. Haben du schon einmal eine Rakete ohne Namen gesehen?
+projectSameName█{0} existiert bereits. Nenne es vielleicht lieber <color=yellow><b><size=20>'{0} Max Pro Ultra Slim'?
+
+moduleUnlocked█Modul entsperrt!
+moduleUpgraded█Modul verbessert!
+notEnoughSkillPoints█Nicht genug Skillpunkte!
+
+congratulations█Gratulation!
+congratulations_content█Herzlichen Glückwunsch zu deinem ersten erfolgreichen Flug!&%Wir möchten dich darüber informieren, dass deinem Unternehmen von der Regierung Mittel für weitere Forschung und Entwicklung bewilligt wurden. &%<color=#64B5F6><b>Verschwende dieses nicht</color>.
+
+buildingWorking█Dieses Gebäude arbeitet gegenwärtig.
+hangarStoring█In diesem Hangar werden Fahrzeuge gelagert.
+rocketLaunching█Von dieser Startrampe startet gerade eine Rakete.
+
+cantBuildOffices█Du kannst nicht so viele Büros bauen.
+cantBuildFactories█Du kannst nicht so viele Fabriken bauen.
+
+cantBuildSimpleLP█Du kannst momentan keine einfache Startrampen bauen.
+cantBuildAdvancedLP█Du kannst momentan keine fortgeschrittenen Startrampen bauen.
+cantBuildMegaLP█Du kannst momentan keine Mega Startrampe bauen.
+
+
