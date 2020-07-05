@@ -39,6 +39,7 @@ cantRepairSoManyVehicles█You can't repair so many vehicles at the same time!
 cantRemoveProject█You can't remove this project because there are vehicles in it.
 
 noHangars█You can't store this vehicle because there's no space in your hangar or you need to build a <color=#64B5F6>{0}</color> in order to store that {1}.
+noHangarsLanding█A spaceship is trying to land! You need a space in <color=#64B5F6>{0}</color> to store it!
 noFactories█{0} can't be built because you need a {2} to be able to build {1} modules.
 
 projectMustHaveName█Project must have a name. Have you ever seen a rocket without a name?
