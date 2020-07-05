@@ -11,7 +11,7 @@ levelTitle7█Aceleración
 levelTitle8█Tintin
 levelTitle9█Acceleration
 levelTitle10█El poder de las computadoras
-levelTitle11█Catch it!
+levelTitle11█¡Agárralot!
 levelTitle12█Poniendose pesado
 levelTitle13█LinkLink
 levelTitle14█Práctica
@@ -32,51 +32,51 @@ progress_launchCargoCapsules█Lanza {0} capsula(s) de cargamento
 progress_launchCrewCapsules█Lanza {0} capsula(s) de tripulación
 progress_landRockets█Aterriza con {0} cohete(s)
 progress_reuseRockets█Reutiliza {0} cohete(s)
-progress_launchPayloadsAtOnce█Lanza {0} cargas útiles a la vez
+progress_launchPayloadsAtOnce█Lanza {0} cargas a la vez
 progress_launchFromOwnLaunchPad█Lanza {0} cohete(s) desde tu propia plataforma de lanzamiento!
 progress_launchTesla█¡Lanza el Tesla Roadster!
-progress_buildFactories█Build {0} factorie(s)!
-progress_buildOffices█Build {0} office(s)!
-progress_buildLaboratories█Build {0} laboratorie(s)!
+progress_buildFactories█¡Construye {0} fábrica(s)!
+progress_buildOffices█¡Construye {0} oficina(s)!
+progress_buildLaboratories█¡Construye {0} laboratorio(s)!
 progress_buildMegaLaunchPads█¡Construye {0} mega plataforma(s) de lanzamiento!
 progress_getContracts█Obten {0} contrato(s)
-progress_launchCat█Launch a cat!
-progress_launchTechnician█Launch a technician!
-progress_catchFairings█Catch {0} fairings!
-progress_launchLinkLinks█Launch LinkLinks: {0}
-progress_reachLinkLinkUsers█LinkLink users: {0}
-progress_hireEmployees█Hire employees: {0}
+progress_launchCat█¡Lanza un gato!
+progress_launchTechnician█¡Lanza un técnico!
+progress_catchFairings█¡Agarra {0} carenados!
+progress_launchLinkLinks█¡LanzaLinkLinks: {0}
+progress_reachLinkLinkUsers█Usuarios de LinkLink: {0}
+progress_hireEmployees█Contrata empleados: {0}
 
 progress_maxOffices█Máximo de oficinas:
-progress_multiplePayloads█[<color=#81C784>FEATURE</color>] Launch many payloads at once!
-progress_fundraiserHats█[<color=#FF9F43>FUNDRAISING</color>] Sell hats!
-progress_fundraiserBricks█[<color=#FF9F43>FUNDRAISING</color>] Sell bricks!
-progress_fundraiserNAF█[<color=#FF9F43>FUNDRAISING</color>] Sell (not) flamethrowers!
-progress_fundraiserRocketquilla█[<color=#FF9F43>FUNDRAISING</color>] Sell rocketquillas!
+progress_multiplePayloads█[<color=#81C784>FEATURE</color>] ¡Lanza varias cargas a la vez!
+progress_fundraiserHats█[<color=#FF9F43>FUNDRAISING</color>] ¡Vende gorras!
+progress_fundraiserBricks█[<color=#FF9F43>FUNDRAISING</color>] ¡Vende ladrillo!
+progress_fundraiserNAF█[<color=#FF9F43>FUNDRAISING</color>] ¡Vende (no) lanza-llamas!
+progress_fundraiserRocketquilla█[<color=#FF9F43>FUNDRAISING</color>] ¡Vende cohetequillas!
 progress_issSupplierMission█Misión especial: <b><color=#64B5F6>Proveedor de EEI
 progress_issCrewMission█Misión especial: <b><color=#64B5F6>Tripulación comercial de EEI
 progress_teslaRoadsterMission█Misión especial: <b><color=#64B5F6>Tesla Roadster
-progress_catMission█Special Mission: <b><color=#64B5F6>Astronaut's Cat
-progress_technicianMission█Special Mission: <b><color=#64B5F6>Technician in a Suitcase
+progress_catMission█Misión especial: <b><color=#64B5F6>Gato de Astronauta
+progress_technicianMission█Misión especialn: <b><color=#64B5F6>Técnico en una maleta
 
-progress_smallFactory█[<color=#E74C3C>BUILDING</color>] Small Factory
-progress_mediumFactory█[<color=#E74C3C>BUILDING</color>] Medium Factory
-progress_largeFactory█[<color=#E74C3C>BUILDING</color>] Large Factory
-progress_gigaFactory█[<color=#E74C3C>BUILDING</color>] Giga Factory
+progress_smallFactory█[<color=#E74C3C>BUILDING</color>] Fábrica pequeña
+progress_mediumFactory█[<color=#E74C3C>BUILDING</color>] Fábrica mediana
+progress_largeFactory█[<color=#E74C3C>BUILDING</color>] Fábrica grande
+progress_gigaFactory█[<color=#E74C3C>BUILDING</color>] Giga Fábrica
 
-progress_smallHangar█[<color=#E74C3C>BUILDING</color>] Small Hangar
-progress_mediumHangar█[<color=#E74C3C>BUILDING</color>] Medium Hangar
-progress_largeHangar█[<color=#E74C3C>BUILDING</color>] Large Hangar
+progress_smallHangar█[<color=#E74C3C>BUILDING</color>] Hangar pequeña
+progress_mediumHangar█[<color=#E74C3C>BUILDING</color>] Hangar mediana
+progress_largeHangar█[<color=#E74C3C>BUILDING</color>] Hangar grande
 progress_megaHangar█[<color=#E74C3C>BUILDING</color>] Mega Hangar
 
-progress_linkLinkTerminal█[<color=#E74C3C>BUILDING</color>] LinkLink Terminal
-progress_megaLaunchPad█[<color=#E74C3C>BUILDING</color>] Mega Launch Pad
+progress_linkLinkTerminal█[<color=#E74C3C>BUILDING</color>] Terminal de LinkLink 
+progress_megaLaunchPad█[<color=#E74C3C>BUILDING</color>] Mega plataforma de lanzamiento
 
 progress_linkLink15█[<color=#81C784>FEATURE</color>] LinkLink (15)
 progress_linkLink30█[<color=#81C784>FEATURE</color>] LinkLink (30)
 progress_linkLink60█[<color=#81C784>FEATURE</color>] LinkLink (60)
-progress_linkLinkCapacity50█[<color=#81C784>LinkLink</color>] LinkLink Capacity +50%
-progress_linkLinkCapacity25█[<color=#81C784>LinkLink</color>] LinkLink Capacity +25%
-progress_linkLinkCosts█[<color=#81C784>LinkLink</color>] LinkLink Production Costs -25%
+progress_linkLinkCapacity50█[<color=#81C784>LinkLink</color>] Capacidad de LinkLink +50%
+progress_linkLinkCapacity25█[<color=#81C784>LinkLink</color>] Capacidad de LinkLink +25%
+progress_linkLinkCosts█[<color=#81C784>LinkLink</color>] Costo de producción LinkLink -25%
 
 
