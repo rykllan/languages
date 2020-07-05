@@ -1,66 +1,66 @@
 
 
-contracts_header█Missions
+contracts_header█Misiones
 
-contracts_menu_payloads█Payloads
-contracts_menu_contracts█Contracts
-contracts_menu_offers█Offers
+contracts_menu_payloads█Cargas
+contracts_menu_contracts█Contratos
+contracts_menu_offers█Ofertas
 
-contracts_payloads█Cargas útiles
+contracts_payloads█Cargas 
 contracts_availableIn█Estará disponible en
 contracts_noRockets█¡No hay cohetes capaces!
-contracts_negotiators█Negotiators
-contracts_approx█Approx.
+contracts_negotiators█Negociadores
+contracts_approx█Aprox.
 contracts_selectLaunchPrice█Selecciona el precio de lanzamiento
 contracts_avgRocketPrice█Precio prom. de los cohetes:
-contracts_avgProfit█Ganancias prom.:
+contracts_avgProfit█Ganancias promedio:
 
 contracts_submitOffer█Enviar oferta
-contracts_negotiate█Negotiate
+contracts_negotiate█Negociar
 
 contracts_onMissionSuccess█En éxito de misión
 contracts_onMissionFailure█En fracaso de misión
 
-contracts_offer_decline█Decline Offer
-contracts_offer_accept█Accept Offer
-contracts_offer_accepted█You accepted this offer.
+contracts_offer_decline█Reschazar Oferta
+contracts_offer_accept█Aceptar Oferta
+contracts_offer_accepted█Aceptaste esta oferta.
 
 deadline_critical█¡Muy crítico!
 deadline_launchNow█¡Lanza ahora!
 deadline_yearLeft█¡Queda 1 año!
 deadline_yearsLeft█¡años restantes!
 
-contract_negotiating█Negotiating
-contract_active█Active
-contract_completed█Completed
+contract_negotiating█Negociando
+contract_active█Activo
+contract_completed█Completado
 
-contract_won_status█<color=#64B5F6><b>You won this contract.</b></color>&%<align="left">&%<size=13>You will need to launch these payloads in time, <mark=#64B5F625>starting in {0}</mark>:</size></align>&%&%{1}
-
-
-contract_decline_confirm█Do you really want to decline this offer?
-
-contract_deadline_fine█Fine:
-
-payload_preparing_to_fly█Preparing to fly
+contract_won_status█<color=#64B5F6><b>Ganaste este contrato.</b></color>&%<align="left">&%<size=13>Tienes que lanzar estas cargas a tiempo, <mark=#64B5F625>empezando en {0}</mark>:</size></align>&%&%{1}
 
 
-contract_crs█Commercial Resupply Service
-payload_crs█CRS-{0} (ISS Resupply)
+contract_decline_confirm█¿Enserio quieres rechazar esta oferta?
 
-contract_ccp█Commercial Crew Program
-payload_ccp█CCP-{0} (ISS Crew)
+contract_deadline_fine█Bueno:
 
-payload_tintin█Tintin AB (LinkLink Test)
+payload_preparing_to_fly█Preparádose para volar
+
+
+contract_crs█Servicio de resuplementación comercial
+payload_crs█CRS-{0} (Resuplementación de EEI)
+
+contract_ccp█Programa de tripulación comercial
+payload_ccp█CCP-{0} (Tripulación de EEI)
+
+payload_tintin█Tintin AB (Prueba de LinkLink)
 
 contract_tesla█Starman
 payload_tesla█Tesla Roadster
 
-contract_potato█Dummy Payloads
-payload_potato█Orbital Potato
+contract_potato█Carga Papa
+payload_potato█Papa Orbital
 
 contract_balwina█meow... Meow... MEOW!!!
 
-contract_technician█Emergency
-payload_technician█Technician
+contract_technician█Emergencia
+payload_technician█Técnico
 
 
