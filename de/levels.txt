@@ -32,6 +32,7 @@ levelTitle28█Atombombe geht Brrrrr
 levelTitle29█Zu heiß
 levelTitle30█Zu kalt
 levelTitle31█Heim 2.0
+levelTitle32█https://youtu.be/CfqCQQe2E2s
 
 progress_unlockAllModules█Alle Module freischalten
 progress_launchSmallRockets█Starte {0} LEO Rakete(n)
@@ -81,6 +82,7 @@ progress_fundraiserHats█[<color=#FF9F43>GELDBESCHAFFUNG</color>] Verkaufe Müt
 progress_fundraiserBricks█[<color=#FF9F43>GELDBESCHAFFUNG</color>] Verkaufe Ziegelsteine!
 progress_fundraiserNAF█[<color=#FF9F43>GELDBESCHAFFUNG</color>] Verkaufe (kein) Flammenwerfer!
 progress_fundraiserRocketquilla█[<color=#FF9F43>GELDBESCHAFFUNG</color>] Verkaufe rocketquillas!
+progress_fundraiserShorts█[<color=#FF9F43>GELDBESCHAFFUNG</color>] &%Verkaufe kurze shorts!
 
 progress_issSupplierMission█Spezialmission: <b><color=#64B5F6>ISS Versorger
 progress_issCrewMission█Special Mission: <b><color=#64B5F6>ISS Commercial Crew

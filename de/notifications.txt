@@ -39,6 +39,7 @@ cantRepairSoManyVehicles█Du kannst nicht so viele Fahrzeuge zur gleichen Zeit 
 cantRemoveProject█Du kannst dieses Projekt nicht entfernen, weil sich darin Fahrzeuge befinden.
 
 noHangars█Du kannst dieses Fahrzeug nicht lagern, weil es keinen Platz in deinem Hangar gibt oder du baust einen <color=#64B5F6>{0}</color> um {1} dort zu lagern.
+noHangarsLanding█Ein Raumschiff versucht zu landen! Du benötigst mehr Platz um es im <color=#64B5F6>{0}</color> zu lagern!
 noFactories█{0} can't be built because you need a {2} to be able to build {1} modules.
 
 projectMustHaveName█Das Projekt muss einen Namen haben. Haben du schon einmal eine Rakete ohne Namen gesehen?
@@ -61,5 +62,4 @@ cantBuildFactories█Du kannst nicht so viele Fabriken bauen.
 cantBuildSimpleLP█Du kannst momentan keine einfache Startrampen bauen.
 cantBuildAdvancedLP█Du kannst momentan keine fortgeschrittenen Startrampen bauen.
 cantBuildMegaLP█Du kannst momentan keine Mega Startrampe bauen.
-
 
