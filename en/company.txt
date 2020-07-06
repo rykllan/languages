@@ -18,6 +18,7 @@ hats█Hats
 bricks█Bricks
 not_a_flamethrowers█<color=#E74C3C><size=10>Not a</size></color>&%Flamethrowers
 rocketquillas█Rocketquillas
+shorts█Short Shorts
 use█Use
 
 company_progressHeader█Company Progress
