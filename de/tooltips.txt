@@ -1,0 +1,13 @@
+
+
+tooltip_companyProgress█Unternehmensfortschritt
+tooltip_vehicles█Fahrzeuge
+tooltip_contracts█Missionen
+tooltip_news█News
+tooltip_company█Unternehmen
+tooltip_buildMode█Baumodus
+tooltip_money█Geld
+tooltip_skillPoints█Skillpunkte
+tooltip_linkLink█LinkLink
+
+

@@ -1,0 +1,127 @@
+
+
+rocket█Rakete
+capsule█Kapsel
+spaceship█Raumschiff
+
+rocketRequiresCapsule█Rakete (Benötigt Kapsel)
+rocketRequiresSpaceship█Rakete (Benötigt Raumschiff)
+
+vehicles█Fahrzeuge
+vehicles_newProjectHeader█Erstelle ein neues Projekt
+vehicles_newProjectButton█Neues Projekt
+vehicles_newVehicleHeader█Erstelle ein neues Fahrzeug
+vehicles_newVehicleButton█Neues Fahrzeug
+
+vehicles_projects█Projekte
+vehicles_view█View
+
+land█Land
+
+reusedVehicle█Wiederverwendete Fahrzeuge:
+buildCosts█Baukosten
+buildTime█Bauzeit
+originalBuildCosts█Original Baukosten
+optimizedBuildCosts█Optimierte Baukosten
+launchCosts█Startkosten
+
+inQueue█In der Warteschlange&%<size=14><b><color=#64B5F6>Modul wir in kürze gebaut
+
+build█Bauen
+built█Gebaut
+launch█Starten
+repair█Reparieren
+turnExpendable█Turn Expendable
+
+capabilities█Capabilities
+reliability█Zuverlässigkeit
+condition█Zustand
+
+notBuiltYet█Noch nicht gebaut
+constructing█Wird gebaut...
+repairing█Wird repariert...
+flying█Im Flug
+dockedToISS█Dockt an ISS (Kommt bald zurück.)
+
+reusable█Wiederverwendbar
+manual█Manual
+sideboosters█Seitenbooster
+superheavy█Superheavy
+spaceshipsOnly█Nur Raumschiffe
+capsulesOnly█Nur Kapseln
+fairingRecovery█Fairing recovery
+
+landingNotSupported█Landung nich Untestützt!&%Benötigt:<size=12><b>&%-Grid Fins & Landebeine&%-Batterie&%-GPS (für automatische Wiederverwendung)&%-4 oder 9 Fortgeschrittener Antrieb</b></size>&%
+capsulesNotSupported█Kapsel nicht Unterstützt!&%Benötigt:<size=12><b>&%-Batterie&%-GPS&%-4 or 9 Fortgeschrittener Antrieb</b></size>&%
+heavyNotSupported█Schwere Rakete nicht Unterstützt!&%Benötigt:<size=12><b>&%-Rakete mit automatischer Wiederverwendung</b></size>&%
+fairingCatchingNotSupported█Fairing catching nicht Unterstützt!&%Benötigt:<size=12><b>&%-Rakete mit automatischer Wiederverwendung</b></size>&%
+
+payload█Nutzlast
+crew█Mannschaft
+cargo█Fracht
+
+launchSetup_header█Start Setup
+launchSetup_missionName█Missionsname...
+launchSetup_mission█Mission
+launchSetup_noVehiclesFound█[Keine Fahrzeuge gefunden.]
+launchSetup_noPayloadsFound█[Keine zulässige Fracht gefunden.]
+launchSetup_selectVehicle█Wähle Fahrzeug
+launchSetup_selectLaunchPad█Wähle Startrampe
+launchSetup_selectLandingZone█Wähle Landezone
+
+launchSetup_barge█Lastkahn
+launchSetup_lz1█LZ-1
+launchSetup_lz2█LZ-2
+
+launchSetup_testFlight█Testflug
+launchSetup_concrete█Beton
+launchSetup_cheese█Käse
+launchSetup_pizza█Pizza
+launchSetup_earthPlush█Plüscherde
+launchSetup_everydayStickers█Everyday Stickers
+launchSetup_landingZone█Landezone
+
+launchSetup_success█Erfolg
+launchSetup_crash█Unfall
+failure█Fehlschlag
+noData█Keine Daten
+flights█Flüge
+failures█Fehlschläge
+partialSuccess█Teilweiser Erfolg
+
+launchPanel_telemetry█Telemetrie
+launchPanel_noSupportTelemetry█Diese Rakete unterstützt keine Telemetrie.
+launchPanel_speed█Geschwindigkeit
+launchPanel_altitude█Höhe
+launchPanel_staticFire█Static fire
+launchPanel_speedMetric█km/h
+launchPanel_altitudeMetric█km
+
+buildPanel_moveToHangar█In Hangar lagern
+
+missionReportHeader█Missionsbericht
+missionReportMissionName█Missionsname:
+missionReportRocketName█Rakete:
+missionReportMissionResult█Missionsergebnis
+
+missionReportLaunch█Start
+missionReportDeploy█Deploy
+missionReportLanding█Landung
+missionReportFairingLanding█Verkleidungslandung
+missionReportSecondVehicleLanding█Zweitfahrzeuglandung
+
+missionReportMissionIncome█Missionseinnahmen
+missionReportDamageCompensation█Schadensersatz
+missionReportLandedRocket█Gelandete Rakete
+profit█Gewinn
+loss█Verlust
+
+creator_header█Neues Projekt
+creator_vehicleName█Fahrzeugname...
+creator_createProject█Erstelle Projekt
+creator_vehicleCanGoAnywhere█Dieses Fahrzeug kann überall hin.
+creator_capsuleRocket█Diese Rakete kann nur Kapseln transportieren.
+creator_spaceshipRocket█Diese Rakete kann nur das Raumschiff transportieren.
+no_module_unlocked█Kein Modul freigeschaltet.
+
+
