@@ -9,9 +9,9 @@ building_simpleLP█Plataforma simple de lanzamiento
 building_advancedLP█Plataforma avanzada de lanzamiento
 building_megaLP█Mega plataforma de lanzamiento
 
-building_category_all█All
-building_category_factories█Factories
-building_category_hangars█Hangars
+building_category_all█Todos
+building_category_factories█Fábricas
+building_category_hangars█Hangares
 
 buildingSetup_buildingName█Nombre de la construcción...
 buildingSetup_overview█Resumen
@@ -33,51 +33,51 @@ buildingSetup_manageEmployees█Administrar empleados
 
 buildingSetup_destroyBuilding█Destruir construcción
 
-small_factory█Small Factory
-small_factory_desc█You can build only small modules.
+small_factory█Fábrica pequeña
+small_factory_desc█Puedes hacer solo módulos pequeños.
 
-medium_factory█Medium Factory
-medium_factory_desc█You can build only small and medium modules.
+medium_factory█Fábrica mediana
+medium_factory_desc█Puedes hacer solo módulos pequeños y medianos.
 
-large_factory█Large Factory
-large_factory_desc█You can build all kinds of vehicles except Spaceships and Superheavies.
+large_factory█Fábrica grande
+large_factory_desc█Puedes hacer toda clase de vehículos excepto Naves Espaciales y Superpesados.
 
 giga_factory█Giga Factory
-giga_factory_desc█You can build every kind of vehicles and LinkLink.
+giga_factory_desc█Puedes hacer toda clase de vehículos y LinkLink.
 
-small_hangar█Small Hangar
-small_hangar_desc█You can store only rockets.
+small_hangar█Hangar Pequeño
+small_hangar_desc█Solo puedes guardar cohetes.
 
-medium_hangar█Medium Hangar
-medium_hangar_desc█You can store only rockets and capsules.
+medium_hangar█Hangar Mediano
+medium_hangar_desc█Solo puedes guardar cohetes y cápsulas.
 
-large_hangar█Large Hangar
-large_hangar_desc█You can store more rockets and capsules.
+large_hangar█Hangar Grande
+large_hangar_desc█Puedes mas guardar cohetes y cápsulas.
 
-mega_hangar█Mega Hangar
-mega_hangar_desc█You can store only Spaceships and Superheavies.
+mega_hangar█Mega-Hangar
+mega_hangar_desc█Solo puedes guardar  Naves Espaciales y Superpesados.
 
-office█Office
-office_desc█Office employees are giving you more negotiation power (you can offer higher price at negotiating).
+office█Oficina
+office_desc█Los empleados de la oficina te dan mayor poder de negociacion (puedes ofrecer mayores precios negociando).
 
-laboratory█Laboratory
-laboratory_desc█Produces skill points.
+laboratory█Laboratorio
+laboratory_desc█Produce puntos de habilidad.
 
-megaLP█Mega Launch Pad
-megaLP_desc█You can launch Spaceships.
+megaLP█Mega Plataforma de Lanzamientp
+megaLP_desc█Puedes lanzar Naves Espaciales.
 
-terminal█LinkLink Terminal
-terminal_desc█Terminals are connecting people on Earth with LinkLinks. More terminals == more users capacity.
+terminal█Terminal LinkLink 
+terminal_desc█Las terminales conectan la gente en la tierra con LinkLink. Más terminales == mayor capacidad de usuarios.
 
-lp_cape█Cape Canaveral
+lp_cape█Cabo Cañaveral
 lp_vandenberg█Vandenberg
-lp_pacificSpaceport█Pacific Spaceport
-lp_guiana█Guiana
-lp_midAtlanticSpaceport█Atlantic Spaceport
+lp_pacificSpaceport█Puerto Espacial del Pacífico
+lp_guiana█Guyana
+lp_midAtlanticSpaceport█Puerto Espacial del Atlántico
 lp_balkonur█Baikonur
 lp_plesetsk█Plesetsk
 lp_xichang█Xichang
-lp_rocketComplex█Private Spaceport
+lp_rocketComplex█Puerto Espacial Privado
 lp_australia█Woomera
 lp_india█Satish Dhawan
 
