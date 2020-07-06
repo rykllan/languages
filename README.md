@@ -8,6 +8,8 @@ Polish: Denis Szwarc & Adrian Wesołowski
 
 Russian: Sergey Mostepan
 
+German: MCE23
+
 Hungarian: Zsolt Brechler
 
 Spanish: Daniel Yah & Juan "Grimidk" Mendez
