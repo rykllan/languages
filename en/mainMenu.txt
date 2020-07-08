@@ -1,36 +1,52 @@
 
 
-menu_home█Home
-menu_play█Play
+menu_newGame█New Game
+menu_loadGame█Load Game
 menu_settings█Settings
 menu_credits█Credits
 menu_exit█Exit
-menu_backToMainMenu█Back to Main Menu
 menu_save█Save
-menu_notAvailable█Not available in this version, sorry :(
 menu_saveNotSupported█Playing on saves from older versions of EarthX is not supported.
 
-menu_createNewGame█Create a new game
-menu_tutorial█Tutorial
-menu_classicHeader█Classic
-menu_classicDesc█Play the classic mode where you have to build your own space company.
-menu_sandboxHeader█Sandbox
-menu_sandboxDesc█In sandbox mode everything is unlocked and unlimited. Use your imagination!
+menu_createNewGame█Create New Game
 
-menu_quality█Quality
+menu_gameMode█Game Mode
+menu_classic█<b>Classic</b>&%<size=75%>Play the classic mode where you have to build your own space company from scratch.
+menu_sandbox█<b>Sandbox</b>&%<size=75%>In sandbox mode everything is unlocked and unlimited. Kinda boring tbh.
+
+menu_difficulty█Game Difficulty
+menu_easy█<b>Easy</b>&%<size=75%>Play easy if you want to play easy. Just launch those big rockets.
+menu_hard█<b>Hard</b>&%<size=75%>Coming soon!
+
+menu_apply█Apply
+
+menu_quality█Graphics
 menu_low█Low
 menu_medium█Medium
 menu_high█High
-menu_effects█Effects
-menu_postprocessings█Post Processing
+menu_environment█Environment?
+menu_postprocessings█Post Processing?
+
 menu_gameplay█Gameplay
 menu_autoSave█Auto Save?
 menu_autoPause█Auto Pause?
+menu_alwaysDay█Always Day?
+menu_hangarsVisual█Hangars Visual?
+
 menu_video█Video
 menu_fullscreen█Fullscreen?
+menu_vsync█V-Sync?
+
 menu_audio█Audio
 menu_music█Music?
 menu_sounds█Sounds?
+
 menu_language█Language
+
+
+menu_creators█Creators
+menu_collaboration█Collaboration
+menu_specialThanks█Special Thanks
+menu_icons█Icons From Flaticon.com
 
 
