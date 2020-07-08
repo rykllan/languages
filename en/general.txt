@@ -38,6 +38,8 @@ map_settings_linklink_outline█LinkLink Outline
 earth█Earth
 mars█Mars
 
+tanking█Tanking...
+
 martians█Martians
 materials█Materials
 electricity█Electricity
