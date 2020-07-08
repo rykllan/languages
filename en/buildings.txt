@@ -10,8 +10,9 @@ building_advancedLP█Advanced Launch Pad
 building_megaLP█Mega Launch Pad
 
 building_category_all█All
-building_category_factories█Factories
-building_category_hangars█Hangars
+building_category_production█Production
+building_category_storage█Storage
+building_category_other█Other
 
 buildingSetup_buildingName█Building name...
 buildingSetup_overview█Overview
