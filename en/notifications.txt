@@ -63,4 +63,12 @@ cantBuildSimpleLP█You can't build simple launch pads now.
 cantBuildAdvancedLP█You can't build advanced launch pads now.
 cantBuildMegaLP█You can't build mega launch pads now.
 
+noMoney█Not enough money!
+noMaterials█Not enough materials!
+noCybercars█Not enough cybercars!
+
+parkingOrbit█Parking Orbit
+leavingParkingOrbit█Leaving Orbit in {0}
+
+
 
