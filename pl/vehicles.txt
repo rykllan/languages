@@ -13,8 +13,8 @@ vehicles_newProjectButton█Nowy projekt
 vehicles_newVehicleHeader█Stwórz nowy pojazd
 vehicles_newVehicleButton█Nowy pojazd
 
-vehicles_projects█Projects
-vehicles_view█View
+vehicles_projects█Projekty
+vehicles_view█Szczegóły
 
 land█Wyląduj
 
@@ -33,15 +33,15 @@ launch█Wystrzel
 repair█Napraw
 turnExpendable█Przemień w jednorazową
 
-earthPO█Parked on <color=#64B5F6>Earth's</color> Parking Orbit (Leaving in <b>{0}</b>)
-marsPO█Parked on <color=#E17055>Mars'</color> Parking Orbit (Leaving in <b>{0}</b>)
-marsTraveling█Traveling to <color=#E17055>Mars</color> (Arriving in <b>{0}</b>)
-earthTraveling█Traveling to <color=#64B5F6>Earth</color> (Arriving in <b>{0}</b>)
-marsLanding█Landing on <color=#E17055>Mars</color>
-earthLanding█Landing on <color=#64B5F6>Earth</color>
-marsLanded█Landed on <color=#E17055>Mars</color>
+earthPO█Zaparkowany na orbicie <color=#64B5F6>Ziemskiej</color> (Opuszcza w <b>{0}</b>)
+marsPO█Zaparkowany na orbicie <color=#E17055>Marsjańskiej</color> (Opuszcza w <b>{0}</b>)
+marsTraveling█Podróżuje na <color=#E17055>Marsa</color> (Lądowanie w <b>{0}</b>)
+earthTraveling█Podróżuje na <color=#64B5F6>Ziemię</color> (Lądowanie w <b>{0}</b>)
+marsLanding█Ląduje na <color=#E17055>Marsie</color>
+earthLanding█Ląduje na <color=#64B5F6>Ziemi</color>
+marsLanded█Wylądował na <color=#E17055>Mars</color>
 
-readyToLaunch█<b><color=#64B5F6>{0} of {1}</b></color>\n<size=70%>are ready to launch!
+readyToLaunch█<b><color=#64B5F6>{0} z {1}</b></color>\n<size=70%>są gotowe do startu!
 
 capabilities█Możliwości
 reliability█Niezawodność
@@ -70,7 +70,7 @@ payload█Ładunek
 crew█Załoga
 cargo█Towar
 
-launchAll█Launch All
+launchAll█Wystrzel wszytkie
 
 launchSetup_header█Ustawienia lotu
 launchSetup_missionName█Nazwa misji...
@@ -132,8 +132,8 @@ creator_header█Nowy projekt
 creator_vehicleName█Nazwa projektu...
 creator_createProject█Stwórz projekt
 creator_vehicleCanGoAnywhere█Ten pojazd może lecieć wszędzie, gdzie tylko chcesz.
-creator_capsuleRocket█This rocket can only carry the capsules.
-creator_spaceshipRocket█This rocket can only carry the spaceships.
+creator_capsuleRocket█Ta rakieta może wystartować tylko kapsuły.
+creator_spaceshipRocket█Ta rakieta może wystartować tylko statki kosmiczne.
 no_module_unlocked█Żaden moduł nie jest odblokowany.
 
 
