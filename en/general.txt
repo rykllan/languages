@@ -31,6 +31,10 @@ orbit_meo█MEO
 orbit_geo█GEO
 orbit_iss█ISS
 
+vehicle_cargo█Cargo
+vehicle_crew█Crew
+vehicle_tanker█Tanker
+
 map_settings_linklink_visible█LinkLink Visible
 map_settings_satellites_visible█Satellites Visible
 map_settings_linklink_outline█LinkLink Outline
