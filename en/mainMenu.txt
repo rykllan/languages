@@ -11,6 +11,8 @@ menu_gameOver█GAMEOVER! :(
 
 menu_createNewGame█Create New Game
 
+lastPlayed█Last Played:
+
 menu_gameMode█Game Mode
 menu_classic█<b>Classic</b>&%<size=75%>Play the classic mode where you have to build your own space company from scratch.
 menu_sandbox█<b>Sandbox</b>&%<size=75%>In sandbox mode everything is unlocked and unlimited. Kinda boring tbh.
