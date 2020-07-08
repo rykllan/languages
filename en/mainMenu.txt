@@ -6,7 +6,8 @@ menu_settings█Settings
 menu_credits█Credits
 menu_exit█Exit
 menu_save█Save
-menu_saveNotSupported█Playing on saves from older versions of EarthX is not supported.
+menu_saveNotSupported█Save From Older Version :(
+menu_gameOver█GAMEOVER! :(
 
 menu_createNewGame█Create New Game
 
