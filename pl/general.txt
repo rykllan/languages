@@ -53,6 +53,8 @@ oxygen█Tlen
 fuel█Paliwo
 cybercars█Cyberauta
 
+unitsToProduce█Sztuki do produkcji: {0}
+
 marsProductionHeader█<b>Produkcja</b> <size=50%>/kwartał</size>
 marsUsageHeader█<b>Użycie</b> <size=50%>/kwartał</size>
 marsStorageHeader█<b>Magazynowanie</b>
