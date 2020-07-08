@@ -31,31 +31,31 @@ orbit_meo█MEO
 orbit_geo█GEO
 orbit_iss█MSK
 
-vehicle_cargo█Cargo
-vehicle_crew█Crew
-vehicle_tanker█Tanker
+vehicle_cargo█Towarowy
+vehicle_crew█Załogowy
+vehicle_tanker█Cysterna
 
-map_settings_trackers_visible█Trackers Visible
-map_settings_satellites_visible█Satelity widoczne
-map_settings_linklink_outline█Obramówka LinkLink
+map_settings_trackers_visible█Trackery widoczne?
+map_settings_satellites_visible█Satelity widoczne?
+map_settings_linklink_outline█Obramówka LinkLink?
 
-earth█Earth
+earth█Ziemia
 mars█Mars
 
-tanking█Tanking...
+tanking█Tankowanie...
 
-martians█Martians
-materials█Materials
-electricity█Electricity
-food█Food
-water█Water
-oxygen█Oxygen
-fuel█Fuel
-cybercars█Cybercars
+martians█Marsjanie
+materials█Materiały
+electricity█Prąd
+food█Jedzenie
+water█Woda
+oxygen█Tlen
+fuel█Paliwo
+cybercars█Cyberauta
 
-marsProductionHeader█<b>Production</b> <size=50%>/quarter</size>
-marsUsageHeader█<b>Usage</b> <size=50%>/quarter</size>
-marsStorageHeader█<b>Storage</b>
+marsProductionHeader█<b>Produkcja</b> <size=50%>/kwartał</size>
+marsUsageHeader█<b>Użycie</b> <size=50%>/kwartał</size>
+marsStorageHeader█<b>Magazynowanie</b>
 
 
 
