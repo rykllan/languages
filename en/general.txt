@@ -52,6 +52,7 @@ water█Water
 oxygen█Oxygen
 fuel█Fuel
 cybercars█Cybercars
+nuke█Nuke
 
 unitsToProduce█Units to Produce: {0}
 
