@@ -63,6 +63,8 @@ cantBuildSimpleLP█You can't build simple launch pads now.
 cantBuildAdvancedLP█You can't build advanced launch pads now.
 cantBuildMegaLP█You can't build mega launch pads now.
 
+noGigaFactories█You don't have any GigaFactories!
+
 noMoney█Not enough money!
 noMaterials█Not enough materials!
 noCybercars█Not enough cybercars!
