@@ -34,7 +34,7 @@ linkLink_giga_factory_needed█Musisz posiadać Giga Fabrykę aby móc budować 
 
 linkLink_system█System
 linkLink_production█Produkcja
-linkLink_statistics█Statistics
+linkLink_statistics█Statystyki
 
 linkLink_100_required█Potrzebujesz conajmniej <color=#64B5F6><b>100</b></color> LinkLinków aby uruchomić usługę. 
 
@@ -58,7 +58,7 @@ linkLink_30_deorbited█30% twoich LinkLinków zostało zdeorbitowane, ponieważ
 linkLink_welcome_header█LinkLink
 linkLink_welcome_content█Tutaj będziesz mógł stworzyć własną konstelację satelit, która będzie oferowała tani i szybki internet na całym świecie.&%&%Jednakże, aby to zrobić musisz wystrzelić 2 pierwsze satelity LinkLink.&%&%Powodzenia!
 
-30percentDeorbit█30% of LinkLinks will deorbit in <b>{0}</b>
+30percentDeorbit█30% twoich LinkLinków zostanie zdeorbitowanych w <b>{0}</b>
 
 
 
