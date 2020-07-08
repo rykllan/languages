@@ -18,7 +18,7 @@ hats█Czapki
 bricks█Cegły
 not_a_flamethrowers█<color=#E74C3C><size=10>Nie-</size></color>&%Miotacze Ognia
 rocketquillas█Rakietoquillasy
-shorts█Short Shorts
+shorts█Krótkie Szorty
 use█Użyj
 
 company_progressHeader█Postęp firmy
