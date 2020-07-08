@@ -35,7 +35,7 @@ vehicle_cargo█Cargo
 vehicle_crew█Crew
 vehicle_tanker█Tanker
 
-map_settings_linklink_visible█LinkLink Visible
+map_settings_trackers_visible█Trackers Visible
 map_settings_satellites_visible█Satellites Visible
 map_settings_linklink_outline█LinkLink Outline
 
