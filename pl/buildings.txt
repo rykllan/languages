@@ -10,23 +10,23 @@ building_advancedLP█Zaawansowane Stanowisko
 building_megaLP█Mega Stanowisko
 
 building_category_all█Wszystkie
-building_category_production█Production
-building_category_storage█Storage
-building_category_other█Other
+building_category_production█Produkcja
+building_category_storage█Magazynowanie
+building_category_other█Inne
 
 buildingSetup_buildingName█Nazwa budynku...
 buildingSetup_overview█Podgląd
 buildingSetup_setup█Ustawienia
-buildingSetup_modules█Modules
-buildingSetup_other█Other
+buildingSetup_modules█Moduły
+buildingSetup_other█Inne
 buildingSetup_billsCurrentQuarter█Rachunki za aktualny kwartał
 
 buildingSetup_nowWorkingOn█Teraz pracuje nad
 buildingSetup_queue█Kolejka
 
-buildingSetup_produce█Produce
+buildingSetup_produce█Produkuj
 
-returnToEarth█Return to Earth
+returnToEarth█Wróć na Ziemię
 
 buildingSetup_negotiationPowerEachEmployee█Siła negocjacji za 1 pracownika
 buildingSetup_negotiationPowerBuilding█Ogólna siła negocjacji budynku
@@ -73,62 +73,62 @@ laboratory_desc█Produkuje punkty doświadczenia.
 megaLP█Mega Stanowisko
 megaLP_desc█Możesz startować statki kosmiczne.
 
-smallTerminal█LinkLink Small Terminal
-smallTerminal_desc█Terminals are connecting people on Earth with LinkLinks. More terminals == more users capacity.
+smallTerminal█Mały Terminal LinkLink
+smallTerminal_desc█Terminale łączą ludzi z satelitami LinkLink. Więcej terminali = więcej potencjalnych klientów.
 
-largeTerminal█LinkLink Large Terminal
-largeTerminal_desc█Terminals are connecting people on Earth with LinkLinks. More terminals == more users capacity.
+largeTerminal█Duży Terminal LinkLink
+largeTerminal_desc█Terminale łączą ludzi z satelitami LinkLink. Więcej terminali = więcej potencjalnych klientów.
 
-landingZone█Landing Zone
-landingZone_desc█Do I really need to describe it?
+landingZone█Strefa Lądowania
+landingZone_desc█Czy ja na serio muszę to opisywać?
 
-smallHotel█Small Hotel
-smallHotel_desc█Martians are living in places like this.
+smallHotel█Mały Hotel
+smallHotel_desc█Marsjanie mieszkają w Hotelach.
 
-mediumHotel█Medium Hotel
-mediumHotel_desc█More Martians are living in places like this.
+mediumHotel█Średni Hotel
+mediumHotel_desc█Więcej Marsjanów mieszka w Hotelach.
 
-largeHotel█Large Hotel
-largeHotel_desc█A lot of Martians are living in places like this.
+largeHotel█Duży Hotel
+largeHotel_desc█Bardzo dużo Marsjanów mieszka w Hotelach.
 
-waterFactory█Water Factory
-waterFactory_desc█Produces Water and Oxygen.
+waterFactory█Fabryka Wody
+waterFactory_desc█Produkuje Wodę i Tlen.
 
-fuelFactory█Fuel Factory
-fuelFactory_desc█Produces Fuel.
+fuelFactory█Fabryka Paliwa
+fuelFactory_desc█Produkuje Paliwo.
 
-steelFactory█Steel Factory
-steelFactory_desc█Produces Materials and Cybercars.
+steelFactory█Fabryka Zelaza
+steelFactory_desc█Produkuje Materiały i Cyberauta.
 
-mediumGreenhouse█Medium Greenhouse
-mediumGreenhouse_desc█Produces Food and Oxygen.
+mediumGreenhouse█Średnia Szklarnia
+mediumGreenhouse_desc█Produkuje Jedzenie i Tlen.
 
-largeGreenhouse█Large Greenhouse
-largeGreenhouse_desc█Produces more Food and Oxygen.
+largeGreenhouse█Duża Szklarnia
+largeGreenhouse_desc█Produkuje więcej Jedzenia i Tlenu.
 
-smallSolar█Small Solar
-smallSolar_desc█Produces Electricity.
+smallSolar█Małe Panele Słoneczne
+smallSolar_desc█Produkuje Prąd.
 
-mediumSolar█Medium Solar
-mediumSolar_desc█Produces more Electricity.
+mediumSolar█Średnie Panele Słoneczne
+mediumSolar_desc█Produkuje więcej Prądu.
 
-smallWaterStorage█Small Water Storage
-smallWaterStorage_desc█Stores Water and Oxygen.
+smallWaterStorage█Małe Zbiorniki na Wodę
+smallWaterStorage_desc█Przechowuje Wodę i Tlen.
 
-mediumWaterStorage█Medium Water Storage
-mediumWaterStorage_desc█Stores more Water and Oxygen.
+mediumWaterStorage█Średnie Zbiorniki na Wodę
+mediumWaterStorage_desc█Przechowuje więcej Wody i Tlenu.
 
-largeWaterStorage█Large Water Storage
-largeWaterStorage_desc█Stores a lot of Water and Oxygen.
+largeWaterStorage█Duże Zbiorniki na Wodę
+largeWaterStorage_desc█Przechowuje bardzo dużo Wody i Tlenu.
 
-smallFuelStorage█Small Fuel Storage
-smallFuelStorage_desc█Stores Fuel.
+smallFuelStorage█Małe Zbiorniki na Paliwo
+smallFuelStorage_desc█Przechowuje Paliwo.
 
-mediumFuelStorage█Medium Fuel Storage
-mediumFuelStorage_desc█Stores more Fuel.
+mediumFuelStorage█Średnie Zbiorniki na Paliwo
+mediumFuelStorage_desc█Przechowuje więcej Paliwa.
 
-largeFuelStorage█Large Fuel Storage
-largeFuelStorage_desc█Stores a lot of Fuel.
+largeFuelStorage█Duże Zbiorniki na Paliwo
+largeFuelStorage_desc█Przechowuje bardzo dużo Paliwa.
 
 lp_cape█Cape Canaveral
 lp_vandenberg█Vandenberg
