@@ -4,6 +4,11 @@ rocket█Rakieta
 capsule█Kapsuła
 spaceship█Statek kosmiczny
 
+spaceships█Spaceships
+vehiclesDockedToISS█Docked Vehicles
+
+issHeaderText█International Space Station&%<size=14><b><color=#64B5F6>Operational
+
 rocketRequiresCapsule█Rakieta (Wymaga kapsuły)
 rocketRequiresSpaceship█Rakieta (Wymaga statku kosmicznego)
 
@@ -41,7 +46,7 @@ marsLanding█Ląduje na <color=#E17055>Marsie</color>
 earthLanding█Ląduje na <color=#64B5F6>Ziemi</color>
 marsLanded█Wylądował na <color=#E17055>Mars</color>
 
-readyToLaunch█<b><color=#64B5F6>{0} z {1}</b></color>\n<size=70%>są gotowe do startu!
+readyToLaunch█<b><color=#64B5F6>{0} of {1}</b></color>&%<size=70%>are ready to launch!
 
 capabilities█Możliwości
 reliability█Niezawodność
@@ -135,6 +140,7 @@ creator_vehicleCanGoAnywhere█Ten pojazd może lecieć wszędzie, gdzie tylko c
 creator_capsuleRocket█Ta rakieta może wystartować tylko kapsuły.
 creator_spaceshipRocket█Ta rakieta może wystartować tylko statki kosmiczne.
 no_module_unlocked█Żaden moduł nie jest odblokowany.
+
 
 
 

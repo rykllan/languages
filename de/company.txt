@@ -24,7 +24,7 @@ use█Verwende
 company_progressHeader█Unternehmensfortschritt
 company_progressLevel█Level
 company_progressNewStuff█New Stuff
-company_progressCompleteChallenges█Challenges abschließen
+company_progressCompleteChallenges█Complete Challenges <size=70%>(<color=#E74C3C>**</color> = optional)
 company_progressNextLevel█Nächstes Level
 company_progressPreviousLevel█Vorheriges Level
 locked█Gesperrt
@@ -57,6 +57,7 @@ company_employees█Mitarbeiter
 company_others█Anderes
 company_lossPerYear█Durchschnittlicher <mark=#E74C3C25>Verlust</mark> pro Jahr
 company_profitPerYear█Durchschnittlicher <mark=#64B5F625>Gewinn</mark> pro Jahr
+
 
 
 

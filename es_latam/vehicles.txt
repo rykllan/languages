@@ -4,6 +4,11 @@ rocket█Cohete
 capsule█Cápsula
 spaceship█Nave espacial
 
+spaceships█Spaceships
+vehiclesDockedToISS█Docked Vehicles
+
+issHeaderText█International Space Station&%<size=14><b><color=#64B5F6>Operational
+
 rocketRequiresCapsule█Cohete (Requiere Cápsula)
 rocketRequiresSpaceship█Cohete (Requiere Nave espacial)
 
@@ -41,7 +46,7 @@ marsLanding█Landing on <color=#E17055>Mars</color>
 earthLanding█Landing on <color=#64B5F6>Earth</color>
 marsLanded█Landed on <color=#E17055>Mars</color>
 
-readyToLaunch█<b><color=#64B5F6>{0} of {1}</b></color>\n<size=70%>are ready to launch!
+readyToLaunch█<b><color=#64B5F6>{0} of {1}</b></color>&%<size=70%>are ready to launch!
 
 capabilities█Capacidades
 reliability█Fiabilidad
@@ -135,6 +140,7 @@ creator_vehicleCanGoAnywhere█Éste vehículo puede ir a donde quieras.
 creator_capsuleRocket█This rocket can only carry the capsules.
 creator_spaceshipRocket█This rocket can only carry the spaceships.
 no_module_unlocked█Ningún módulo está desbloqueado.
+
 
 
 

@@ -60,6 +60,10 @@ linkLink_welcome_content█Später bei EarthX wirst du in der Lage sein, deine e
 
 30percentDeorbit█30% of LinkLinks will deorbit in <b>{0}</b>
 
+buildLinkLinkInGiga█Build LinkLink in any Giga Factory
+openGigaFactory█Open Giga Factory
+
+
 
 
 

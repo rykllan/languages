@@ -4,6 +4,11 @@ rocket█Rakete
 capsule█Kapsel
 spaceship█Raumschiff
 
+spaceships█Spaceships
+vehiclesDockedToISS█Docked Vehicles
+
+issHeaderText█International Space Station&%<size=14><b><color=#64B5F6>Operational
+
 rocketRequiresCapsule█Rakete (Benötigt Kapsel)
 rocketRequiresSpaceship█Rakete (Benötigt Raumschiff)
 
@@ -41,7 +46,7 @@ marsLanding█Landing on <color=#E17055>Mars</color>
 earthLanding█Landing on <color=#64B5F6>Earth</color>
 marsLanded█Landed on <color=#E17055>Mars</color>
 
-readyToLaunch█<b><color=#64B5F6>{0} of {1}</b></color>\n<size=70%>are ready to launch!
+readyToLaunch█<b><color=#64B5F6>{0} of {1}</b></color>&%<size=70%>are ready to launch!
 
 capabilities█Capabilities
 reliability█Zuverlässigkeit
@@ -135,6 +140,7 @@ creator_vehicleCanGoAnywhere█Dieses Fahrzeug kann überall hin.
 creator_capsuleRocket█This rocket can only carry the capsules.
 creator_spaceshipRocket█This rocket can only carry the spaceships.
 no_module_unlocked█Kein Modul freigeschaltet.
+
 
 
 

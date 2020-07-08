@@ -24,7 +24,7 @@ use█Использовать
 company_progressHeader█Прогресс компании
 company_progressLevel█Уровень
 company_progressNewStuff█Новое
-company_progressCompleteChallenges█Выполните задания
+company_progressCompleteChallenges█Complete Challenges <size=70%>(<color=#E74C3C>**</color> = optional)
 company_progressNextLevel█Следующий уровень
 company_progressPreviousLevel█Предыдущий уровень
 locked█Заблокировано
@@ -57,6 +57,7 @@ company_employees█Сотрудники
 company_others█Другое
 company_lossPerYear█Средние <mark=#E74C3C25>затраты</mark> за год
 company_profitPerYear█Средние <mark=#E74C3C25>доходы</mark> за год
+
 
 
 

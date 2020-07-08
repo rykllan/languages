@@ -3,8 +3,29 @@
 --- NOT TRANSLATED ---
 
 
+File: general.txt (5)
+Original Translation: confirm_abortRocket█Do you really want to abort that rocket?
+
+File: general.txt (6)
+Original Translation: confirm_turnExpendable█Do you really want to remove the landing gear? The rocket will burn in the atmosphere after the flight.
+
+File: general.txt (8)
+Original Translation: confirm_exitMainMenu█Other games would tell you here, that your unsaved progress will be lost.
+
 File: general.txt (12)
 Original Translation: ok█Ok
+
+File: general.txt (21)
+Original Translation: orbit_leo█LEO
+
+File: general.txt (22)
+Original Translation: orbit_meo█MEO
+
+File: general.txt (23)
+Original Translation: orbit_geo█GEO
+
+File: general.txt (24)
+Original Translation: orbit_iss█ISS
 
 File: general.txt (25)
 Original Translation: vehicle_cargo█Cargo
@@ -34,36 +55,48 @@ File: general.txt (33)
 Original Translation: tanking█Tanking...
 
 File: general.txt (34)
-Original Translation: martians█Martians
+Original Translation: marsDetails█Mars Details
 
 File: general.txt (35)
-Original Translation: materials█Materials
+Original Translation: earthLikePlanet█Earth-like Planet
 
 File: general.txt (36)
-Original Translation: electricity█Electricity
+Original Translation: martians█Martians
 
 File: general.txt (37)
-Original Translation: food█Food
+Original Translation: materials█Materials
 
 File: general.txt (38)
-Original Translation: water█Water
+Original Translation: electricity█Electricity
 
 File: general.txt (39)
-Original Translation: oxygen█Oxygen
+Original Translation: food█Food
 
 File: general.txt (40)
-Original Translation: fuel█Fuel
+Original Translation: water█Water
 
 File: general.txt (41)
-Original Translation: cybercars█Cybercars
+Original Translation: oxygen█Oxygen
 
 File: general.txt (42)
-Original Translation: marsProductionHeader█<b>Production</b> <size=50%>/quarter</size>
+Original Translation: fuel█Fuel
 
 File: general.txt (43)
-Original Translation: marsUsageHeader█<b>Usage</b> <size=50%>/quarter</size>
+Original Translation: cybercars█Cybercars
 
 File: general.txt (44)
+Original Translation: nuke█Nuke
+
+File: general.txt (45)
+Original Translation: unitsToProduce█Units to Produce: {0}
+
+File: general.txt (46)
+Original Translation: marsProductionHeader█<b>Production</b> <size=50%>/quarter</size>
+
+File: general.txt (47)
+Original Translation: marsUsageHeader█<b>Usage</b> <size=50%>/quarter</size>
+
+File: general.txt (48)
 Original Translation: marsStorageHeader█<b>Storage</b>
 
 File: buildings.txt (0)
@@ -308,6 +341,9 @@ Original Translation: company_competitionHistory█Competition History
 
 File: company.txt (16)
 Original Translation: shorts█Short Shorts
+
+File: company.txt (21)
+Original Translation: company_progressCompleteChallenges█Complete Challenges <size=70%>(<color=#E74C3C>**</color> = optional)
 
 File: company.txt (22)
 Original Translation: company_progressNextLevel█Next Level
@@ -786,6 +822,12 @@ Original Translation: linkLink_welcome_content█Later in EarthX, you will be ab
 File: linklink.txt (36)
 Original Translation: 30percentDeorbit█30% of LinkLinks will deorbit in <b>{0}</b>
 
+File: linklink.txt (37)
+Original Translation: buildLinkLinkInGiga█Build LinkLink in any Giga Factory
+
+File: linklink.txt (38)
+Original Translation: openGigaFactory█Open Giga Factory
+
 File: mainMenu.txt (0)
 Original Translation: menu_newGame█New Game
 
@@ -802,54 +844,57 @@ File: mainMenu.txt (8)
 Original Translation: menu_createNewGame█Create New Game
 
 File: mainMenu.txt (9)
-Original Translation: menu_gameMode█Game Mode
+Original Translation: lastPlayed█Last Played:
 
 File: mainMenu.txt (10)
-Original Translation: menu_classic█<b>Classic</b>&%<size=75%>Play the classic mode where you have to build your own space company from scratch.
+Original Translation: menu_gameMode█Game Mode
 
 File: mainMenu.txt (11)
-Original Translation: menu_sandbox█<b>Sandbox</b>&%<size=75%>In sandbox mode everything is unlocked and unlimited. Kinda boring tbh.
+Original Translation: menu_classic█<b>Classic</b>&%<size=75%>Play the classic mode where you have to build your own space company from scratch.
 
 File: mainMenu.txt (12)
-Original Translation: menu_difficulty█Game Difficulty
+Original Translation: menu_sandbox█<b>Sandbox</b>&%<size=75%>In sandbox mode everything is unlocked and unlimited. Kinda boring tbh.
 
 File: mainMenu.txt (13)
-Original Translation: menu_easy█<b>Easy</b>&%<size=75%>Play easy if you want to play easy. Just launch those big rockets.
+Original Translation: menu_difficulty█Game Difficulty
 
 File: mainMenu.txt (14)
-Original Translation: menu_hard█<b>Hard</b>&%<size=75%>Coming soon!
+Original Translation: menu_easy█<b>Easy</b>&%<size=75%>Play easy if you want to play easy. Just launch those big rockets.
 
 File: mainMenu.txt (15)
-Original Translation: menu_apply█Apply
+Original Translation: menu_hard█<b>Hard</b>&%<size=75%>Coming soon!
 
 File: mainMenu.txt (16)
+Original Translation: menu_apply█Apply
+
+File: mainMenu.txt (17)
 Original Translation: menu_quality█Graphics
 
-File: mainMenu.txt (20)
+File: mainMenu.txt (21)
 Original Translation: menu_environment█Environment?
 
-File: mainMenu.txt (21)
+File: mainMenu.txt (22)
 Original Translation: menu_postprocessings█Post Processing?
 
-File: mainMenu.txt (25)
+File: mainMenu.txt (26)
 Original Translation: menu_alwaysDay█Always Day?
 
-File: mainMenu.txt (26)
+File: mainMenu.txt (27)
 Original Translation: menu_hangarsVisual█Hangars Visual?
 
-File: mainMenu.txt (29)
+File: mainMenu.txt (30)
 Original Translation: menu_vsync█V-Sync?
 
-File: mainMenu.txt (34)
+File: mainMenu.txt (35)
 Original Translation: menu_creators█Creators
 
-File: mainMenu.txt (35)
+File: mainMenu.txt (36)
 Original Translation: menu_collaboration█Collaboration
 
-File: mainMenu.txt (36)
+File: mainMenu.txt (37)
 Original Translation: menu_specialThanks█Special Thanks
 
-File: mainMenu.txt (37)
+File: mainMenu.txt (38)
 Original Translation: menu_icons█Icons From Flaticon.com
 
 File: modules.txt (46)
@@ -1083,71 +1128,80 @@ Original Translation: tweet_linklink_visible█I wonder if you can see them from
 File: tweets.txt (21)
 Original Translation: tweet_linklink_failure█<color=#64B5F6>#linklink</color> We're doing our best. Our technicians are the best in the world! <color=#64B5F6>#failure</color> {0}
 
-File: vehicles.txt (11)
+File: vehicles.txt (3)
+Original Translation: spaceships█Spaceships
+
+File: vehicles.txt (4)
+Original Translation: vehiclesDockedToISS█Docked Vehicles
+
+File: vehicles.txt (5)
+Original Translation: issHeaderText█International Space Station&%<size=14><b><color=#64B5F6>Operational
+
+File: vehicles.txt (14)
 Original Translation: vehicles_view█View
 
-File: vehicles.txt (19)
+File: vehicles.txt (22)
 Original Translation: inQueue█In queue&%<size=14><b><color=#64B5F6>Module will be built in a moment
 
-File: vehicles.txt (24)
+File: vehicles.txt (27)
 Original Translation: turnExpendable█Turn Expendable
 
-File: vehicles.txt (25)
+File: vehicles.txt (28)
 Original Translation: earthPO█Parked on <color=#64B5F6>Earth's</color> Parking Orbit (Leaving in <b>{0}</b>)
 
-File: vehicles.txt (26)
+File: vehicles.txt (29)
 Original Translation: marsPO█Parked on <color=#E17055>Mars'</color> Parking Orbit (Leaving in <b>{0}</b>)
 
-File: vehicles.txt (27)
+File: vehicles.txt (30)
 Original Translation: marsTraveling█Traveling to <color=#E17055>Mars</color> (Arriving in <b>{0}</b>)
 
-File: vehicles.txt (28)
+File: vehicles.txt (31)
 Original Translation: earthTraveling█Traveling to <color=#64B5F6>Earth</color> (Arriving in <b>{0}</b>)
 
-File: vehicles.txt (29)
+File: vehicles.txt (32)
 Original Translation: marsLanding█Landing on <color=#E17055>Mars</color>
 
-File: vehicles.txt (30)
+File: vehicles.txt (33)
 Original Translation: earthLanding█Landing on <color=#64B5F6>Earth</color>
 
-File: vehicles.txt (31)
+File: vehicles.txt (34)
 Original Translation: marsLanded█Landed on <color=#E17055>Mars</color>
 
-File: vehicles.txt (32)
-Original Translation: readyToLaunch█<b><color=#64B5F6>{0} of {1}</b></color>\n<size=70%>are ready to launch!
-
-File: vehicles.txt (47)
-Original Translation: fairingRecovery█Fairing recovery
-
-File: vehicles.txt (48)
-Original Translation: landingNotSupported█Landing not supported!&%You need:<size=12><b>&%-Grid Fins & Landing Legs&%-Battery&%-GPS (for automatic reusability)&%-4 or 9 Advanced Engines</b></size>&%
-
-File: vehicles.txt (49)
-Original Translation: capsulesNotSupported█Capsules not supported!&%You need:<size=12><b>&%-Battery&%-GPS&%-4 or 9 Advanced Engines</b></size>&%
+File: vehicles.txt (35)
+Original Translation: readyToLaunch█<b><color=#64B5F6>{0} of {1}</b></color>&%<size=70%>are ready to launch!
 
 File: vehicles.txt (50)
-Original Translation: heavyNotSupported█Heavy rocket not supported!&%You need:<size=12><b>&%-Rocket with automatic reusability</b></size>&%
+Original Translation: fairingRecovery█Fairing recovery
 
 File: vehicles.txt (51)
+Original Translation: landingNotSupported█Landing not supported!&%You need:<size=12><b>&%-Grid Fins & Landing Legs&%-Battery&%-GPS (for automatic reusability)&%-4 or 9 Advanced Engines</b></size>&%
+
+File: vehicles.txt (52)
+Original Translation: capsulesNotSupported█Capsules not supported!&%You need:<size=12><b>&%-Battery&%-GPS&%-4 or 9 Advanced Engines</b></size>&%
+
+File: vehicles.txt (53)
+Original Translation: heavyNotSupported█Heavy rocket not supported!&%You need:<size=12><b>&%-Rocket with automatic reusability</b></size>&%
+
+File: vehicles.txt (54)
 Original Translation: fairingCatchingNotSupported█Fairing catching not supported!&%You need:<size=12><b>&%-Rocket with automatic reusability</b></size>&%
 
-File: vehicles.txt (55)
+File: vehicles.txt (58)
 Original Translation: launchAll█Launch All
 
-File: vehicles.txt (64)
+File: vehicles.txt (67)
 Original Translation: launchSetup_barge█Barge
 
-File: vehicles.txt (79)
+File: vehicles.txt (82)
 Original Translation: failures█Failures
 
-File: vehicles.txt (86)
+File: vehicles.txt (89)
 Original Translation: launchPanel_speedMetric█km/h
 
-File: vehicles.txt (87)
+File: vehicles.txt (90)
 Original Translation: launchPanel_altitudeMetric█km
 
-File: vehicles.txt (107)
+File: vehicles.txt (110)
 Original Translation: creator_capsuleRocket█This rocket can only carry the capsules.
 
-File: vehicles.txt (108)
+File: vehicles.txt (111)
 Original Translation: creator_spaceshipRocket█This rocket can only carry the spaceships.

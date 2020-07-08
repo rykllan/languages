@@ -202,10 +202,8 @@ news_flat_earth_failure_content█Na pokładzie rakiety znajdował się Murphy, 
 news_spate_accept_header█Kosmiczna akcja promocyjna nowej płyty SPATE. Płyta poleci na ISS.
 news_spate_accept_content█Producent muzyczny SPATE podpisał kontrakt z {0}, dzięki któremu jego najnowsza płyta poleci na ISS. &%&%CD zostanie wysłane z kolejnym transportem zaopatrzeniowym za kilka dni. &%&%Czyżby mieszkańcy Międzynarodowej Stacji Kosmicznej szykowali już wielką, muzyczną imprezę?
 
-
 news_spate_success_header█Pierwsza impreza na ISS.
 news_spate_success_content█Po tym jak firma {0} dostarczyła płytę z muzyką od SPATE w ramach akcji promocyjnej, astronauci urządzili naprawdę głośną (lecz niesłyszalną) imprezę na Międzynarodowej Stacji Kosmicznej. &%&%Czy konstrukcja ISS wytrzyma tak dobrze zagrany bass?
-
 
 
 opportunity2019Q1_header█NASA oficjalnie kończy misję łazika Opportunity
@@ -214,26 +212,20 @@ opportunity2019Q1_content█15 lat - tyle trwała misja łazika Opportunity, kt�
 
 
 
-
 matt_entry_header█Tragedia na Marsie - astronauta Matt nie żyje
 matt_entry_content█Ogromna burza piaskowa na Marsie zebrała śmiertelne żniwo. Ekipa NASA, która stacjonuje na Marsie od kilkunastu dni, została zmuszona do powrotu na Ziemię. &%&%Niestety ekipa wraca w zmniejszonym składzie - podczas ucieczki do promu kosmicznego, który ma zapewnić bezpieczny powrót na niebieską planetę, jeden z astronautów pozostał w bazie. Jak udało nam się dowiedzieć od przedstawicieli NASA, powodem miał być problem z kombinezonem. &%&%Baza prawdopodobnie została zniszczona przez szalejącą burzę - z Mattem nie ma kontaktu.
-
 
 matt_expansion_header█NASA dzieli się dobrymi wiadomościami. Udało się nawiązać kontakt z Mattem który pozostał na Marsie - astronauta jednak żyje!
 matt_expansion_content█Na konferencji prasowej NASA, prezes organizacji podzielił się z dziennikarzami dobrymi wiadomościami. Udało nawiązać się łączność z pozostałym w zniszczonej Marsjańskiej bazie astronautą. &%&%NASA obecnie przygotowuje plan misji ratunkowej. Jak nieoficjalnie się dowiedzieliśmy, jedyną technologią pozwalającą na szybkie wysłanie misji ratunkowej dysponuje obecnie {0}.
 
-
 matt_accept_header█Wspólna misja ratunkowa NASA i {1}. 
 matt_accept_content█Obie firmy ogłosiły dziś, że rozpoczynają prace nad uratowaniem pozostałego na Marsie astronauty. &%&%{0} wyśle na czerwoną planetę jedną ze swoich rakiet, która pozwoli bezpiecznie sprowadzić Matta na ziemię. &%&%Lot ma odbyć się za kilka dni.
-
 
 matt_decline_header█NASA ma związane ręce. {0} nie wyśle misji ratunkowej na Marsa.
 matt_decline_content█Niestety nasze przypuszczenia okazały się słuszne. {1}, prezes firmy {0} odmówił pomocy dla NASA. Powodem ma być zbyt długi czas przygotowania misji i bardzo napięty kalendarz lotów {0}. &%&%Firma zarządzana przez {1} była jedyną, która dysponuje odpowiednią technologią do wysłania misji ratunkowej.
 
-
 matt_success_header█Nadzieja dla Matt’a. Misja ratunkowa {1} zakończona sukcesem.
 matt_success_content█Udało się! {1} i prezes NASA mają powody do zadowolenia. &%&%Matt, który pozostał na Marsie w zniszczonej przez ogromną burzę piaskową bazie, niedługo będzie leciał w stronę domu. &%&%Mamy nadzieję, że kolejne załogowe misje na Marsa odbędą się bez przykrych niespodzianek.
-
 
 
 matt_failure_header█Misja ratunkowa {1} nie dojdzie do skutku. Rakieta {rocket} wybucha podczas startu.
