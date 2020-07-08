@@ -53,6 +53,8 @@ oxygen█Oxygen
 fuel█Fuel
 cybercars█Cybercars
 
+unitsToProduce█Units to Produce: {0}
+
 marsProductionHeader█<b>Production</b> <size=50%>/quarter</size>
 marsUsageHeader█<b>Usage</b> <size=50%>/quarter</size>
 marsStorageHeader█<b>Storage</b>
