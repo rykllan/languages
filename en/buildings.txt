@@ -16,10 +16,16 @@ building_category_hangars█Hangars
 buildingSetup_buildingName█Building name...
 buildingSetup_overview█Overview
 buildingSetup_setup█Setup
+buildingSetup_modules█Modules
+buildingSetup_other█Other
 buildingSetup_billsCurrentQuarter█Bills for current quarter
 
 buildingSetup_nowWorkingOn█Now working on
 buildingSetup_queue█Queue
+
+buildingSetup_produce█Produce
+
+returnToEarth█Return to Earth
 
 buildingSetup_negotiationPowerEachEmployee█Negotiation power for each employee
 buildingSetup_negotiationPowerBuilding█Building negotiation power
