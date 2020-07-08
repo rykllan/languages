@@ -44,6 +44,8 @@ mars█Mars
 
 tanking█Tanking...
 
+marsDetails█Mars Details
+
 martians█Martians
 materials█Materials
 electricity█Electricity
