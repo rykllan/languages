@@ -45,6 +45,7 @@ mars█Mars
 tanking█Tanking...
 
 marsDetails█Mars Details
+earthLikePlanet█Earth-like Planet
 
 martians█Martians
 materials█Materials
