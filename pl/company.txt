@@ -18,6 +18,7 @@ hats█Czapki
 bricks█Cegły
 not_a_flamethrowers█<color=#E74C3C><size=10>Nie-</size></color>&%Miotacze Ognia
 rocketquillas█Rakietoquillasy
+shorts█Short Shorts
 use█Użyj
 
 company_progressHeader█Postęp firmy
@@ -56,5 +57,6 @@ company_employees█Pracownicy
 company_others█Inne
 company_lossPerYear█Średnia <mark=#E74C3C25>strata</mark> na rok
 company_profitPerYear█Średni <mark=#E74C3C25>przychód</mark> na rok
+
 
 

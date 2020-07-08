@@ -1,36 +1,54 @@
 
 
-menu_home█Strona Główna
-menu_play█Graj
+menu_newGame█New Game
+menu_loadGame█Load Game
 menu_settings█Ustawienia
 menu_credits█Twórcy
 menu_exit█Opuść grę
-menu_backToMainMenu█Wróć do Menu Głównego
 menu_save█Zapisz
-menu_notAvailable█Niedostępne w tej wersji :(
-menu_saveNotSupported█Zapisy z poprzedniej wersji gry nie są obecnie obsługiwane. Przepraszamy!
+menu_saveNotSupported█Save From Older Version :(
+menu_gameOver█GAMEOVER! :(
 
-menu_createNewGame█Stwórz nową grę
-menu_tutorial█Poradnik
-menu_classicHeader█Tryb Kariery
-menu_classicDesc█W trybie kariery zbudujesz swoją firmę od zera. Podbij świat... i kosmos!
-menu_sandboxHeader█Piaskownica
-menu_sandboxDesc█W piaskownicy liczy się wyobraźnia. Wszystko jest odblokowane!
+menu_createNewGame█Create New Game
 
-menu_quality█Grafika
+menu_gameMode█Game Mode
+menu_classic█<b>Classic</b>&%<size=75%>Play the classic mode where you have to build your own space company from scratch.
+menu_sandbox█<b>Sandbox</b>&%<size=75%>In sandbox mode everything is unlocked and unlimited. Kinda boring tbh.
+
+menu_difficulty█Game Difficulty
+menu_easy█<b>Easy</b>&%<size=75%>Play easy if you want to play easy. Just launch those big rockets.
+menu_hard█<b>Hard</b>&%<size=75%>Coming soon!
+
+menu_apply█Apply
+
+menu_quality█Graphics
 menu_low█Niska
 menu_medium█Średnia
 menu_high█Wysoka
-menu_effects█Efekty
-menu_postprocessings█Post Processing
+menu_environment█Environment?
+menu_postprocessings█Post Processing?
+
 menu_gameplay█Rozgrywka
 menu_autoSave█Auto zapis?
 menu_autoPause█Auto pauza?
+menu_alwaysDay█Always Day?
+menu_hangarsVisual█Hangars Visual?
+
 menu_video█Wyświetlanie
 menu_fullscreen█Pełny ekran?
+menu_vsync█V-Sync?
+
 menu_audio█Dźwięk
 menu_music█Muzyka?
 menu_sounds█Dźwięki?
+
 menu_language█Język
+
+
+menu_creators█Creators
+menu_collaboration█Collaboration
+menu_specialThanks█Special Thanks
+menu_icons█Icons From Flaticon.com
+
 
 

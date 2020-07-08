@@ -18,6 +18,7 @@ hats█Sapkák
 bricks█Téglák
 not_a_flamethrowers█<color=#E74C3C><size=10>Nem egy</size></color>&%lángszóró
 rocketquillas█Rakétaquillák
+shorts█Short Shorts
 use█Használ
 
 company_progressHeader█Vállalat előrehaladása

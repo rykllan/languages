@@ -18,6 +18,7 @@ hats█Mützen
 bricks█Ziegelsteine
 not_a_flamethrowers█<color=#E74C3C><size=10>Kein</size></color>&%Flammenwerfer
 rocketquillas█Rocketquillas
+shorts█Short Shorts
 use█Verwende
 
 company_progressHeader█Unternehmensfortschritt
@@ -56,5 +57,6 @@ company_employees█Mitarbeiter
 company_others█Anderes
 company_lossPerYear█Durchschnittlicher <mark=#E74C3C25>Verlust</mark> pro Jahr
 company_profitPerYear█Durchschnittlicher <mark=#64B5F625>Gewinn</mark> pro Jahr
+
 
 

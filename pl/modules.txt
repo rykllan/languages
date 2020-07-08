@@ -61,7 +61,7 @@ mdl_a_gridfins█Aluminiowe Lotki,Wymagane do ręcznie lądujących rakiet.
 mdl_t_gridfins█Tytanowe Lotki,Wymagane do automatycznie lądujących rakiet.
 mdl_m_landingLegs█Ręczne Podwozie,Wymagane do ręcznie lądujących rakiet.
 mdl_a_landingLegs█Automatyczne Podwozie,Wymagane do automatycznie lądujących rakiet.
-mdl_booster_connector█Złącze Boosterów,Wymagane do rakiet z dodatkowymi boosterami.
+mdl_booster_connector█Booster Connector,Required for sidebooster rockets. (Falcon Heavy Boi)
 
 
 ---Capsule Stuff---█---Capsule Stuff---
@@ -87,5 +87,6 @@ mdl_stainlesssteel_structure█Stalowa Konstrukcja,Wymagana do zbudowania statku
 mdl_cargoUtility█Typ Towarowy,Towarowy Statek Kosmiczny
 mdl_crewUtility█Typ Załogowy,Załogowy Statek Kosmiczny
 mdl_fuelUtility█Typ Cysterny,Cysternowy Statek Kosmiczny
+
 
 

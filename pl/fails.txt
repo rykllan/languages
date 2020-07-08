@@ -37,3 +37,4 @@ fail35█Paliwo było zbyt gorące.
 fail36█Nie łącz modułów rakiet taśmą.
 
 
+

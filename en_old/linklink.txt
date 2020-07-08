@@ -32,7 +32,9 @@ linkLink_failure_content█Concerned LinkLink subscribers report a failure of th
 
 linkLink_giga_factory_needed█You need a GigaFactory in order to build LinkLink satellites.
 
+linkLink_system█System
 linkLink_production█Production
+linkLink_statistics█Statistics
 
 linkLink_100_required█You need at least <color=#64B5F6><b>100</b></color> LinkLinks in order to run the service.
 
@@ -55,5 +57,9 @@ linkLink_30_deorbited█30% of your LinkLinks have been deorbited because their 
 
 linkLink_welcome_header█LinkLink
 linkLink_welcome_content█Later in EarthX, you will be able to create your own satellite constelation which will provide affordable Internet worldwide.&%&%However, to do so, you need to launch 2 test satellites first.&%&%Good luck!
+
+30percentDeorbit█30% of LinkLinks will deorbit in <b>{0}</b>
+
+
 
 

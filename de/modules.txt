@@ -61,7 +61,7 @@ mdl_a_gridfins█Aluminium Grid Fins,Required for manual landing rockets.
 mdl_t_gridfins█Titanium Grid Fins,Required for auto landing rockets.
 mdl_m_landingLegs█Manuelle Landebeine,Erforderlich für manuell landende Raketen.
 mdl_a_landingLegs█Automatische Landebeine,Erforderlich für automatisch landende Raketen.
-mdl_booster_connector█Boosters Connector,Required for sidebooster rockets. (Falcon Heavy Boi)
+mdl_booster_connector█Booster Connector,Required for sidebooster rockets. (Falcon Heavy Boi)
 
 
 ---Capsule Stuff---█---Capsule Stuff---
@@ -87,5 +87,6 @@ mdl_stainlesssteel_structure█Gehäuse aus Edelstahl, erforderlich für Raumsch
 mdl_cargoUtility█Cargo Utility,Cargo Spaceship Module
 mdl_crewUtility█Crew Utility,Crew Spaceship Module
 mdl_fuelUtility█Fuel Utility,Tanker Spaceship
+
 
 

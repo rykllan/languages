@@ -33,6 +33,16 @@ launch█Wystrzel
 repair█Napraw
 turnExpendable█Przemień w jednorazową
 
+earthPO█Parked on <color=#64B5F6>Earth's</color> Parking Orbit (Leaving in <b>{0}</b>)
+marsPO█Parked on <color=#E17055>Mars'</color> Parking Orbit (Leaving in <b>{0}</b>)
+marsTraveling█Traveling to <color=#E17055>Mars</color> (Arriving in <b>{0}</b>)
+earthTraveling█Traveling to <color=#64B5F6>Earth</color> (Arriving in <b>{0}</b>)
+marsLanding█Landing on <color=#E17055>Mars</color>
+earthLanding█Landing on <color=#64B5F6>Earth</color>
+marsLanded█Landed on <color=#E17055>Mars</color>
+
+readyToLaunch█<b><color=#64B5F6>{0} of {1}</b></color>\n<size=70%>are ready to launch!
+
 capabilities█Możliwości
 reliability█Niezawodność
 condition█Wytrzymałość
@@ -59,6 +69,8 @@ fairingCatchingNotSupported█Odzyskiwanie owiewek niewspierane!&%Potrzebujesz:<
 payload█Ładunek
 crew█Załoga
 cargo█Towar
+
+launchAll█Launch All
 
 launchSetup_header█Ustawienia lotu
 launchSetup_missionName█Nazwa misji...
@@ -120,8 +132,9 @@ creator_header█Nowy projekt
 creator_vehicleName█Nazwa projektu...
 creator_createProject█Stwórz projekt
 creator_vehicleCanGoAnywhere█Ten pojazd może lecieć wszędzie, gdzie tylko chcesz.
-creator_capsuleRocket█Ta rakieta może wynosić tylko kapsuły.
-creator_spaceshipRocket█Ta rakieta może wynosić tylko statki kosmiczne.
+creator_capsuleRocket█This rocket can only carry the capsules.
+creator_spaceshipRocket█This rocket can only carry the spaceships.
 no_module_unlocked█Żaden moduł nie jest odblokowany.
+
 
 

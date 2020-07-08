@@ -39,6 +39,7 @@ cantRepairSoManyVehicles█¡No puedes reparar tantos vehículos al mismo tiempo
 cantRemoveProject█No puedes quitar este proyecto porque hay vehículos en él.
 
 noHangars█No puedes guardar este vehículo por que no tienes espacio en tus hangares o tienes que construir <color=#64B5F6>{0}</color> para guardarlo {1}.
+noHangarsLanding█A spaceship is trying to land! You need more space in <color=#64B5F6>{0}</color> to store it!
 noFactories█{0} no puede ser construido por que no tienes {2} capaces de hacer {1} módulos.
 
 projectMustHaveName█El proyecto debe tener un nombre. ¿Alguna vez has visto un cohete sin nombre?
@@ -61,5 +62,16 @@ cantBuildFactories█No puedes construir tantas fábricas.
 cantBuildSimpleLP█No puedes construir plataformas de lanzamiento simples en este momento.
 cantBuildAdvancedLP█No puedes construir plataformas de lanzamiento avanzadas en este momento.
 cantBuildMegaLP█No puedes construir mega plataformas de lanzamiento en este momento.
+
+noGigaFactories█You don't have any GigaFactories!
+
+noMoney█Not enough money!
+noMaterials█Not enough materials!
+noCybercars█Not enough cybercars!
+
+parkingOrbit█Parking Orbit
+leavingParkingOrbit█Leaving Orbit in {0}
+
+
 
 

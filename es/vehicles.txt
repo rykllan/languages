@@ -33,6 +33,16 @@ launch█Lanzar
 repair█Reparar
 turnExpendable█Hacer Desechable
 
+earthPO█Parked on <color=#64B5F6>Earth's</color> Parking Orbit (Leaving in <b>{0}</b>)
+marsPO█Parked on <color=#E17055>Mars'</color> Parking Orbit (Leaving in <b>{0}</b>)
+marsTraveling█Traveling to <color=#E17055>Mars</color> (Arriving in <b>{0}</b>)
+earthTraveling█Traveling to <color=#64B5F6>Earth</color> (Arriving in <b>{0}</b>)
+marsLanding█Landing on <color=#E17055>Mars</color>
+earthLanding█Landing on <color=#64B5F6>Earth</color>
+marsLanded█Landed on <color=#E17055>Mars</color>
+
+readyToLaunch█<b><color=#64B5F6>{0} of {1}</b></color>\n<size=70%>are ready to launch!
+
 capabilities█Capacidades
 reliability█Fiabilidad
 condition█Condición
@@ -59,6 +69,8 @@ fairingCatchingNotSupported█Recuperacion de carenado no permitida!&%Necesitas:
 payload█Carga
 crew█Tripulación
 cargo█Cargamento
+
+launchAll█Launch All
 
 launchSetup_header█Configuración del lanzamiento
 launchSetup_missionName█Nombre de la misión...
@@ -120,8 +132,9 @@ creator_header█Nuevo proyecto
 creator_vehicleName█Nombre del vehículo...
 creator_createProject█Crear proyecto
 creator_vehicleCanGoAnywhere█Éste vehículo puede ir a donde quieras.
-creator_capsuleRocket█Este cohete suele puede llevar cápsulas.
-creator_spaceshipRocket█Este cohete suele puede llevar Naves Espaciles.
+creator_capsuleRocket█This rocket can only carry the capsules.
+creator_spaceshipRocket█This rocket can only carry the spaceships.
 no_module_unlocked█Ningún módulo está desbloqueado.
+
 
 

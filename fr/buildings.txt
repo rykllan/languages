@@ -10,16 +10,23 @@ building_advancedLP█Rampe de lancement avancée
 building_megaLP█Méga rampe de lancement
 
 building_category_all█toute
-building_category_factories█usine
-building_category_hangars█Hangars
+building_category_production█Production
+building_category_storage█Storage
+building_category_other█Other
 
 buildingSetup_buildingName█Nom du bâtiment...
 buildingSetup_overview█Aperçu
 buildingSetup_setup█Préparation
+buildingSetup_modules█Modules
+buildingSetup_other█Other
 buildingSetup_billsCurrentQuarter█Projets pour le trimestre en cours
 
 buildingSetup_nowWorkingOn█Travaillant actuellement sur
 buildingSetup_queue█Queue
+
+buildingSetup_produce█Produce
+
+returnToEarth█Return to Earth
 
 buildingSetup_negotiationPowerEachEmployee█Pouvoir de négociation pour chaque employé
 buildingSetup_negotiationPowerBuilding█Pouvoir de négociation en construction
@@ -41,6 +48,7 @@ medium_factory_desc█tu ne peut construire que des petit et moyen module
 
 large_factory█grand usine
 large_factory_desc█tu peut tout construire sauf des starship ou des super heavy
+
 giga_factory█giga usine
 giga_factory_desc█tu peut construire tout type de veicule et satelite
 
@@ -49,6 +57,7 @@ small_hangar_desc█tu ne peut stocker que des fusée
 
 medium_hangar█hangar medium
 medium_hangar_desc█tu ne peut stocker que des fusée et des capsule
+
 large_hangar█grand hangar
 large_hangar_desc█tu peut stocker plus des fusée et capsule
 
@@ -64,8 +73,62 @@ laboratory_desc█produit des point de skill
 megaLP█pad de lancement mega
 megaLP_desc█tu peut lancer des starship
 
-terminal█terminal linklink
-terminal_desc█les terminale connecte les gens sur terre a linklink. plus de terminale == plus de capacité d'utilisateur.
+smallTerminal█LinkLink Small Terminal
+smallTerminal_desc█Terminals are connecting people on Earth with LinkLinks. More terminals == more users capacity.
+
+largeTerminal█LinkLink Large Terminal
+largeTerminal_desc█Terminals are connecting people on Earth with LinkLinks. More terminals == more users capacity.
+
+landingZone█Landing Zone
+landingZone_desc█Do I really need to describe it?
+
+smallHotel█Small Hotel
+smallHotel_desc█Martians are living in places like this.
+
+mediumHotel█Medium Hotel
+mediumHotel_desc█More Martians are living in places like this.
+
+largeHotel█Large Hotel
+largeHotel_desc█A lot of Martians are living in places like this.
+
+waterFactory█Water Factory
+waterFactory_desc█Produces Water and Oxygen.
+
+fuelFactory█Fuel Factory
+fuelFactory_desc█Produces Fuel.
+
+steelFactory█Steel Factory
+steelFactory_desc█Produces Materials and Cybercars.
+
+mediumGreenhouse█Medium Greenhouse
+mediumGreenhouse_desc█Produces Food and Oxygen.
+
+largeGreenhouse█Large Greenhouse
+largeGreenhouse_desc█Produces more Food and Oxygen.
+
+smallSolar█Small Solar
+smallSolar_desc█Produces Electricity.
+
+mediumSolar█Medium Solar
+mediumSolar_desc█Produces more Electricity.
+
+smallWaterStorage█Small Water Storage
+smallWaterStorage_desc█Stores Water and Oxygen.
+
+mediumWaterStorage█Medium Water Storage
+mediumWaterStorage_desc█Stores more Water and Oxygen.
+
+largeWaterStorage█Large Water Storage
+largeWaterStorage_desc█Stores a lot of Water and Oxygen.
+
+smallFuelStorage█Small Fuel Storage
+smallFuelStorage_desc█Stores Fuel.
+
+mediumFuelStorage█Medium Fuel Storage
+mediumFuelStorage_desc█Stores more Fuel.
+
+largeFuelStorage█Large Fuel Storage
+largeFuelStorage_desc█Stores a lot of Fuel.
 
 lp_cape█Cap Canaveral
 lp_vandenberg█Vandenberg
@@ -78,5 +141,6 @@ lp_xichang█Xichang
 lp_rocketComplex█Port spatial privé
 lp_australia█Woomera
 lp_india█Satish Dhawan
+
 
 

@@ -61,7 +61,7 @@ mdl_a_gridfins█Alumínium rácsos vezérlőtalpak, manuálisan landoló rakét
 mdl_t_gridfins█Titá rácsos vezérlőtalpak, automatikusan landoló rakétákhoz szükséges.
 mdl_m_landingLegs█Manuális landolású lábak, manuálisan landoló rakétákhoz szükséges.
 mdl_a_landingLegs█Automatikus landolású lábak, automatikusan landoló rakétákhoz szükséges.
-mdl_booster_connector█Gyorsító csatlakozó, oldalhajtómű rakétákhoz szükséges. (a Falcon nehézhez)
+mdl_booster_connector█Booster Connector,Required for sidebooster rockets. (Falcon Heavy Boi)
 
 
 ---Capsule Stuff---█---Kapszula alkatrészek---

@@ -18,6 +18,7 @@ hats█Кепки
 bricks█Кирпичи
 not_a_flamethrowers█<color=#E74C3C><size=10>Не</size></color>&%Огнемёты
 rocketquillas█Рокеткила
+shorts█Short Shorts
 use█Использовать
 
 company_progressHeader█Прогресс компании
@@ -56,5 +57,6 @@ company_employees█Сотрудники
 company_others█Другое
 company_lossPerYear█Средние <mark=#E74C3C25>затраты</mark> за год
 company_profitPerYear█Средние <mark=#E74C3C25>доходы</mark> за год
+
 
 

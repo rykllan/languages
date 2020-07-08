@@ -18,6 +18,7 @@ hats█Casquettes
 bricks█Briques
 not_a_flamethrowers█<color=#E74C3C><size=10>Pas un</size></color>&%lance-flammes
 rocketquillas█Jet27
+shorts█Short Shorts
 use█Utiliser
 
 company_progressHeader█Évolution de la compagnie
@@ -56,5 +57,6 @@ company_employees█Employees
 company_others█Others
 company_lossPerYear█Average <mark=#E74C3C25>loss</mark> per year
 company_profitPerYear█Average <mark=#E74C3C25>loss</mark> per year
+
 
 
