@@ -35,4 +35,18 @@ map_settings_linklink_visible█LinkLink Visible
 map_settings_satellites_visible█Satellites Visible
 map_settings_linklink_outline█LinkLink Outline
 
+martians█Martians
+materials█Materials
+electricity█Electricity
+food█Food
+water█Water
+oxygen█Oxygen
+fuel█Fuel
+cybercars█Cybercars
+
+marsProductionHeader█<b>Production</b> <size=50%>/quarter</size>
+marsUsageHeader█<b>Usage</b> <size=50%>/quarter</size>
+marsStorageHeader█<b>Storage</b>
+
+
 
