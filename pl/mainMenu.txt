@@ -1,38 +1,38 @@
 
 
-menu_newGame█New Game
-menu_loadGame█Load Game
+menu_newGame█Nowa Gra
+menu_loadGame█Wczytaj Grę
 menu_settings█Ustawienia
 menu_credits█Twórcy
 menu_exit█Opuść grę
 menu_save█Zapisz
-menu_saveNotSupported█Save From Older Version :(
-menu_gameOver█GAMEOVER! :(
+menu_saveNotSupported█Zapis z poprzedniej wersji gry :(
+menu_gameOver█PRZEGRAŁEŚ! :(
 
-menu_createNewGame█Create New Game
+menu_createNewGame█Stwórz Nową Grę
 
-menu_gameMode█Game Mode
-menu_classic█<b>Classic</b>&%<size=75%>Play the classic mode where you have to build your own space company from scratch.
-menu_sandbox█<b>Sandbox</b>&%<size=75%>In sandbox mode everything is unlocked and unlimited. Kinda boring tbh.
+menu_gameMode█Tryb Gry
+menu_classic█<b>Klasyczny</b>&%<size=75%>Zagraj w tryb klasyczny, gdzie musisz stworzyć swoją firmę od zera.
+menu_sandbox█<b>Piaskownica</b>&%<size=75%>W piaskownicy wszystko jest odblokowane i nieskończone. Trochę nudne. 
 
-menu_difficulty█Game Difficulty
-menu_easy█<b>Easy</b>&%<size=75%>Play easy if you want to play easy. Just launch those big rockets.
-menu_hard█<b>Hard</b>&%<size=75%>Coming soon!
+menu_difficulty█Trudność Gry
+menu_easy█<b>Łatwy</b>&%<size=75%>Graj łatwo jeśli jesteś łatwy. Po prostu wystrzel swoje duuuże rakiety.
+menu_hard█<b>Trudny</b>&%<size=75%>Dostępne wkrótce!
 
-menu_apply█Apply
+menu_apply█Zatwierdź
 
-menu_quality█Graphics
+menu_quality█Grafika
 menu_low█Niska
 menu_medium█Średnia
 menu_high█Wysoka
-menu_environment█Environment?
-menu_postprocessings█Post Processing?
+menu_environment█Drzewka?
+menu_postprocessings█Efekty?
 
 menu_gameplay█Rozgrywka
 menu_autoSave█Auto zapis?
 menu_autoPause█Auto pauza?
-menu_alwaysDay█Always Day?
-menu_hangarsVisual█Hangars Visual?
+menu_alwaysDay█Zawsze Dzień?
+menu_hangarsVisual█Lepsze Hangary?
 
 menu_video█Wyświetlanie
 menu_fullscreen█Pełny ekran?
@@ -45,10 +45,10 @@ menu_sounds█Dźwięki?
 menu_language█Język
 
 
-menu_creators█Creators
-menu_collaboration█Collaboration
-menu_specialThanks█Special Thanks
-menu_icons█Icons From Flaticon.com
+menu_creators█Twórcy
+menu_collaboration█Współpraca
+menu_specialThanks█Specjalne Podziękowania
+menu_icons█Ikony pochodzą z Flaticon.com
 
 
 
