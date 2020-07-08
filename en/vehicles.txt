@@ -70,6 +70,8 @@ payload█Payload
 crew█Crew
 cargo█Cargo
 
+launchAll█Launch All
+
 launchSetup_header█Launch Setup
 launchSetup_missionName█Mission name...
 launchSetup_mission█Mission
