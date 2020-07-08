@@ -32,7 +32,9 @@ linkLink_failure_content█Concerned LinkLink subscribers report a failure of th
 
 linkLink_giga_factory_needed█You need a GigaFactory in order to build LinkLink satellites.
 
+linkLink_system█System
 linkLink_production█Production
+linkLink_statistics█Statistics
 
 linkLink_100_required█You need at least <color=#64B5F6><b>100</b></color> LinkLinks in order to run the service.
 
