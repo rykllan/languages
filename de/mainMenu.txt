@@ -1,40 +1,40 @@
 
 
-menu_newGame█New Game
-menu_loadGame█Load Game
+menu_newGame█Neues Spiel
+menu_loadGame█Spiel laden
 menu_settings█Einstellungen
 menu_credits█Credits
 menu_exit█Beenden
 menu_save█Speichern
-menu_saveNotSupported█Save From Older Version :(
+menu_saveNotSupported█Speicherstand aus alter Version :(
 menu_gameOver█GAMEOVER! :(
 
-menu_createNewGame█Create New Game
+menu_createNewGame█Erstelle neues Spiel
 
-lastPlayed█Last Played:
+lastPlayed█Zuletzt gespielt:
 
-menu_gameMode█Game Mode
-menu_classic█<b>Classic</b>&%<size=75%>Play the classic mode where you have to build your own space company from scratch.
-menu_sandbox█<b>Sandbox</b>&%<size=75%>In sandbox mode everything is unlocked and unlimited. Kinda boring tbh.
+menu_gameMode█Spielmodus
+menu_classic█<b>Klassisch</b>&%<size=75%>Spiele den klassischen Modus, bei dem du dein eigenes Raumfahrtunternehmen von Grund auf aufbauen musst.
+menu_sandbox█<b>Sandbox</b>&%<size=75%>Im Sandbox-Modus ist alles freigeschaltet und unbegrenzt. Irgendwie langweilig, um ehrlich zu sein.
 
-menu_difficulty█Game Difficulty
-menu_easy█<b>Easy</b>&%<size=75%>Play easy if you want to play easy. Just launch those big rockets.
-menu_hard█<b>Hard</b>&%<size=75%>Coming soon!
+menu_difficulty█Spielschwierigkeit
+menu_easy█<b>Einfach</b>&%<size=75%>Spiele leicht, wenn du leicht spielen willst. Starte einfach diese großen Raketen.
+menu_hard█<b>Hart</b>&%<size=75%>Bald verfügbar!
 
-menu_apply█Apply
+menu_apply█Übernehmen
 
-menu_quality█Graphics
+menu_quality█Grafik
 menu_low█Schlecht
 menu_medium█Mittel
 menu_high█Hoch
 menu_environment█Environment?
-menu_postprocessings█Post Processing?
+menu_postprocessings█Nachbearbeitung?
 
 menu_gameplay█Gameplay
 menu_autoSave█Automatisches Speichern?
 menu_autoPause█Automatische Pause?
-menu_alwaysDay█Always Day?
-menu_hangarsVisual█Hangars Visual?
+menu_alwaysDay█Immer Tag?
+menu_hangarsVisual█Hangars sichtbar?
 
 menu_video█Video
 menu_fullscreen█Vollbild?
@@ -48,9 +48,9 @@ menu_language█Sprache
 
 
 menu_creators█Creators
-menu_collaboration█Collaboration
-menu_specialThanks█Special Thanks
-menu_icons█Icons From Flaticon.com
+menu_collaboration█Zusammenarbeit
+menu_specialThanks█Besonderer Dank
+menu_icons█Icons von Flaticon.com
 
 
 

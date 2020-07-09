@@ -39,7 +39,7 @@ cantRepairSoManyVehicles█Du kannst nicht so viele Fahrzeuge zur gleichen Zeit 
 cantRemoveProject█Du kannst dieses Projekt nicht entfernen, weil sich darin Fahrzeuge befinden.
 
 noHangars█Du kannst dieses Fahrzeug nicht lagern, weil es keinen Platz in deinem Hangar gibt oder du baust einen <color=#64B5F6>{0}</color> um {1} dort zu lagern.
-noHangarsLanding█A spaceship is trying to land! You need more space in <color=#64B5F6>{0}</color> to store it!
+noHangarsLanding█Ein Raumschiff versucht zu landen! <<<du benötigst mehr Platz im <color=#64B5F6>{0}</color> um es zu lagern!
 noFactories█{0} can't be built because you need a {2} to be able to build {1} modules.
 
 projectMustHaveName█Das Projekt muss einen Namen haben. Haben du schon einmal eine Rakete ohne Namen gesehen?
@@ -63,14 +63,14 @@ cantBuildSimpleLP█Du kannst momentan keine einfache Startrampen bauen.
 cantBuildAdvancedLP█Du kannst momentan keine fortgeschrittenen Startrampen bauen.
 cantBuildMegaLP█Du kannst momentan keine Mega Startrampe bauen.
 
-noGigaFactories█You don't have any GigaFactories!
+noGigaFactories█Du hast keine Giga Fabrik!
 
-noMoney█Not enough money!
-noMaterials█Not enough materials!
-noCybercars█Not enough cybercars!
+noMoney█Nicht genug Geld!
+noMaterials█Nicht genug Materialien!
+noCybercars█Nicht genug cybercars!
 
-parkingOrbit█Parking Orbit
-leavingParkingOrbit█Leaving Orbit in {0}
+parkingOrbit█Parkplatz-Umlaufbahn
+leavingParkingOrbit█Verlässt Orbit in {0}
 
 
 
