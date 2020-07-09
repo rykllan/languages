@@ -13,8 +13,16 @@ lp_xichang
 lp_australia
 lp_india
 fail22
-
-
-
-
+payload_spate
+contract_spate
+payload_tesla
+contract_tesla
+payload_tintin
+contract_crs
+contract_ccp
+mars
+menu_vsync
+launchSetup_pizza
+launchPanel_speedMetric
+launchPanel_altitudeMetric
 
