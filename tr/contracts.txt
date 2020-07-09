@@ -1,0 +1,66 @@
+
+
+contracts_header█Misyonlar
+
+contracts_menu_payloads█Yükler
+contracts_menu_contracts█Sözleşmeler
+contracts_menu_offers█Teklifler
+
+contracts_payloads█{0} yük
+contracts_availableIn█Uygun
+contracts_noRockets█Uygun roket yok!
+contracts_negotiators█Müzakereciler
+contracts_approx█Yaklaşık.
+contracts_selectLaunchPrice█Lansman fiyatını seçin
+contracts_avgRocketPrice█Ort. roket fiyatı:
+contracts_avgProfit█Ort. kar:
+
+contracts_submitOffer█Teklif sun
+contracts_negotiate█Görüş
+
+contracts_onMissionSuccess█Başarı Payı
+contracts_onMissionFailure█Başarısızlık Payı
+
+contracts_offer_decline█Teklifi reddet
+contracts_offer_accept█Teklifi kabul et
+contracts_offer_accepted█Bu teklifi kabul ettiniz.
+
+deadline_critical█Çok kritik!
+deadline_launchNow█Şimdi fırlat!
+deadline_yearLeft█1 yıl kaldı!
+deadline_yearsLeft█{0} yıl kaldı!
+
+contract_negotiating█Müzakere
+contract_active█Aktif
+contract_completed█Tamamlandı
+
+contract_won_status█<color=#64B5F6><b>Bu sözleşmeyi kazandınız.</b></color>&%<align="left">&%<size=13>Bu yükleri zamanında ulaştırmanız gerekecek, <mark=#64B5F625>başlayacak {0}</mark>:</size></align>&%&%{1}
+
+
+contract_decline_confirm█Bu teklifi gerçekten reddetmek istiyor musunuz?
+
+contract_deadline_fine█Ceza:
+
+payload_preparing_to_fly█Kalkışa hazırlanıyor
+
+
+contract_crs█Ticari Tedarik Servisi
+payload_crs█CRS-{0} (ISS İkmali)
+
+contract_ccp█Ticari Ekip Programı
+payload_ccp█CCP-{0} (ISS Ekibi)
+
+payload_tintin█Tintin AB (LinkLink Testi)
+
+contract_tesla█Starman
+payload_tesla█Tesla Roadster
+
+contract_potato█Suni Yük
+payload_potato█Orbital Potato
+
+contract_balwina█miyav... Miyav... MİYAV!!!
+
+contract_technician█Acil Durum
+payload_technician█Teknisyen
+
+

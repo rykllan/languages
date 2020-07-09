@@ -1,0 +1,38 @@
+
+
+gameSaved█Oyun otomatik olarak kaydedildi. Endişe etme!
+gameLoaded█Oyun yüklendi. İyi eğlenceler!
+
+confirm█Emin misin?
+confirm_removeVehicle█Bu aracı gerçekten kaldırmak istiyor musunuz?
+confirm_destroyBuilding█Bu binayı gerçekten yok etmek istiyor musunuz?
+confirm_abortRocket█O roketi gerçekten iptal etmek istiyor musun?
+confirm_turnExpendable█İniş takımlarını gerçekten çıkarmak istiyor musunuz? Roket uçuştan sonra atmosferde yanacaktır.
+confirm_exitGame█Beni şimdi terk mi ediyorsun, he? :(
+confirm_exitMainMenu█Diğer oyunlar burada size kaydedilmemiş ilerlemenizin kaybedileceğini söyleyecektir.
+confirm_deleteSave█Belki bir dahaki sefere iflas etmeyeceksin.
+
+yes█Evet
+no█Hayır
+ok█Tamam
+
+enterText█Metin girin...
+
+notification█Bildirim
+
+payload_size_verySmall█Çok küçük
+payload_size_small█Küçük
+payload_size_medium█Orta
+payload_size_large█Büyük
+payload_size_veryLarge█Çok Büyük
+orbit_so█Suborbit
+orbit_leo█LEO
+orbit_meo█MEO
+orbit_geo█GEO
+orbit_iss█ISS
+
+map_settings_linklink_visible█LinkLink Görünür
+map_settings_satellites_visible█Uydular Görünür
+map_settings_linklink_outline█LinkLink Anahatları
+
+

@@ -1,0 +1,127 @@
+
+
+rocket█Roket
+capsule█Kapsül
+spaceship█Uzayaracı
+
+rocketRequiresCapsule█Roket (Kapsül gerektirir)
+rocketRequiresSpaceship█Roket (Uzay Aracı Gerektirir)
+
+vehicles█Araçlar
+vehicles_newProjectHeader█Yeni proje oluştur
+vehicles_newProjectButton█Yeni proje
+vehicles_newVehicleHeader█Yeni araç oluştur
+vehicles_newVehicleButton█Yeni araç
+
+vehicles_projects█Projeler
+vehicles_view█Görüntüle
+
+land█Arazi
+
+reusedVehicle█Yeniden kullanılan araç:
+buildCosts█Maliyet oluştur
+buildTime█Yapım Zamanı
+originalBuildCosts█Orijinal yapım maliyetleri
+optimizedBuildCosts█Optimize edilmiş inşaat maliyetleri
+launchCosts█Fırlatma maliyetleri
+
+inQueue█In queue&%<size=14><b><color=#64B5F6>Modül derhal inşa edilecek
+
+build█İnşa Et
+built█İnşa Edilmiş
+launch█Fırlat
+repair█Tamir
+turnExpendable█Harcanabilir Dönüt
+
+capabilities█Yetenekler
+reliability█Güvenilirlik
+condition█Durum
+
+notBuiltYet█Henüz inşa edilmedi
+constructing█Kuruluyor...
+repairing█Tamir Ediliyor...
+flying█Şimdi uçuyor
+dockedToISS█ISS'ye yerleştirildi (Yakında geri gelecek.)
+
+reusable█Yeniden kullanılabilir
+manual█Manual
+sideboosters█Sideboosters
+superheavy█Çok ağır
+spaceshipsOnly█Yalnızca uzay gemileri
+capsulesOnly█Sadece kapsüller
+fairingRecovery█Karenaj geri dönüşüm
+
+landingNotSupported█İniş desteklenmiyor!&%İhtiyacın olan:<size=12><b>&%-Izgara Yüzgeçleri & İniş Takımı&%-Batarya&%-GPS (otomatik yeniden kullanılabilirlik için)&%-4 veya 9 Gelişmiş Motor</b></size>&%
+capsulesNotSupported█Kapsüller desteklenmiyor!&%İhtiyacın olan:<size=12><b>&%-Batarya&%-GPS&%-4 veya 9 Gelişmiş Motor</b></size>&%
+heavyNotSupported█Ağır roket desteklenmiyor!&%İhtiyacın olan:<size=12><b>&%-Otomatik yeniden kullanılabilirliğe sahip roket</b></size>&%
+fairingCatchingNotSupported█Karenaj desteklenmiyor!&%İhtiyacın olan:<size=12><b>&%-Otomatik yeniden kullanılabilirliğe sahip roket</b></size>&%
+
+payload█Yük
+crew█Ekip
+cargo█Kargo
+
+launchSetup_header█Kurulumu Başlat
+launchSetup_missionName█Görev adı...
+launchSetup_mission█Görev
+launchSetup_noVehiclesFound█[Araç bulunamadı.]
+launchSetup_noPayloadsFound█[Yeterli yük bulunamadı.]
+launchSetup_selectVehicle█Araç seç
+launchSetup_selectLaunchPad█Fırlatma rampası seç
+launchSetup_selectLandingZone█İniş bölgesi seçin
+
+launchSetup_barge█Mavna
+launchSetup_lz1█LZ-1
+launchSetup_lz2█LZ-2
+
+launchSetup_testFlight█Test uçuşu
+launchSetup_concrete█Beton
+launchSetup_cheese█Peynir
+launchSetup_pizza█Pizza
+launchSetup_earthPlush█Peluş Gezegen
+launchSetup_everydayStickers█Günlük Çıkartmalar
+launchSetup_landingZone█İniş bölgesi
+
+launchSetup_success█Başarılı
+launchSetup_crash█Kaza
+failure█Başarısız
+noData█Veri yok
+flights█Uçuşlar
+failures█Başarısızlıklar
+partialSuccess█Kısmi Başarı
+
+launchPanel_telemetry█Telemetri
+launchPanel_noSupportTelemetry█Bu roket telemetriyi desteklemiyor.
+launchPanel_speed█Hız
+launchPanel_altitude█Yükseklik
+launchPanel_staticFire█Statik ateş
+launchPanel_speedMetric█km/h
+launchPanel_altitudeMetric█km
+
+buildPanel_moveToHangar█Hangara git
+
+missionReportHeader█Görev raporu
+missionReportMissionName█Görev adı:
+missionReportRocketName█Roket:
+missionReportMissionResult█Görev Sonucu
+
+missionReportLaunch█Fırlatma
+missionReportDeploy█Konuşlandırma
+missionReportLanding█İniş
+missionReportFairingLanding█Karenaj inişi
+missionReportSecondVehicleLanding█İkinci araç inişi
+
+missionReportMissionIncome█Görev geliri
+missionReportDamageCompensation█Hasar tazminatı
+missionReportLandedRocket█Roket indi
+profit█kâr
+loss█zarar
+
+creator_header█Yeni proje
+creator_vehicleName█Araç adı...
+creator_createProject█Proje oluştur
+creator_vehicleCanGoAnywhere█Bu araç istediğiniz yere gidebilir.
+creator_capsuleRocket█Bu roket sadece kapsülleri taşıyabilir.
+creator_spaceshipRocket█Bu roket sadece uzay gemilerini taşıyabilir.
+no_module_unlocked█Hiçbir modülün kilidi açılmadı.
+
+

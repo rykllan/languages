@@ -1,0 +1,60 @@
+
+
+company_createNewCompany█Yeni bir şirket oluşturun
+company_ceoName█CEO adı
+company_companyName█Şirket adı
+company_createCompany█Şirket oluştur
+
+company_header█Şirket
+company_overview█Genel Bakış
+company_fundraising█Bağış
+company_financeHistory█Finans Geçmişi
+company_flightHistory█Uçuş Geçmişi
+company_competitionHistory█Rekabet Geçmişi
+
+fundraising_productionCost█Üretim maliyeti:
+fundraising_sales█Satışlar:
+hats█Şapkalar
+bricks█Tuğlalar
+not_a_flamethrowers█<color=#E74C3C><size=10>Gördünüğü gibi değil</size></color>&%Alevsilahı
+rocketquillas█Rocketquillas
+use█Kullan
+
+company_progressHeader█Şirket ilerlemesi
+company_progressLevel█Seviye
+company_progressNewStuff█Yeni Gelişmeler
+company_progressCompleteChallenges█Mücadeleleri Tamamla
+company_progressNextLevel█Sonraki Seviye
+company_progressPreviousLevel█Önceki Seviye
+locked█Kilitli
+unlock█Kilidini aç
+unlocked█Açık
+upgrade█Yükselt
+XskillPoints█Yetenek puanları
+
+upgradeHeader█<b>YÜKSELT</b>&%<size=13><color=#64B5F6>15 yetenek puanları
+upgrade_reliability█<b>Güvenilirlik:</b> <color=#81C784>+10%
+upgrade_buildCost█<b>Yapım Maliyeti:</b> <color=#81C784>-10%
+upgrade_buildTime█<b>Yapım Zamanı:</b> <color=#81C784>-10%
+
+company_menu_finance█Finans
+company_menu_flights█Uçuşlar
+company_menu_competition█Rekabet
+
+company_summary█Finans Özeti (Son 10 Yıl)&%<size=14>En çok nereye para harcıyorsunuz?
+
+company_successes█Başarılar
+company_failures█Başarısızlıklar
+company_flights█Uçuşlar
+company_income█Gelir
+company_outcome█Gider
+company_balance█Denge
+
+company_launches█Roketler
+company_construction█İnşaat
+company_employees█Çalışanlar
+company_others█Diğerleri
+company_lossPerYear█Ortalama <mark=#E74C3C25>loss</mark> yıl başına
+company_profitPerYear█Ortalama <mark=#64B5F625>profit</mark> yıl başına
+
+

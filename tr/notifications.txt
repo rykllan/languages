@@ -1,0 +1,65 @@
+
+
+company_ceoAndCompanyMustHaveName█Şirket ve CEO'nun bir adı olmalı!
+
+earthxWelcome█Hey, Elo- oh, bu sensin... <color=#64B5F6>{0}</color>!&%Sonunda daha önce bahsettiğiniz roket şirketini kurduğunuzu görüyorum."<color=#64B5F6>{1}</color>" aslında harika bir isim! Size şunu söylemeliyim ki, çok cesursunuz.&%&%Lansman sağlayıcı pazarında tekel olan büyük şirketler yıllardır daha yeni bir teknolojiye yatırım yapmadı. Hala verimsiz güçlendiriciler ve eski motorlar kullanıyorlar. Ya roketlerini dünyaya geri indirebilirlerse? Sonrasında sadece 1 roket ile birden fazla yük göndermek mecburiyetinde kalınacak! Umarım birkaç yıl içinde bir iniş roketi ve hatta bir yan roket sanayisi inşa edebilirsiniz.&%&%Bol şans!
+
+iss_CRSHeader█ISS Ticari İkmal Hizmetleri
+iss_CRSContent█Hey!&%&%Roketler ve kargo kapsüllerini fırlatabileceğinizi kanıtladınız. Bu nedenle, bu oyunun yaratıcısı tarafından birkaç yıl boyunca uluslararası uzay istasyonu için tedarikçi olarak seçildiniz.&%&%Bunu yapmak zorundasınız çünkü reddetme seçeneğini programlamamıştım ve bu görev olmadan oyun sıkıcı olurdu.
+
+iss_CCPHeader█ISS Ticari Ekip Programı
+iss_CCPContent█Hey!&%&%Şirketiniz kuruluşundan bu yana çok büyüdü. Her neyse, hiç kendinizi dünyanın en büyük uzay şirketlerinden birinin CEO'su olarak hayal ettiniz mi? Ben de etmedim.&%&%Fakat oyun devam ediyor ve aklınızda çok şey olduğunu görüyorum, bu yüzden size 6 ek mürettebat görevi veriyorum (oyunun yaratıcısı zaten gerekli kapsüle sahip olduğunuzu tespit etti). Mürettebat görevleri düzenli olarak uluslararası uzay istasyonuna gönderilmelidir.&%&%Ah, Neredeyse unutuyordum, roketinizin patlamamasına dikkat edin, yoksa insanları yakarsanız kötü olur, hehe.
+
+iss_catHeader█Lütfen yardım et!
+iss_catContent█Kedim Balwina, çok kötü durumda ... ISS'de 4 ay daha kalmak zorundayım ve çok korkuyorum, bir daha asla onunla bir araya gelemeyeceğim!&%&%Bu nedenle, LÜTFEN bir sonraki ISS görevinize dahil edin :(&%&%Lütfen düşünün ve teşekkürler,&%&%Teresa
+
+iss_technicianHeader█ISS'de Acil Durum
+iss_technicianContent█İyi akşamlar,&%&%Uluslararası Uzay İstasyonu'nda şu anda 4 astronot bulunuyor. Modüllerden birinde orta büyüklükteki sızıntı nedeniyle yaşamları tehlikede.&%&%Şirketinizin mürettebat kapsülü olmadığını biliyoruz, bu yüzden kargo kapsülünde bir teknisyen ile işe koyulmanız gerekecek.&%&%Lütfen olabildiğince hızlı bir şekilde yapın VE bu uçuş hakkında basınla konuşmayın. Kimse bir insanı kargo kapsülüne fırlatmak üzere olduğumuzu bilmemeli!&%&%İşbirliğiniz için teşekkürler, görevden sonra ödemeyi alacaksınız.
+
+teslaRoadsterHeader█Uzaydaki Araba Misyonu
+teslaRoadsterContent█Uzaya bir araba fırlat çünkü neden olmasın!
+
+contract_newPayloadsHeader█Yeni yükler!
+contract_newPayloadsContent█Bu yükler inşa edildi ve test edildi:&%{0}&%Şimdi bunları fırlatabilirsiniz.&%{1}
+contract_goLaunchThemOkNow█Artık fırlatmaya hazırsın.&%&%Neden hala buradasın hehe&%&%Tamam, sadece onları fırlat yoksa roketlerini sileceğim
+
+contract_hurryUpHeader█Acele et!
+contract_hurryUpContent█Bu yükleri mümkün olan en kısa sürede tamamlamanız gerekir:&%{0}&%&%Ne için bekliyorsun? Roketlerin otonom değil, git ve onları fırlat!
+
+contract_badBoyHeader█Kötü çocuk. (veya kız)
+contract_badBoyContent█Bu yükleri zamanında başlatmadığınız için her bir yükün% 15'ine para cezası verildi:&%{0}&%&%Dünya henüz bitmedi. Git ve daha fazla sözleşme al! :)
+
+staticFireIssueFound█Mühendisleriniz roketinizde bir sorun buldular ve sorunu çözdüler.
+
+cantBuildNoFactories█Roket yapmak için fabrikalara ihtiyacınız var!
+cantBuildSoManyVehicles█Aynı anda çok fazla araç üretemezsiniz!
+cantLaunchSoManyVehicles█Aynı anda çok fazla roket fırlatamazsınız!
+cantRepairSoManyVehicles█Aynı anda çok fazla aracı onaramazsınız!
+
+cantRemoveProject█Bu projeyi kaldıramazsınız çünkü içinde araçlar var.
+
+noHangars█Bu aracı depolamayazsınız çünkü hangarınızda yer yok, depolamak için <color=#64B5F6>{0}</color> ihtiyacınız var {1}.
+noFactories█{0} inşa edilemez çünkü {2} modülüne ihtiyacınız {1} var.
+
+projectMustHaveName█Projenin bir adı olmalıdır. Hiç adı olmayan bir roket gördün mü?
+projectSameName█{0} zaten var. Belki de adı <color=yellow><b><size=20>'{0} Max Pro Ultra Slim' olmalı?
+
+moduleUnlocked█Modül kilidi açıldı!
+moduleUpgraded█Modül yükseltildi!
+notEnoughSkillPoints█Yeterli beceri puanı yok!
+
+congratulations█Tebrikler!
+congratulations_content█İlk başarılı uçuşunuz için tebrikler!&%Size daha fazla araştırma ve geliştirme için şirketinize devletten para verildiğini bildirmek istiyoruz.&%<color=#64B5F6><b>Çarçur edeyim deme!</color>.
+
+buildingWorking█Bu bina şu anda işliyor.
+hangarStoring█Bu hangar, araçları saklıyor.
+rocketLaunching█Şimdi bu fırlatma rampasından bir roket fırlatılıyor.
+
+cantBuildOffices█Daha fazla ofis kuramazsınız.
+cantBuildFactories█Daha fazla fabrika kuramazsınız.
+
+cantBuildSimpleLP█Artık basit fırlatma rampaları oluşturamazsınız.
+cantBuildAdvancedLP█Artık gelişmiş fırlatma rampaları oluşturamazsınız.
+cantBuildMegaLP█Artık mega fırlatma rampası inşa edemezsiniz.
+
+

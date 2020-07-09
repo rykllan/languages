@@ -1,0 +1,36 @@
+
+
+menu_home█Ana Menü
+menu_play█Oyna
+menu_settings█Ayarlar
+menu_credits█Türkçe Oyun Merkezi
+menu_exit█Çıkış
+menu_backToMainMenu█Ana Menüye Dön
+menu_save█Kaydet
+menu_notAvailable█Bu sürümde mevcut değil, üzgünüm :(
+menu_saveNotSupported█EarthX'in eski sürümlerindeki kayıtlarda oynamayı desteklemez.
+
+menu_createNewGame█Yeni Oyun Oluştur
+menu_tutorial█Alıştırma
+menu_classicHeader█Klasik
+menu_classicDesc█Kendi uzay şirketinizi kurabileceğiniz klasik modu oynayın.
+menu_sandboxHeader█Hayalperest
+menu_sandboxDesc█Hayalperest modunda her şeyin kilidi açılır ve sınırsızdır. Hayal gücünü kullan!
+
+menu_quality█Kalite
+menu_low█Düşük
+menu_medium█Orta
+menu_high█Yüksek
+menu_effects█Efektler
+menu_postprocessings█Rötuş
+menu_gameplay█Oynanış
+menu_autoSave█Oto-Kayıt?
+menu_autoPause█Oto-Durdur?
+menu_video█Video
+menu_fullscreen█Tam Ekran?
+menu_audio█Ses
+menu_music█Müzik?
+menu_sounds█Ortam Sesleri?
+menu_language█Dil
+
+

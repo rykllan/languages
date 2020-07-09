@@ -1,0 +1,13 @@
+
+
+tooltip_companyProgress█Şirket ilerlemesi
+tooltip_vehicles█Araçlar
+tooltip_contracts█Görevler
+tooltip_news█Haberler
+tooltip_company█Şirket
+tooltip_buildMode█İnşa Modu
+tooltip_money█Para
+tooltip_skillPoints█Yetenek puanları
+tooltip_linkLink█LinkLink
+
+

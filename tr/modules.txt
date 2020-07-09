@@ -1,0 +1,91 @@
+
+
+type_fairings█Karenaj
+type_fuelTank█Yakıt Deposu
+type_engine█Motor
+type_computer█Bilgisayar
+type_gridFins█Izgara Yüzgeçleri
+type_landingLegs█İniş Takımları
+type_battery█Batarya
+type_other█Diğer
+type_body█Gövde
+type_parachutes█Paraşütler
+type_sensors█Sensörler
+type_antenna█Anten
+type_utility█Yazılım
+
+module_factory_small█Küçük
+module_factory_medium█Orta
+module_factory_large█Büyük
+module_factory_giga█Giga
+
+---Engines---█---Motorlar---
+
+mdl_s_engine█Basit Motor, Küçük boyutlu roketler için gereklidir.
+mdl_a_engine█Gelişmiş Motor, Orta büyüklükteki roketler için gereklidir.
+mdl_a4_engine█4 Gelişmiş Motorlar, Manuel iniş roketleri için gereklidir.
+mdl_a9_engine█9 Gelişmiş Motorlar, Büyük / otomatik iniş yapan roketler için gereklidir.
+mdl_m27_engine█37 Metan Motorları, Çok büyük roketler için gereklidir. (Süper Ağır Boi)
+
+
+---FuelTanks---█---Yakıt Depoları---
+
+mdl_s_fueltank█Küçük Yakıt Deposu, Küçük roketler için gereklidir.
+mdl_m_fueltank█Orta Yakıt Deposu, orta / kapsül roketler için gereklidir.
+mdl_l_fueltank█Büyük Yakıt Deposu, Büyük / iniş takımlı roketler için gereklidir.
+mdl_vl_fueltank█Süper Yakıt Deposu, Çok büyük / uzay roketleri için gereklidir. (Süper Ağır Boi)
+
+
+---Computers---█---Bilgisayarlar---
+
+mdl_s_computer█Basit Bilgisayar, Küçük ve orta boy roketler için gereklidir.
+mdl_a_computer█Gelişmiş Bilgisayar, büyük / kapsüllü / iniş roketleri için gereklidir.
+mdl_sn_computer█Skynet Bilgisayar, Çok büyük / uzay roketleri için gereklidir.
+mdl_s_battery█Küçük Batarya, Manuel iniş / kapsüllü roketler için gereklidir.
+mdl_a_battery█Gelişmiş Batarya, Otomatik iniş / kapsüllü / uzay Aracı roketleri için gereklidir.
+mdl_gps█GPS, Kapsüllü / iniş roketleri için gereklidir.
+
+
+---Fairings---█---Karenaj---
+
+mdl_s_fairings█Küçük Karenaj, Küçük roketler için gereklidir.
+mdl_m_fairings█Orta Karenaj, Orta roketler için gereklidir.
+mdl_l_fairings█Büyük Karenaj, Büyük roketler için gereklidir.
+mdl_vc_fairings█Araç Konektörü, Kapsül / uzay aracı roketleri için gereklidir.
+mdl_fairingParachutes█Karenaj Paraşütleri, Karenajları kurtarmak için yeniden kullanılabilir roket gereklidir.
+
+
+---Landing Stuff---█---İniş Malzemeleri---
+
+mdl_a_gridfins█Alüminyum Izgara Yüzgeçleri, Manuel iniş roketleri için gereklidir.
+mdl_t_gridfins█Titanyum Izgara Yüzgeçleri, Otomatik iniş roketleri için gereklidir.
+mdl_m_landingLegs█Manuel İniş Ayakları, Manuel iniş roketleri için gereklidir.
+mdl_a_landingLegs█Otomatik İniş Ayakları, Otomatik iniş roketleri için gereklidir.
+mdl_booster_connector█Boosters Konektörü, Sidebooster roketleri için gereklidir. (Şahin Ağır Boi)
+
+
+---Capsule Stuff---█---Kapsül Malzemeleri---
+
+mdl_light_structure█Hafif Gövde, Kargo kapsülleri için gereklidir.
+mdl_heavy_structure█Ağır Gövde, Mürettebat kapsülleri için gereklidir.
+mdl_chip_computer█Bilgisayar Çipi, Kapsüller için gereklidir.
+mdl_a_antenna█Gelişmiş Anten, Mürettebat kapsülleri için gereklidir.
+mdl_s_antenna█Basit kapsüller, kargo kapsülleri için gereklidir.
+mdl_a_escape_engines█Gelişmiş Kaçış Motorları, mürettebat kapsülleri için gereklidir.
+mdl_s_escape_engines█Basit Kaçış Motorları, mürettebat kapsülleri için gereklidir.
+mdl_a_parachutes█Gelişmiş Paraşütler, Mürettebat kapsülleri için gereklidir.
+mdl_s_parachutes█Basit Paraşütler, Kargo kapsülleri için gereklidir.
+mdl_camera█Kamera, Kamera roketlerin ne gördüğünü görmenizi sağlar (Web Yayını). Bu modülü ekleyin ve kameranızı roketin fırlatılmasına odaklayın.
+mdl_s_altitude(capsule)█Rakım Sensörü, Mürettebat kapsülleri için gereklidir.
+mdl_s_altitude(rocket)█Rakım Sensörü, Bu sensör lansmanınızda size daha fazla telemetri verisi sağlar. Roketinizin ne kadar hızlı olduğunu görün!
+mdl_s_heat█Isı Sensörü, Mürettebat kapsülleri için gereklidir.
+---Spaceship Stuff---█---Uzay Aracı Malzemeleri---
+mdl_methane_fueltank█Uzay Araçları İçin, Gerekli Metan Yakıt Deposu.
+mdl_methane_engine█6 Uzay Araçları İçin, Gerekli Metan Motorları.
+mdl_stainlesssteel_structure█Uzay Araçları, İçin Gerekli Paslanmaz Çelik Gövde.
+
+mdl_cargoUtility█Kargo Programı, Kargo Uzay Aracı Modülü
+mdl_crewUtility█Mürettebat Yardımcı Programı, Mürettebat Uzay Aracı Modülü
+mdl_fuelUtility█Yakıt Kullanımı, Tanker Uzay Aracı
+
+

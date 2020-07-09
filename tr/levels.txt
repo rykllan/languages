@@ -1,0 +1,82 @@
+
+
+levelTitle0█Şirket Tescillendi
+levelTitle1█Çalıştır
+levelTitle2█"Bir şey yeterince önemli olduğunda, oranlar sizin lehinize olmasa bile yaparsınız." - Elon Musk
+levelTitle3█"M" Orta gibi
+levelTitle4█"Ya onun gerçekleşmesini izleyebilir ya da onun bir parçası olabilirdim." - Elon Musk
+levelTitle5█İnmeyi unutma
+levelTitle6█Tedarik
+levelTitle7█İvme
+levelTitle8█Tenten
+levelTitle9█Hızlanma
+levelTitle10█Bilgisayarların gücü
+levelTitle11█Yakala onu!
+levelTitle12█Ağır Ol
+levelTitle13█LinkLink
+levelTitle14█Acil Durum
+levelTitle15█Karenaj içine insanları koymayın
+levelTitle16█İnsan Faktörü
+levelTitle17█Büyük Ol
+levelTitle18█"Bunun gerçekleşmesi için çalışıyoruz. Tanrı şahidim olduğu için, işe yaramayı çok istiyorum." - Elon Musk
+levelTitle19█Büyük Manyak Roket
+levelTitle20█Erken Erişim Oyunun Sonu (Dahası çok yakında :))
+levelTitle21█https://youtu.be/CfqCQQe2E2s
+
+progress_unlockAllModules█Tüm modüllerin kilidini aç
+progress_launchSmallRockets█Fırlat {0} LEO roketi
+progress_launchMediumRockets█Fırlat {0} MEO roketi
+progress_launchLargeRockets█Fırlat {0} GEO roketi
+progress_launchSuperheavyRockets█Fırlat {0} uzay aracı
+progress_launchCargoCapsules█Fırlat {0} kargo kapsülü
+progress_launchCrewCapsules█Fırlat {0} mürettebat kapsülü
+progress_landRockets█{0} Roket ile yere in
+progress_reuseRockets█{0} Kere yeniden roket kullan
+progress_launchPayloadsAtOnce█{0} yükle beraber roket fırlat
+progress_launchFromOwnLaunchPad█Fırlat {0} (roketin kendi fırlatma rampasından!)
+progress_launchTesla█Araba fırlat!
+progress_buildFactories█{0} Fabrika inşa et!
+progress_buildOffices█{0} Ofis inşa et!
+progress_buildLaboratories█{0} laboratuvar inşa et!
+progress_buildMegaLaunchPads█{0} Mega fırlatma rampası inşa et!
+progress_getContracts█{0} kontrat yerine getir
+progress_launchCat█Bir kedi fırlat!
+progress_launchTechnician█Bir teknisyen fırlat!
+progress_catchFairings█Catch {0} fairings!
+progress_launchLinkLinks█Fırlatılan LinkLinks: {0}
+progress_reachLinkLinkUsers█LinkLink kullanıcıları: {0}
+progress_hireEmployees█Çalışanları işe alın: {0}
+
+progress_maxOffices█Maks. Ofisler:
+progress_multiplePayloads█[<color=#81C784>GELİŞTİRME</color>] Birçok yükle birlikte fırlat!
+progress_fundraiserHats█[<color=#FF9F43>BAĞIŞ</color>] Başlık sat!
+progress_fundraiserBricks█[<color=#FF9F43>BAĞIŞ</color>] Tuğla sat!
+progress_fundraiserNAF█[<color=#FF9F43>BAĞIŞ</color>] sat alev makinesi!
+progress_fundraiserRocketquilla█[<color=#FF9F43>BAĞIŞ</color>] Roket sat!
+progress_issSupplierMission█Özel Görev: <b><color=#64B5F6>ISS Tedariği
+progress_issCrewMission█Özel Görev: <b><color=#64B5F6>ISS Ticari Ekip
+progress_teslaRoadsterMission█Özel Görev: <b><color=#64B5F6>Bir araba fırlat
+progress_catMission█Özel Görev: <b><color=#64B5F6>Astronot Kedisi
+progress_technicianMission█Özel Görev: <b><color=#64B5F6>Valiz teknisyeni
+
+progress_smallFactory█[<color=#E74C3C>YAPI</color>] Küçük Fabrika
+progress_mediumFactory█[<color=#E74C3C>YAPI</color>] Orta Fabrika
+progress_largeFactory█[<color=#E74C3C>YAPI</color>] Büyük Fabrika
+progress_gigaFactory█[<color=#E74C3C>YAPI</color>] Giga Fabrika
+
+progress_smallHangar█[<color=#E74C3C>YAPI</color>] Küçük Hangar
+progress_mediumHangar█[<color=#E74C3C>YAPI</color>] Orta Hangar
+progress_largeHangar█[<color=#E74C3C>YAPI</color>] Büyük Hangar
+progress_megaHangar█[<color=#E74C3C>YAPI</color>] Mega Hangar
+
+progress_linkLinkTerminal█[<color=#E74C3C>YAPI</color>] LinkLink Terminal
+progress_megaLaunchPad█[<color=#E74C3C>YAPI</color>] Mega Fırlatma Rampası
+
+progress_linkLink15█[<color=#81C784>GELİŞTİRME</color>] LinkLink (15)
+progress_linkLink30█[<color=#81C784>GELİŞTİRME</color>] LinkLink (30)
+progress_linkLink60█[<color=#81C784>GELİŞTİRME</color>] LinkLink (60)
+progress_linkLinkCapacity50█[<color=#81C784>LinkLink</color>] LinkLink Kapasitesi +50%
+progress_linkLinkCapacity25█[<color=#81C784>LinkLink</color>] LinkLink Kapasitesi +25%
+progress_linkLinkCosts█[<color=#81C784>LinkLink</color>] LinkLink Üretim maliyeti -25%
+
+
