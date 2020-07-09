@@ -13,18 +13,18 @@ company_flightHistory█История запусков
 company_competitionHistory█История конкуренции
 
 fundraising_productionCost█Стоимость производства:
-fundraising_sales█Продажи:
+fundraising_sales█Прибыль:
 hats█Кепки
 bricks█Кирпичи
 not_a_flamethrowers█<color=#E74C3C><size=10>Не</size></color>&%Огнемёты
 rocketquillas█Рокеткила
-shorts█Short Shorts
+shorts█Короткие шорты
 use█Использовать
 
 company_progressHeader█Прогресс компании
 company_progressLevel█Уровень
 company_progressNewStuff█Новое
-company_progressCompleteChallenges█Complete Challenges <size=70%>(<color=#E74C3C>**</color> = optional)
+company_progressCompleteChallenges█Завершите задания <size=70%>(<color=#E74C3C>**</color> = необязательные)
 company_progressNextLevel█Следующий уровень
 company_progressPreviousLevel█Предыдущий уровень
 locked█Заблокировано
@@ -40,7 +40,7 @@ upgrade_buildTime█<b>Время производства:</b> <color=#81C784>-
 
 company_menu_finance█Финансы
 company_menu_flights█Запуски
-company_menu_competition█Конкерунция
+company_menu_competition█Конкуренция
 
 company_summary█Финансовая сводка (За последние 10 лет)&%<size=14>Где вы тратите больше всего денег?
 
