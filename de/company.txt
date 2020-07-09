@@ -18,13 +18,13 @@ hats█Mützen
 bricks█Ziegelsteine
 not_a_flamethrowers█<color=#E74C3C><size=10>Kein</size></color>&%Flammenwerfer
 rocketquillas█Rocketquillas
-shorts█Short Shorts
+shorts█Kurze Shorts
 use█Verwende
 
 company_progressHeader█Unternehmensfortschritt
 company_progressLevel█Level
 company_progressNewStuff█New Stuff
-company_progressCompleteChallenges█Complete Challenges <size=70%>(<color=#E74C3C>**</color> = optional)
+company_progressCompleteChallenges█Beende Challenges <size=70%>(<color=#E74C3C>**</color> = optional)
 company_progressNextLevel█Nächstes Level
 company_progressPreviousLevel█Vorheriges Level
 locked█Gesperrt

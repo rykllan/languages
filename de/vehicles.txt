@@ -4,10 +4,10 @@ rocket█Rakete
 capsule█Kapsel
 spaceship█Raumschiff
 
-spaceships█Spaceships
-vehiclesDockedToISS█Docked Vehicles
+spaceships█Raumschiffe
+vehiclesDockedToISS█Gedockte Fahrzeuge
 
-issHeaderText█International Space Station&%<size=14><b><color=#64B5F6>Operational
+issHeaderText█Internationale Raumstation (ISS)&%<size=14><b><color=#64B5F6>Einsatzbereit
 
 rocketRequiresCapsule█Rakete (Benötigt Kapsel)
 rocketRequiresSpaceship█Rakete (Benötigt Raumschiff)
@@ -19,9 +19,9 @@ vehicles_newVehicleHeader█Erstelle ein neues Fahrzeug
 vehicles_newVehicleButton█Neues Fahrzeug
 
 vehicles_projects█Projekte
-vehicles_view█View
+vehicles_view█Zeige Fahrzeuge
 
-land█Land
+land█Landen
 
 reusedVehicle█Wiederverwendete Fahrzeuge:
 buildCosts█Baukosten
@@ -38,15 +38,15 @@ launch█Starten
 repair█Reparieren
 turnExpendable█Turn Expendable
 
-earthPO█Parked on <color=#64B5F6>Earth's</color> Parking Orbit (Leaving in <b>{0}</b>)
-marsPO█Parked on <color=#E17055>Mars'</color> Parking Orbit (Leaving in <b>{0}</b>)
-marsTraveling█Traveling to <color=#E17055>Mars</color> (Arriving in <b>{0}</b>)
-earthTraveling█Traveling to <color=#64B5F6>Earth</color> (Arriving in <b>{0}</b>)
-marsLanding█Landing on <color=#E17055>Mars</color>
-earthLanding█Landing on <color=#64B5F6>Earth</color>
-marsLanded█Landed on <color=#E17055>Mars</color>
+earthPO█Geparkt auf Parkplatz-Umlaufbahn der <color=#64B5F6>Erde</color> (Verlässt in <b>{0}</b>)
+marsPO█Geparkt auf Parkplatz-Umlaufbahn vom <color=#E17055>Mars</color> (Verlässt in <b>{0}</b>)
+marsTraveling█Reist zum <color=#E17055>Mars</color> (Kommt an in <b>{0}</b>)
+earthTraveling█Reist zur <color=#64B5F6>Erde</color> (Kommt an in <b>{0}</b>)
+marsLanding█Landet auf <color=#E17055>Mars</color>
+earthLanding█Gestartet von der <color=#64B5F6>Erde</color>
+marsLanded█Gestartet vom <color=#E17055>Mars</color>
 
-readyToLaunch█<b><color=#64B5F6>{0} of {1}</b></color>&%<size=70%>are ready to launch!
+readyToLaunch█<b><color=#64B5F6>{0} von {1}</b></color>&%<size=70%>sind bereit zum starten!
 
 capabilities█Capabilities
 reliability█Zuverlässigkeit
@@ -59,7 +59,7 @@ flying█Im Flug
 dockedToISS█Dockt an ISS (Kommt bald zurück.)
 
 reusable█Wiederverwendbar
-manual█Manual
+manual█Manuell
 sideboosters█Seitenbooster
 superheavy█Superheavy
 spaceshipsOnly█Nur Raumschiffe
@@ -137,8 +137,8 @@ creator_header█Neues Projekt
 creator_vehicleName█Fahrzeugname...
 creator_createProject█Erstelle Projekt
 creator_vehicleCanGoAnywhere█Dieses Fahrzeug kann überall hin.
-creator_capsuleRocket█This rocket can only carry the capsules.
-creator_spaceshipRocket█This rocket can only carry the spaceships.
+creator_capsuleRocket█Diese Rakete kann nur Kapseln transportieren.
+creator_spaceshipRocket█Diese Rakete kann nur Raumschiffe transportieren.
 no_module_unlocked█Kein Modul freigeschaltet.
 
 
