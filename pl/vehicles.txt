@@ -48,7 +48,7 @@ marsLanding█Ląduje na <color=#E17055>Marsie</color>
 earthLanding█Ląduje na <color=#64B5F6>Ziemi</color>
 marsLanded█Wylądował na <color=#E17055>Mars</color>
 
-readyToLaunch█<b><color=#64B5F6>{0} of {1}</b></color>&%<size=70%>are ready to launch!
+readyToLaunch█<b><color=#64B5F6>{0} z {1}</b></color>&%<size=70%>są gotowe do startu!
 
 capabilities█Możliwości
 reliability█Niezawodność
