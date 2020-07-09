@@ -85,8 +85,8 @@ launchSetup_mission█Mission
 launchSetup_noVehiclesFound█[No vehicles found.]
 launchSetup_noPayloadsFound█[No capable payloads found.]
 launchSetup_selectVehicle█Select vehicle
-launchSetup_selectLaunchPad█Select launch pad
-launchSetup_selectLandingZone█Select landing zone
+launchSetup_selectLaunchPad█Launch Pad
+launchSetup_selectTanker█Orbital Tanker
 
 launchSetup_barge█Barge
 launchSetup_lz1█LZ-1
