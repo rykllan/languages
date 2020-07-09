@@ -63,7 +63,7 @@ news_fail_header2█Rakieta zamieniła się w ogromną kulę ognia. {0} bada prz
 news_fail_header3█{0} ma kłopoty. Wybuch rakiety obudził mieszkańców pobliskiego miasta.
 news_fail_header4█Ta rakieta przestała istnieć. Rakieta należąca do {0} spłonęła w atmosferze.
 news_fail_header5█{1}: “Myśleliśmy, że tym razem się uda. Rakieta w ogniu to nie to, co chcieliśmy dziś zobaczyć”.
-news_fail_header6█"We'll be loud!" The words of the CEO of {0} have just come true. Their rockets explode like crazy.
+news_fail_header6█"Będziemy głośni!" Słowa prezesa {0} właśnie się spełniły. Ich rakiety eksplodują jak szalone.
 news_fail_header7█{1} terroryzuje przestworza! Kolejne wybuchy rakiet zagrażają płynności finansowej {0}.
 news_fail_header8█{0}: Potężna eksplozja rakiet zagraża pozycji firmy. {1} na wylocie?
 
