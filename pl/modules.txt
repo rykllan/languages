@@ -61,7 +61,7 @@ mdl_a_gridfins█Aluminiowe Lotki,Wymagane do ręcznie lądujących rakiet.
 mdl_t_gridfins█Tytanowe Lotki,Wymagane do automatycznie lądujących rakiet.
 mdl_m_landingLegs█Ręczne Podwozie,Wymagane do ręcznie lądujących rakiet.
 mdl_a_landingLegs█Automatyczne Podwozie,Wymagane do automatycznie lądujących rakiet.
-mdl_booster_connector█Booster Connector,Required for sidebooster rockets. (Falcon Heavy Boi)
+mdl_booster_connector█Łącznik Boosterów,Wymagane do ciężkich rakiet.
 
 
 ---Capsule Stuff---█---Capsule Stuff---
