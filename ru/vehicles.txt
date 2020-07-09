@@ -7,7 +7,7 @@ spaceship█Spaceship
 spaceships█Корабли Spaceship
 vehiclesDockedToISS█Пристыкованные корабли
 
-readyToLeave█Ready
+readyToLeave█Готов
 
 issHeaderText█Международная космическая станция&%<size=14><b><color=#64B5F6>Действующая
 
@@ -86,7 +86,7 @@ launchSetup_noVehiclesFound█[Не найдено ракет.]
 launchSetup_noPayloadsFound█[Не найдено нагрузки.]
 launchSetup_selectVehicle█Выберите ракету
 launchSetup_selectLaunchPad█Выберите площадку
-launchSetup_selectTanker█Orbital Tanker
+launchSetup_selectTanker█Орбитальный танкер
 
 launchSetup_barge█Баржа
 launchSetup_lz1█LZ-1
