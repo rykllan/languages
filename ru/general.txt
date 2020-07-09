@@ -31,37 +31,37 @@ orbit_meo█MEO
 orbit_geo█GEO
 orbit_iss█МКС
 
-vehicle_cargo█Cargo
-vehicle_crew█Crew
-vehicle_tanker█Tanker
+vehicle_cargo█Груз
+vehicle_crew█Экипаж
+vehicle_tanker█Танкер
 
-map_settings_trackers_visible█Trackers Visible
+map_settings_trackers_visible█Видимость иконок
 map_settings_satellites_visible█Видимость спутников
 map_settings_linklink_outline█Контур LinkLink
 
-earth█Earth
-mars█Mars
+earth█Земля
+mars█Марс
 
-tanking█Tanking...
+tanking█Дозаправка...
 
-marsDetails█Mars Details
-earthLikePlanet█Earth-like Planet
+marsDetails█Детали марсианской колонии
+earthLikePlanet█Землеподобная ракета
 
-martians█Martians
-materials█Materials
-electricity█Electricity
-food█Food
-water█Water
-oxygen█Oxygen
-fuel█Fuel
-cybercars█Cybercars
-nuke█Nuke
+martians█Марсиане
+materials█Материалы
+electricity█Электричество
+food█Еда
+water█Вода
+oxygen█Кислород
+fuel█Топливо
+cybercars█Киберкар
+nuke█Атомная бомба
 
-unitsToProduce█Units to Produce: {0}
+unitsToProduce█Единиц для производства: {0}
 
-marsProductionHeader█<b>Production</b> <size=50%>/quarter</size>
-marsUsageHeader█<b>Usage</b> <size=50%>/quarter</size>
-marsStorageHeader█<b>Storage</b>
+marsProductionHeader█<b>Производство</b> <size=50%>за квартал</size>
+marsUsageHeader█<b>Потребление</b> <size=50%>за квартал</size>
+marsStorageHeader█<b>Хранение</b>
 
 
 
