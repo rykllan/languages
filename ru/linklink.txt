@@ -45,7 +45,7 @@ linkLink_serviceDown█Услуги LinkLink отключены. Инженер�
 
 linkLink_build█Произвести LinkLink
 
-linkLink_totalCustomers█Клиентов
+linkLink_totalCustomers█Клиенты
 linkLink_totalLinkLinks█Всего спутников
 linkLink_income█Ежегодная прибыль
 linkLink_stability█Стабильность соединения
