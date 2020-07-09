@@ -7,7 +7,7 @@ spaceship█Statek kosmiczny
 spaceships█Statki Kosmiczne
 vehiclesDockedToISS█Zadokowane Pojazdy
 
-readyToLeave█Ready
+readyToLeave█Gotowy
 
 issHeaderText█Międzynarodowa Stacja Kosmiczna&%<size=14><b><color=#64B5F6>Działa Normalnie
 
@@ -85,8 +85,8 @@ launchSetup_mission█Misja
 launchSetup_noVehiclesFound█[Nie znaleziono pojazdów.]
 launchSetup_noPayloadsFound█[Nie znaleziono odpowiednich ładunków.]
 launchSetup_selectVehicle█Wybierz pojazd
-launchSetup_selectLaunchPad█Wybierz stanowisko
-launchSetup_selectTanker█Orbital Tanker
+launchSetup_selectLaunchPad█Stanowisko
+launchSetup_selectTanker█Cysterna
 
 launchSetup_barge█Barka
 launchSetup_lz1█Strefa 1
