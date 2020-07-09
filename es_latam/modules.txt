@@ -2,7 +2,7 @@
 
 type_fairings█Carenado
 type_fuelTank█Tanque de combustible
-type_engine█Motor
+type_engine█Propulsor
 type_computer█Computadora
 type_gridFins█Aletas de rejilla
 type_landingLegs█Patas de aterrizaje
@@ -21,11 +21,11 @@ module_factory_giga█Gigante
 
 ---Engines---█---Motores---
 
-mdl_s_engine█Motor simple, Requerido para cohetes pequeños.
-mdl_a_engine█Motor avanzado, Requerido para cohetes medianos.
-mdl_a4_engine█4 Motores avanzados, Requerido para cohetes de aterrizaje manual.
-mdl_a9_engine█9 Motores avanzados, Requerido para cohetes grandes o de aterrizaje automático.
-mdl_m27_engine█27 Motores de metano, Requerido para cohetes muy grandes. (Superheavy Boi)
+mdl_s_engine█Propulsor simple, Requerido para cohetes pequeños.
+mdl_a_engine█Propulsor avanzado, Requerido para cohetes medianos.
+mdl_a4_engine█4 Propulsores avanzados, Requerido para cohetes de aterrizaje manual.
+mdl_a9_engine█9 Propulsores avanzados, Requerido para cohetes grandes o de aterrizaje automático.
+mdl_m27_engine█27 Propulsores de metano, Requerido para cohetes muy grandes. (Superheavy Boi)
 
 
 ---FuelTanks---█---Tanques de combustible---
@@ -52,7 +52,7 @@ mdl_s_fairings█Carenado pequeño, Requerido para cohetes pequeños.
 mdl_m_fairings█Carenado mediano, Requerido para cohetes medianos.
 mdl_l_fairings█Carenado grande, Requerido para cohetes grandes.
 mdl_vc_fairings█Conector de vehículo, Requerido para cohetes de cápsula o naves espaciales.
-mdl_fairingParachutes█Fairing Parachutes,Requiere un cohete reusable para recuperar carenado.
+mdl_fairingParachutes█Paracaidas de Carenado, Requiere un cohete reusable para recuperar carenado.
 
 
 ---Landing Stuff---█---Material de aterrizaje---
@@ -61,7 +61,7 @@ mdl_a_gridfins█Aletas de rejilla de aluminio, Requeridas para cohetes de aterr
 mdl_t_gridfins█Aletas de rejilla de titanio, Requeridas para cohetes de aterrizaje automático.
 mdl_m_landingLegs█Patas de aterrizaje manual, Requeridas para cohetes de aterrizaje manual. 
 mdl_a_landingLegs█Patas de aterrizaje automático, Requeridas para cohetes de aterrizaje automático.
-mdl_booster_connector█Booster Connector,Required for sidebooster rockets. (Falcon Heavy Boi)
+mdl_booster_connector█Conector de Propulsores, Requerido para propulsores laterales. (Falcon Heavy Boi)
 
 
 ---Capsule Stuff---█---Material para cápsulas---
@@ -71,8 +71,8 @@ mdl_heavy_structure█Cuerpo pesado, Requerido para cápsulas tripuladas.
 mdl_chip_computer█Chip de computadora, Requerido para cápsulas.
 mdl_a_antenna█Antena avanzada, Requerida para cápsulas tripuladas.
 mdl_s_antenna█Antena simple, Requerida para cápsulas de cargamento.
-mdl_a_escape_engines█Motores avanzados de escape, Requeridos para cápsulas tripuladas.
-mdl_s_escape_engines█Motores simples de escape, Requeridos para cápsulas tripuladas.
+mdl_a_escape_engines█Propulsores avanzados de escape, Requeridos para cápsulas tripuladas.
+mdl_s_escape_engines█Propulsores simples de escape, Requeridos para cápsulas tripuladas.
 mdl_a_parachutes█Paracaídas avanzados, Requeridos para cápsulas tripuladas.
 mdl_s_parachutes█Paracaídas simples, Requeridos para cápsulas de cargamento.
 mdl_camera█Cámara, La cámara te permite ver lo que los cohetes ven (Webcast). Asigna este módulo y enfoca tu cámara en el lanzamiento del cohete.
@@ -81,12 +81,12 @@ mdl_s_altitude(rocket)█Sensor de altitud, Este sensor te da mas datos de telem
 mdl_s_heat█Sensor de calor, Requerido para cápsulas tripuladas.
 ---Spaceship Stuff---█---Material de nave espacial---
 mdl_methane_fueltank█Tanque de combustible de metano, Requerido para naves espaciales.
-mdl_methane_engine█6 Motores de metano, Requerido para naves espaciales.
+mdl_methane_engine█6 Propulsores de metano, Requerido para naves espaciales.
 mdl_stainlesssteel_structure█Cuerpo de acero inoxidable, Requerido para naves espaciales.
 
-mdl_cargoUtility█Cargo Utility,Módulo de carga de Nave Espacial.
-mdl_crewUtility█Crew Utility,Módulo de tripulación de Nave Espacial.
-mdl_fuelUtility█Fuel Utility,Nave Espacial Tanquero. 
+mdl_cargoUtility█Utilidad de Carga, Módulo de carga de Nave Espacial.
+mdl_crewUtility█Utilidad de Tripulación, Módulo de tripulación de Nave Espacial.
+mdl_fuelUtility█Utilidad de Combustible, Nave Espacial Tanquero. 
 
 
 
