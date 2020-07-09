@@ -12,7 +12,7 @@ type_body█Каркас
 type_parachutes█Парашюты
 type_sensors█Сенсоры
 type_antenna█Антенна
-type_utility█Utility
+type_utility█Комплектация
 
 module_factory_small█малых
 module_factory_medium█средних
@@ -61,8 +61,7 @@ mdl_a_gridfins█Алюминиевые решётчатые рули,Требу
 mdl_t_gridfins█Титановые решётчатые рули,Требуются для ракеты с автоматической посадкой.
 mdl_m_landingLegs█Ручные посадочные опоры,Требуются для ракеты с ручной посадкой.
 mdl_a_landingLegs█Автоматические посадочные опоры,Требуются для ракеты с автоматической посадкой.
-mdl_booster_connector█Booster Connector,Required for sidebooster rockets. (Falcon Heavy Boi)
-
+mdl_booster_connector█Коннектор ускорителей,Требуется для боковых ускорителей. (Falcon Heavy boi)
 
 ---Capsule Stuff---█---Capsule Stuff---
 
