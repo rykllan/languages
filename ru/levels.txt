@@ -63,7 +63,7 @@ progress_buildFactories█Построить фабрик: {0}
 progress_buildOffices█Построить офисов: {0}
 progress_buildLaboratories█Построить лабораторий: {0}
 progress_buildMegaLaunchPads█Построить "Мега-падов": {0}
-progress_buildMarsBuildings█Build {0} building(s) on Mars!
+progress_buildMarsBuildings█Построить зданий на Марсе: {0}
 progress_buildFuelFactories█Построить топливных заводов: {0}
 progress_buildSteelFactories█Построить стальных заодов: {0}
 progress_buildLandingZones█Построить посадочных площадок: {0}
