@@ -16,6 +16,8 @@ iss_catContent█My cat, Balwina, is in very bad condition... I have to stay on 
 iss_technicianHeader█Emergency on the ISS
 iss_technicianContent█Good evening,&%&%There are currently 4 astronauts on the International Space Station. Their lives are in danger because of medium-sized leakage in one of the modules.&%&%We know, that your company does not have any crew capsules, that's why you will need to launch a technician in a cargo capsule.&%&%Please do it as fast as you can AND don't talk with the press about that flight. No one can know that we're about to launch a human in a cargo capsule!&%&%Thanks for your cooperation, you will get paid after the mission.
 
+iss_vehicleAboutToReturn█{0} is about to return to the Earth!
+
 teslaRoadsterHeader█Car in space Mission
 teslaRoadsterContent█Launch a car into space because why not!
 
