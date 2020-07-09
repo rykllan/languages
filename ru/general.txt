@@ -30,14 +30,14 @@ orbit_leo█НОО
 orbit_meo█MEO
 orbit_geo█GEO
 orbit_iss█МКС
-orbit_marsOrbit█Mars Orbit
-orbit_marsSurface█Mars Surface
+orbit_marsOrbit█Орбита Марса
+orbit_marsSurface█Поверхн. Марса
 
 vehicle_cargo█Груз
 vehicle_crew█Экипаж
 vehicle_tanker█Танкер
 
-map_settings_header█Quick Settings
+map_settings_header█Быстрые настройки
 map_settings_trackers_visible█Видимость иконок
 map_settings_satellites_visible█Видимость спутников
 map_settings_linklink_outline█Контур LinkLink
@@ -45,7 +45,7 @@ map_settings_linklink_outline█Контур LinkLink
 earth█Земля
 mars█Марс
 
-switchPlanet█Switch Planet
+switchPlanet█Сменить планету
 
 tanking█Дозаправка...
 
