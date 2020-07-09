@@ -30,17 +30,22 @@ orbit_leo█LEO
 orbit_meo█MEO
 orbit_geo█GEO
 orbit_iss█ISS
+orbit_marsOrbit█Mars Orbit
+orbit_marsSurface█Mars Surface
 
 vehicle_cargo█Cargo
 vehicle_crew█Crew
 vehicle_tanker█Tanker
 
+map_settings_header█Quick Settings
 map_settings_trackers_visible█Trackers Visible
 map_settings_satellites_visible█Satellites Visible
 map_settings_linklink_outline█LinkLink Outline
 
 earth█Earth
 mars█Mars
+
+switchPlanet█Switch Planet
 
 tanking█Tanking...
 

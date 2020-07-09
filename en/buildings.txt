@@ -27,6 +27,7 @@ buildingSetup_queue█Queue
 buildingSetup_produce█Produce
 
 returnToEarth█Return to Earth
+returnToEarthShort█Return
 
 buildingSetup_negotiationPowerEachEmployee█Negotiation power for each employee
 buildingSetup_negotiationPowerBuilding█Building negotiation power
