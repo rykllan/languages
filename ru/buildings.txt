@@ -10,24 +10,24 @@ building_advancedLP█Продвинутая стартовая площадка
 building_megaLP█"Мега-пад"
 
 building_category_all█Всё
-building_category_production█Production
-building_category_storage█Storage
-building_category_other█Other
+building_category_production█Производство
+building_category_storage█Хранение
+building_category_other█Другое
 
 buildingSetup_buildingName█Название здания...
 buildingSetup_overview█Обзор
 buildingSetup_setup█Управление
-buildingSetup_modules█Modules
-buildingSetup_other█Other
+buildingSetup_modules█Модули
+buildingSetup_other█Другое
 buildingSetup_billsCurrentQuarter█Счета за текущий квартал
 
 buildingSetup_nowWorkingOn█Работает над
 buildingSetup_queue█Очередь
 
-buildingSetup_produce█Produce
+buildingSetup_produce█Произвести
 
 returnToEarth█Вернуть на Землю
-returnToEarthShort█Return
+returnToEarthShort█Вернуть
 
 buildingSetup_negotiationPowerEachEmployee█Сила переговоров от сотрудников
 buildingSetup_negotiationPowerBuilding█Сила переговоров от здания
