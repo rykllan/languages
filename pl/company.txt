@@ -24,7 +24,7 @@ use█Użyj
 company_progressHeader█Postęp firmy
 company_progressLevel█Poziom
 company_progressNewStuff█Nowe przedmioty
-company_progressCompleteChallenges█Complete Challenges <size=70%>(<color=#E74C3C>**</color> = optional)
+company_progressCompleteChallenges█Ukończ Wyzwania <size=70%>(<color=#E74C3C>**</color> = opcjonalne)
 company_progressNextLevel█Następny Poziom
 company_progressPreviousLevel█Poprzedni Poziom
 locked█Zablokowane
