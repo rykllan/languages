@@ -1,44 +1,44 @@
 
 
-menu_newGame█New Game
-menu_loadGame█Load Game
+menu_newGame█Новая игра
+menu_loadGame█Загрузить игру
 menu_settings█Настройки
 menu_credits█Авторы
 menu_exit█Выход
 menu_save█Сохранить
-menu_saveNotSupported█Save From Older Version :(
-menu_gameOver█GAMEOVER! :(
+menu_saveNotSupported█Сохранение из предыдущей версии :(
+menu_gameOver█БАНКРОТ! :(
 
-menu_createNewGame█Create New Game
+menu_createNewGame█Создать новую игру
 
-lastPlayed█Last Played:
+lastPlayed█Последняя сессия:
 
-menu_gameMode█Game Mode
-menu_classic█<b>Classic</b>&%<size=75%>Play the classic mode where you have to build your own space company from scratch.
-menu_sandbox█<b>Sandbox</b>&%<size=75%>In sandbox mode everything is unlocked and unlimited. Kinda boring tbh.
+menu_gameMode█Режим
+menu_classic█<b>Классический</b>&%<size=75%>В классическом режиме вам потребуется развивать свою собственную космическую компанию.
+menu_sandbox█<b>Песочница</b>&%<size=75%>В песочнице всё разблокировано и бесконечно. Немного скучно имхо.
 
-menu_difficulty█Game Difficulty
-menu_easy█<b>Easy</b>&%<size=75%>Play easy if you want to play easy. Just launch those big rockets.
-menu_hard█<b>Hard</b>&%<size=75%>Coming soon!
+menu_difficulty█Сложность
+menu_easy█<b>Легко</b>&%<size=75%>Запустите "Легко", если вы хотите легко играть. Просто запускайте эти большие ракеты.
+menu_hard█<b>Трудно</b>&%<size=75%>Скоро!
 
-menu_apply█Apply
+menu_apply█Принять
 
-menu_quality█Graphics
+menu_quality█Графика
 menu_low█Низкая
 menu_medium█Средняя
 menu_high█Высокая
-menu_environment█Environment?
-menu_postprocessings█Post Processing?
+menu_environment█Окружение
+menu_postprocessings█Пост-процессинг
 
 menu_gameplay█Геймплей
 menu_autoSave█Автосохранение
 menu_autoPause█Автопауза
-menu_alwaysDay█Always Day?
-menu_hangarsVisual█Hangars Visual?
+menu_alwaysDay█Постоянный день
+menu_hangarsVisual█Ракеты в ангаре
 
 menu_video█Видео
 menu_fullscreen█Полный экран
-menu_vsync█V-Sync?
+menu_vsync█Верт. синхр.
 
 menu_audio█Аудио
 menu_music█Музыка
@@ -47,10 +47,10 @@ menu_sounds█Звуки
 menu_language█Язык
 
 
-menu_creators█Creators
-menu_collaboration█Collaboration
-menu_specialThanks█Special Thanks
-menu_icons█Icons From Flaticon.com
+menu_creators█Авторы
+menu_collaboration█Коллаборация
+menu_specialThanks█Специальные благодарности
+menu_icons█Иконки из Flaticon.com
 
 
 
