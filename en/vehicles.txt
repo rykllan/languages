@@ -7,6 +7,8 @@ spaceship█Spaceship
 spaceships█Spaceships
 vehiclesDockedToISS█Docked Vehicles
 
+readyToLeave█Ready
+
 issHeaderText█International Space Station&%<size=14><b><color=#64B5F6>Operational
 
 rocketRequiresCapsule█Rocket (Requires Capsule)
