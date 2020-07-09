@@ -30,14 +30,14 @@ orbit_leo█LEO
 orbit_meo█MEO
 orbit_geo█GEO
 orbit_iss█MSK
-orbit_marsOrbit█Mars Orbit
+orbit_marsOrbit█Orbita Marsa
 orbit_marsSurface█Mars Surface
 
 vehicle_cargo█Towarowy
 vehicle_crew█Załogowy
 vehicle_tanker█Cysterna
 
-map_settings_header█Quick Settings
+map_settings_header█Szybkie ustawienia
 map_settings_trackers_visible█Trackery widoczne?
 map_settings_satellites_visible█Satelity widoczne?
 map_settings_linklink_outline█Obramówka LinkLink?
@@ -45,7 +45,7 @@ map_settings_linklink_outline█Obramówka LinkLink?
 earth█Ziemia
 mars█Mars
 
-switchPlanet█Switch Planet
+switchPlanet█Przełącz planetę
 
 tanking█Tankowanie...
 

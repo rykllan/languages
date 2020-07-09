@@ -67,7 +67,7 @@ payload_flatEarther█Murphy (Płaskoziemca)
 
 contract_marsCamera█Wyprawa na Marsa
 payload_marsCamera█Marsjańska Kamera
-content_marsCamera█Wystrzel kamerę ciężką rakietą "Heavy" aby móc zobaczyć i grać na Marsie.
+content_marsCamera█Wystrzel kamerę ciężką rakietą "Heavy" aby móc grać na Marsie.
 
 
 contract_spate█SPATE: Prologue EP
