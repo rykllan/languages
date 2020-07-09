@@ -4,10 +4,10 @@ rocket█Rakieta
 capsule█Kapsuła
 spaceship█Statek kosmiczny
 
-spaceships█Spaceships
-vehiclesDockedToISS█Docked Vehicles
+spaceships█Statki Kosmiczne
+vehiclesDockedToISS█Zadokowane Pojazdy
 
-issHeaderText█International Space Station&%<size=14><b><color=#64B5F6>Operational
+issHeaderText█Międzynarodowa Stacja Kosmiczna&%<size=14><b><color=#64B5F6>Działa Normalnie
 
 rocketRequiresCapsule█Rakieta (Wymaga kapsuły)
 rocketRequiresSpaceship█Rakieta (Wymaga statku kosmicznego)
