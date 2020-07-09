@@ -30,6 +30,8 @@ orbit_leo█LEO
 orbit_meo█MEO
 orbit_geo█GEO
 orbit_iss█ISS
+orbit_marsOrbit█Mars Orbit
+orbit_marsSurface█Mars Surface
 
 vehicle_cargo█Cargo
 vehicle_crew█Crew
