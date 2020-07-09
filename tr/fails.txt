@@ -37,3 +37,6 @@ fail35█Yakıt aşırı ısındı.
 fail36█Kendime not, aşamaları Blu Tac ile birbirine yapıştırma
 
 
+
+
+

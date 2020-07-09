@@ -7,6 +7,8 @@ spaceship█Űrhajó
 spaceships█Spaceships
 vehiclesDockedToISS█Docked Vehicles
 
+readyToLeave█Ready
+
 issHeaderText█International Space Station&%<size=14><b><color=#64B5F6>Operational
 
 rocketRequiresCapsule█Rakéta (kapszula szükséges)
@@ -84,7 +86,7 @@ launchSetup_noVehiclesFound█[Nem található jármű.]
 launchSetup_noPayloadsFound█[Nem található alkalmas hasznos teher.]
 launchSetup_selectVehicle█Jármű kiválasztása
 launchSetup_selectLaunchPad█Kilövőállomás kiválasztása
-launchSetup_selectLandingZone█Leszállási zóna kiválasztása
+launchSetup_selectTanker█Orbital Tanker
 
 launchSetup_barge█Barge
 launchSetup_lz1█LZ-1
@@ -140,6 +142,7 @@ creator_vehicleCanGoAnywhere█Ez a jármű bármilyen helyszínre mehet, ahova 
 creator_capsuleRocket█This rocket can only carry the capsules.
 creator_spaceshipRocket█This rocket can only carry the spaceships.
 no_module_unlocked█Nincs feloldott modul.
+
 
 
 

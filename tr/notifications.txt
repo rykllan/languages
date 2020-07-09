@@ -16,6 +16,8 @@ iss_catContent█Kedim Balwina, çok kötü durumda ... ISS'de 4 ay daha kalmak 
 iss_technicianHeader█ISS'de Acil Durum
 iss_technicianContent█İyi akşamlar,&%&%Uluslararası Uzay İstasyonu'nda şu anda 4 astronot bulunuyor. Modüllerden birinde orta büyüklükteki sızıntı nedeniyle yaşamları tehlikede.&%&%Şirketinizin mürettebat kapsülü olmadığını biliyoruz, bu yüzden kargo kapsülünde bir teknisyen ile işe koyulmanız gerekecek.&%&%Lütfen olabildiğince hızlı bir şekilde yapın VE bu uçuş hakkında basınla konuşmayın. Kimse bir insanı kargo kapsülüne fırlatmak üzere olduğumuzu bilmemeli!&%&%İşbirliğiniz için teşekkürler, görevden sonra ödemeyi alacaksınız.
 
+iss_vehicleAboutToReturn█{0} is about to return to the Earth!
+
 teslaRoadsterHeader█Uzaydaki Araba Misyonu
 teslaRoadsterContent█Uzaya bir araba fırlat çünkü neden olmasın!
 
@@ -39,6 +41,7 @@ cantRepairSoManyVehicles█Aynı anda çok fazla aracı onaramazsınız!
 cantRemoveProject█Bu projeyi kaldıramazsınız çünkü içinde araçlar var.
 
 noHangars█Bu aracı depolamayazsınız çünkü hangarınızda yer yok, depolamak için <color=#64B5F6>{0}</color> ihtiyacınız var {1}.
+noHangarsLanding█A spaceship is trying to land! You need more space in <color=#64B5F6>{0}</color> to store it!
 noFactories█{0} inşa edilemez çünkü {2} modülüne ihtiyacınız {1} var.
 
 projectMustHaveName█Projenin bir adı olmalıdır. Hiç adı olmayan bir roket gördün mü?
@@ -61,5 +64,18 @@ cantBuildFactories█Daha fazla fabrika kuramazsınız.
 cantBuildSimpleLP█Artık basit fırlatma rampaları oluşturamazsınız.
 cantBuildAdvancedLP█Artık gelişmiş fırlatma rampaları oluşturamazsınız.
 cantBuildMegaLP█Artık mega fırlatma rampası inşa edemezsiniz.
+
+noGigaFactories█You don't have any GigaFactories!
+
+noMoney█Not enough money!
+noMaterials█Not enough materials!
+noCybercars█Not enough cybercars!
+
+parkingOrbit█Parking Orbit
+leavingParkingOrbit█Leaving Orbit in {0}
+
+
+
+
 
 

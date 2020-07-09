@@ -7,6 +7,8 @@ spaceship█Statek kosmiczny
 spaceships█Statki Kosmiczne
 vehiclesDockedToISS█Zadokowane Pojazdy
 
+readyToLeave█Ready
+
 issHeaderText█Międzynarodowa Stacja Kosmiczna&%<size=14><b><color=#64B5F6>Działa Normalnie
 
 rocketRequiresCapsule█Rakieta (Wymaga kapsuły)
@@ -84,7 +86,7 @@ launchSetup_noVehiclesFound█[Nie znaleziono pojazdów.]
 launchSetup_noPayloadsFound█[Nie znaleziono odpowiednich ładunków.]
 launchSetup_selectVehicle█Wybierz pojazd
 launchSetup_selectLaunchPad█Wybierz stanowisko
-launchSetup_selectLandingZone█Wybierz strefę lądowania
+launchSetup_selectTanker█Orbital Tanker
 
 launchSetup_barge█Barka
 launchSetup_lz1█Strefa 1
@@ -140,6 +142,7 @@ creator_vehicleCanGoAnywhere█Ten pojazd może lecieć wszędzie, gdzie tylko c
 creator_capsuleRocket█Ta rakieta może wystartować tylko kapsuły.
 creator_spaceshipRocket█Ta rakieta może wystartować tylko statki kosmiczne.
 no_module_unlocked█Żaden moduł nie jest odblokowany.
+
 
 
 

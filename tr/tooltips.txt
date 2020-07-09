@@ -11,3 +11,6 @@ tooltip_skillPoints█Yetenek puanları
 tooltip_linkLink█LinkLink
 
 
+
+
+

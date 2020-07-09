@@ -18,6 +18,7 @@ hats█Şapkalar
 bricks█Tuğlalar
 not_a_flamethrowers█<color=#E74C3C><size=10>Gördünüğü gibi değil</size></color>&%Alevsilahı
 rocketquillas█Rocketquillas
+shorts█Short Shorts
 use█Kullan
 
 company_progressHeader█Şirket ilerlemesi
@@ -56,5 +57,8 @@ company_employees█Çalışanlar
 company_others█Diğerleri
 company_lossPerYear█Ortalama <mark=#E74C3C25>loss</mark> yıl başına
 company_profitPerYear█Ortalama <mark=#64B5F625>profit</mark> yıl başına
+
+
+
 
 

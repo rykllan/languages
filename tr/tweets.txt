@@ -34,3 +34,6 @@ tweet_linklink_visible█Onları Dünya'dan görebiliyor musun acaba <color=#64B
 tweet_linklink_failure█<color=#64B5F6>#linklink</color> Elimizden gelenin en iyisini yapıyoruz. Teknisyenlerimiz dünyanın en iyisi! <color=#64B5F6>#failure</color> {0}
 
 
+
+
+

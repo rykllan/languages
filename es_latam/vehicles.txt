@@ -7,6 +7,8 @@ spaceship█Nave Espacial
 spaceships█Naves Espaciales
 vehiclesDockedToISS█Vehículo Estacionado
 
+readyToLeave█Ready
+
 issHeaderText█Estación Espacial Internacional &%<size=14><b><color=#64B5F6>Operativa
 
 rocketRequiresCapsule█Cohete (Requiere Cápsula)
@@ -84,7 +86,7 @@ launchSetup_noVehiclesFound█[No se encontraron vehículos.]
 launchSetup_noPayloadsFound█[No se encontraron cargas capaces.]
 launchSetup_selectVehicle█Seleccionar vehículo
 launchSetup_selectLaunchPad█Seleccionar plataforma de lanzamiento
-launchSetup_selectLandingZone█Seleccionar zona de aterrizaje
+launchSetup_selectTanker█Orbital Tanker
 
 launchSetup_barge█Barcaza 
 launchSetup_lz1█LZ-1
@@ -140,6 +142,7 @@ creator_vehicleCanGoAnywhere█Éste vehículo puede ir a donde quieras.
 creator_capsuleRocket█Éste cohete solo puede llevar cápsulas.
 creator_spaceshipRocket█Éste cohete solo puede llevar naves espaciales.
 no_module_unlocked█Ningún módulo está desbloqueado.
+
 
 
 

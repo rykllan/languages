@@ -27,6 +27,7 @@ buildingSetup_queue█Очередь
 buildingSetup_produce█Produce
 
 returnToEarth█Вернуть на Землю
+returnToEarthShort█Return
 
 buildingSetup_negotiationPowerEachEmployee█Сила переговоров от сотрудников
 buildingSetup_negotiationPowerBuilding█Сила переговоров от здания
@@ -141,6 +142,7 @@ lp_xichang█Сичан
 lp_rocketComplex█Приватный космодром
 lp_australia█Вумера
 lp_india█Космический центр им. Сатиша Дхавана
+
 
 
 

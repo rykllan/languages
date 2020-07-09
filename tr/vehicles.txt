@@ -4,6 +4,13 @@ rocket█Roket
 capsule█Kapsül
 spaceship█Uzayaracı
 
+spaceships█Spaceships
+vehiclesDockedToISS█Docked Vehicles
+
+readyToLeave█Ready
+
+issHeaderText█International Space Station&%<size=14><b><color=#64B5F6>Operational
+
 rocketRequiresCapsule█Roket (Kapsül gerektirir)
 rocketRequiresSpaceship█Roket (Uzay Aracı Gerektirir)
 
@@ -33,6 +40,16 @@ launch█Fırlat
 repair█Tamir
 turnExpendable█Harcanabilir Dönüt
 
+earthPO█Parked on <color=#64B5F6>Earth's</color> Parking Orbit (Leaving in <b>{0}</b>)
+marsPO█Parked on <color=#E17055>Mars'</color> Parking Orbit (Leaving in <b>{0}</b>)
+marsTraveling█Traveling to <color=#E17055>Mars</color> (Arriving in <b>{0}</b>)
+earthTraveling█Traveling to <color=#64B5F6>Earth</color> (Arriving in <b>{0}</b>)
+marsLanding█Landing on <color=#E17055>Mars</color>
+earthLanding█Landing on <color=#64B5F6>Earth</color>
+marsLanded█Landed on <color=#E17055>Mars</color>
+
+readyToLaunch█<b><color=#64B5F6>{0} of {1}</b></color>&%<size=70%>are ready to launch!
+
 capabilities█Yetenekler
 reliability█Güvenilirlik
 condition█Durum
@@ -60,6 +77,8 @@ payload█Yük
 crew█Ekip
 cargo█Kargo
 
+launchAll█Launch All
+
 launchSetup_header█Kurulumu Başlat
 launchSetup_missionName█Görev adı...
 launchSetup_mission█Görev
@@ -67,7 +86,7 @@ launchSetup_noVehiclesFound█[Araç bulunamadı.]
 launchSetup_noPayloadsFound█[Yeterli yük bulunamadı.]
 launchSetup_selectVehicle█Araç seç
 launchSetup_selectLaunchPad█Fırlatma rampası seç
-launchSetup_selectLandingZone█İniş bölgesi seçin
+launchSetup_selectTanker█Orbital Tanker
 
 launchSetup_barge█Mavna
 launchSetup_lz1█LZ-1
@@ -123,5 +142,8 @@ creator_vehicleCanGoAnywhere█Bu araç istediğiniz yere gidebilir.
 creator_capsuleRocket█Bu roket sadece kapsülleri taşıyabilir.
 creator_spaceshipRocket█Bu roket sadece uzay gemilerini taşıyabilir.
 no_module_unlocked█Hiçbir modülün kilidi açılmadı.
+
+
+
 
 

@@ -7,6 +7,8 @@ spaceship█Spaceship
 spaceships█Корабли Spaceship
 vehiclesDockedToISS█Пристыкованные корабли
 
+readyToLeave█Ready
+
 issHeaderText█Международная космическая станция&%<size=14><b><color=#64B5F6>Действующая
 
 rocketRequiresCapsule█Ракета (требует корабль)
@@ -84,7 +86,7 @@ launchSetup_noVehiclesFound█[Не найдено ракет.]
 launchSetup_noPayloadsFound█[Не найдено нагрузки.]
 launchSetup_selectVehicle█Выберите ракету
 launchSetup_selectLaunchPad█Выберите площадку
-launchSetup_selectLandingZone█Выберите зону посадки
+launchSetup_selectTanker█Orbital Tanker
 
 launchSetup_barge█Баржа
 launchSetup_lz1█LZ-1
@@ -140,6 +142,7 @@ creator_vehicleCanGoAnywhere█Эта ракета может отправить
 creator_capsuleRocket█Эта ракета может поддерживать только капсулы.
 creator_spaceshipRocket█Эта ракета может поддерживать только Spaceship.
 no_module_unlocked█Нет разблокированных модулей.
+
 
 
 

@@ -63,7 +63,7 @@ progress_buildFactories█Построить фабрик: {0}
 progress_buildOffices█Построить офисов: {0}
 progress_buildLaboratories█Построить лабораторий: {0}
 progress_buildMegaLaunchPads█Построить "Мега-падов": {0}
-progress_buildMarsЗДАНИЕs█Построить зданий на Марсе: {0}
+progress_buildMarsBuildings█Build {0} building(s) on Mars!
 progress_buildFuelFactories█Построить топливных заводов: {0}
 progress_buildSteelFactories█Построить стальных заодов: {0}
 progress_buildLandingZones█Построить посадочных площадок: {0}
@@ -142,6 +142,7 @@ progress_nuke3█[<color=#81C784>ВОЗМОЖНОСТЬ</color>] &%Атомна�
 progress_linkLinkCapacity50█[<color=#81C784>LinkLink</color>] Вместимость LinkLink +50%
 progress_linkLinkCapacity25█[<color=#81C784>LinkLink</color>] Вместимость LinkLink +25%
 progress_linkLinkCosts█[<color=#81C784>LinkLink</color>] Стоимость производства LinkLink -25%
+
 
 
 

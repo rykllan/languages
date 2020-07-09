@@ -16,6 +16,8 @@ iss_catContent█Mój kot, Balwina, jest w bardzo złym stanie... Moja misja na 
 iss_technicianHeader█Nagły wypadek na MSK
 iss_technicianContent█Dobry wieczór,&%&%Na Międzynarodowej Stacji Kosmicznej przebywa aktualnie 4 astronautów. Ich życie jest aktualnie w dużym niebezpieczeństwie, poniważ astronauci odkryli średniej wielkości wyciek powietrza w jednym z modułów.&%&%Wiemy, że Twoja firma nie posiada aktualnie żadnych kapsuł załogowych, dlatego będziesz musiał wysłać technika na MSK w kapsule towarowej.&%&%Proszę wykonaj misję najszybciej jak potrafisz I nie wspominaj o niej prasie. Nikt nie może wiedzieć, że zaraz wystrzelimy człowieka w kapsule towarowej! &%&%Dziękuję za współpracę, zostaniesz dobrze nagrodzony po tej misji.
 
+iss_vehicleAboutToReturn█{0} is about to return to the Earth!
+
 teslaRoadsterHeader█Misja: Auto w Kosmos
 teslaRoadsterContent█Wystrzel auto w kosmos!
 
@@ -71,6 +73,7 @@ noCybercars█Brak cyberaut!
 
 parkingOrbit█Orbita Parkująca
 leavingParkingOrbit█Opuszcza orbitę w {0}
+
 
 
 

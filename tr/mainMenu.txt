@@ -1,36 +1,58 @@
 
 
-menu_home█Ana Menü
-menu_play█Oyna
+menu_newGame█New Game
+menu_loadGame█Load Game
 menu_settings█Ayarlar
 menu_credits█Türkçe Oyun Merkezi
 menu_exit█Çıkış
-menu_backToMainMenu█Ana Menüye Dön
 menu_save█Kaydet
-menu_notAvailable█Bu sürümde mevcut değil, üzgünüm :(
 menu_saveNotSupported█EarthX'in eski sürümlerindeki kayıtlarda oynamayı desteklemez.
+menu_gameOver█GAMEOVER! :(
 
 menu_createNewGame█Yeni Oyun Oluştur
-menu_tutorial█Alıştırma
-menu_classicHeader█Klasik
-menu_classicDesc█Kendi uzay şirketinizi kurabileceğiniz klasik modu oynayın.
-menu_sandboxHeader█Hayalperest
-menu_sandboxDesc█Hayalperest modunda her şeyin kilidi açılır ve sınırsızdır. Hayal gücünü kullan!
+
+lastPlayed█Last Played:
+
+menu_gameMode█Game Mode
+menu_classic█<b>Classic</b>&%<size=75%>Play the classic mode where you have to build your own space company from scratch.
+menu_sandbox█<b>Sandbox</b>&%<size=75%>In sandbox mode everything is unlocked and unlimited. Kinda boring tbh.
+
+menu_difficulty█Game Difficulty
+menu_easy█<b>Easy</b>&%<size=75%>Play easy if you want to play easy. Just launch those big rockets.
+menu_hard█<b>Hard</b>&%<size=75%>Coming soon!
+
+menu_apply█Apply
 
 menu_quality█Kalite
 menu_low█Düşük
 menu_medium█Orta
 menu_high█Yüksek
-menu_effects█Efektler
+menu_environment█Environment?
 menu_postprocessings█Rötuş
+
 menu_gameplay█Oynanış
 menu_autoSave█Oto-Kayıt?
 menu_autoPause█Oto-Durdur?
+menu_alwaysDay█Always Day?
+menu_hangarsVisual█Hangars Visual?
+
 menu_video█Video
 menu_fullscreen█Tam Ekran?
+menu_vsync█V-Sync?
+
 menu_audio█Ses
 menu_music█Müzik?
 menu_sounds█Ortam Sesleri?
+
 menu_language█Dil
+
+
+menu_creators█Creators
+menu_collaboration█Collaboration
+menu_specialThanks█Special Thanks
+menu_icons█Icons From Flaticon.com
+
+
+
 
 

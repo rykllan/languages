@@ -16,6 +16,8 @@ iss_catContent█Mon chat, Balwina, est en très mauvais état... Je dois rester
 iss_technicianHeader█Urgence à la SSI
 iss_technicianContent█Bonsoir,&%&%Il y a actuellement 4 astronautes à bord de la Station spatiale internationale. Leur vie est en danger à cause d'une fuite de taille moyenne dans l'un des modules.&%&%Nous savons que votre entreprise n'a pas de capsules d'équipage, c'est pourquoi vous devrez faire monter un technicien dans une capsule de cargaison.&%&%Veuillez le faire aussi vite que possible ET ne pas parler de ce vol à la presse. Personne ne doit savoir que nous sommes sur le point de lancer un humain dans une capsule de cargaison !&%&%Merci de votre coopération, vous serez payé après la mission.
 
+iss_vehicleAboutToReturn█{0} is about to return to the Earth!
+
 teslaRoadsterHeader█Une voiture dans l'espace
 teslaRoadsterContent█Lance une voiture dans l'espace, après tout pourquoi pas !
 
@@ -71,6 +73,7 @@ noCybercars█Not enough cybercars!
 
 parkingOrbit█Parking Orbit
 leavingParkingOrbit█Leaving Orbit in {0}
+
 
 
 

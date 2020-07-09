@@ -3,47 +3,23 @@
 --- NOT TRANSLATED ---
 
 
-File: general.txt (32)
-Original Translation: mars█Mars
+File: general.txt (25)
+Original Translation: orbit_marsOrbit█Mars Orbit
 
-File: general.txt (34)
-Original Translation: marsDetails█Mars Details
+File: general.txt (26)
+Original Translation: orbit_marsSurface█Mars Surface
 
-File: general.txt (35)
-Original Translation: earthLikePlanet█Earth-like Planet
+File: general.txt (30)
+Original Translation: map_settings_header█Quick Settings
 
-File: general.txt (44)
-Original Translation: nuke█Nuke
+File: general.txt (36)
+Original Translation: switchPlanet█Switch Planet
 
-File: general.txt (45)
-Original Translation: unitsToProduce█Units to Produce: {0}
-
-File: company.txt (21)
-Original Translation: company_progressCompleteChallenges█Complete Challenges <size=70%>(<color=#E74C3C>**</color> = optional)
-
-File: contracts.txt (30)
-Original Translation: contract_crs█Commercial Resupply Service
-
-File: contracts.txt (32)
-Original Translation: contract_ccp█Commercial Crew Program
-
-File: contracts.txt (34)
-Original Translation: payload_tintin█Tintin AB (LinkLink Test)
-
-File: contracts.txt (35)
-Original Translation: contract_tesla█Starman
-
-File: contracts.txt (36)
-Original Translation: payload_tesla█Tesla Roadster
+File: buildings.txt (22)
+Original Translation: returnToEarthShort█Return
 
 File: contracts.txt (38)
 Original Translation: payload_potato█Orbital Potato
-
-File: contracts.txt (46)
-Original Translation: contract_spate█SPATE: Prologue EP
-
-File: contracts.txt (47)
-Original Translation: payload_spate█Prologue EP
 
 File: levels.txt (26)
 Original Translation: levelTitle26█Cybermars
@@ -54,44 +30,17 @@ Original Translation: levelTitle32█https://youtu.be/CfqCQQe2E2s
 File: linklink.txt (17)
 Original Translation: linkLink_system█System
 
-File: linklink.txt (37)
-Original Translation: buildLinkLinkInGiga█Build LinkLink in any Giga Factory
-
-File: linklink.txt (38)
-Original Translation: openGigaFactory█Open Giga Factory
-
-File: mainMenu.txt (9)
-Original Translation: lastPlayed█Last Played:
-
-File: mainMenu.txt (30)
-Original Translation: menu_vsync█V-Sync?
-
 File: modules.txt (16)
 Original Translation: module_factory_giga█Giga
 
-File: modules.txt (46)
-Original Translation: mdl_booster_connector█Booster Connector,Required for sidebooster rockets. (Falcon Heavy Boi)
-
-File: news.txt (42)
-Original Translation: news_fail_header6█"We'll be loud!" The words of the CEO of {0} have just come true. Their rockets explode like crazy.
-
-File: vehicles.txt (3)
-Original Translation: spaceships█Spaceships
-
-File: vehicles.txt (4)
-Original Translation: vehiclesDockedToISS█Docked Vehicles
+File: notifications.txt (10)
+Original Translation: iss_vehicleAboutToReturn█{0} is about to return to the Earth!
 
 File: vehicles.txt (5)
-Original Translation: issHeaderText█International Space Station&%<size=14><b><color=#64B5F6>Operational
+Original Translation: readyToLeave█Ready
 
-File: vehicles.txt (35)
+File: vehicles.txt (36)
 Original Translation: readyToLaunch█<b><color=#64B5F6>{0} of {1}</b></color>&%<size=70%>are ready to launch!
 
-File: vehicles.txt (73)
-Original Translation: launchSetup_pizza█Pizza
-
-File: vehicles.txt (89)
-Original Translation: launchPanel_speedMetric█km/h
-
-File: vehicles.txt (90)
-Original Translation: launchPanel_altitudeMetric█km
+File: vehicles.txt (67)
+Original Translation: launchSetup_selectTanker█Orbital Tanker

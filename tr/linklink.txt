@@ -32,7 +32,9 @@ linkLink_failure_content█Söz konusu LinkLink aboneleri İnternet erişiminin 
 
 linkLink_giga_factory_needed█LinkLink uyduları oluşturmak için bir GigaFabrikası'na ihtiyacınız var.
 
+linkLink_system█System
 linkLink_production█Üretim
+linkLink_statistics█Statistics
 
 linkLink_100_required█Hizmeti çalıştırmak için en az <color=#64B5F6><b>100</b></color> LinkLink'e ihtiyacınız var.
 
@@ -55,5 +57,14 @@ linkLink_30_deorbited█LinkLink'lerinizin% 30'u kullanım ömrü sona erdiği i
 
 linkLink_welcome_header█LinkLink
 linkLink_welcome_content█EarthX'te daha sonra , dünya çapında uygun fiyatlı İnternet sağlayacak kendi uydu takımyıldızınızı oluşturabileceksiniz.&%&%Ancak, bunu yapmak için önce 2 test uydusu fırlatmanız gerekecek.&%&%Bol şans!
+
+30percentDeorbit█30% of LinkLinks will deorbit in <b>{0}</b>
+
+buildLinkLinkInGiga█Build LinkLink in any Giga Factory
+openGigaFactory█Open Giga Factory
+
+
+
+
 
 

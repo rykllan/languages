@@ -27,6 +27,7 @@ buildingSetup_queue█Queue
 buildingSetup_produce█Produce
 
 returnToEarth█Return to Earth
+returnToEarthShort█Return
 
 buildingSetup_negotiationPowerEachEmployee█Pouvoir de négociation pour chaque employé
 buildingSetup_negotiationPowerBuilding█Pouvoir de négociation en construction
@@ -141,6 +142,7 @@ lp_xichang█Xichang
 lp_rocketComplex█Port spatial privé
 lp_australia█Woomera
 lp_india█Satish Dhawan
+
 
 
 

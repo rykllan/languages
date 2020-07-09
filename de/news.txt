@@ -86,7 +86,7 @@ news_bankrupt_content_p22█Das emotionale Statement, das {1} an die Medien gesc
 news_bankrupt_content_p23█Die Pressekonferenz von {0} war eine dramatische. {1} erschien darauf mit einem blauen Auge. Wie er erklärte, gab es einen kleinen Streit mit einem anderen Mitglied des Vorstandes. Inoffiziell erfuhren wir, dass es sich um den letzten 100-Dollar-Schein handelte, der im Safe der Firma lag. Leider werden die Aussagen des Gründers von {0} nicht zusammengefasst - als er sie las, weinte er so laut, dass wir nichts verstanden haben.
 
 news_bankrupt_content_p31█Ganz ehrlich? Sie tun uns nicht einmal leid. 
-news_bankrupt_content_p32Wir hoffen, dass {1} ein bisschen Geld zurück legt.
+news_bankrupt_content_p32█We hope that {1} put some money into the sock.
 news_bankrupt_content_p33█Jetzt liegt alles in den Händen von {2}.
 news_bankrupt_content_p34█Ich frage mich, welches Unternehmen das nächste ist.
 
@@ -230,6 +230,7 @@ matt_success_content█Wir haben es geschafft! {1} und der CEO der NASA haben Gr
 
 matt_failure_header█Die Rettungsmission von {1} wird nicht stattfinden. Die Rakete von {0} explodierte während des Starts.
 matt_failure_content█Heute waren wir Zeugen dramatischer Ereignisse, die sich in der Atmosphäre abspielten. Ein speziell vorbereitetes, unbemanntes Schiff, das den Mars mit einer Rettungsmission erreichen sollte, brannte in der Atmosphäre ab. &%&%Es war der letzte Versuch, Matt zu retten, der in der zerstörten Marsbasis auf Hilfe wartete. {1} und die NASA haben nicht mehr die richtigen Raketen. &%&%Ruhe in Frieden, Matt.
+
 
 
 

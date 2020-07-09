@@ -16,6 +16,8 @@ iss_catContent█Meine Katze, Balwina, ist in sehr schlechtem Zustand... Ich mus
 iss_technicianHeader█Notfall auf der ISS
 iss_technicianContent█Guten Abend,&%&%Zurzeit befinden sich 4 Astronauten auf der Internationalen Raumstation.Ihr Leben ist wegen eines mittelgroßen Lecks in einem der Module in Gefahr.&%&%Wir wissen, dass dein Unternehmen keine Besatzungskapseln hat, deshalb musst du einen Techniker in einer Frachtkapsel starten.&%&%Bitte tu das so schnell wie möglich UND spreche  nicht mit der Presse über diesen Flug. Niemand darf wissen, dass wir im Begriff sind, einen Menschen in einer Frachtkapsel zu starten!&%&%Danke für deine Kooperation, du wirst nach der Mission bezahlt.
 
+iss_vehicleAboutToReturn█{0} is about to return to the Earth!
+
 teslaRoadsterHeader█Auto-im-Weltraum-Mission
 teslaRoadsterContent█Starte ein Auto in den Weltraum, denn warum nicht!
 
@@ -71,6 +73,7 @@ noCybercars█Nicht genug cybercars!
 
 parkingOrbit█Parkplatz-Umlaufbahn
 leavingParkingOrbit█Verlässt Orbit in {0}
+
 
 
 

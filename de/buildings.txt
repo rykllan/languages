@@ -27,6 +27,7 @@ buildingSetup_queue█Warteschleife
 buildingSetup_produce█Produziere
 
 returnToEarth█Zurück zur Erde
+returnToEarthShort█Return
 
 buildingSetup_negotiationPowerEachEmployee█Verhandlungsmacht für jeden Mitarbeiter
 buildingSetup_negotiationPowerBuilding█Verhandlungsmacht des Gebäudes
@@ -80,7 +81,7 @@ largeTerminal█Großes LinkLink Terminal
 largeTerminal_desc█Terminals verbinden die Menschen auf der Erde mit LinkLinks. Mehr Terminals == mehr Benutzerkapazität.
 
 landingZone█Landezone
-landingZone_descMuss ich das wirklich erklären?
+landingZone_desc█Do I really need to describe it?
 
 smallHotel█Kleines Hotel
 smallHotel_desc█Marsianer leben an Orten wie diesem.
@@ -141,6 +142,7 @@ lp_xichang█Xichang
 lp_rocketComplex█Private Spaceport
 lp_australia█Woomera
 lp_india█Satish Dhawan
+
 
 
 
