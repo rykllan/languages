@@ -10,16 +10,23 @@ building_advancedLP█Zaawansowane Stanowisko
 building_megaLP█Mega Stanowisko
 
 building_category_all█Wszystkie
-building_category_factories█Fabryki
-building_category_hangars█Hangary
+building_category_production█Produkcja
+building_category_storage█Magazynowanie
+building_category_other█Inne
 
 buildingSetup_buildingName█Nazwa budynku...
 buildingSetup_overview█Podgląd
 buildingSetup_setup█Ustawienia
+buildingSetup_modules█Moduły
+buildingSetup_other█Inne
 buildingSetup_billsCurrentQuarter█Rachunki za aktualny kwartał
 
 buildingSetup_nowWorkingOn█Teraz pracuje nad
 buildingSetup_queue█Kolejka
+
+buildingSetup_produce█Produkuj
+
+returnToEarth█Wróć na Ziemię
 
 buildingSetup_negotiationPowerEachEmployee█Siła negocjacji za 1 pracownika
 buildingSetup_negotiationPowerBuilding█Ogólna siła negocjacji budynku
@@ -66,8 +73,62 @@ laboratory_desc█Produkuje punkty doświadczenia.
 megaLP█Mega Stanowisko
 megaLP_desc█Możesz startować statki kosmiczne.
 
-terminal█Odbiornik LinkLink
-terminal_desc█Odbiorniki łączą użytkowników z usługą LinkLink. Więcej odbiorników == więcej użytkowników.
+smallTerminal█Mały Terminal LinkLink
+smallTerminal_desc█Terminale łączą ludzi z satelitami LinkLink. Więcej terminali = więcej potencjalnych klientów.
+
+largeTerminal█Duży Terminal LinkLink
+largeTerminal_desc█Terminale łączą ludzi z satelitami LinkLink. Więcej terminali = więcej potencjalnych klientów.
+
+landingZone█Strefa Lądowania
+landingZone_desc█Czy ja na serio muszę to opisywać?
+
+smallHotel█Mały Hotel
+smallHotel_desc█Marsjanie mieszkają w Hotelach.
+
+mediumHotel█Średni Hotel
+mediumHotel_desc█Więcej Marsjanów mieszka w Hotelach.
+
+largeHotel█Duży Hotel
+largeHotel_desc█Bardzo dużo Marsjanów mieszka w Hotelach.
+
+waterFactory█Fabryka Wody
+waterFactory_desc█Produkuje Wodę i Tlen.
+
+fuelFactory█Fabryka Paliwa
+fuelFactory_desc█Produkuje Paliwo.
+
+steelFactory█Fabryka Zelaza
+steelFactory_desc█Produkuje Materiały i Cyberauta.
+
+mediumGreenhouse█Średnia Szklarnia
+mediumGreenhouse_desc█Produkuje Jedzenie i Tlen.
+
+largeGreenhouse█Duża Szklarnia
+largeGreenhouse_desc█Produkuje więcej Jedzenia i Tlenu.
+
+smallSolar█Małe Panele Słoneczne
+smallSolar_desc█Produkuje Prąd.
+
+mediumSolar█Średnie Panele Słoneczne
+mediumSolar_desc█Produkuje więcej Prądu.
+
+smallWaterStorage█Małe Zbiorniki na Wodę
+smallWaterStorage_desc█Przechowuje Wodę i Tlen.
+
+mediumWaterStorage█Średnie Zbiorniki na Wodę
+mediumWaterStorage_desc█Przechowuje więcej Wody i Tlenu.
+
+largeWaterStorage█Duże Zbiorniki na Wodę
+largeWaterStorage_desc█Przechowuje bardzo dużo Wody i Tlenu.
+
+smallFuelStorage█Małe Zbiorniki na Paliwo
+smallFuelStorage_desc█Przechowuje Paliwo.
+
+mediumFuelStorage█Średnie Zbiorniki na Paliwo
+mediumFuelStorage_desc█Przechowuje więcej Paliwa.
+
+largeFuelStorage█Duże Zbiorniki na Paliwo
+largeFuelStorage_desc█Przechowuje bardzo dużo Paliwa.
 
 lp_cape█Cape Canaveral
 lp_vandenberg█Vandenberg
@@ -80,5 +141,7 @@ lp_xichang█Xichang
 lp_rocketComplex█Port Prywatny
 lp_australia█Woomera
 lp_india█Satish Dhawan
+
+
 
 

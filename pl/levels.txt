@@ -20,63 +20,129 @@ levelTitle16█Czynnik ludzki
 levelTitle17█Idziemy w wielkość
 levelTitle18█"Zrobimy to. Bóg jest moim wielkim świadkiem, jestem cholernie zdeterminowany, by to się udało." - Elon Musk
 levelTitle19█Bardzo Duża Rakieta
-levelTitle20█Tu kończy się zawartość wczesnego dostępu (Dzięki za grę, niedługo dodam więcej funkcji!)
-levelTitle21█https://youtu.be/CfqCQQe2E2s
+levelTitle20█Loty Międzyplanetarne
+levelTitle21█Iskra
+levelTitle22█Infrastruktura
+levelTitle23█Gatunek Wieloplanetarny
+levelTitle24█Ekspansja
+levelTitle25█Droga
+levelTitle26█Cybermars
+levelTitle27█Samowystarczalne Miasto
+levelTitle28█Bomba Nuklearna Robi Brrrrr
+levelTitle29█Za gorąco
+levelTitle30█Za zimno
+levelTitle31█Dom 2.0
+levelTitle32█https://youtu.be/CfqCQQe2E2s
 
 progress_unlockAllModules█Odblokuj wszystkie moduły
 progress_launchSmallRockets█Odpal rakiety LEO: {0}
 progress_launchMediumRockets█Odpal rakiety MEO: {0}
 progress_launchLargeRockets█Odpal rakiety GEO: {0}
 progress_launchSuperheavyRockets█Odpal statek kosmiczny: {0}
+progress_launchToMars█Wyślij statki kosmiczne na Marsa: {0}
 progress_launchCargoCapsules█Wystrzel kapsuły ładunkowe: {0}
 progress_launchCrewCapsules█Wystrzel kapsuły załogowe: {0}
+
 progress_landRockets█Wyląduj rakietami: {0}
+progress_landOnMars█Wyląduj na Marsie: {0}
 progress_reuseRockets█Użyj {0} rakiet ponownie!
+progress_catchFairings█Złap owiewki: {0}
+
 progress_launchPayloadsAtOnce█Wystrzel {0} ładunki na raz!
 progress_launchFromOwnLaunchPad█Wystrzel z własnego stanowiska: {0}
+
 progress_launchTesla█Wystrzel Auto!
+progress_launchCat█Wystrzel kota!
+progress_launchTechnician█Wystrzel technika!
+progress_launchPrologue█Wystrzel album SPATE: Prologue EP!
+progress_launchFlatearther█Wystrzel płaskoziemcę!
+progress_launchMattRescueMission█Wystrzel misję ratunkową!
+progress_launchMarsCamera█Wystrzel Marsjańską Kamerę!
+
 progress_buildFactories█Zbuduj fabryki: {0}!
 progress_buildOffices█Zbuduj biura: {0}!
 progress_buildLaboratories█Zbuduj laboratoria: {0}!
 progress_buildMegaLaunchPads█Zbuduj mega stanowisko: {0}
+progress_buildMarsBuildings█Zbuduj budynki na Marsie: {0}!
+progress_buildFuelFactories█Zbuduj fabryki paliwa: {0}!
+progress_buildSteelFactories█Zbuduj fabryki zelaza: {0}!
+progress_buildLandingZones█Zbuduj strefy lądowania: {0}!
+
 progress_getContracts█Zdobądź kontrakty: {0}
-progress_launchCat█Wystrzel kota!
-progress_launchTechnician█Wystrzel technika!
-progress_catchFairings█Złap owiewki: {0}
 progress_launchLinkLinks█Wystrzel LinkLinki: {0}
-progress_reachLinkLinkUsers█Użtykownicy LinkLink: {0}
+progress_reachLinkLinkUsers█Użytkownicy LinkLink: {0}
 progress_hireEmployees█Zatrudnij pracowników: {0}
+progress_martiansCount█Posiadaj Marsjaninów: {0}
+progress_marsTerraform█Terraformuj Marsa w {0}%
+progress_marsTransportOxygen█Przetransportuj jednostki Tlenu na Marsa: {0}
 
 progress_maxOffices█Maks. Biur:
-progress_multiplePayloads█[<color=#81C784>FUNKCJA</color>] Wytrzel wiele ładunków na raz!
-progress_fundraiserHats█[<color=#FF9F43>ZBIÓRKA</color>] Sprzedaj czapki!
-progress_fundraiserBricks█[<color=#FF9F43>ZBIÓRKA</color>] Sprzedaj cegły!
-progress_fundraiserNAF█[<color=#FF9F43>ZBIÓRKA</color>] Sprzedan (nie) miotacze ognia!
-progress_fundraiserRocketquilla█[<color=#FF9F43>ZBIÓRKA</color>] Sprzedaj rakietoquillę!
+progress_multiplePayloads█[<color=#81C784>FUNKCJA</color>] &%Wystartuj wiele ładunków na raz
+progress_fundraiserHats█[<color=#FF9F43>FUNDRAISING</color>] &%Sprzedaj czapki!
+progress_fundraiserBricks█[<color=#FF9F43>FUNDRAISING</color>] &%Sprzedaj cegły!
+progress_fundraiserNAF█[<color=#FF9F43>FUNDRAISING</color>] &%Sprzedaj (nie)miotacze ognia!
+progress_fundraiserRocketquilla█[<color=#FF9F43>FUNDRAISING</color>] &%Sprzedaj rocketquille!
+progress_fundraiserShorts█[<color=#FF9F43>FUNDRAISING</color>] &%Sprzedaj krótkie szorty!
+
 progress_issSupplierMission█Misja Specjalna: <b><color=#64B5F6>Zaopatrywanie MSK
 progress_issCrewMission█Misja Specjalna: <b><color=#64B5F6>Komercyjne Loty Załogowe MSK
 progress_teslaRoadsterMission█Misja Specjalna: <b><color=#64B5F6>Auto w Kosmosie
-progress_catMission█Special Mission: <b><color=#64B5F6>Kot Astronauty
-progress_technicianMission█Special Mission: <b><color=#64B5F6>Technik w walizce
+progress_catMission█Misja Specjalna: <b><color=#64B5F6>Kot Astronauty
+progress_technicianMission█Misja Specjalna: <b><color=#64B5F6>Technik w walizce
+progress_truthMission█Misja Specjalna: <b><color=#64B5F6>Prawda
+progress_mattMission█Misja Specjalna: <b><color=#64B5F6>Matt
+progress_spateMission█Misja Specjalna: <b><color=#64B5F6>Prologue EP
 
-progress_smallFactory█[<color=#E74C3C>BUDYNEK</color>] Mała Fabryka
-progress_mediumFactory█[<color=#E74C3C>BUDYNEK</color>] Średnia Fabryka
-progress_largeFactory█[<color=#E74C3C>BUDYNEK</color>] Duża Fabryka
-progress_gigaFactory█[<color=#E74C3C>BUDYNEK</color>] Giga Fabryka
+progress_smallFactory█[<color=#E74C3C>BUDYNEK</color>] &%Mała Fabryka
+progress_mediumFactory█[<color=#E74C3C>BUDYNEK</color>] &%Średnia Fabryka
+progress_largeFactory█[<color=#E74C3C>BUDYNEK</color>] &%Duża Fabryka
+progress_gigaFactory█[<color=#E74C3C>BUDYNEK</color>] &%Giga Fabryka
 
-progress_smallHangar█[<color=#E74C3C>BUDYNEK</color>] Mały Hangar
-progress_mediumHangar█[<color=#E74C3C>BUDYNEK</color>] Średni Hangar
-progress_largeHangar█[<color=#E74C3C>BUDYNEK</color>] Duży Hangar
-progress_megaHangar█[<color=#E74C3C>BUDYNEK</color>] Mega Hangar
+progress_smallHangar█[<color=#E74C3C>BUDYNEK</color>] &%Mały Hangar
+progress_mediumHangar█[<color=#E74C3C>BUDYNEK</color>] &%Średni Hangar
+progress_largeHangar█[<color=#E74C3C>BUDYNEK</color>] &%Duży Hangar
+progress_megaHangar█[<color=#E74C3C>BUDYNEK</color>] &%Mega Hangar
 
-progress_linkLinkTerminal█[<color=#E74C3C>BUDYNEK</color>] Odbiornik LinkLink
-progress_megaLaunchPad█[<color=#E74C3C>BUDYNEK</color>] Mega Stanowisko
+progress_linkLinkSmallTerminal█[<color=#E74C3C>BUDYNEK</color>] &%Mały Terminal LinkLink
+progress_linkLinkLargeTerminal█[<color=#E74C3C>BUDYNEK</color>] &%Duży Terminal LinkLink
 
-progress_linkLink15█[<color=#81C784>FEATURE</color>] LinkLink (15)
-progress_linkLink30█[<color=#81C784>FEATURE</color>] LinkLink (30)
-progress_linkLink60█[<color=#81C784>FEATURE</color>] LinkLink (60)
+progress_megaLaunchPad█[<color=#E74C3C>BUDYNEK</color>] &%Mega Stanowisko
+
+progress_smallHotel█[<color=#E74C3C>BUDYNEK</color>] &%Mały Hotel
+progress_mediumHotel█[<color=#E74C3C>BUDYNEK</color>] &%Średni Hotel
+progress_largeHotel█[<color=#E74C3C>BUDYNEK</color>] &%Duży Hotel
+
+progress_mediumGreenhouse█[<color=#E74C3C>BUDYNEK</color>] &%Średnia Szklarnia
+progress_largeGreenhouse█[<color=#E74C3C>BUDYNEK</color>] &%Duża Szklarnia
+
+progress_smallSolar█[<color=#E74C3C>BUDYNEK</color>] &%Małe Panele Słoneczne
+progress_mediumSolar█[<color=#E74C3C>BUDYNEK</color>] &%Średnie Panele Słoneczne
+
+progress_smallWater█[<color=#E74C3C>BUDYNEK</color>] &%Małe Zbiorniki na Wodę
+progress_mediumWater█[<color=#E74C3C>BUDYNEK</color>] &%Średnie Zbiorniki na Wodę
+progress_largeWater█[<color=#E74C3C>BUDYNEK</color>] &%Duże Zbiorniki na Wodę
+
+progress_smallFuel█[<color=#E74C3C>BUDYNEK</color>] &%Małe Zbiorniki na Paliwo
+progress_mediumFuel█[<color=#E74C3C>BUDYNEK</color>] &%Średnie Zbiorniki na Paliwo
+progress_largeFuel█[<color=#E74C3C>BUDYNEK</color>] &%Duże Zbiorniki na Paliwo
+
+progress_waterFactory█[<color=#E74C3C>BUDYNEK</color>] &%Fabryka Wody
+progress_fuelFactory█[<color=#E74C3C>BUDYNEK</color>] &%Fabryka Paliwa
+progress_steelFactory█[<color=#E74C3C>BUDYNEK</color>] &%Fabryka Zelaza
+
+progress_landingZone█[<color=#E74C3CBUDYNEK</color>] &%Strefa Lądowania
+
+progress_linkLink30█[<color=#81C784>FUNKCJA</color>] &%LinkLink (60)
+progress_materials20█[<color=#81C784>FUNKCJA</color>] &%Materiały (35)
+progress_oxygen40█[<color=#81C784>FUNKCJA</color>] &%Tlen (40)
+progress_martians15█[<color=#81C784>FUNKCJA</color>] &%Marsjanie (15)
+progress_cybercar3█[<color=#81C784>FUNKCJA</color>] &%Cyberauta (3)
+progress_nuke3█[<color=#81C784>FUNKCJA</color>] &%Bomba Nuklearna (3)
+
 progress_linkLinkCapacity50█[<color=#81C784>LinkLink</color>] Wydajność LinkLink +50%
 progress_linkLinkCapacity25█[<color=#81C784>LinkLink</color>] Wydajność LinkLink +25%
 progress_linkLinkCosts█[<color=#81C784>LinkLink</color>] Koszt LinkLink -25%
+
+
 
 

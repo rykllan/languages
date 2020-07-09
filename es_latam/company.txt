@@ -8,24 +8,25 @@ company_createCompany█Crear empresa
 company_header█Empresa
 company_overview█Resumen
 company_fundraising█Recaudación de fondos
-company_financeHistory█Finance History
-company_flightHistory█Flight History
-company_competitionHistory█Competition History
+company_financeHistory█Historial financiero
+company_flightHistory█Historial de vuelo
+company_competitionHistory█Historial de la competencia
 
 fundraising_productionCost█Costo de producción:
 fundraising_sales█Ventas:
 hats█Sombreros
 bricks█Ladrillos
 not_a_flamethrowers█<color=#E74C3C><size=10>No es un</size></color>&%Lanzallamas
-rocketquillas█Rocketquillas
+rocketquillas█Cohetequillas
+shorts█Short Shorts
 use█Usar
 
 company_progressHeader█Progreso de la empresa
 company_progressLevel█Nivel
 company_progressNewStuff█Material nuevo
-company_progressCompleteChallenges█Retos completados
-company_progressNextLevel█Next Level
-company_progressPreviousLevel█Previous Level
+company_progressCompleteChallenges█Complete Challenges <size=70%>(<color=#E74C3C>**</color> = optional)
+company_progressNextLevel█Siguiente nivel
+company_progressPreviousLevel█Nivel previo
 locked█Bloqueado
 unlock█Desbloquear
 unlocked█Desbloqueado
@@ -37,24 +38,26 @@ upgrade_reliability█<b>Fiabilidad:</b> <color=#81C784>+10%
 upgrade_buildCost█<b>Costo de construcción:</b> <color=#81C784>-10%
 upgrade_buildTime█<b>Tiempo de construcción:</b> <color=#81C784>-10%
 
-company_menu_finance█Finance
-company_menu_flights█Flights
-company_menu_competition█Competition
+company_menu_finance█Finanzas
+company_menu_flights█Vuelos
+company_menu_competition█Competencia
 
-company_summary█Finance Summary (Last 10 Years)&%<size=14>Where do you spend most money?
+company_summary█Resumen financiero (Últimos 10 años)&%<size=14>¿Donde gastas tu dinero?
 
-company_successes█Successes
-company_failures█Failures
-company_flights█Flights
-company_income█Income
-company_outcome█Outcome
+company_successes█Logros
+company_failures█Fallos
+company_flights█Vuelos
+company_income█Ingresos
+company_outcome█Egresos
 company_balance█Balance
 
-company_launches█Launches
-company_construction█Construction
-company_employees█Employees
-company_others█Others
-company_lossPerYear█Average <mark=#E74C3C25>loss</mark> per year
-company_profitPerYear█Average <mark=#E74C3C25>loss</mark> per year
+company_launches█Lanzamiento
+company_construction█Construción
+company_employees█Empleados
+company_others█Otross
+company_lossPerYear█Promedio <mark=#E74C3C25>loss</mark> por año
+company_profitPerYear█Promedio <mark=#E74C3C25>loss</mark> por año
+
+
 
 

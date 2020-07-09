@@ -32,7 +32,9 @@ linkLink_failure_content█Besorgte LinkLink-Abonnenten berichten über einen Au
 
 linkLink_giga_factory_needed█Du benötigst eine Giga Fabrik, um LinkLink-Satelliten zu bauen.
 
+linkLink_system█System
 linkLink_production█Produktion
+linkLink_statistics█Statistics
 
 linkLink_100_required█Du benötigst mindestens <color=#64B5F6><b>100</b></color> LinkLink-Satelliten um den Dienst zu betreiben.
 
@@ -55,5 +57,13 @@ linkLink_30_deorbited█30% deiner LinkLinks sind aus der Umlaufbahn entfernt wo
 
 linkLink_welcome_header█LinkLink
 linkLink_welcome_content█Später bei EarthX wirst du in der Lage sein, deine eigene Satellitenkonstellation zu erstellen, die weltweit erschwingliches Internet zur Verfügung stellen wird.&%&%Um dies zu tun, müssen Sie jedoch zuerst 2 Testsatelliten starten.&%&%Viel Glück!
+
+30percentDeorbit█30% of LinkLinks will deorbit in <b>{0}</b>
+
+buildLinkLinkInGiga█Build LinkLink in any Giga Factory
+openGigaFactory█Open Giga Factory
+
+
+
 
 

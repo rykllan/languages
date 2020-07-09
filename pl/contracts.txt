@@ -63,4 +63,22 @@ contract_balwina█miał... Miał... MIAŁ!!!
 contract_technician█Nagły wypadek
 payload_technician█Technik
 
+payload_flatEarther█Murphy (Płaskoziemca)
+
+contract_marsCamera█Wyprawa na Marsa
+payload_marsCamera█Marsjańska Kamera
+content_marsCamera█Wystrzel kamerę ciężką rakietą "Heavy" aby móc zobaczyć i grać na Marsie.
+
+
+contract_spate█SPATE: Prologue EP
+payload_spate█Prologue EP
+content_spate█Młody producent muzyczny z Finlandii wydaje nową płytę z kosmicznymi utworami. W ramach akcji promocyjnej, chciałby wysłać fizyczny egzemplarz swojego CD z kolejnym transportem zaopatrzeniowym na ISS.
+
+contract_matt█Uratuj Matt'a
+payload_matt█Misja Ratunkowa dla Matt'a
+content_matt█Pojawiła się nowa oferta od NASA. Celem misji, jest wysłanie statku kosmicznego na Marsa, którą będzie mógł wrócić na Ziemię Matt.
+
+
+
+
 

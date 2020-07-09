@@ -18,12 +18,13 @@ hats█Sombreros
 bricks█Ladrillos
 not_a_flamethrowers█<color=#E74C3C><size=10>No es un</size></color>&%Lanzallamas
 rocketquillas█Rocketquillas
+shorts█Short Shorts
 use█Usar
 
 company_progressHeader█Progreso de la empresa
 company_progressLevel█Nivel
 company_progressNewStuff█Material nuevo
-company_progressCompleteChallenges█Retos completados
+company_progressCompleteChallenges█Complete Challenges <size=70%>(<color=#E74C3C>**</color> = optional)
 company_progressNextLevel█Next Level
 company_progressPreviousLevel█Previous Level
 locked█Bloqueado
@@ -56,5 +57,7 @@ company_employees█Employees
 company_others█Others
 company_lossPerYear█Average <mark=#E74C3C25>loss</mark> per year
 company_profitPerYear█Average <mark=#E74C3C25>loss</mark> per year
+
+
 
 

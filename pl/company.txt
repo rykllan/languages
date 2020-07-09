@@ -18,12 +18,13 @@ hats█Czapki
 bricks█Cegły
 not_a_flamethrowers█<color=#E74C3C><size=10>Nie-</size></color>&%Miotacze Ognia
 rocketquillas█Rakietoquillasy
+shorts█Krótkie Szorty
 use█Użyj
 
 company_progressHeader█Postęp firmy
 company_progressLevel█Poziom
 company_progressNewStuff█Nowe przedmioty
-company_progressCompleteChallenges█Ukończ zadania
+company_progressCompleteChallenges█Complete Challenges <size=70%>(<color=#E74C3C>**</color> = optional)
 company_progressNextLevel█Następny Poziom
 company_progressPreviousLevel█Poprzedni Poziom
 locked█Zablokowane
@@ -56,5 +57,7 @@ company_employees█Pracownicy
 company_others█Inne
 company_lossPerYear█Średnia <mark=#E74C3C25>strata</mark> na rok
 company_profitPerYear█Średni <mark=#E74C3C25>przychód</mark> na rok
+
+
 
 

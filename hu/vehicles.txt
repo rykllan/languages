@@ -4,6 +4,11 @@ rocket█Rakéta
 capsule█Kapszula
 spaceship█Űrhajó
 
+spaceships█Spaceships
+vehiclesDockedToISS█Docked Vehicles
+
+issHeaderText█International Space Station&%<size=14><b><color=#64B5F6>Operational
+
 rocketRequiresCapsule█Rakéta (kapszula szükséges)
 rocketRequiresSpaceship█Rakéta (űrhajó szükséges)
 
@@ -33,6 +38,16 @@ launch█Kilövés
 repair█Megjavítás
 turnExpendable█Turn Expendable
 
+earthPO█Parked on <color=#64B5F6>Earth's</color> Parking Orbit (Leaving in <b>{0}</b>)
+marsPO█Parked on <color=#E17055>Mars'</color> Parking Orbit (Leaving in <b>{0}</b>)
+marsTraveling█Traveling to <color=#E17055>Mars</color> (Arriving in <b>{0}</b>)
+earthTraveling█Traveling to <color=#64B5F6>Earth</color> (Arriving in <b>{0}</b>)
+marsLanding█Landing on <color=#E17055>Mars</color>
+earthLanding█Landing on <color=#64B5F6>Earth</color>
+marsLanded█Landed on <color=#E17055>Mars</color>
+
+readyToLaunch█<b><color=#64B5F6>{0} of {1}</b></color>&%<size=70%>are ready to launch!
+
 capabilities█Képességek
 reliability█Megbízhatóság
 condition█Állapot
@@ -59,6 +74,8 @@ fairingCatchingNotSupported█Fairing catching not supported!&%You need:<size=12
 payload█Hasznos teher
 crew█Legénység
 cargo█Teher
+
+launchAll█Launch All
 
 launchSetup_header█Kilövési beállítás
 launchSetup_missionName█Küldetés neve...
@@ -120,9 +137,10 @@ creator_header█Új projekt
 creator_vehicleName█Jármű neve...
 creator_createProject█Projekt létrehozása
 creator_vehicleCanGoAnywhere█Ez a jármű bármilyen helyszínre mehet, ahova csak akarod.
-creator_capsuleRocket█This rocket can carry only the capsules.
-creator_spaceshipRocket█This rocket can carry only the spaceships.
+creator_capsuleRocket█This rocket can only carry the capsules.
+creator_spaceshipRocket█This rocket can only carry the spaceships.
 no_module_unlocked█Nincs feloldott modul.
+
 
 
 

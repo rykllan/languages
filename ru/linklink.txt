@@ -32,7 +32,9 @@ linkLink_failure_content█Обеспокоенные клиенты LinkLink с
 
 linkLink_giga_factory_needed█Вам нужна Гигафабрика, чтобы производить спутники LinkLink.
 
+linkLink_system█System
 linkLink_production█Производство
+linkLink_statistics█Statistics
 
 linkLink_100_required█Вам нужно по крайней мере <color=#64B5F6><b>100</b></color> спутников LinkLink, чтобы
 
@@ -55,5 +57,13 @@ linkLink_30_deorbited█30% ваших спутников были сведен�
 
 linkLink_welcome_header█LinkLink
 linkLink_welcome_content█Позже в EarthX вы сможете создать свою собственную спутниковую группировку, которая будет обеспечивать дешевый интернет по всему миру.&%&%Однако, для этого необходимо сначала запустить 2 тестовых спутника.&%&%Удачи!
+
+30percentDeorbit█30% of LinkLinks will deorbit in <b>{0}</b>
+
+buildLinkLinkInGiga█Build LinkLink in any Giga Factory
+openGigaFactory█Open Giga Factory
+
+
+
 
 

@@ -11,3 +11,5 @@ tooltip_skillPoints█Punkty doświadczenia
 tooltip_linkLink█LinkLink
 
 
+
+

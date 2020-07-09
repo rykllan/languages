@@ -10,16 +10,23 @@ building_advancedLP█Advanced Launch Pad
 building_megaLP█Mega Launch Pad
 
 building_category_all█All
-building_category_factories█Factories
-building_category_hangars█Hangars
+building_category_production█Production
+building_category_storage█Storage
+building_category_other█Other
 
 buildingSetup_buildingName█Building name...
 buildingSetup_overview█Overview
 buildingSetup_setup█Setup
+buildingSetup_modules█Modules
+buildingSetup_other█Other
 buildingSetup_billsCurrentQuarter█Bills for current quarter
 
 buildingSetup_nowWorkingOn█Now working on
 buildingSetup_queue█Queue
+
+buildingSetup_produce█Produce
+
+returnToEarth█Return to Earth
 
 buildingSetup_negotiationPowerEachEmployee█Negotiation power for each employee
 buildingSetup_negotiationPowerBuilding█Building negotiation power
@@ -134,5 +141,7 @@ lp_xichang█Xichang
 lp_rocketComplex█Private Spaceport
 lp_australia█Woomera
 lp_india█Satish Dhawan
+
+
 
 

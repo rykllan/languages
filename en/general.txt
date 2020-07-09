@@ -31,8 +31,39 @@ orbit_meo█MEO
 orbit_geo█GEO
 orbit_iss█ISS
 
-map_settings_linklink_visible█LinkLink Visible
+vehicle_cargo█Cargo
+vehicle_crew█Crew
+vehicle_tanker█Tanker
+
+map_settings_trackers_visible█Trackers Visible
 map_settings_satellites_visible█Satellites Visible
 map_settings_linklink_outline█LinkLink Outline
+
+earth█Earth
+mars█Mars
+
+tanking█Tanking...
+
+marsDetails█Mars Details
+earthLikePlanet█Earth-like Planet
+
+martians█Martians
+materials█Materials
+electricity█Electricity
+food█Food
+water█Water
+oxygen█Oxygen
+fuel█Fuel
+cybercars█Cybercars
+nuke█Nuke
+
+unitsToProduce█Units to Produce: {0}
+
+marsProductionHeader█<b>Production</b> <size=50%>/quarter</size>
+marsUsageHeader█<b>Usage</b> <size=50%>/quarter</size>
+marsStorageHeader█<b>Storage</b>
+
+
+
 
 

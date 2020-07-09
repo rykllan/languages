@@ -39,6 +39,7 @@ cantRepairSoManyVehicles█Nem javíthatsz ilyen sok járművet egyszerre!
 cantRemoveProject█Nem távolíthatod el ezt a projektet, mert járműveket tartalmaz.
 
 noHangars█Nincsenek hangáraid, vagy túl kevés a helyed járművek eltárolására.
+noHangarsLanding█A spaceship is trying to land! You need more space in <color=#64B5F6>{0}</color> to store it!
 noFactories█{0} can't be built because you need a {2} to be able to build {1} modules.
 
 projectMustHaveName█A projektnek kötelező nevet adnod. Láttál egyáltalán már nem névtelen rakétát?
@@ -61,6 +62,17 @@ cantBuildFactories█Nem építhetsz ilyen sok gyárat.
 cantBuildSimpleLP█Most nem építhetsz egyszerű kilövőállomásokat.
 cantBuildAdvancedLP█Most nem építhetsz fejlett kilövőállomásokat.
 cantBuildMegaLP█Most nem építhetsz mega kilövőállomásokat.
+
+noGigaFactories█You don't have any GigaFactories!
+
+noMoney█Not enough money!
+noMaterials█Not enough materials!
+noCybercars█Not enough cybercars!
+
+parkingOrbit█Parking Orbit
+leavingParkingOrbit█Leaving Orbit in {0}
+
+
 
 
 

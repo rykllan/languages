@@ -32,6 +32,7 @@ levelTitle28█Nuclear Bomb Goes Brrrrr
 levelTitle29█Too hot
 levelTitle30█Too cold
 levelTitle31█Home 2.0
+levelTitle32█https://youtu.be/CfqCQQe2E2s
 
 progress_unlockAllModules█Unlock all modules
 progress_launchSmallRockets█Launch {0} LEO rocket(s)
@@ -81,6 +82,7 @@ progress_fundraiserHats█[<color=#FF9F43>FUNDRAISING</color>] &%Sell hats!
 progress_fundraiserBricks█[<color=#FF9F43>FUNDRAISING</color>] &%Sell bricks!
 progress_fundraiserNAF█[<color=#FF9F43>FUNDRAISING</color>] &%Sell (not) flamethrowers!
 progress_fundraiserRocketquilla█[<color=#FF9F43>FUNDRAISING</color>] &%Sell rocketquillas!
+progress_fundraiserShorts█[<color=#FF9F43>FUNDRAISING</color>] &%Sell short shorts!
 
 progress_issSupplierMission█Special Mission: <b><color=#64B5F6>ISS Supplier
 progress_issCrewMission█Special Mission: <b><color=#64B5F6>ISS Commercial Crew
@@ -130,8 +132,8 @@ progress_steelFactory█[<color=#E74C3C>BUILDING</color>] &%Steel Factory
 
 progress_landingZone█[<color=#E74C3C>BUILDING</color>] &%Landing Zone
 
-progress_linkLink30█[<color=#81C784>FEATURE</color>] &%LinkLink (30)
-progress_materials20█[<color=#81C784>FEATURE</color>] &%Materials (20)
+progress_linkLink30█[<color=#81C784>FEATURE</color>] &%LinkLink (60)
+progress_materials20█[<color=#81C784>FEATURE</color>] &%Materials (35)
 progress_oxygen40█[<color=#81C784>FEATURE</color>] &%Oxygen (40)
 progress_martians15█[<color=#81C784>FEATURE</color>] &%Martians (15)
 progress_cybercar3█[<color=#81C784>FEATURE</color>] &%Cybercar (3)
@@ -140,5 +142,7 @@ progress_nuke3█[<color=#81C784>FEATURE</color>] &%Nuke (3)
 progress_linkLinkCapacity50█[<color=#81C784>LinkLink</color>] LinkLink Capacity +50%
 progress_linkLinkCapacity25█[<color=#81C784>LinkLink</color>] LinkLink Capacity +25%
 progress_linkLinkCosts█[<color=#81C784>LinkLink</color>] LinkLink Production Costs -25%
+
+
 
 

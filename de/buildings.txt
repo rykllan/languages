@@ -10,16 +10,23 @@ building_advancedLP█Verbesserte Startrampe
 building_megaLP█Mega Startrampe
 
 building_category_all█Alle
-building_category_factories█Fabriken
-building_category_hangars█Hangar
+building_category_production█Production
+building_category_storage█Storage
+building_category_other█Other
 
 buildingSetup_buildingName█Gebäudename...
 buildingSetup_overview█Übersicht
 buildingSetup_setup█Setup
+buildingSetup_modules█Modules
+buildingSetup_other█Other
 buildingSetup_billsCurrentQuarter█Rechnungen des laufenden Quartals
 
 buildingSetup_nowWorkingOn█Now working on
 buildingSetup_queue█Warteschleife
+
+buildingSetup_produce█Produce
+
+returnToEarth█Return to Earth
 
 buildingSetup_negotiationPowerEachEmployee█Verhandlungsmacht für jeden Mitarbeiter
 buildingSetup_negotiationPowerBuilding█Verhandlungsmacht des Gebäudes
@@ -66,62 +73,62 @@ laboratory_desc█Produziert Skillpunkte.
 megaLP█Mega Startrampe
 megaLP_desc█Du kannst Raumschiffe starten.
 
-smallTerminal█LinkLink kleines Terminal
-smallTerminal_desc█Terminals verbinden Leute auf der Erde mit LinkLinks. Mehr Terminals == Mehr Benutzerkapazität.
+smallTerminal█LinkLink Small Terminal
+smallTerminal_desc█Terminals are connecting people on Earth with LinkLinks. More terminals == more users capacity.
 
-largeTerminal█LinkLink großes Terminal
-largeTerminal_desc█Terminals verbinden Leute auf der Erde mit LinkLinks. Mehr Terminals == Mehr Benutzerkapazität.
+largeTerminal█LinkLink Large Terminal
+largeTerminal_desc█Terminals are connecting people on Earth with LinkLinks. More terminals == more users capacity.
 
-landingZone█Landezone
-landingZone_desc█Muss ich das wirklich erläutern?
+landingZone█Landing Zone
+landingZone_desc█Do I really need to describe it?
 
-smallHotel█Kleines Hotel
-smallHotel_desc█Marsianer leben an Orten wie diesem.
+smallHotel█Small Hotel
+smallHotel_desc█Martians are living in places like this.
 
-mediumHotel█Mittleres Hotel
-mediumHotel_desc█Mehr Marsianer leben an Orten wie diesem.
+mediumHotel█Medium Hotel
+mediumHotel_desc█More Martians are living in places like this.
 
-largeHotel█Großes Hotel
-largeHotel_desc█Sehr viele Marsianer leben an Orten wie diesem.
+largeHotel█Large Hotel
+largeHotel_desc█A lot of Martians are living in places like this.
 
-waterFactory█Wasserfabrik
-waterFactory_desc█Produziert Wasser und Sauerstoff.
+waterFactory█Water Factory
+waterFactory_desc█Produces Water and Oxygen.
 
-fuelFactory█Treibstofffabrik
-fuelFactory_desc█Produziert Treibstoff.
+fuelFactory█Fuel Factory
+fuelFactory_desc█Produces Fuel.
 
-steelFactory█Stahlfabrik
-steelFactory_desc█Produziert Materialien und Cybercars.
+steelFactory█Steel Factory
+steelFactory_desc█Produces Materials and Cybercars.
 
-mediumGreenhouse█Mittleres Gewächshaus
-mediumGreenhouse_desc█Produziert Nahrung und Sauerstoff.
+mediumGreenhouse█Medium Greenhouse
+mediumGreenhouse_desc█Produces Food and Oxygen.
 
-largeGreenhouse█Großes Gewächshaus
-largeGreenhouse_desc█Produziert mehr Nahrung und Sauerstoff.
+largeGreenhouse█Large Greenhouse
+largeGreenhouse_desc█Produces more Food and Oxygen.
 
-smallSolar█Kleines Solarpanel
-smallSolar_desc█Produziert Elektrizität.
+smallSolar█Small Solar
+smallSolar_desc█Produces Electricity.
 
-mediumSolar█Mittleres Solarpanel
-mediumSolar_desc█Produziert mehr Elektrizität.
+mediumSolar█Medium Solar
+mediumSolar_desc█Produces more Electricity.
 
-smallWaterStorage█Kleiner Wassertank
-smallWaterStorage_desc█Speichert Wasser und Sauerstoff.
+smallWaterStorage█Small Water Storage
+smallWaterStorage_desc█Stores Water and Oxygen.
 
-mediumWaterStorage█Mittlerer Wassertank
-mediumWaterStorage_desc█Speichert mehr Wasser und Sauerstoff.
+mediumWaterStorage█Medium Water Storage
+mediumWaterStorage_desc█Stores more Water and Oxygen.
 
-largeWaterStorage█Großer Wassertan
-largeWaterStorage_desc█Speichert viel Wasser und Sauerstoff.
+largeWaterStorage█Large Water Storage
+largeWaterStorage_desc█Stores a lot of Water and Oxygen.
 
 smallFuelStorage█Small Fuel Storage
-smallFuelStorage_desc█Speichert Treibstoff.
+smallFuelStorage_desc█Stores Fuel.
 
-mediumFuelStorage█Mittlerer Treibstofftank
-mediumFuelStorage_desc█Speichert mehr Treibstoff.
+mediumFuelStorage█Medium Fuel Storage
+mediumFuelStorage_desc█Stores more Fuel.
 
-largeFuelStorage█Großer Treibstofftank
-largeFuelStorage_desc█Speichert viel Treibstoff.
+largeFuelStorage█Large Fuel Storage
+largeFuelStorage_desc█Stores a lot of Fuel.
 
 lp_cape█Cape Canaveral
 lp_vandenberg█Vandenberg
@@ -134,5 +141,7 @@ lp_xichang█Xichang
 lp_rocketComplex█Private Spaceport
 lp_australia█Woomera
 lp_india█Satish Dhawan
+
+
 
 

@@ -1,37 +1,57 @@
 
 
-menu_home█Otthon
-menu_play█Indítás
+menu_newGame█New Game
+menu_loadGame█Load Game
 menu_settings█Beállítások
 menu_credits█Készítők
 menu_exit█Kilépés
-menu_backToMainMenu█Vissza a főmenübe
 menu_save█Mentés
-menu_notAvailable█Nem érhető el ebben a verzióban, sajnálom :(
-menu_saveNotSupported█Az EarthX korábbi verziójában készült mentések nem támogatottak.
+menu_saveNotSupported█Save From Older Version :(
+menu_gameOver█GAMEOVER! :(
 
-menu_createNewGame█Új játék létrehozása
-menu_tutorial█Oktatás
-menu_classicHeader█Klasszikus
-menu_classicDesc█A klasszikus mód indítása, ahol megépítheted a saját űrvállalatodat.
-menu_sandboxHeader█Végtelen
-menu_sandboxDesc█A végtelen módban minden elérhető és korlátlan. Használd a képzeletedet!
+menu_createNewGame█Create New Game
 
-menu_quality█Minőség
+lastPlayed█Last Played:
+
+menu_gameMode█Game Mode
+menu_classic█<b>Classic</b>&%<size=75%>Play the classic mode where you have to build your own space company from scratch.
+menu_sandbox█<b>Sandbox</b>&%<size=75%>In sandbox mode everything is unlocked and unlimited. Kinda boring tbh.
+
+menu_difficulty█Game Difficulty
+menu_easy█<b>Easy</b>&%<size=75%>Play easy if you want to play easy. Just launch those big rockets.
+menu_hard█<b>Hard</b>&%<size=75%>Coming soon!
+
+menu_apply█Apply
+
+menu_quality█Graphics
 menu_low█Alacsony
 menu_medium█Közepes
 menu_high█Magas
-menu_effects█Effektek
-menu_postprocessings█Utófeldolgozás
+menu_environment█Environment?
+menu_postprocessings█Post Processing?
+
 menu_gameplay█Játékmenet
 menu_autoSave█Aut. mentés?
 menu_autoPause█Aut. szünet?
+menu_alwaysDay█Always Day?
+menu_hangarsVisual█Hangars Visual?
+
 menu_video█Videó
 menu_fullscreen█Teljes képernyő?
+menu_vsync█V-Sync?
+
 menu_audio█Hang
 menu_music█Zene?
 menu_sounds█Hangok?
+
 menu_language█Nyelv
+
+
+menu_creators█Creators
+menu_collaboration█Collaboration
+menu_specialThanks█Special Thanks
+menu_icons█Icons From Flaticon.com
+
 
 
 

@@ -10,16 +10,23 @@ building_advancedLP█Продвинутая стартовая площадка
 building_megaLP█"Мега-пад"
 
 building_category_all█Всё
-building_category_factories█Фабрики
-building_category_hangars█Ангары
+building_category_production█Production
+building_category_storage█Storage
+building_category_other█Other
 
 buildingSetup_buildingName█Название здания...
 buildingSetup_overview█Обзор
 buildingSetup_setup█Управление
+buildingSetup_modules█Modules
+buildingSetup_other█Other
 buildingSetup_billsCurrentQuarter█Счета за текущий квартал
 
 buildingSetup_nowWorkingOn█Работает над
 buildingSetup_queue█Очередь
+
+buildingSetup_produce█Produce
+
+returnToEarth█Return to Earth
 
 buildingSetup_negotiationPowerEachEmployee█Сила переговоров от сотрудников
 buildingSetup_negotiationPowerBuilding█Сила переговоров от здания
@@ -66,8 +73,62 @@ laboratory_desc█Производит очки исследований.
 megaLP█"Мега-пад"
 megaLP_desc█Вы можете запускать Spaceship
 
-terminal█Терминал LinkLink
-terminal_desc█Терминалы соединяют людей на Земле с помощью спутников LinkLinks. Больше терминалов = больше пропускной способности.
+smallTerminal█LinkLink Small Terminal
+smallTerminal_desc█Terminals are connecting people on Earth with LinkLinks. More terminals == more users capacity.
+
+largeTerminal█LinkLink Large Terminal
+largeTerminal_desc█Terminals are connecting people on Earth with LinkLinks. More terminals == more users capacity.
+
+landingZone█Landing Zone
+landingZone_desc█Do I really need to describe it?
+
+smallHotel█Small Hotel
+smallHotel_desc█Martians are living in places like this.
+
+mediumHotel█Medium Hotel
+mediumHotel_desc█More Martians are living in places like this.
+
+largeHotel█Large Hotel
+largeHotel_desc█A lot of Martians are living in places like this.
+
+waterFactory█Water Factory
+waterFactory_desc█Produces Water and Oxygen.
+
+fuelFactory█Fuel Factory
+fuelFactory_desc█Produces Fuel.
+
+steelFactory█Steel Factory
+steelFactory_desc█Produces Materials and Cybercars.
+
+mediumGreenhouse█Medium Greenhouse
+mediumGreenhouse_desc█Produces Food and Oxygen.
+
+largeGreenhouse█Large Greenhouse
+largeGreenhouse_desc█Produces more Food and Oxygen.
+
+smallSolar█Small Solar
+smallSolar_desc█Produces Electricity.
+
+mediumSolar█Medium Solar
+mediumSolar_desc█Produces more Electricity.
+
+smallWaterStorage█Small Water Storage
+smallWaterStorage_desc█Stores Water and Oxygen.
+
+mediumWaterStorage█Medium Water Storage
+mediumWaterStorage_desc█Stores more Water and Oxygen.
+
+largeWaterStorage█Large Water Storage
+largeWaterStorage_desc█Stores a lot of Water and Oxygen.
+
+smallFuelStorage█Small Fuel Storage
+smallFuelStorage_desc█Stores Fuel.
+
+mediumFuelStorage█Medium Fuel Storage
+mediumFuelStorage_desc█Stores more Fuel.
+
+largeFuelStorage█Large Fuel Storage
+largeFuelStorage_desc█Stores a lot of Fuel.
 
 lp_cape█Мыс Канаверал
 lp_vandenberg█Ванденберг
@@ -80,5 +141,7 @@ lp_xichang█Сичан
 lp_rocketComplex█Приватный космодром
 lp_australia█Вумера
 lp_india█Космический центр им. Сатиша Дхавана
+
+
 
 

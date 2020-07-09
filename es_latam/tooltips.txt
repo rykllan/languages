@@ -11,3 +11,5 @@ tooltip_skillPoints█Puntos de habilidad
 tooltip_linkLink█LinkLink
 
 
+
+

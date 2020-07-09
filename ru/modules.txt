@@ -61,7 +61,7 @@ mdl_a_gridfins█Алюминиевые решётчатые рули,Требу
 mdl_t_gridfins█Титановые решётчатые рули,Требуются для ракеты с автоматической посадкой.
 mdl_m_landingLegs█Ручные посадочные опоры,Требуются для ракеты с ручной посадкой.
 mdl_a_landingLegs█Автоматические посадочные опоры,Требуются для ракеты с автоматической посадкой.
-mdl_booster_connector█Коннектор ускорителей,Требуется для ракет с боковыми ускорителями. (Falcon Heavy boi)
+mdl_booster_connector█Booster Connector,Required for sidebooster rockets. (Falcon Heavy Boi)
 
 
 ---Capsule Stuff---█---Capsule Stuff---
@@ -87,5 +87,7 @@ mdl_stainlesssteel_structure█Каркас из нержавеющей стал
 mdl_cargoUtility█Грузовой отсек,Грузовой модуль Spaceship
 mdl_crewUtility█Пилотируемый отсек,Пилотируемый модуль Spaceship
 mdl_fuelUtility█Топливный отсек,Танкерный модуль Spaceship
+
+
 
 

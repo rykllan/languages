@@ -31,8 +31,39 @@ orbit_meo█MEO
 orbit_geo█GEO
 orbit_iss█MSK
 
-map_settings_linklink_visible█LinkLink widoczny
-map_settings_satellites_visible█Satelity widoczne
-map_settings_linklink_outline█Obramówka LinkLink
+vehicle_cargo█Towarowy
+vehicle_crew█Załogowy
+vehicle_tanker█Cysterna
+
+map_settings_trackers_visible█Trackery widoczne?
+map_settings_satellites_visible█Satelity widoczne?
+map_settings_linklink_outline█Obramówka LinkLink?
+
+earth█Ziemia
+mars█Mars
+
+tanking█Tankowanie...
+
+marsDetails█Mars Details
+earthLikePlanet█Earth-like Planet
+
+martians█Marsjanie
+materials█Materiały
+electricity█Prąd
+food█Jedzenie
+water█Woda
+oxygen█Tlen
+fuel█Paliwo
+cybercars█Cyberauta
+nuke█Nuke
+
+unitsToProduce█Units to Produce: {0}
+
+marsProductionHeader█<b>Produkcja</b> <size=50%>/kwartał</size>
+marsUsageHeader█<b>Użycie</b> <size=50%>/kwartał</size>
+marsStorageHeader█<b>Magazynowanie</b>
+
+
+
 
 

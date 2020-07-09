@@ -1,36 +1,57 @@
 
 
-menu_home█Strona Główna
-menu_play█Graj
+menu_newGame█Nowa Gra
+menu_loadGame█Wczytaj Grę
 menu_settings█Ustawienia
 menu_credits█Twórcy
 menu_exit█Opuść grę
-menu_backToMainMenu█Wróć do Menu Głównego
 menu_save█Zapisz
-menu_notAvailable█Niedostępne w tej wersji :(
-menu_saveNotSupported█Zapisy z poprzedniej wersji gry nie są obecnie obsługiwane. Przepraszamy!
+menu_saveNotSupported█Zapis z poprzedniej wersji gry :(
+menu_gameOver█PRZEGRAŁEŚ! :(
 
-menu_createNewGame█Stwórz nową grę
-menu_tutorial█Poradnik
-menu_classicHeader█Tryb Kariery
-menu_classicDesc█W trybie kariery zbudujesz swoją firmę od zera. Podbij świat... i kosmos!
-menu_sandboxHeader█Piaskownica
-menu_sandboxDesc█W piaskownicy liczy się wyobraźnia. Wszystko jest odblokowane!
+menu_createNewGame█Stwórz Nową Grę
+
+lastPlayed█Last Played:
+
+menu_gameMode█Tryb Gry
+menu_classic█<b>Klasyczny</b>&%<size=75%>Zagraj w tryb klasyczny, gdzie musisz stworzyć swoją firmę od zera.
+menu_sandbox█<b>Piaskownica</b>&%<size=75%>W piaskownicy wszystko jest odblokowane i nieskończone. Trochę nudne. 
+
+menu_difficulty█Trudność Gry
+menu_easy█<b>Łatwy</b>&%<size=75%>Graj łatwo jeśli jesteś łatwy. Po prostu wystrzel swoje duuuże rakiety.
+menu_hard█<b>Trudny</b>&%<size=75%>Dostępne wkrótce!
+
+menu_apply█Zatwierdź
 
 menu_quality█Grafika
 menu_low█Niska
 menu_medium█Średnia
 menu_high█Wysoka
-menu_effects█Efekty
-menu_postprocessings█Post Processing
+menu_environment█Drzewka?
+menu_postprocessings█Efekty?
+
 menu_gameplay█Rozgrywka
 menu_autoSave█Auto zapis?
 menu_autoPause█Auto pauza?
+menu_alwaysDay█Zawsze Dzień?
+menu_hangarsVisual█Lepsze Hangary?
+
 menu_video█Wyświetlanie
 menu_fullscreen█Pełny ekran?
+menu_vsync█V-Sync?
+
 menu_audio█Dźwięk
 menu_music█Muzyka?
 menu_sounds█Dźwięki?
+
 menu_language█Język
+
+
+menu_creators█Twórcy
+menu_collaboration█Współpraca
+menu_specialThanks█Specjalne Podziękowania
+menu_icons█Ikony pochodzą z Flaticon.com
+
+
 
 

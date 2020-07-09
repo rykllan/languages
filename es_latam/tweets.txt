@@ -34,3 +34,5 @@ tweet_linklink_visible█Me pregunto si los puedes ver desde la tierra <color=#6
 tweet_linklink_failure█<color=#64B5F6>#linklink</color> Estamos haciendo nuestro mayor esfuerzo. Nuestros técnicos son los mejores del mundo <color=#64B5F6>#failure</color> {0}
 
 
+
+

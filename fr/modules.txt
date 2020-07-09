@@ -61,7 +61,7 @@ mdl_a_gridfins█Ailettes en grille en aluminium,nécessaires pour les fusées �
 mdl_t_gridfins█Ailettes en grille en titane,nécessaires pour les fusées à atterrissage automatique.
 mdl_m_landingLegs█Pieds d'atterrissage manuel,requis pour les fusées d'atterrissage manuel.
 mdl_a_landingLegs█Pieds d'atterrissage automatique,requis pour les fusées à atterrissage automatique.
-mdl_booster_connector█Connecteur de propulseurs,nécessaire pour les fusées à propulseur latéral. (Falcon Heavy Boi)
+mdl_booster_connector█Booster Connector,Required for sidebooster rockets. (Falcon Heavy Boi)
 
 
 ---Capsule Stuff---█--Modules de capsule---
@@ -87,5 +87,7 @@ mdl_stainlesssteel_structure█Corps en acier inoxydable,nécessaire pour les na
 mdl_cargoUtility█Cargo Utility,Cargo Spaceship Module
 mdl_crewUtility█Crew Utility,Crew Spaceship Module
 mdl_fuelUtility█Fuel Utility,Tanker Spaceship
+
+
 
 

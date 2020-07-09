@@ -4,6 +4,11 @@ rocket█Rakieta
 capsule█Kapsuła
 spaceship█Statek kosmiczny
 
+spaceships█Spaceships
+vehiclesDockedToISS█Docked Vehicles
+
+issHeaderText█International Space Station&%<size=14><b><color=#64B5F6>Operational
+
 rocketRequiresCapsule█Rakieta (Wymaga kapsuły)
 rocketRequiresSpaceship█Rakieta (Wymaga statku kosmicznego)
 
@@ -13,8 +18,8 @@ vehicles_newProjectButton█Nowy projekt
 vehicles_newVehicleHeader█Stwórz nowy pojazd
 vehicles_newVehicleButton█Nowy pojazd
 
-vehicles_projects█Projects
-vehicles_view█View
+vehicles_projects█Projekty
+vehicles_view█Szczegóły
 
 land█Wyląduj
 
@@ -32,6 +37,16 @@ built█Zbudowano
 launch█Wystrzel
 repair█Napraw
 turnExpendable█Przemień w jednorazową
+
+earthPO█Zaparkowany na orbicie <color=#64B5F6>Ziemskiej</color> (Opuszcza w <b>{0}</b>)
+marsPO█Zaparkowany na orbicie <color=#E17055>Marsjańskiej</color> (Opuszcza w <b>{0}</b>)
+marsTraveling█Podróżuje na <color=#E17055>Marsa</color> (Lądowanie w <b>{0}</b>)
+earthTraveling█Podróżuje na <color=#64B5F6>Ziemię</color> (Lądowanie w <b>{0}</b>)
+marsLanding█Ląduje na <color=#E17055>Marsie</color>
+earthLanding█Ląduje na <color=#64B5F6>Ziemi</color>
+marsLanded█Wylądował na <color=#E17055>Mars</color>
+
+readyToLaunch█<b><color=#64B5F6>{0} of {1}</b></color>&%<size=70%>are ready to launch!
 
 capabilities█Możliwości
 reliability█Niezawodność
@@ -59,6 +74,8 @@ fairingCatchingNotSupported█Odzyskiwanie owiewek niewspierane!&%Potrzebujesz:<
 payload█Ładunek
 crew█Załoga
 cargo█Towar
+
+launchAll█Wystrzel wszytkie
 
 launchSetup_header█Ustawienia lotu
 launchSetup_missionName█Nazwa misji...
@@ -120,8 +137,10 @@ creator_header█Nowy projekt
 creator_vehicleName█Nazwa projektu...
 creator_createProject█Stwórz projekt
 creator_vehicleCanGoAnywhere█Ten pojazd może lecieć wszędzie, gdzie tylko chcesz.
-creator_capsuleRocket█Ta rakieta może wynosić tylko kapsuły.
-creator_spaceshipRocket█Ta rakieta może wynosić tylko statki kosmiczne.
+creator_capsuleRocket█Ta rakieta może wystartować tylko kapsuły.
+creator_spaceshipRocket█Ta rakieta może wystartować tylko statki kosmiczne.
 no_module_unlocked█Żaden moduł nie jest odblokowany.
+
+
 
 

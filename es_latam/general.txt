@@ -7,7 +7,7 @@ confirm█¿Estás seguro?
 confirm_removeVehicle█¿Realmente quieres eliminar este vehículo?
 confirm_destroyBuilding█¿Realmente quieres destruir esta construcción?
 confirm_abortRocket█Do you really want to abort that rocket?
-confirm_turnExpendable█Do you really want to remove the landing gear? The rocket will burn in the atmosphere after the flight.
+confirm_turnExpendable█¿Realmente quieres remover el equipo de aterrizaje? El cohete se quemará en la atmosfera despues del vuelo.
 confirm_exitGame█Me abandonas, ¿eh? :(
 confirm_exitMainMenu█Other games would tell you here, that your unsaved progress will be lost.
 confirm_deleteSave█Quizá la próxima vez no caerás en bancarrota.
@@ -26,13 +26,44 @@ payload_size_medium█Mediano
 payload_size_large█Grande
 payload_size_veryLarge█Muy grande
 orbit_so█Suborbita
-orbit_leo█LEO
-orbit_meo█MEO
-orbit_geo█GEO
+orbit_leo█OTB
+orbit_meo█OTM
+orbit_geo█OTA
 orbit_iss█EEI
 
-map_settings_linklink_visible█LinkLink Visible
-map_settings_satellites_visible█Satellites Visible
-map_settings_linklink_outline█LinkLink Outline
+vehicle_cargo█Cargo
+vehicle_crew█Crew
+vehicle_tanker█Tanker
+
+map_settings_trackers_visible█Trackers Visible
+map_settings_satellites_visible█Satélites Visibles
+map_settings_linklink_outline█Linea de LinkLink
+
+earth█Earth
+mars█Mars
+
+tanking█Tanking...
+
+marsDetails█Mars Details
+earthLikePlanet█Earth-like Planet
+
+martians█Martians
+materials█Materials
+electricity█Electricity
+food█Food
+water█Water
+oxygen█Oxygen
+fuel█Fuel
+cybercars█Cybercars
+nuke█Nuke
+
+unitsToProduce█Units to Produce: {0}
+
+marsProductionHeader█<b>Production</b> <size=50%>/quarter</size>
+marsUsageHeader█<b>Usage</b> <size=50%>/quarter</size>
+marsStorageHeader█<b>Storage</b>
+
+
+
 
 

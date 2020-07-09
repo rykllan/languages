@@ -4,6 +4,11 @@ rocket█Fusée
 capsule█Capsule
 spaceship█Navette spatiale
 
+spaceships█Spaceships
+vehiclesDockedToISS█Docked Vehicles
+
+issHeaderText█International Space Station&%<size=14><b><color=#64B5F6>Operational
+
 rocketRequiresCapsule█Fusée (Requiert capsule)
 rocketRequiresSpaceship█Fusée (Requiert navette spatiale)
 
@@ -33,6 +38,16 @@ launch█Lancer
 repair█Réparer
 turnExpendable█Turn Expendable
 
+earthPO█Parked on <color=#64B5F6>Earth's</color> Parking Orbit (Leaving in <b>{0}</b>)
+marsPO█Parked on <color=#E17055>Mars'</color> Parking Orbit (Leaving in <b>{0}</b>)
+marsTraveling█Traveling to <color=#E17055>Mars</color> (Arriving in <b>{0}</b>)
+earthTraveling█Traveling to <color=#64B5F6>Earth</color> (Arriving in <b>{0}</b>)
+marsLanding█Landing on <color=#E17055>Mars</color>
+earthLanding█Landing on <color=#64B5F6>Earth</color>
+marsLanded█Landed on <color=#E17055>Mars</color>
+
+readyToLaunch█<b><color=#64B5F6>{0} of {1}</b></color>&%<size=70%>are ready to launch!
+
 capabilities█Capacités
 reliability█Fiabilité
 condition█Etat
@@ -59,6 +74,8 @@ fairingCatchingNotSupported█Récupération des coiffes impossible !&%Tu as bes
 payload█Charge utile
 crew█Equipage
 cargo█Cargaison
+
+launchAll█Launch All
 
 launchSetup_header█Préparation du lancement
 launchSetup_missionName█Titre de la mission...
@@ -120,8 +137,10 @@ creator_header█Nouveau projet
 creator_vehicleName█Nom du véhicule...
 creator_createProject█Créer projet
 creator_vehicleCanGoAnywhere█Ce véhicule peut aller partout où tu voudras.
-creator_capsuleRocket█Cette fusée ne peut ne peut porter que les capsules.
-creator_spaceshipRocket█Cette fusée ne peut porter que les navettes spatiales.
+creator_capsuleRocket█This rocket can only carry the capsules.
+creator_spaceshipRocket█This rocket can only carry the spaceships.
 no_module_unlocked█Aucun module n'est déverrouillé.
+
+
 
 

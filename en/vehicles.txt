@@ -4,6 +4,11 @@ rocket█Rocket
 capsule█Capsule
 spaceship█Spaceship
 
+spaceships█Spaceships
+vehiclesDockedToISS█Docked Vehicles
+
+issHeaderText█International Space Station&%<size=14><b><color=#64B5F6>Operational
+
 rocketRequiresCapsule█Rocket (Requires Capsule)
 rocketRequiresSpaceship█Rocket (Requires Spaceship)
 
@@ -33,6 +38,16 @@ launch█Launch
 repair█Repair
 turnExpendable█Turn Expendable
 
+earthPO█Parked on <color=#64B5F6>Earth's</color> Parking Orbit (Leaving in <b>{0}</b>)
+marsPO█Parked on <color=#E17055>Mars'</color> Parking Orbit (Leaving in <b>{0}</b>)
+marsTraveling█Traveling to <color=#E17055>Mars</color> (Arriving in <b>{0}</b>)
+earthTraveling█Traveling to <color=#64B5F6>Earth</color> (Arriving in <b>{0}</b>)
+marsLanding█Landing on <color=#E17055>Mars</color>
+earthLanding█Landing on <color=#64B5F6>Earth</color>
+marsLanded█Landed on <color=#E17055>Mars</color>
+
+readyToLaunch█<b><color=#64B5F6>{0} of {1}</b></color>&%<size=70%>are ready to launch!
+
 capabilities█Capabilities
 reliability█Reliability
 condition█Condition
@@ -59,6 +74,8 @@ fairingCatchingNotSupported█Fairing catching not supported!&%You need:<size=12
 payload█Payload
 crew█Crew
 cargo█Cargo
+
+launchAll█Launch All
 
 launchSetup_header█Launch Setup
 launchSetup_missionName█Mission name...
@@ -123,5 +140,7 @@ creator_vehicleCanGoAnywhere█This vehicle can go to any place you want.
 creator_capsuleRocket█This rocket can only carry the capsules.
 creator_spaceshipRocket█This rocket can only carry the spaceships.
 no_module_unlocked█No module is unlocked.
+
+
 
 

@@ -61,7 +61,7 @@ mdl_a_gridfins█Aletas de rejilla de aluminio, Requeridas para cohetes de aterr
 mdl_t_gridfins█Aletas de rejilla de titanio, Requeridas para cohetes de aterrizaje automático.
 mdl_m_landingLegs█Patas de aterrizaje manual, Requeridas para cohetes de aterrizaje manual. 
 mdl_a_landingLegs█Patas de aterrizaje automático, Requeridas para cohetes de aterrizaje automático.
-mdl_booster_connector█Conector de propulsores, Requerido para cohetes de propulsión lateral. (Falcon Heavy Boi)
+mdl_booster_connector█Booster Connector,Required for sidebooster rockets. (Falcon Heavy Boi)
 
 
 ---Capsule Stuff---█---Material para cápsulas---
@@ -87,5 +87,7 @@ mdl_stainlesssteel_structure█Cuerpo de acero inoxidable, Requerido para naves 
 mdl_cargoUtility█Cargo Utility,Cargo Spaceship Module
 mdl_crewUtility█Crew Utility,Crew Spaceship Module
 mdl_fuelUtility█Fuel Utility,Tanker Spaceship
+
+
 
 
