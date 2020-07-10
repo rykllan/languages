@@ -16,7 +16,7 @@ iss_catContent█Mi gato, Balwina, esta en muy mal estado... Y yo tengo que qued
 iss_technicianHeader█Emergencia en la EEI
 iss_technicianContent█Buenas tardes, &%&%Actualmente hay 4 astronautas en la Espación Espacíal Internacionál. Sus vidas estan en peligro debido a una fuga mediana en uno de los modulos. &%&%Sabemos que tu compañia no tiene capsulas de tripulacion, por eso tendras que usar una capsula de carga. &%&%Porfavor hazlo tan rapido como puedas Y no hables con la prensa sobre el vuelo. Nadie puede saber que mandaremos una persona en una cápsula de carga! &%&%Gracias por la coperación, seras remunerado cuando la misión termine.
 
-iss_vehicleAboutToReturn█{0} is about to return to the Earth!
+iss_vehicleAboutToReturn█¡{0} está por regresar a la Tierra!
 
 teslaRoadsterHeader█Misión del Tesla Roadster
 teslaRoadsterContent█Lanza un auto al espacio porque pues...¿por qué no?
