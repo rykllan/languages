@@ -18,7 +18,7 @@ hats█Sombreros
 bricks█Ladrillos
 not_a_flamethrowers█<color=#E74C3C><size=10>No es un</size></color>&%Lanzallamas
 rocketquillas█Cohetequillas
-shorts█Short Shorts
+shorts█Shorts Cortos
 use█Usar
 
 company_progressHeader█Progreso de la empresa
@@ -54,7 +54,7 @@ company_balance█Balance
 company_launches█Lanzamiento
 company_construction█Construción
 company_employees█Empleados
-company_others█Otross
+company_others█Otros
 company_lossPerYear█Promedio <mark=#E74C3C25>loss</mark> por año
 company_profitPerYear█Promedio <mark=#E74C3C25>loss</mark> por año
 
