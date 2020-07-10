@@ -58,26 +58,25 @@ payload_tesla█Tesla Roadster
 contract_potato█Carga Papa
 payload_potato█Papa Orbital
 
-contract_balwina█meow... Meow... MEOW!!!
+contract_balwina█meow... Meow... ¡¡¡MEOW!!!
 
 contract_technician█Emergencia
 payload_technician█Técnico
 
-payload_flatEarther█Murphy (Flatearther)
+payload_flatEarther█Murphy (Terraplanista)
 
-contract_marsCamera█Mars Journey
-payload_marsCamera█Mars Camera
-content_marsCamera█Launch Mars Camera with your Heavy Rocket to Mars Orbit. You will then be able to see and interact with Mars!
+contract_marsCamera█Viaje a Marte
+payload_marsCamera█Cámara a Marte
+content_marsCamera█Lanza la cámara de Marte con tu cohete pesado to a la órbita marciana.¡Así podras ver e interactuar con Marte!
 
 
-contract_spate█SPATE: Prologue EP
-payload_spate█Prologue EP
-content_spate█A young music producer from Finland is releasing a new album with space songs. As part of his marketing campaign, he would like to send a physical copy of his album with the next ISS supply transport.
+contract_spate█SPATE: Prólogo extendido
+payload_spate█Prólogo extendido
+content_spate█Un joven productor musical de Finlandia esta sacando un nuevo album musical con canciones espaciales. Como parte de su campaña de marketing, le gustaría mandar un copia fisica de su album con el siguiente trasnporte de suministros a la EEI.
 
-contract_matt█Rescue Matt
-payload_matt█Matt Rescue Mission
-content_matt█There's a new offer from NASA. The purpose of the mission is to send a spaceship to Mars to return Matt to Earth.
-
+contract_matt█Rescata a Matt
+payload_matt█Misión de rescate de Matt
+content_matt█Hay una nueva oferta de la NASA. EL proposito de la misión es mandar una nave espacial a Marte para regresar a Matt a la Tierra.
 
 
 
