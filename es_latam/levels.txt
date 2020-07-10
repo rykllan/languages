@@ -39,7 +39,7 @@ progress_launchSmallRockets█Lanza {0} cohete(s) pequeño(s)
 progress_launchMediumRockets█Lanza {0} cohete(s) mediano(s)
 progress_launchLargeRockets█Lanza {0} cohete(s) grande(s)
 progress_launchSuperheavyRockets█Lanza {0} cohete(s) superpesado(s)
-progress_launchToMars█Launch {0} spaceship(s) to Mars
+progress_launchToMars█Lanza {0} nave(s) espacial(es) a Marte
 progress_launchCargoCapsules█Lanza {0} capsula(s) de cargamento
 progress_launchCrewCapsules█Lanza {0} capsula(s) de tripulación
 
@@ -69,7 +69,7 @@ progress_buildSteelFactories█¡Construye {0} fábrica(s) de acero!
 progress_buildLandingZones█¡Construye {0} zona(s) de aterrizaje!
 
 progress_getContracts█Obten {0} contrato(s)
-progress_launchLinkLinks█¡LanzaLinkLinks: {0}
+progress_launchLinkLinks█¡Lanza LinkLinks: {0}
 progress_reachLinkLinkUsers█Usuarios de LinkLink: {0}
 progress_hireEmployees█Contrata empleados: {0}
 progress_martiansCount█Ten {0} personas en Marte
