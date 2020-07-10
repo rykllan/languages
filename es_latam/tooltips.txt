@@ -2,7 +2,7 @@
 
 tooltip_companyProgress█Progreso de la empresa.
 tooltip_vehicles█Vehículos
-tooltip_contracts█Missions
+tooltip_contracts█Misiones
 tooltip_news█Noticias
 tooltip_company█Empresa
 tooltip_buildMode█Modo de construcción
