@@ -6,10 +6,10 @@ gameLoaded█La partida ha sido cargada. ¡Diviértete!
 confirm█¿Estás seguro?
 confirm_removeVehicle█¿Realmente quieres eliminar este vehículo?
 confirm_destroyBuilding█¿Realmente quieres destruir esta construcción?
-confirm_abortRocket█Do you really want to abort that rocket?
+confirm_abortRocket█¿Realmente quiere abortar este cohete?
 confirm_turnExpendable█¿Realmente quieres remover el equipo de aterrizaje? El cohete se quemará en la atmosfera despues del vuelo.
 confirm_exitGame█Me abandonas, ¿eh? :(
-confirm_exitMainMenu█Other games would tell you here, that your unsaved progress will be lost.
+confirm_exitMainMenu█Otros juegos te dirían aqui, que tu progreso sin guardar se perdera.
 confirm_deleteSave█Quizá la próxima vez no caerás en bancarrota.
 
 yes█Si
@@ -25,48 +25,48 @@ payload_size_small█Pequeño
 payload_size_medium█Mediano
 payload_size_large█Grande
 payload_size_veryLarge█Muy grande
-orbit_so█Suborbita
+orbit_so█Subórbita
 orbit_leo█OTB
 orbit_meo█OTM
 orbit_geo█OTA
 orbit_iss█EEI
-orbit_marsOrbit█Mars Orbit
-orbit_marsSurface█Mars Surface
+orbit_marsOrbit█Órbita Marciana
+orbit_marsSurface█Superficie Marciana
 
-vehicle_cargo█Cargo
-vehicle_crew█Crew
-vehicle_tanker█Tanker
+vehicle_cargo█Cargamento
+vehicle_crew█Tripulación
+vehicle_tanker█Tanquero
 
-map_settings_header█Quick Settings
-map_settings_trackers_visible█Trackers Visible
+map_settings_header█Ajustes Rápidos
+map_settings_trackers_visible█Rastreadores Visibles
 map_settings_satellites_visible█Satélites Visibles
 map_settings_linklink_outline█Linea de LinkLink
 
-earth█Earth
-mars█Mars
+earth█Tierra
+mars█Marte
 
-switchPlanet█Switch Planet
+switchPlanet█Cambiar Planeta
 
-tanking█Tanking...
+tanking█Llenando...
 
-marsDetails█Mars Details
-earthLikePlanet█Earth-like Planet
+marsDetails█Detalles de Marte
+earthLikePlanet█Planeta similar a la Tierra
 
-martians█Martians
-materials█Materials
-electricity█Electricity
-food█Food
-water█Water
-oxygen█Oxygen
-fuel█Fuel
-cybercars█Cybercars
-nuke█Nuke
+martians█Marciano
+materials█Materiales
+electricity█Electricidad
+food█Comida
+water█Agua
+oxygen█Oxígeno
+fuel█Combustible
+cybercars█Cibercarros
+nuke█Bomba Nuclear
 
-unitsToProduce█Units to Produce: {0}
+unitsToProduce█Unidades a producir: {0}
 
-marsProductionHeader█<b>Production</b> <size=50%>/quarter</size>
-marsUsageHeader█<b>Usage</b> <size=50%>/quarter</size>
-marsStorageHeader█<b>Storage</b>
+marsProductionHeader█<b>Producción</b> <size=50%>/cuatrimestre</size>
+marsUsageHeader█<b>Uso</b> <size=50%>/cuatrimestre</size>
+marsStorageHeader█<b>Almacenamiento</b>
 
 
 
