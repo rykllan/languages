@@ -19,7 +19,7 @@ tweet_deploy_5█Estamos en vivo para presenciar el despliegue del satélite→ 
 
 tweet_land_1█¡{0} ha aterrizado! 
 tweet_land_2█¡{0} ha aterrizado! ¡Es nuestro {1} aterrizaje! <color=#64B5F6>#earthx</color>
-tweet_land_3█¡{0} primera etapa ha aterrizado! La grabación completa mañana. <color=#64B5F6>#earthx</color>
+tweet_land_3█¡{0} la primera etapa ha aterrizado! La grabación completa mañana. <color=#64B5F6>#earthx</color>
 
 
 tweet_crash_1█Bueno, eso fue inesperado. {0} <color=#64B5F6>#earthx</color>
