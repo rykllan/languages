@@ -7,7 +7,7 @@ spaceship█Nave Espacial
 spaceships█Naves Espaciales
 vehiclesDockedToISS█Vehículo Estacionado
 
-readyToLeave█Ready
+readyToLeave█Listo
 
 issHeaderText█Estación Espacial Internacional &%<size=14><b><color=#64B5F6>Operativa
 
@@ -68,7 +68,7 @@ spaceshipsOnly█Naves espaciales únicamente
 capsulesOnly█Cápsulas únicamente
 fairingRecovery█Recuperación de carenado
 
-landingNotSupported█¡Aterrizaje no permitido!&%Necesitas:<size=12><b>&%-Aletas laterales y Piernas de aterrizaje &%-Bateria&%-GPS (para reusabiliad automática)&%-4 o 9 Propulsores Avanzados</b></size>&%
+landingNotSupported█¡Aterrizaje no permitido!&%Necesitas:<size=12><b>&%-Aletas de rejilla y Piernas de aterrizaje &%-Bateria&%-GPS (para reusabiliad automática)&%-4 o 9 Propulsores Avanzados</b></size>&%
 capsulesNotSupported█¡Cápsulas no permitidas!&%Necesitas:<size=12><b>&%-Batería&%-GPS&%-4 o 9 Propulsores Avanzados</b></size>&%
 heavyNotSupported█¡Cohete Pesado no permitido!&%Necesitas:<size=12><b>&%-Cohete con reusabiliad automática</b></size>&%
 fairingCatchingNotSupported█¡Recuperación de Carenado no permitida!&%Necesitas:<size=12><b>&%-Cohete con reusabiliad automática</b></size>&%
@@ -86,7 +86,7 @@ launchSetup_noVehiclesFound█[No se encontraron vehículos.]
 launchSetup_noPayloadsFound█[No se encontraron cargas capaces.]
 launchSetup_selectVehicle█Seleccionar vehículo
 launchSetup_selectLaunchPad█Seleccionar plataforma de lanzamiento
-launchSetup_selectTanker█Orbital Tanker
+launchSetup_selectTanker█Tanquero Orbital
 
 launchSetup_barge█Barcaza 
 launchSetup_lz1█LZ-1
