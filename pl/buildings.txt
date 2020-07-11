@@ -19,7 +19,7 @@ buildingSetup_overview█Podgląd
 buildingSetup_setup█Ustawienia
 buildingSetup_modules█Moduły
 buildingSetup_other█Inne
-buildingSetup_billsCurrentQuarter█Rachunki za aktualny kwartał
+buildingSetup_billsCurrentQuarter█Rachunki za bieżący kwartał
 
 buildingSetup_nowWorkingOn█Teraz pracuje nad
 buildingSetup_queue█Kolejka
@@ -27,7 +27,7 @@ buildingSetup_queue█Kolejka
 buildingSetup_produce█Produkuj
 
 returnToEarth█Wróć na Ziemię
-returnToEarthShort█Return
+returnToEarthShort█Powrót
 
 buildingSetup_negotiationPowerEachEmployee█Siła negocjacji za 1 pracownika
 buildingSetup_negotiationPowerBuilding█Ogólna siła negocjacji budynku
@@ -87,10 +87,10 @@ smallHotel█Mały Hotel
 smallHotel_desc█Marsjanie mieszkają w Hotelach.
 
 mediumHotel█Średni Hotel
-mediumHotel_desc█Więcej Marsjanów mieszka w Hotelach.
+mediumHotel_desc█Więcej Marsjan mieszka w Hotelach.
 
 largeHotel█Duży Hotel
-largeHotel_desc█Bardzo dużo Marsjanów mieszka w Hotelach.
+largeHotel_desc█Bardzo dużo Marsjan mieszka w Hotelach.
 
 waterFactory█Fabryka Wody
 waterFactory_desc█Produkuje Wodę i Tlen.

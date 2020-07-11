@@ -30,7 +30,7 @@ tweet_crash_4█Nasz zespół znalazł już błąd. To było coś z silnikiem. N
 
 tweet_linklink_first█Wysyłam tego tweeta przez kosmos w systemie LinkLink
 tweet_linklink_worked█Woah, to działa!!
-tweet_linklink_visible█Zastanawiam się, czy widać je z ziemi <color=#64B5F6>#linklink</color> <color=#64B5F6>#internet</color>
+tweet_linklink_visible█Zastanawiam się, czy widać je z Ziemi <color=#64B5F6>#linklink</color> <color=#64B5F6>#internet</color>
 tweet_linklink_failure█<color=#64B5F6>#linklink</color> Staramy się jak możemy. Nasi technicy są najlepsi na świecie! <color=#64B5F6>#wielki_błąd</color> {0}
 
 
