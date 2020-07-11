@@ -67,7 +67,7 @@ payload_flatEarther█Murphy (Flatearther)
 
 contract_marsCamera█Mars Journey
 payload_marsCamera█Mars Camera
-content_marsCamera█Launch Mars Camera with your Heavy Rocket to Mars Orbit. You will then be able to see and interact with Mars!
+content_marsCamera█Launch Mars Camera with your Heavy Rocket to Mars Orbit. You will then be able to see Mars!
 
 
 contract_spate█SPATE: Prologue EP

@@ -213,12 +213,12 @@ opportunity2019Q1_content█15 years - that's how long the mission of Opportunit
 
 
 matt_entry_header█Tragedy on Mars - astronaut Matt is dead
-matt_entry_content█A huge sandstorm on Mars took a deadly toll. NASA's team, which has been stationed on Mars for several days, was forced to return to Earth. &%&%Unfortunately, the team is coming back in a reduced formation - while escaping to the space shuttle, which is to ensure safe return to our blue planet, one of the astronauts remained at the base. As we managed to find out from NASA representatives, the reason was to be a problem with the suit. &%&%The base was probably destroyed by a raging storm - there is no contact with Matt.
+matt_entry_content█A huge sandstorm on Mars took a deadly toll. NASA team, which has been stationed on Mars for several days, was forced to return to Earth. &%&%Unfortunately, the team is coming back in a reduced staff - while escaping to the space shuttle, which is to ensure safe return to our blue planet, one of the astronauts is still at the base. As we managed to find out from NASA representatives, the reason was to be a problem with the suit. &%&%The base was probably destroyed by a raging storm - there is no contact with Matt.
 
 matt_expansion_header█NASA is sharing the good news. We managed to get in touch with Matt who stayed on Mars - the astronaut is alive!
-matt_expansion_content█At NASA's press conference, the CEO shared good news with journalists. The astronaut remained in contact with the rest of the destroyed Martian base. &%&%NASA is currently preparing a rescue mission plan. As we have unofficially learned, the only technology that allows a rapid deployment of a rescue mission has {0}.
+matt_expansion_content█At NASA's press conference, the CEO shared good news with journalists. They managed to contact the astronaut who stayed in the destroyed Martian base. &%&%NASA is currently preparing a rescue mission plan. As we have unofficially learned, the only technology that allows a rapid deployment of a rescue mission has {0}.
 
-matt_accept_header█NASA's joint rescue mission together with {1}. 
+matt_accept_header█NASA joint rescue mission together with {1}. 
 matt_accept_content█Both companies announced today that they are beginning work on rescuing the remaining astronaut on Mars. &%&%{0} will send one of their rockets to the red planet to bring Matt safely to Earth. &%&%The flight is due to take place in a few days.
 
 matt_decline_header█NASA has its hands tied. {0} will not send a rescue mission to Mars.
