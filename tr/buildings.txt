@@ -10,24 +10,24 @@ building_advancedLP█Gelişmiş Fırlatma Rampası
 building_megaLP█Mega Fırlatma Rampası
 
 building_category_all█Hepsi
-building_category_production█Production
-building_category_storage█Storage
-building_category_other█Other
+building_category_production█Üretim
+building_category_storage█Depo
+building_category_other█Diğer
 
 buildingSetup_buildingName█Yapı Adı...
 buildingSetup_overview█Genel bakış
 buildingSetup_setup█Kurulum
-buildingSetup_modules█Modules
-buildingSetup_other█Other
+buildingSetup_modules█Modüller
+buildingSetup_other█Diğer
 buildingSetup_billsCurrentQuarter█Cari dönem faturaları
 
 buildingSetup_nowWorkingOn█Şimdi üzerinde çalışıyor
 buildingSetup_queue█Kuyruk
 
-buildingSetup_produce█Produce
+buildingSetup_produce█Üretim
 
-returnToEarth█Return to Earth
-returnToEarthShort█Return
+returnToEarth█Dünya'ya dön
+returnToEarthShort█Dön
 
 buildingSetup_negotiationPowerEachEmployee█Her çalışan için müzakere gücü
 buildingSetup_negotiationPowerBuilding█Yapı müzakere gücü
@@ -74,62 +74,62 @@ laboratory_desc█Beceri puanı üretir.
 megaLP█Mega Fırlatma Rampası
 megaLP_desc█Uzay gemilerini fırlatabilirsiniz.
 
-smallTerminal█LinkLink Small Terminal
-smallTerminal_desc█Terminals are connecting people on Earth with LinkLinks. More terminals == more users capacity.
+smallTerminal█LinkLink Küçük Terminal
+smallTerminal_desc█Terminaller, Dünya üzerindeki insanları LinkLinks ile birbirine bağlar. Daha fazla terminal == daha fazla kullanıcı kapasitesi.
 
-largeTerminal█LinkLink Large Terminal
-largeTerminal_desc█Terminals are connecting people on Earth with LinkLinks. More terminals == more users capacity.
+largeTerminal█LinkLink Büyük Terminal
+largeTerminal_desc█Terminaller, Dünya üzerindeki insanları LinkLinks ile birbirine bağlar. Daha fazla terminal == daha fazla kullanıcı kapasitesi.
 
-landingZone█Landing Zone
-landingZone_desc█Do I really need to describe it?
+landingZone█İniş bölgesi
+landingZone_desc█Gerçekten tarif etmem gerekiyor mu?
 
-smallHotel█Small Hotel
-smallHotel_desc█Martians are living in places like this.
+smallHotel█Küçük Otel
+smallHotel_desc█Marslılar böyle yerlerde yaşıyorlar.
 
-mediumHotel█Medium Hotel
-mediumHotel_desc█More Martians are living in places like this.
+mediumHotel█Orta Otel
+mediumHotel_desc█Daha fazla Marslı böyle yerlerde yaşıyor.
 
-largeHotel█Large Hotel
-largeHotel_desc█A lot of Martians are living in places like this.
+largeHotel█Büyük Otel
+largeHotel_desc█Birçok Marslı böyle yerlerde yaşıyor.
 
-waterFactory█Water Factory
-waterFactory_desc█Produces Water and Oxygen.
+waterFactory█Su Fabrikası
+waterFactory_desc█Su ve Oksijen Üretir.
 
-fuelFactory█Fuel Factory
-fuelFactory_desc█Produces Fuel.
+fuelFactory█Akaryakıt Fabrikası
+fuelFactory_desc█Yakıt Üretir.
 
-steelFactory█Steel Factory
-steelFactory_desc█Produces Materials and Cybercars.
+steelFactory█Çelik fabrikası
+steelFactory_desc█Malzeme ve Siber Otomobil Üretir.
 
-mediumGreenhouse█Medium Greenhouse
-mediumGreenhouse_desc█Produces Food and Oxygen.
+mediumGreenhouse█Orta Sera
+mediumGreenhouse_desc█Gıda ve Oksijen Üretir.
 
-largeGreenhouse█Large Greenhouse
-largeGreenhouse_desc█Produces more Food and Oxygen.
+largeGreenhouse█Büyük Sera
+largeGreenhouse_desc█Daha fazla Gıda ve Oksijen üretir.
 
-smallSolar█Small Solar
-smallSolar_desc█Produces Electricity.
+smallSolar█Küçük Solar
+smallSolar_desc█Elektrik Üretir.
 
-mediumSolar█Medium Solar
-mediumSolar_desc█Produces more Electricity.
+mediumSolar█Orta Solar
+mediumSolar_desc█Daha fazla Elektrik üretir.
 
-smallWaterStorage█Small Water Storage
-smallWaterStorage_desc█Stores Water and Oxygen.
+smallWaterStorage█Küçük Su Deposu
+smallWaterStorage_desc█Su ve Oksijen depolar.
 
-mediumWaterStorage█Medium Water Storage
-mediumWaterStorage_desc█Stores more Water and Oxygen.
+mediumWaterStorage█Orta Su Deposu
+mediumWaterStorage_desc█Daha fazla Su ve Oksijen depolar.
 
-largeWaterStorage█Large Water Storage
-largeWaterStorage_desc█Stores a lot of Water and Oxygen.
+largeWaterStorage█Büyük Su Deposu
+largeWaterStorage_desc█Çok daha fazla Su ve Oksijen depolar.
 
-smallFuelStorage█Small Fuel Storage
-smallFuelStorage_desc█Stores Fuel.
+smallFuelStorage█Küçük Yakıt Deposu
+smallFuelStorage_desc█Yakıt depolar.
 
-mediumFuelStorage█Medium Fuel Storage
-mediumFuelStorage_desc█Stores more Fuel.
+mediumFuelStorage█Orta Yakıt Deposu
+mediumFuelStorage_desc█Daha fazla yakıt depolar.
 
-largeFuelStorage█Large Fuel Storage
-largeFuelStorage_desc█Stores a lot of Fuel.
+largeFuelStorage█Büyük Yakıt Deposu
+largeFuelStorage_desc█Çok daha fazla yakıt depolar.
 
 lp_cape█Cape Canaveral
 lp_vandenberg█Vandenberg
