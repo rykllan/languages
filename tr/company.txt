@@ -18,7 +18,7 @@ hats█Şapkalar
 bricks█Tuğlalar
 not_a_flamethrowers█<color=#E74C3C><size=10>Gördünüğü gibi değil</size></color>&%Alevsilahı
 rocketquillas█Rocketquillas
-shorts█Short Shorts
+shorts█Kısa Şortlar
 use█Kullan
 
 company_progressHeader█Şirket ilerlemesi
