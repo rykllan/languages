@@ -30,43 +30,43 @@ orbit_leo█LEO
 orbit_meo█MEO
 orbit_geo█GEO
 orbit_iss█ISS
-orbit_marsOrbit█Mars Orbit
-orbit_marsSurface█Mars Surface
+orbit_marsOrbit█Mars Yörüngesi
+orbit_marsSurface█Mars Yüzeyi
 
-vehicle_cargo█Cargo
-vehicle_crew█Crew
+vehicle_cargo█Kargo
+vehicle_crew█Ekip
 vehicle_tanker█Tanker
 
-map_settings_header█Quick Settings
-map_settings_trackers_visible█Trackers Visible
+map_settings_header█Hızlı Ayarlar
+map_settings_trackers_visible█İzleyici Görünür
 map_settings_satellites_visible█Uydular Görünür
 map_settings_linklink_outline█LinkLink Anahatları
 
-earth█Earth
+earth█Dünya
 mars█Mars
 
-switchPlanet█Switch Planet
+switchPlanet█Gezegeni Değiştir
 
-tanking█Tanking...
+tanking█Depolanıyor...
 
-marsDetails█Mars Details
-earthLikePlanet█Earth-like Planet
+marsDetails█Mars Ayrıntıları
+earthLikePlanet█Dünya benzeri Gezegen
 
-martians█Martians
-materials█Materials
-electricity█Electricity
-food█Food
-water█Water
-oxygen█Oxygen
-fuel█Fuel
-cybercars█Cybercars
-nuke█Nuke
+martians█Marslılar
+materials█Malzemeler
+electricity█Elektrik
+food█Gıda
+water█Su
+oxygen█Oksijen
+fuel█Yakıt
+cybercars█Siber Arabalar
+nuke█Nükleer Silah
 
-unitsToProduce█Units to Produce: {0}
+unitsToProduce█Üretilecek Birimler: {0}
 
-marsProductionHeader█<b>Production</b> <size=50%>/quarter</size>
-marsUsageHeader█<b>Usage</b> <size=50%>/quarter</size>
-marsStorageHeader█<b>Storage</b>
+marsProductionHeader█<b>Üretim</b> <size=50%>/çeyrek</size>
+marsUsageHeader█<b>Kullanım</b> <size=50%>/çeyrek</size>
+marsStorageHeader█<b>Depo</b>
 
 
 
