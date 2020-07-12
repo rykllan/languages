@@ -75,7 +75,7 @@ mdl_a_escape_engines█Fortschrittliche Notfalltriebwerke,Erforderlich für Besa
 mdl_s_escape_engines█Einfache Rettungstriebwerke,Erforderlich für Besatzungskapseln.
 mdl_a_parachutes█Fortgeschrittene Fallschirme,Erforderlich für Besatzungskapseln.
 mdl_s_parachutes█Einfache Fallschirme,Erforderlich für Frachtkapseln.
-mdl_camera█Kamera,Kamera ermöglicht dir zu sehen was die Raketen sehen (Webcast). Fügen Sie dieses Modul hinzu und fokussiere deine Kamera auf den Raketenstart.
+mdl_camera█Kamera,Kamera ermöglicht dir zu sehen was die Raketen sehen (Webcast).
 mdl_s_altitude(capsule)█Höhensensor,Erforderlich für Besatzungskapseln.
 mdl_s_altitude(rocket)█Höhensensor,Dieser Sensor liefert mehr Telemetriedaten zum Start. Sieh wie schnell deine Rakete ist!
 mdl_s_heat█Wärmesensor,Erforderlich für Besatzungskapseln.
