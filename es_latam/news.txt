@@ -63,7 +63,7 @@ news_fail_header2█Un cohete se convirtió en una enorme bola de fuego. {0} exa
 news_fail_header3█{0} está en problemas. La explosión de su cohete despertó a los residentes de la ciudad cercana.
 news_fail_header4█Ese cohete ya no existe. El cohete perteneciente a {0} se quemó en la atmósfera.
 news_fail_header5█{1}: "Pensamos que esta vez funcionaría. Un cohete en llamas no es lo que queríamos ver hoy. 
-news_fail_header6█"We'll be loud!" The words of the CEO of {0} have just come true. Their rockets explode like crazy.
+news_fail_header6█"¡Seremos ruidosos!" Las palabras del CEO de {0} se hicieron realidad. Sus cohetes explotan como locos.
 news_fail_header7█¡{1} aterroriza el cielo! Sucesivas explosiones de cohetes amenazan el flujo financiero de {0}.
 news_fail_header8█{0}: La poderosa explosión de nuestro cohete amenaza la posición de la compañía. ¿{1} con un pie afuera?
 
@@ -124,11 +124,11 @@ news_yearsummary_beforeRes_content█Este año, al igual que los demás, hubo mu
 
 
 
-news_FundraisingHats_header█{1} has sold 20,000 hats with the {0} logo. The perfect way to finance space business?
-news_FundraisingHats_content█{1} is amazing. Crazy, but still amazing. {0}'s CEO was told by the management to add some cash to the company's budget in the sharpest possible way. A normal CEO would probably lay off a few employees to reduce the cost of hiring. &%&%{1} sold... hats. And quite a lot of them, almost 20,000. Is this the last such an unusual act by {1}?
+news_FundraisingHats_header█{1} ha vendido 20,000 gorras con el logo de {0}. ¿La manera perfecta de financiar un negocio espacil?
+news_FundraisingHats_content█{1} es increible. Loco, pero increible. El CEO de {0} fue avisado por la gerencia a añadir algo de dinero al presupuesto de la compañia en la manera mas precisa posible. Un CEO normal probablemente despediría algunos empleados para reducir el costo de la matrícula. &%&%{1} vendió... gorras. Un muchas de ellas, casi 20,000. ¿Sera este el último acto inusual de {1}?
 
-news_FundraisingBricks_header█"Hey, get a Brick!" - a surprising campaign of {0}.
-news_FundraisingBricks_content█{1} did it again. Exactly. After this one we know that {0} is in very good hands, and bankruptcy is unlikely to happen. &%&%{1} this time decided to sell several thousand bricks to improve the financial flow of the company. An additional advantage is that the bricks are almost half the price of rival products. They are also ECO friendly. From the first reports of the company we know that the bricks sell very good.
+news_FundraisingBricks_header█"¡Oye, ten un ladrillo!" - una sorpresiva campaña de {0}.
+news_FundraisingBricks_content█{1} lo hizo de nuevo. Exacto. Despues de esto sabemos que {0} esta en muy buenas manos, y la bancarrota es poco probable. &%&%{1} this time decided to sell several thousand bricks to improve the financial flow of the company. An additional advantage is that the bricks are almost half the price of rival products. They are also ECO friendly. From the first reports of the company we know that the bricks sell very good.
 
 news_FundraisingNotFlamethrowers_header█The shipping companies have said that...
 news_FundraisingNotFlamethrowers_content█... they will not transport anything that has "Flamethrower" in its name. What did {1} do? Of course he changed their name to "Not a Flamethrower". &%&%{1} has come up with another idea to make a few extra dollars. This time he made a huge lighter, sold in over 20,000 items! First rumors say he made over 30 million in cash. I have a feeling that {0} is not afraid to go bankrupt anymore.
@@ -174,7 +174,7 @@ news_iss_2011q1_content█Today at 2:50 p.m., the Leonardo module (PMM) that is 
 
 
 
-news_flat_earth_contract_name█The Truth
+news_flat_earth_contract_name█La Verdad
 news_flat_earth_contract_desc█Good morning,&%&%My name is Murphy. I'm the president of the American Flat Earth Society. We want to disprove once and for all the myth about round Earth. I'm interested in flying into space, making movies and taking pictures.&%&%Can you accept this offer?
 
 news_flat_earth_accepted_header█The flatearthers are flying into space - they want to prove to everyone that our planet is flat.
