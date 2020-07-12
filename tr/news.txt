@@ -174,62 +174,62 @@ news_iss_2011q1_content█Bugün saat 14: 50'de, ISS'ye yerleştirilen Keşif se
 
 
 
-news_flat_earth_contract_name█The Truth
-news_flat_earth_contract_desc█Good morning,&%&%My name is Murphy. I'm the president of the American Flat Earth Society. We want to disprove once and for all the myth about round Earth. I'm interested in flying into space, making movies and taking pictures.&%&%Can you accept this offer?
+news_flat_earth_contract_name█Hakikat
+news_flat_earth_contract_desc█Günaydın,&%&%Benim Adım Murphy. Amerikan düz Dünya Derneği'nin başkanıyım. Yuvarlak Dünya hakkındaki efsaneyi bir kez ve herkes için çürütmek istiyoruz. Bu yüzden uzaya uçmak, film çekmek ve fotoğraf çekmek istiyorum.&%&%Bu teklifi kabul eder misin?
 
-news_flat_earth_accepted_header█The flatearthers are flying into space - they want to prove to everyone that our planet is flat.
-news_flat_earth_accepted_content█At today's press conference, Murphy announced that he was successful in collecting the money for his space flight.&%&%Murphy bought his space ticket from the {0} - the flight will take place within the next year.
+news_flat_earth_accepted_header█Düz dünya savunucuları uzaya uçuyorlar-gezegenimizin düz olduğunu herkese kanıtlamak istiyorlar.
+news_flat_earth_accepted_content█Bugünkü basın toplantısında, Murphy uzay uçuşu için para toplamayı başardığını açıkladı.&%&%Murphy uçak biletini {0} 'dan satın aldı - uçuş gelecek yıl içinde gerçekleşecek.
 
-news_flat_earth_declined_header█{0} accused of hiding the truth. He refused the space flight to the president of the Flat Earth Society.
-news_flat_earth_declined_content█"{0} has received a great offer from us. He didn't take it - so we can be sure what he's hiding from us." - this is how Murphy, president of the American Society of the Flat Earth, commented on the whole situation. &%&%Flights into space not for everyone? The CEO of {0} has not commented on the situation.
+news_flat_earth_declined_header█{0} gerçeği saklamakla suçlandı. Düz Dünya Derneği Başkanı için yapılan uzay uçuşunu reddetti.
+news_flat_earth_declined_content█"{0} bizden büyük bir teklif aldı. Kabul etmedi - böylece bizden ne sakladığını biliyoruz." - Amerikan Düz Dünya Derneği başkanı Murphy tüm bu gelişmeler hakkında böyle yorum yaptı. &%&%Uzaya uçuşlar herkes için değil mi? {0} CEO'su durum hakkında yorum yapmadı.
 
-news_flat_earth_ready_header█Space training completed. Murphy will see if the Earth is flat.
-news_flat_earth_ready_content█The CEO of the space company {0} confirmed today that the President of the Flat Earth Society is ready to fly.&%&%Will we all finally know the truth?
+news_flat_earth_ready_header█Uzay eğitimi tamamlandı. Murphy Dünya'nın düz olup olmadığını görecek.
+news_flat_earth_ready_content█Uzay şirketinin {0} CEO'su bugün Düz Dünya Derneği Başkanı'nın uçmaya hazır olduğunu doğruladı.&%&%Sonunda hepimiz gerçeği öğrenecek miyiz?
 
-news_flat_earth_success_header█{0} mission with Murphy aboard successful! What did he see from the capsule?
-news_flat_earth_success_content█The tourist mission with the president of the Flat Earth Society was successful. After a several days in space, Murphy did not want to answer the journalists' questions. Looking sad, Murphy immediately went to the hotel.&%&%He does not answer the phone.
+news_flat_earth_success_header█{0} ile Murphy görevini başarıyla tamamladı! Kapsüldeyken neler gördü?
+news_flat_earth_success_content█Düz Dünya Derneği başkanı ile yapılan turizm misyonu başarılı oldu. Uzayda birkaç gün sonra, Murphy gazetecilerin sorularını cevaplamak istemedi. Üzülmüş görünen Murphy hemen otele döndü.&%&%Telefonlara da cevap vermiyor.
 
-news_flat_earth_afterSuccess_header█Murphy publicly apologizes.
-news_flat_earth_afterSuccess_content█"I saw it with my own eyes! She's not flat. She's like a ball, you understand that? Up there, looking at our planet... ...I realized I've been fooled all my life. And I've been cheating on others. I'm sorry." - said the former president of the Flat Earth Society in a video published on his new YouTube channel.&%&%Mira, the newly elected president said Murphy was lying, or was cheated by {1}. "What if the capsule had monitors instead of windows and displayed a picture of round Earth?"
+news_flat_earth_afterSuccess_header█Murphy alenen özür diliyor.
+news_flat_earth_afterSuccess_content█“Kendi gözlerimle gördüm! Düz değil. Bir top gibi, anlıyor musun? Orada, gezegenimize bakarken ... ... tüm hayatım boyunca kandırıldığımı fark ettim. başkalarını aldattım. Üzgünüm. " - Düz Dünya Derneği eski başkanı yeni YouTube kanalında yayınlanan bir videosunda bunları söyledi.&%&%Yeni seçilen başkan Mira, Murphy'nin yalan söylediğini veya {1} tarafından aldatıldığını söyledi. "Ya kapsülün pencereler yerine monitörleri varsa ve yuvarlak bir dünya resmi görüntülemişse?"
 
-news_flat_earth_failure_header█{0}'s rocket, together with Murphy, exploded before entering the orbit. The causes of the disaster are being investigated.
-news_flat_earth_failure_content█On board the rocket was Murphy, who, thanks to the space flight, was going to gain the final proof that the Earth is flat.&%&%The Vice President of the Flat Earth Society issued a short statement: "It certainly crashed into the dome. Murphy is a hero, he sacrificed his life to show us the truth."
-
-
-
-
-
-news_spate_accept_header█Space campaign of the new SPATE album. His album will fly to the ISS.
-news_spate_accept_content█Music producer SPATE has signed a contract with {0}, thanks to which his latest album will fly to the ISS. &%&%The album will be shipped with the next supply mission in a few months. &%&%Are the members of the International Space Station already preparing a big music party?
-
-news_spate_success_header█First party on the ISS.
-news_spate_success_content█After the company {0} delivered the SPATE's newest album as part of a marketing campaign, the astronauts held a really loud (but inaudible) party on the International Space Station. &%&%Can the ISS structure withstand such a well played bass?
-
-
-opportunity2019Q1_header█NASA officially ends the Opportunity Rover mission
-opportunity2019Q1_content█15 years - that's how long the mission of Opportunity's rover, which landed on the red planet on 25 February 2004, lasted. &%&%Unfortunately, the last attempts to contact Opportunity, which was stuck asleep since June 2018, were unsuccessful - the solar cells used to power the equipment on board the rover were covered with sand as a result of a general planetary sand-storm. &%&%For 15 years of work, Opportunity sent countless data to Earth and contributed to many discoveries - he observed cirrus clouds in Mars atmosphere, and made astronomical observations impossible to make from Earth, such as the transit of Mars moons on the background of the solar shield.
+news_flat_earth_failure_header█{0} 'ın roketi Murphy ile birlikte yörüngeye girmeden önce patladı. Felaketin nedenleri araştırılıyor.
+news_flat_earth_failure_content█Uzay uçuşu sayesinde Dünya'nın düz olduğuna dair son kanıtı elde edecek olan kişi Murphy idi.&%&%Düz Dünya Topluluğu Başkan Yardımcısı kısa bir açıklama yaptı: "Kesinlikle kubbeye çarptı. Murphy bir kahraman, bize gerçeği göstermek için hayatını feda etti."
 
 
 
 
-matt_entry_header█Tragedy on Mars - astronaut Matt is dead
-matt_entry_content█A huge sandstorm on Mars took a deadly toll. NASA's team, which has been stationed on Mars for several days, was forced to return to Earth. &%&%Unfortunately, the team is coming back in a reduced formation - while escaping to the space shuttle, which is to ensure safe return to our blue planet, one of the astronauts remained at the base. As we managed to find out from NASA representatives, the reason was to be a problem with the suit. &%&%The base was probably destroyed by a raging storm - there is no contact with Matt.
 
-matt_expansion_header█NASA is sharing the good news. We managed to get in touch with Matt who stayed on Mars - the astronaut is alive!
-matt_expansion_content█At NASA's press conference, the CEO shared good news with journalists. The astronaut remained in contact with the rest of the destroyed Martian base. &%&%NASA is currently preparing a rescue mission plan. As we have unofficially learned, the only technology that allows a rapid deployment of a rescue mission has {0}.
+news_spate_accept_header█Yeni SPATE albümünün uzay kampanyası. Albümü ISS'ye uçacak.
+news_spate_accept_content█Müzik yapımcısı SPATE, en son albümünün ISS'ye uçacağı için {0} ile bir sözleşme imzaladı. &%&%Albüm birkaç ay içinde bir sonraki tedarik misyonuyla birlikte gönderilecek. &%&%Uluslararası Uzay İstasyonu üyeleri büyük bir müzik partisi mi hazırlıyor?
 
-matt_accept_header█NASA's joint rescue mission together with {1}. 
-matt_accept_content█Both companies announced today that they are beginning work on rescuing the remaining astronaut on Mars. &%&%{0} will send one of their rockets to the red planet to bring Matt safely to Earth. &%&%The flight is due to take place in a few days.
-
-matt_decline_header█NASA has its hands tied. {0} will not send a rescue mission to Mars.
-matt_decline_content█Unfortunately, our assumptions turned out to be correct. {1}, the CEO of {0} has refused to help NASA. The reason for this is that the mission's too long and the flight calendar for {0} is very tight. &%&%The company managed by {1} was the only one with the right technology to send a rescue mission.
-
-matt_success_header█Hope for Matt. {1}'s rescue mission completed successfully.
-matt_success_content█We did it! {1} and the CEO of NASA have reason to be pleased. &%&%Matt, who stayed on Mars in a sandstorm-damaged base, will soon be flying home. &%&%We hope that the next manned missions to Mars will take place without sad surprises.
+news_spate_success_header█ISS'deki ilk parti.
+news_spate_success_content█{0} şirketi, SPATE'in en yeni albümünü bir pazarlama kampanyasının parçası olarak yayınladıktan sonra, astronotlar Uluslararası Uzay İstasyonunda gerçekten yüksek (ama duyulmayan) bir parti düzenledi. &%&%ISS yapısı bu kadar iyi çalınan baslara dayanabilir mi?
 
 
-matt_failure_header█The {1}'s rescue mission will not happen. {0}'s rocket exploded during launch.
-matt_failure_content█Today we witnessed dramatic events that took place in the atmosphere. Specially prepared, unmanned ship, which was supposed to reach Mars with a rescue mission, burned down in the atmosphere. &%&%It was the last attempt to save Matt waiting for help in the destroyed Martian base. {1} and NASA no longer have the right rockets. &%&%Rest in peace, Matt.
+opportunity2019Q1_header█NASA, Opportunity Rover görevini resmi olarak sonlandırıyor
+opportunity2019Q1_content█15 yıl - 25 Şubat 2004'te Kızıl gezegene inen Opportunity Rover'ın misyonu sona erdi. &%&%Ne yazık ki, Haziran 2018'den beri uykuda kalan Opportunity ile iletişim kurmak için son girişimler başarısız oldu - gezegendeki ekipmana güç sağlamak için kullanılan güneş pilleri, büyük bir kum fırtınası sonucu kumla kaplandı. &%&%15 yıl boyunca Opportunity, Dünya'ya sayısız veri gönderdi ve birçok keşfe katkıda bulundu - Mars atmosferinde cirrus bulutlarını gözlemledi ve Mars uydularının güneş kalkanının arka planına geçişi gibi olayların artık Dünya'dan astronomik gözlemlerin yapılmasını olanaksız hale getirdi.
+
+
+
+
+matt_entry_header█Mars'taki Trajedi - Astronot Matt ile temas sağlanamıyor
+matt_entry_content█Mars'taki büyük bir kum fırtınası ölümcül bir bedele sebep oldu. NASA'nın birkaç gün Mars'ta konuşlandırılan ekibi Dünya'ya geri dönmek zorunda kaldı. &%&%Ne yazık ki, ekip geri dönüyor - mavi gezegenimize güvenli bir şekilde geri dönüş sağlamak için ekip uzay mekiğine kaçarken, astronotlardan biri üssünde kaldı. NASA temsilcilerinden öğrenmeyi başardığımız için dava yemiş olabiliriz. &%&%Üs muhtemelen şiddetli bir fırtına tarafından tahrip edildi - Matt ile temas yok.
+
+matt_expansion_header█NASA iyi haberi paylaşıyor. Mars'ta kalan Matt ile temasa geçmeyi başardık - astronot yaşıyor!
+matt_expansion_content█NASA'nın basın toplantısında CEO gazetecilerle iyi haberler paylaştı. Astronot, yıkılan Mars üssünün geri kalanıyla temas halinde kaldı. &%&%NASA şu anda bir kurtarma görevi planı hazırlıyor. Gayri resmi olarak öğrendiğimiz gibi, bir kurtarma görevinin hızlı bir şekilde uygulanmasına izin veren tek teknoloji, {0} şirketinde bulunmaktadır.
+
+matt_accept_header█NASA'nın {1} ile birlikte ortak kurtarma görevi.
+matt_accept_content█Her iki şirket de bugün Mars'ta kalan astronotu kurtarma çalışmalarına başladığını açıkladı. &%&%{0}, Matt'i güvenle Dünya'ya getirmek için roketlerinden birini kırmızı gezegene gönderecek. &%&%Uçuşun birkaç gün içinde gerçekleşmesi bekleniyor.
+
+matt_decline_header█NASA'nın elleri bağlı. {0} Mars'a bir kurtarma görevi göndermeyecek.
+matt_decline_content█Ne yazık ki, varsayımlarımızın doğru olduğu ortaya çıktı. {1}, {0} CEO'su NASA'ya yardım etmeyi reddetti. Bunun nedeni, görevin çok uzun olması ve {0} uçuş takviminin çok sıkı olmasıdır. &%&%{1} tarafından yönetilen şirket, kurtarma görevi göndermek için doğru teknolojiye sahip tek şirketti.
+
+matt_success_header█Matt için umut. {1} 'in kurtarma görevi başarıyla tamamlandı.
+matt_success_content█Bşardık! {1} ve NASA CEO'sunun memnuniyet duymak için artık bir nedeni var. &%&%Mars'ta kum fırtınası nedeniye hasar görmüş üssünde kalan Matt, yakında eve uçacak. &%&%Bir sonraki insanlı Mars görevlerinin üzücü sürprizler olmadan gerçekleşeceğini umuyoruz.
+
+
+matt_failure_header█{1} 'in kurtarma görevi gerçekleşmeyecek. {0} 'ın roketi fırlatma sırasında patladı.
+matt_failure_content█Bugün atmosferde gerçekleşen dramatik olaylara tanık olduk. Kurtarma göreviyle Mars'a ulaşması gereken özel hazırlanmış, insansız uzay aracı atmosferde yandı. &%&%Matt'i yıkılan Mars üssünde yardım beklerken kurtarmak için son girişimdi. {1} ve NASA artık doğru roketlere sahip değil. &%&%Huzur içinde yat Matt.
 
 
 
