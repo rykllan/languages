@@ -22,15 +22,15 @@ levelTitle18█"Bunun gerçekleşmesi için çalışıyoruz. Tanrı şahidim old
 levelTitle19█Büyük Manyak Roket
 levelTitle20█Erken Erişim Oyunun Sonu (Dahası çok yakında :))
 levelTitle21█https://youtu.be/CfqCQQe2E2s
-levelTitle22█Infrastructure
-levelTitle23█Multi-Planetary Species
-levelTitle24█Expansion
-levelTitle25█Route
+levelTitle22█Altyapı
+levelTitle23█Çok Gezegenli Türler
+levelTitle24█Genişleme
+levelTitle25█Rota
 levelTitle26█Cybermars
-levelTitle27█Sustainable City
-levelTitle28█Nuclear Bomb Goes Brrrrr
-levelTitle29█Too hot
-levelTitle30█Too cold
+levelTitle27█Sürdürülebilir Şehir
+levelTitle28█Nükleer bomba Go brr
+levelTitle29█Çok sıcak
+levelTitle30█Çok soğuk
 levelTitle31█Home 2.0
 levelTitle32█https://youtu.be/CfqCQQe2E2s
 
@@ -44,9 +44,9 @@ progress_launchCargoCapsules█Fırlat {0} kargo kapsülü
 progress_launchCrewCapsules█Fırlat {0} mürettebat kapsülü
 
 progress_landRockets█{0} Roket ile yere in
-progress_landOnMars█Land on Mars {0} spaceship(s)
+progress_landOnMars█Mars'ta {0} uzay gemisi
 progress_reuseRockets█{0} Kere yeniden roket kullan
-progress_catchFairings█Catch {0} fairings!
+progress_catchFairings█{0} karenaj tut!
 
 progress_launchPayloadsAtOnce█{0} yükle beraber roket fırlat
 progress_launchFromOwnLaunchPad█Fırlat {0} (roketin kendi fırlatma rampasından!)
@@ -54,27 +54,27 @@ progress_launchFromOwnLaunchPad█Fırlat {0} (roketin kendi fırlatma rampasın
 progress_launchTesla█Araba fırlat!
 progress_launchCat█Bir kedi fırlat!
 progress_launchTechnician█Bir teknisyen fırlat!
-progress_launchPrologue█Launch SPATE's Prologue EP!
-progress_launchFlatearther█Launch Flatearther Murphy!
-progress_launchMattRescueMission█Launch Matt Rescue Mission!
-progress_launchMarsCamera█Launch Mars Camera!
+progress_launchPrologue█SPATE Prologue EP'i fırlat!
+progress_launchFlatearther█Düz Dünya Murphy'yi fırlat!
+progress_launchMattRescueMission█Matt'in Kurtarma Görevi'ni başlat!
+progress_launchMarsCamera█Mars Kamerasını Başlat!
 
 progress_buildFactories█{0} Fabrika inşa et!
 progress_buildOffices█{0} Ofis inşa et!
 progress_buildLaboratories█{0} laboratuvar inşa et!
 progress_buildMegaLaunchPads█{0} Mega fırlatma rampası inşa et!
-progress_buildMarsBuildings█Build {0} building(s) on Mars!
-progress_buildFuelFactories█Build {0} fuel factory(ies)!
-progress_buildSteelFactories█Build {0} steel factory(ies)!
-progress_buildLandingZones█Build {0} landing zone(s)!
+progress_buildMarsBuildings█Mars'ta {0} bina inşa edin!
+progress_buildFuelFactories█{0} yakıt fabrikası inşa edin!
+progress_buildSteelFactories█{0} çelik fabrikası yap!
+progress_buildLandingZones█{0} iniş bölgesi inşa edin!
 
 progress_getContracts█{0} kontrat yerine getir
 progress_launchLinkLinks█Fırlatılan LinkLinks: {0}
 progress_reachLinkLinkUsers█LinkLink kullanıcıları: {0}
 progress_hireEmployees█Çalışanları işe alın: {0}
-progress_martiansCount█Have {0} People on Mars
-progress_marsTerraform█Terraform Mars in {0}%
-progress_marsTransportOxygen█Transport {0} Oxygen units to Mars
+progress_martiansCount█Mars'ta {0} Kişi Bulun
+progress_marsTerraform█Mars {0}% yaşanabilir durumda
+progress_marsTransportOxygen█{0} Oksijen birimlerini Mars'a taşıyın
 
 progress_maxOffices█Maks. Ofisler:
 progress_multiplePayloads█[<color=#81C784>GELİŞTİRME</color>] Birçok yükle birlikte fırlat!
@@ -82,16 +82,16 @@ progress_fundraiserHats█[<color=#FF9F43>BAĞIŞ</color>] Başlık sat!
 progress_fundraiserBricks█[<color=#FF9F43>BAĞIŞ</color>] Tuğla sat!
 progress_fundraiserNAF█[<color=#FF9F43>BAĞIŞ</color>] sat alev makinesi!
 progress_fundraiserRocketquilla█[<color=#FF9F43>BAĞIŞ</color>] Roket sat!
-progress_fundraiserShorts█[<color=#FF9F43>FUNDRAISING</color>] &%Sell short shorts!
+progress_fundraiserShorts█[<color=#FF9F43>BAĞIŞ</color>] &%Kısa şort sat!
 
 progress_issSupplierMission█Özel Görev: <b><color=#64B5F6>ISS Tedariği
 progress_issCrewMission█Özel Görev: <b><color=#64B5F6>ISS Ticari Ekip
 progress_teslaRoadsterMission█Özel Görev: <b><color=#64B5F6>Bir araba fırlat
 progress_catMission█Özel Görev: <b><color=#64B5F6>Astronot Kedisi
 progress_technicianMission█Özel Görev: <b><color=#64B5F6>Valiz teknisyeni
-progress_truthMission█Special Mission: <b><color=#64B5F6>The Truth
-progress_mattMission█Special Mission: <b><color=#64B5F6>Matt
-progress_spateMission█Special Mission: <b><color=#64B5F6>Prologue EP
+progress_truthMission█Özel Görev: <b><color=#64B5F6>Hakikat
+progress_mattMission█Özel Görev: <b><color=#64B5F6>Matt
+progress_spateMission█Özel Görev: <b><color=#64B5F6>Prologue EP
 
 progress_smallFactory█[<color=#E74C3C>YAPI</color>] Küçük Fabrika
 progress_mediumFactory█[<color=#E74C3C>YAPI</color>] Orta Fabrika
@@ -103,41 +103,41 @@ progress_mediumHangar█[<color=#E74C3C>YAPI</color>] Orta Hangar
 progress_largeHangar█[<color=#E74C3C>YAPI</color>] Büyük Hangar
 progress_megaHangar█[<color=#E74C3C>YAPI</color>] Mega Hangar
 
-progress_linkLinkSmallTerminal█[<color=#E74C3C>BUILDING</color>] &%LinkLink Small Terminal
-progress_linkLinkLargeTerminal█[<color=#E74C3C>BUILDING</color>] &%LinkLink Large Terminal
+progress_linkLinkSmallTerminal█[<color=#E74C3C>YAPI</color>] &%LinkLink Küçük Terminal
+progress_linkLinkLargeTerminal█[<color=#E74C3C>YAPI</color>] &%LinkLink Büyük Terminal
 
 progress_megaLaunchPad█[<color=#E74C3C>YAPI</color>] Mega Fırlatma Rampası
 
-progress_smallHotel█[<color=#E74C3C>BUILDING</color>] &%Small Hotel
-progress_mediumHotel█[<color=#E74C3C>BUILDING</color>] &%Medium Hotel
-progress_largeHotel█[<color=#E74C3C>BUILDING</color>] &%Large Hotel
+progress_smallHotel█[<color=#E74C3C>YAPI</color>] &%Küçük Otel
+progress_mediumHotel█[<color=#E74C3C>YAPI</color>] &%Orta Otel
+progress_largeHotel█[<color=#E74C3C>YAPI</color>] &%Büyük Otel
 
-progress_mediumGreenhouse█[<color=#E74C3C>BUILDING</color>] &%Medium Greenhouse
-progress_largeGreenhouse█[<color=#E74C3C>BUILDING</color>] &%Large Greenhouse
+progress_mediumGreenhouse█[<color=#E74C3C>YAPI</color>] &%Orta Sera
+progress_largeGreenhouse█[<color=#E74C3C>YAPI</color>] &%Büyük Sera
 
-progress_smallSolar█[<color=#E74C3C>BUILDING</color>] &%Small Solar
-progress_mediumSolar█[<color=#E74C3C>BUILDING</color>] &%Medium Solar
+progress_smallSolar█[<color=#E74C3C>YAPI</color>] &%Küçük Solar
+progress_mediumSolar█[<color=#E74C3C>YAPI</color>] &%Orta Solar
 
-progress_smallWater█[<color=#E74C3C>BUILDING</color>] &%Small Water Storage
-progress_mediumWater█[<color=#E74C3C>BUILDING</color>] &%Medium Water Storage
-progress_largeWater█[<color=#E74C3C>BUILDING</color>] &%Large Water Storage
+progress_smallWater█[<color=#E74C3C>YAPI</color>] &%Küçük Su Deposu
+progress_mediumWater█[<color=#E74C3C>YAPI</color>] &%Orta Su Deposu
+progress_largeWater█[<color=#E74C3C>YAPI</color>] &%Büyük Su Deposu
 
-progress_smallFuel█[<color=#E74C3C>BUILDING</color>] &%Small Fuel Storage
-progress_mediumFuel█[<color=#E74C3C>BUILDING</color>] &%Medium Fuel Storage
-progress_largeFuel█[<color=#E74C3C>BUILDING</color>] &%Large Fuel Storage
+progress_smallFuel█[<color=#E74C3C>YAPI</color>] &%Küçük Yakıt Deposu
+progress_mediumFuel█[<color=#E74C3C>YAPI</color>] &%Orta Yakıt Deposu
+progress_largeFuel█[<color=#E74C3C>YAPI</color>] &%Büyük Yakıt Deposu
 
-progress_waterFactory█[<color=#E74C3C>BUILDING</color>] &%Water Factory
-progress_fuelFactory█[<color=#E74C3C>BUILDING</color>] &%Fuel Factory
-progress_steelFactory█[<color=#E74C3C>BUILDING</color>] &%Steel Factory
+progress_waterFactory█[<color=#E74C3C>YAPI</color>] &%Su Fabrikası
+progress_fuelFactory█[<color=#E74C3C>YAPI</color>] &%Yakıt Fabrikası
+progress_steelFactory█[<color=#E74C3C>YAPI</color>] &%Çelik Fabrikası
 
-progress_landingZone█[<color=#E74C3C>BUILDING</color>] &%Landing Zone
+progress_landingZone█[<color=#E74C3C>YAPI</color>] &%İniş Bölgesi
 
 progress_linkLink30█[<color=#81C784>GELİŞTİRME</color>] LinkLink (30)
-progress_materials20█[<color=#81C784>FEATURE</color>] &%Materials (35)
-progress_oxygen40█[<color=#81C784>FEATURE</color>] &%Oxygen (40)
-progress_martians15█[<color=#81C784>FEATURE</color>] &%Martians (15)
-progress_cybercar3█[<color=#81C784>FEATURE</color>] &%Cybercar (3)
-progress_nuke3█[<color=#81C784>FEATURE</color>] &%Nuke (3)
+progress_materials20█[<color=#81C784>GELİŞTİRME</color>] &%Malzemeelr (35)
+progress_oxygen40█[<color=#81C784>GELİŞTİRME</color>] &%Oksijen (40)
+progress_martians15█[<color=#81C784>GELİŞTİRME</color>] &%Marslılar (15)
+progress_cybercar3█[<color=#81C784>GELİŞTİRME</color>] &%Siber Araba (3)
+progress_nuke3█[<color=#81C784>GELİŞTİRME</color>] &%Nükleer (3)
 
 progress_linkLinkCapacity50█[<color=#81C784>LinkLink</color>] LinkLink Kapasitesi +50%
 progress_linkLinkCapacity25█[<color=#81C784>LinkLink</color>] LinkLink Kapasitesi +25%
