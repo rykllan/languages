@@ -10,7 +10,7 @@ building_advancedLP█Verbesserte Startrampe
 building_megaLP█Mega Startrampe
 
 building_category_all█Alle
-building_category_production█Production
+building_category_production█Produktion
 building_category_storage█Speicher
 building_category_other█Anderes
 
@@ -27,7 +27,7 @@ buildingSetup_queue█Warteschleife
 buildingSetup_produce█Produziere
 
 returnToEarth█Zurück zur Erde
-returnToEarthShort█Return
+returnToEarthShort█Rückkehr
 
 buildingSetup_negotiationPowerEachEmployee█Verhandlungsmacht für jeden Mitarbeiter
 buildingSetup_negotiationPowerBuilding█Verhandlungsmacht des Gebäudes
@@ -81,7 +81,7 @@ largeTerminal█Großes LinkLink Terminal
 largeTerminal_desc█Terminals verbinden die Menschen auf der Erde mit LinkLinks. Mehr Terminals == mehr Benutzerkapazität.
 
 landingZone█Landezone
-landingZone_desc█Do I really need to describe it?
+landingZone_desc█Muss ich das wirklich erklären?
 
 smallHotel█Kleines Hotel
 smallHotel_desc█Marsianer leben an Orten wie diesem.

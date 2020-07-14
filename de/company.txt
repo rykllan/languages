@@ -10,7 +10,7 @@ company_overview█Übersicht
 company_fundraising█Geldbeschaffug
 company_financeHistory█Finanzgeschichte
 company_flightHistory█Fluggeschichte
-company_competitionHistory█Competition History
+company_competitionHistory█Wettbewerbs Geschichte
 
 fundraising_productionCost█Produktionskosten:
 fundraising_sales█Verkäufe:
@@ -23,8 +23,8 @@ use█Verwende
 
 company_progressHeader█Unternehmensfortschritt
 company_progressLevel█Level
-company_progressNewStuff█New Stuff
-company_progressCompleteChallenges█Beende Challenges <size=70%>(<color=#E74C3C>**</color> = optional)
+company_progressNewStuff█Neues Zeug
+company_progressCompleteChallenges█Beende Challenges <size=70%>(<color=#E74C3C>**</color> = Optional)
 company_progressNextLevel█Nächstes Level
 company_progressPreviousLevel█Vorheriges Level
 locked█Gesperrt
@@ -40,7 +40,7 @@ upgrade_buildTime█<b>Bauzeit:</b> <color=#81C784>-10%
 
 company_menu_finance█Finanzen
 company_menu_flights█Flüge
-company_menu_competition█Competition
+company_menu_competition█Konkurrenz
 
 company_summary█Finanzübersicht (Vergangene 10 Jahre)&%<size=14>Wo hast du das meiste Geld ausgegeben?
 

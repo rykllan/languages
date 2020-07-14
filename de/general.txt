@@ -31,7 +31,7 @@ orbit_meo█MEO
 orbit_geo█GEO
 orbit_iss█ISS
 orbit_marsOrbit█Mars Orbit
-orbit_marsSurface█Mars Surface
+orbit_marsSurface█Mars Oberfläche
 
 vehicle_cargo█Fracht
 vehicle_crew█Besatzung
@@ -45,16 +45,16 @@ map_settings_linklink_outline█LinkLink Outline
 earth█Erde
 mars█Mars
 
-switchPlanet█Switch Planet
+switchPlanet█Planet wechseln
 
-tanking█Tanking...
+tanking█Tankt...
 
 marsDetails█Marsdetails
 earthLikePlanet█Erdähnlicher Planet
 
 martians█Marsianer
 materials█Materialien
-electricity█Electrizität
+electricity█Elektrizität
 food█Nahrung
 water█Wasser
 oxygen█Sauerstoff

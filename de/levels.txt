@@ -46,15 +46,15 @@ progress_launchCrewCapsules█Starte {0} Mannschaftskapsel(n)
 progress_landRockets█Lande mit {0} Rakete(n)
 progress_landOnMars█Lande {0} Raumschiff(e) auf dem Mars
 progress_reuseRockets█Verwende {0} Rakete(n) wieder
-progress_catchFairings█Fange {0} Verkleidungen wieder ein!
+progress_catchFairings█Berge {0} Verkleidungen!
 
 progress_launchPayloadsAtOnce█Starte {0} Nutzlasten gleichzeitig
 progress_launchFromOwnLaunchPad█Starte {0} Rakete(n) von deiner eigenen Startrampe!
 
-progress_launchTesla█Launch a car!
-progress_launchCat█Launch a cat!
-progress_launchTechnician█Launch a technician!
-progress_launchPrologue█Launch SPATE's Prologue EP!
+progress_launchTesla█Starte ein Auto!
+progress_launchCat█Starte eine Katze!
+progress_launchTechnician█Starte einen Techniker!
+progress_launchPrologue█Starte SPATE's Prologue EP!
 progress_launchFlatearther█Starte Flacherdler Murphy!
 progress_launchMattRescueMission█Starte Matts Rettungsmission!
 progress_launchMarsCamera█Starte Marskamera!
@@ -77,7 +77,7 @@ progress_marsTerraform█Terraformiere den Mars in {0}%
 progress_marsTransportOxygen█Transportiere {0} Sauerstoffeinheiten zum Mars
 
 progress_maxOffices█Max Büros:
-progress_multiplePayloads█[<color=#81C784>FEATURE</color>] &%Launch many payloads at once!
+progress_multiplePayloads█[<color=#81C784>EIGENSCHAFT</color>] &%Starte viele Nutzlasten auf einmal!
 progress_fundraiserHats█[<color=#FF9F43>GELDBESCHAFFUNG</color>] &%Verkaufe Mützen!
 progress_fundraiserBricks█[<color=#FF9F43>GELDBESCHAFFUNG</color>] &%Verkaufe Ziegelsteine!
 progress_fundraiserNAF█[<color=#FF9F43>GELDBESCHAFFUNG</color>] &%Verkaufe (kein) Flammenwerfer!
@@ -86,12 +86,12 @@ progress_fundraiserShorts█[<color=#FF9F43>GELDBESCHAFFUNG</color>] &%Verkaufe 
 
 progress_issSupplierMission█Spezialmission: <b><color=#64B5F6>ISS Versorger
 progress_issCrewMission█Special Mission: <b><color=#64B5F6>ISS Commercial Crew
-progress_teslaRoadsterMission█Special Mission: <b><color=#64B5F6>Launch a car
-progress_catMission█Special Mission: <b><color=#64B5F6>Astronaut's Cat
+progress_teslaRoadsterMission█Spezialmission: <b><color=#64B5F6>Starte ein Auto
+progress_catMission█Spezialmission: <b><color=#64B5F6>Katzenastronaut
 progress_technicianMission█Spezialmission: <b><color=#64B5F6>Techniker in einem Container
 progress_truthMission█Spezialmission: <b><color=#64B5F6>Die Wahrheit
 progress_mattMission█Spezialmission: <b><color=#64B5F6>Matt
-progress_spateMission█Special Mission: <b><color=#64B5F6>Prologue EP
+progress_spateMission█Spezialmission: <b><color=#64B5F6>Prologue EP
 
 progress_smallFactory█[<color=#E74C3C>GEBÄUDE</color>] &%Kleine Fabrik
 progress_mediumFactory█[<color=#E74C3C>GEBÄUDE</color>] &%Mittlere Fabrik
@@ -132,12 +132,12 @@ progress_steelFactory█[<color=#E74C3C>GEBÄUDE</color>] &%Stahlfabrik
 
 progress_landingZone█[<color=#E74C3C>GEBÄUDE</color>] &%Landezone
 
-progress_linkLink30█[<color=#81C784>FEATURE</color>] &%LinkLink (60)
-progress_materials20█[<color=#81C784>FEATURE</color>] &%Materialien (35)
-progress_oxygen40█[<color=#81C784>FEATURE</color>] &%Sauerstoff (40)
-progress_martians15█[<color=#81C784>FEATURE</color>] &%Marsianer (15)
-progress_cybercar3█[<color=#81C784>FEATURE</color>] &%Cybercar (3)
-progress_nuke3█[<color=#81C784>FEATURE</color>] &%Atombombe (3)
+progress_linkLink30█[<color=#81C784>EIGENSCHAFT</color>] &%LinkLink (60)
+progress_materials20█[<color=#81C784>EIGENSCHAFT</color>] &%Materialien (35)
+progress_oxygen40█[<color=#81C784>EIGENSCHAFT</color>] &%Sauerstoff (40)
+progress_martians15█[<color=#81C784>EIGENSCHAFT</color>] &%Marsianer (15)
+progress_cybercar3█[<color=#81C784>EIGENSCHAFT</color>] &%Cybercar (3)
+progress_nuke3█[<color=#81C784>EIGENSCHAFT</color>] &%Atombombe (3)
 
 progress_linkLinkCapacity50█[<color=#81C784>LinkLink</color>] LinkLink Kapazität +50%
 progress_linkLinkCapacity25█[<color=#81C784>LinkLink</color>] LinkLink Kapazität +25%
