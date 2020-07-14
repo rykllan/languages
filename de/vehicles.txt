@@ -7,6 +7,8 @@ spaceship█Raumschiff
 spaceships█Raumschiffe
 vehiclesDockedToISS█Gedockte Fahrzeuge
 
+readyToLeave█Ready
+
 issHeaderText█Internationale Raumstation (ISS)&%<size=14><b><color=#64B5F6>Einsatzbereit
 
 rocketRequiresCapsule█Rakete (Benötigt Kapsel)
@@ -84,7 +86,7 @@ launchSetup_noVehiclesFound█[Keine Fahrzeuge gefunden.]
 launchSetup_noPayloadsFound█[Keine zulässige Fracht gefunden.]
 launchSetup_selectVehicle█Wähle Fahrzeug
 launchSetup_selectLaunchPad█Wähle Startrampe
-launchSetup_selectLandingZone█Wähle Landezone
+launchSetup_selectTanker█Orbital Tanker
 
 launchSetup_barge█Lastkahn
 launchSetup_lz1█LZ-1
@@ -140,6 +142,7 @@ creator_vehicleCanGoAnywhere█Dieses Fahrzeug kann überall hin.
 creator_capsuleRocket█Diese Rakete kann nur Kapseln transportieren.
 creator_spaceshipRocket█Diese Rakete kann nur Raumschiffe transportieren.
 no_module_unlocked█Kein Modul freigeschaltet.
+
 
 
 

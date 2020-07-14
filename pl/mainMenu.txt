@@ -11,7 +11,7 @@ menu_gameOver█PRZEGRAŁEŚ! :(
 
 menu_createNewGame█Stwórz Nową Grę
 
-lastPlayed█Last Played:
+lastPlayed█Ostatnio Grane:
 
 menu_gameMode█Tryb Gry
 menu_classic█<b>Klasyczny</b>&%<size=75%>Zagraj w tryb klasyczny, gdzie musisz stworzyć swoją firmę od zera.
@@ -51,6 +51,7 @@ menu_creators█Twórcy
 menu_collaboration█Współpraca
 menu_specialThanks█Specjalne Podziękowania
 menu_icons█Ikony pochodzą z Flaticon.com
+
 
 
 

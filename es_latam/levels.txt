@@ -5,13 +5,13 @@ levelTitle1█Arranque
 levelTitle2█"Cuando algo es lo suficientemente importante, lo haces aunque las probabilidades no estén a tu favor". - Elon Musk
 levelTitle3█"M" de Mediano
 levelTitle4█"Podría ver lo que pasa o ser parte de ello". - Elon Musk
-levelTitle5█Remember to land
+levelTitle5█Recuerda aterrizar
 levelTitle6█Proveedor
 levelTitle7█Aceleración
 levelTitle8█Tintin
-levelTitle9█Acceleration
+levelTitle9█Acelerando más
 levelTitle10█El poder de las computadoras
-levelTitle11█¡Agárralot!
+levelTitle11█¡Agárralo!
 levelTitle12█Poniendose pesado
 levelTitle13█LinkLink
 levelTitle14█Práctica
@@ -20,18 +20,18 @@ levelTitle16█Factor humano
 levelTitle17█Volviendose grande
 levelTitle18█"Vamos a hacer que suceda. Con Dios como mi maldito testigo, estoy decidido a hacer que funcione." - Elon Musk
 levelTitle19█Cohete j*didamente grande
-levelTitle20█Going Interplanetary
-levelTitle21█Spark
-levelTitle22█Infrastructure
-levelTitle23█Multi-Planetary Species
-levelTitle24█Expansion
-levelTitle25█Route
-levelTitle26█Cybermars
-levelTitle27█Sustainable City
-levelTitle28█Nuclear Bomb Goes Brrrrr
-levelTitle29█Too hot
-levelTitle30█Too cold
-levelTitle31█Home 2.0
+levelTitle20█Yendo interplanetario
+levelTitle21█Chsipa
+levelTitle22█Infraestructura
+levelTitle23█Especia Multiplanetaria
+levelTitle24█Expansión
+levelTitle25█Ruta
+levelTitle26█Ciber-Marte
+levelTitle27█Ciudad Sostenible
+levelTitle28█Bomba Nuclear hace Boom
+levelTitle29█Muy caliente
+levelTitle30█Muy frío
+levelTitle31█Hogar 2.0
 levelTitle32█https://youtu.be/CfqCQQe2E2s
 
 progress_unlockAllModules█Desbloquear todos los módulos
@@ -39,7 +39,7 @@ progress_launchSmallRockets█Lanza {0} cohete(s) pequeño(s)
 progress_launchMediumRockets█Lanza {0} cohete(s) mediano(s)
 progress_launchLargeRockets█Lanza {0} cohete(s) grande(s)
 progress_launchSuperheavyRockets█Lanza {0} cohete(s) superpesado(s)
-progress_launchToMars█Launch {0} spaceship(s) to Mars
+progress_launchToMars█Lanza {0} nave(s) espacial(es) a Marte
 progress_launchCargoCapsules█Lanza {0} capsula(s) de cargamento
 progress_launchCrewCapsules█Lanza {0} capsula(s) de tripulación
 
@@ -54,94 +54,95 @@ progress_launchFromOwnLaunchPad█Lanza {0} cohete(s) desde tu propia plataforma
 progress_launchTesla█¡Lanza el Tesla Roadster!
 progress_launchCat█¡Lanza un gato!
 progress_launchTechnician█¡Lanza un técnico!
-progress_launchPrologue█Launch SPATE's Prologue EP!
-progress_launchFlatearther█Launch Flatearther Murphy!
-progress_launchMattRescueMission█Launch Matt Rescue Mission!
-progress_launchMarsCamera█Launch Mars Camera!
+progress_launchPrologue█¡Lanza  el prólogo extendido de SPATE!
+progress_launchFlatearther█¡Lanza el terraplanista Murphy!
+progress_launchMattRescueMission█¡Lanza la mision de rescate de Matt!
+progress_launchMarsCamera█¡Lanza una cámara de Marte!
 
 progress_buildFactories█¡Construye {0} fábrica(s)!
 progress_buildOffices█¡Construye {0} oficina(s)!
 progress_buildLaboratories█¡Construye {0} laboratorio(s)!
 progress_buildMegaLaunchPads█¡Construye {0} mega plataforma(s) de lanzamiento!
-progress_buildMarsBuildings█Build {0} building(s) on Mars!
-progress_buildFuelFactories█Build {0} fuel factory(ies)!
-progress_buildSteelFactories█Build {0} steel factory(ies)!
-progress_buildLandingZones█Build {0} landing zone(s)!
+progress_buildMarsBuildings█¡Construye {0} edificios(s) en Marte!
+progress_buildFuelFactories█¡Construye {0} fábrica(s) de combustible!
+progress_buildSteelFactories█¡Construye {0} fábrica(s) de acero!
+progress_buildLandingZones█¡Construye {0} zona(s) de aterrizaje!
 
 progress_getContracts█Obten {0} contrato(s)
-progress_launchLinkLinks█¡LanzaLinkLinks: {0}
+progress_launchLinkLinks█¡Lanza LinkLinks: {0}
 progress_reachLinkLinkUsers█Usuarios de LinkLink: {0}
 progress_hireEmployees█Contrata empleados: {0}
-progress_martiansCount█Have {0} People on Mars
-progress_marsTerraform█Terraform Mars in {0}%
-progress_marsTransportOxygen█Transport {0} Oxygen units to Mars
+progress_martiansCount█Ten {0} personas en Marte
+progress_marsTerraform█Terraforma Marte en un {0}%
+progress_marsTransportOxygen█Transporta {0} unidades de oxígeno a Marte
 
 progress_maxOffices█Máximo de oficinas:
-progress_multiplePayloads█[<color=#81C784>FEATURE</color>] &%Launch many payloads at once!
-progress_fundraiserHats█[<color=#FF9F43>FUNDRAISING</color>] &%Sell hats!
-progress_fundraiserBricks█[<color=#FF9F43>FUNDRAISING</color>] &%Sell bricks!
-progress_fundraiserNAF█[<color=#FF9F43>FUNDRAISING</color>] &%Sell (not) flamethrowers!
-progress_fundraiserRocketquilla█[<color=#FF9F43>FUNDRAISING</color>] &%Sell rocketquillas!
-progress_fundraiserShorts█[<color=#FF9F43>FUNDRAISING</color>] &%Sell short shorts!
+progress_multiplePayloads█[<color=#81C784>CARACTERÍSTICA</color>] &%¡Lanza varias cargas a la vez!
+progress_fundraiserHats█[<color=#FF9F43>FONDOS</color>] &%¡Vende Gorras!
+progress_fundraiserBricks█[<color=#FF9F43>FONDOS</color>] &%¡Vende Ladrillos!
+progress_fundraiserNAF█[<color=#FF9F43>FONDOS</color>] &%¡Vende (no) lanzallamas!
+progress_fundraiserRocketquilla█[<color=#FF9F43>FONDOS</color>] &%¡Vende cohetequillas!
+progress_fundraiserShorts█[<color=#FF9F43>FONDOS</color>] &%¡Vende shorts cortos!
 
 progress_issSupplierMission█Misión especial: <b><color=#64B5F6>Proveedor de EEI
 progress_issCrewMission█Misión especial: <b><color=#64B5F6>Tripulación comercial de EEI
 progress_teslaRoadsterMission█Misión especial: <b><color=#64B5F6>Tesla Roadster
 progress_catMission█Misión especial: <b><color=#64B5F6>Gato de Astronauta
-progress_technicianMission█Misión especialn: <b><color=#64B5F6>Técnico en una maleta
-progress_truthMission█Special Mission: <b><color=#64B5F6>The Truth
-progress_mattMission█Special Mission: <b><color=#64B5F6>Matt
-progress_spateMission█Special Mission: <b><color=#64B5F6>Prologue EP
+progress_technicianMission█Misión especial: <b><color=#64B5F6>Técnico en una maleta
+progress_truthMission█Misión especial: <b><color=#64B5F6>La Verdad
+progress_mattMission█Misión especial: <b><color=#64B5F6>Matt
+progress_spateMission█Misión especial: <b><color=#64B5F6>Prólogo extendido
 
-progress_smallFactory█[<color=#E74C3C>BUILDING</color>] &%Small Factory
-progress_mediumFactory█[<color=#E74C3C>BUILDING</color>] &%Medium Factory
-progress_largeFactory█[<color=#E74C3C>BUILDING</color>] &%Large Factory
-progress_gigaFactory█[<color=#E74C3C>BUILDING</color>] &%Giga Factory
+progress_smallFactory█[<color=#E74C3C>EDIFICIO</color>] &%Fábrica Pequeña
+progress_mediumFactory█[<color=#E74C3C>EDIFICIO</color>] &%Fábrica Mediana
+progress_largeFactory█[<color=#E74C3C>EDIFICIO</color>] &%Fábrica Grande
+progress_gigaFactory█[<color=#E74C3C>EDIFICIO</color>] &%Giga Fábrica
 
-progress_smallHangar█[<color=#E74C3C>BUILDING</color>] &%Small Hangar
-progress_mediumHangar█[<color=#E74C3C>BUILDING</color>] &%Medium Hangar
-progress_largeHangar█[<color=#E74C3C>BUILDING</color>] &%Large Hangar
-progress_megaHangar█[<color=#E74C3C>BUILDING</color>] &%Mega Hangar
+progress_smallHangar█[<color=#E74C3C>EDIFICIO</color>] &%Hangar Pequeño
+progress_mediumHangar█[<color=#E74C3C>EDIFICIO</color>] &%Hangar Mediano
+progress_largeHangar█[<color=#E74C3C>EDIFICIO</color>] &%Hangar Grande
+progress_megaHangar█[<color=#E74C3C>EDIFICIO</color>] &%Mega Hangar
 
-progress_linkLinkSmallTerminal█[<color=#E74C3C>BUILDING</color>] &%LinkLink Small Terminal
-progress_linkLinkLargeTerminal█[<color=#E74C3C>BUILDING</color>] &%LinkLink Large Terminal
+progress_linkLinkSmallTerminal█[<color=#E74C3C>EDIFICIO</color>] &%Terminal Pequeña LinkLink 
+progress_linkLinkLargeTerminal█[<color=#E74C3C>EDIFICIO</color>] &%Terminal Grande LinkLink 
 
-progress_megaLaunchPad█[<color=#E74C3C>BUILDING</color>] &%Mega Launch Pad
+progress_megaLaunchPad█[<color=#E74C3C>EDIFICIO</color>] &%Mega Plataforma de Aterrizaje
 
-progress_smallHotel█[<color=#E74C3C>BUILDING</color>] &%Small Hotel
-progress_mediumHotel█[<color=#E74C3C>BUILDING</color>] &%Medium Hotel
-progress_largeHotel█[<color=#E74C3C>BUILDING</color>] &%Large Hotel
+progress_smallHotel█[<color=#E74C3C>EDIFICIO</color>] &%Hotel Pequeña
+progress_mediumHotel█[<color=#E74C3C>EDIFICIO</color>] &%Hotel Mediano
+progress_largeHotel█[<color=#E74C3C>EDIFICIO</color>] &%Hotel Grande
 
-progress_mediumGreenhouse█[<color=#E74C3C>BUILDING</color>] &%Medium Greenhouse
-progress_largeGreenhouse█[<color=#E74C3C>BUILDING</color>] &%Large Greenhouse
+progress_mediumGreenhouse█[<color=#E74C3C>EDIFICIO</color>] &%Invernadero Pequeño
+progress_largeGreenhouse█[<color=#E74C3C>EDIFICIO</color>] &%Invernadero Grande
 
-progress_smallSolar█[<color=#E74C3C>BUILDING</color>] &%Small Solar
-progress_mediumSolar█[<color=#E74C3C>BUILDING</color>] &%Medium Solar
+progress_smallSolar█[<color=#E74C3C>EDIFICIO</color>] &%Solar Pequeño
+progress_mediumSolar█[<color=#E74C3C>EDIFICIO</color>] &%Solar Mediano
 
-progress_smallWater█[<color=#E74C3C>BUILDING</color>] &%Small Water Storage
-progress_mediumWater█[<color=#E74C3C>BUILDING</color>] &%Medium Water Storage
-progress_largeWater█[<color=#E74C3C>BUILDING</color>] &%Large Water Storage
+progress_smallWater█[<color=#E74C3C>EDIFICIO</color>] &%Almacenamiento de Agua Pequeño
+progress_mediumWater█[<color=#E74C3C>EDIFICIO</color>] &%Almacenamiento de Agua Mediano
+progress_largeWater█[<color=#E74C3C>EDIFICIO</color>] &%Almacenamiento de Agua Grande
 
-progress_smallFuel█[<color=#E74C3C>BUILDING</color>] &%Small Fuel Storage
-progress_mediumFuel█[<color=#E74C3C>BUILDING</color>] &%Medium Fuel Storage
-progress_largeFuel█[<color=#E74C3C>BUILDING</color>] &%Large Fuel Storage
+progress_smallFuel█[<color=#E74C3C>EDIFICIO</color>] &%Almacenamiento de Combustible Pequeño
+progress_mediumFuel█[<color=#E74C3C>EDIFICIO</color>] &%Almacenamiento de Combustible Mediano
+progress_largeFuel█[<color=#E74C3C>EDIFICIO</color>] &%Almacenamiento de Combustible Grande
 
-progress_waterFactory█[<color=#E74C3C>BUILDING</color>] &%Water Factory
-progress_fuelFactory█[<color=#E74C3C>BUILDING</color>] &%Fuel Factory
-progress_steelFactory█[<color=#E74C3C>BUILDING</color>] &%Steel Factory
+progress_waterFactory█[<color=#E74C3C>EDIFICIO</color>] &%Fábrica de Agua
+progress_fuelFactory█[<color=#E74C3C>EDIFICIO</color>] &%Fábrica de Combustible
+progress_steelFactory█[<color=#E74C3C>EDIFICIO</color>] &%Fábrica de Acero
 
-progress_landingZone█[<color=#E74C3C>BUILDING</color>] &%Landing Zone
+progress_landingZone█[<color=#E74C3C>EDIFICIO</color>] &%Landing Zone
 
-progress_linkLink30█[<color=#81C784>FEATURE</color>] &%LinkLink (60)
-progress_materials20█[<color=#81C784>FEATURE</color>] &%Materials (35)
-progress_oxygen40█[<color=#81C784>FEATURE</color>] &%Oxygen (40)
-progress_martians15█[<color=#81C784>FEATURE</color>] &%Martians (15)
-progress_cybercar3█[<color=#81C784>FEATURE</color>] &%Cybercar (3)
-progress_nuke3█[<color=#81C784>FEATURE</color>] &%Nuke (3)
+progress_linkLink30█[<color=#81C784>CARACTERÍSTICA</color>] &%LinkLink (60)
+progress_materials20█[<color=#81C784>CARACTERÍSTICA</color>] &%Materiales (35)
+progress_oxygen40█[<color=#81C784>CARACTERÍSTICA</color>] &%Oxígeno (40)
+progress_martians15█[<color=#81C784>CARACTERÍSTICA</color>] &%Marcianos (15)
+progress_cybercar3█[<color=#81C784>CARACTERÍSTICA</color>] &%Cibercarros (3)
+progress_nuke3█[<color=#81C784>CARACTERÍSTICA</color>] &%Bombas Nucleares (3)
 
 progress_linkLinkCapacity50█[<color=#81C784>LinkLink</color>] Capacidad de LinkLink +50%
 progress_linkLinkCapacity25█[<color=#81C784>LinkLink</color>] Capacidad de LinkLink +25%
 progress_linkLinkCosts█[<color=#81C784>LinkLink</color>] Costo de producción LinkLink -25%
+
 
 
 

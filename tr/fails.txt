@@ -1,0 +1,42 @@
+
+
+fail1█Teknik olarak, arazi ... tek parça halinde değil.
+fail2█Temelde ne olduğunu bilmiyoruz
+fail3█Hata 404: Roket Bulunamadı
+fail4█Kısa Devre: Yalıtımsız kablolar yangına neden oldu
+fail5█Roket yanıt vermiyor, devam etmek için herhangi bir tuşa basın
+fail6█Sistem güncellemesi, uçuş sırasında roketin yeniden başlatılmasına neden oldu.......
+fail7█Roket, dünyaca ünlü bir havai fişek olma hayalini sürdürme girişimne kalkıştı.
+fail8█Batarya aşırı ısındı (sonuç: bum)
+fail9█Bunun kırılabileceğini kim bilebilirdi ki
+fail11█Sensör Hatası: Düzgün çalışmadı (Saygı göstermek için F tuşuna basın).
+fail12█İniş takımlarını takmayı kim unuttu?
+fail13█Araç fırlatma merkezi ile bağlantısını kaybetti, ne yapacağını bilmiyordu.
+fail14█Bu yüzden motorlarınızı bir alev makinesi ile ateşlememelisiniz
+fail15█Anten Arızası: Araç Bilgisayarı fırlatma merkezinden yeterli bilgi alamadı.
+fail16█Yük neden yakıt deposunun içinde?!?!
+fail17█Ücretsiz şekerleme için: https://discord.gg/sbXwwMs
+fail18█Yeterli koli bandı yok
+fail19█Aşırı basınç: Motor odası patladı.
+fail20█Görünüşe göre uzaylılar yüzünden roket patladı ... Endişelenme, onu bir sır olarak saklayacağız.
+fail21█Sızıntı: Yakıt deposundan sızıntı tespit edildi.
+fail22█Yukarı çıkan şeyin aşağı düşmesi muhtemeldir.
+fail23█Sızıntı: Motor ve yakıt deposu arasında küçük bir delik patlamaya neden oldu bum bum
+fail24█Roketiniz fiziğe meydan okudu ... bu yüzden çakıldı
+fail25█Hidrolik Arıza: Önemli bir roket parçası gerekli hareketi sağlayamadı.
+fail26█Bekle, bu ateşleme düğmesi değil
+fail27█Aşırı basınç: Yük uçuş sırasında patladı. Roket suçlu değil!
+fail28█Amanın, paraşütleri açmayı unuttuk...
+fail29█Aptal Çalışan: İş aletini, bir borunun içerisinde unuttuğu için o kısım tıkandı.
+fail30█Greta roketini yakaladı çünkü çevre için kötüymüş
+fail31█Hidrolik arıza: Grenaj açılamadı
+fail32█Endişelenme, sadece bir çizik
+fail33█Sıkıştırma: Yakıt biraz fazla sıkıştırıldı.
+fail34█Yük Roket modunda değildi
+fail35█Yakıt aşırı ısındı.
+fail36█Kendime not, aşamaları Blu Tac ile birbirine yapıştırma
+
+
+
+
+

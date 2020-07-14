@@ -16,6 +16,8 @@ Spanish: Daniel Yah & Juan "Grimidk" Mendez
 
 Latin American Spanish: Daniel Yah
 
+Turkish: Mehmet Tandoğan from https://turkceoyunmerkezi.com/
+
 French: Paola Sanchez & Clovis Chateau
 
 Big thanks to Krzysztof Gmyr for organizing the team & helping with the corrections!

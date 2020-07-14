@@ -4,6 +4,13 @@ rocket█Rocket
 capsule█Capsule
 spaceship█Spaceship
 
+spaceships█Spaceships
+vehiclesDockedToISS█Docked Vehicles
+
+readyToLeave█Ready
+
+issHeaderText█International Space Station&%<size=14><b><color=#64B5F6>Operational
+
 rocketRequiresCapsule█Rocket (Requires Capsule)
 rocketRequiresSpaceship█Rocket (Requires Spaceship)
 
@@ -41,7 +48,7 @@ marsLanding█Landing on <color=#E17055>Mars</color>
 earthLanding█Landing on <color=#64B5F6>Earth</color>
 marsLanded█Landed on <color=#E17055>Mars</color>
 
-readyToLaunch█<b><color=#64B5F6>{0} of {1}</b></color>\n<size=70%>are ready to launch!
+readyToLaunch█<b><color=#64B5F6>{0} of {1}</b></color>&%<size=70%>are ready to launch!
 
 capabilities█Capabilities
 reliability█Reliability
@@ -78,8 +85,8 @@ launchSetup_mission█Mission
 launchSetup_noVehiclesFound█[No vehicles found.]
 launchSetup_noPayloadsFound█[No capable payloads found.]
 launchSetup_selectVehicle█Select vehicle
-launchSetup_selectLaunchPad█Select launch pad
-launchSetup_selectLandingZone█Select landing zone
+launchSetup_selectLaunchPad█Launch Pad
+launchSetup_selectTanker█Orbital Tanker
 
 launchSetup_barge█Barge
 launchSetup_lz1█LZ-1
@@ -135,6 +142,7 @@ creator_vehicleCanGoAnywhere█This vehicle can go to any place you want.
 creator_capsuleRocket█This rocket can only carry the capsules.
 creator_spaceshipRocket█This rocket can only carry the spaceships.
 no_module_unlocked█No module is unlocked.
+
 
 
 

@@ -30,11 +30,14 @@ orbit_leo█LEO
 orbit_meo█MEO
 orbit_geo█GEO
 orbit_iss█MSK
+orbit_marsOrbit█Orbita Marsa
+orbit_marsSurface█Mars Surface
 
 vehicle_cargo█Towarowy
 vehicle_crew█Załogowy
 vehicle_tanker█Cysterna
 
+map_settings_header█Szybkie ustawienia
 map_settings_trackers_visible█Trackery widoczne?
 map_settings_satellites_visible█Satelity widoczne?
 map_settings_linklink_outline█Obramówka LinkLink?
@@ -42,10 +45,12 @@ map_settings_linklink_outline█Obramówka LinkLink?
 earth█Ziemia
 mars█Mars
 
+switchPlanet█Przełącz planetę
+
 tanking█Tankowanie...
 
-marsDetails█Mars Details
-earthLikePlanet█Earth-like Planet
+marsDetails█Szczegóły
+earthLikePlanet█Ziemiopodobna Planeta
 
 martians█Marsjanie
 materials█Materiały
@@ -55,13 +60,14 @@ water█Woda
 oxygen█Tlen
 fuel█Paliwo
 cybercars█Cyberauta
-nuke█Nuke
+nuke█Atomówka
 
-unitsToProduce█Units to Produce: {0}
+unitsToProduce█Sztuki do wyprodukowania: {0}
 
 marsProductionHeader█<b>Produkcja</b> <size=50%>/kwartał</size>
 marsUsageHeader█<b>Użycie</b> <size=50%>/kwartał</size>
 marsStorageHeader█<b>Magazynowanie</b>
+
 
 
 

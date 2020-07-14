@@ -4,10 +4,12 @@ rocket█Rakieta
 capsule█Kapsuła
 spaceship█Statek kosmiczny
 
-spaceships█Spaceships
-vehiclesDockedToISS█Docked Vehicles
+spaceships█Statki Kosmiczne
+vehiclesDockedToISS█Zadokowane Pojazdy
 
-issHeaderText█International Space Station&%<size=14><b><color=#64B5F6>Operational
+readyToLeave█Gotowy
+
+issHeaderText█Międzynarodowa Stacja Kosmiczna&%<size=14><b><color=#64B5F6>Działa Normalnie
 
 rocketRequiresCapsule█Rakieta (Wymaga kapsuły)
 rocketRequiresSpaceship█Rakieta (Wymaga statku kosmicznego)
@@ -46,7 +48,7 @@ marsLanding█Ląduje na <color=#E17055>Marsie</color>
 earthLanding█Ląduje na <color=#64B5F6>Ziemi</color>
 marsLanded█Wylądował na <color=#E17055>Mars</color>
 
-readyToLaunch█<b><color=#64B5F6>{0} of {1}</b></color>&%<size=70%>are ready to launch!
+readyToLaunch█<b><color=#64B5F6>{0} z {1}</b></color>&%<size=70%>są gotowe do startu!
 
 capabilities█Możliwości
 reliability█Niezawodność
@@ -83,8 +85,8 @@ launchSetup_mission█Misja
 launchSetup_noVehiclesFound█[Nie znaleziono pojazdów.]
 launchSetup_noPayloadsFound█[Nie znaleziono odpowiednich ładunków.]
 launchSetup_selectVehicle█Wybierz pojazd
-launchSetup_selectLaunchPad█Wybierz stanowisko
-launchSetup_selectLandingZone█Wybierz strefę lądowania
+launchSetup_selectLaunchPad█Stanowisko
+launchSetup_selectTanker█Cysterna
 
 launchSetup_barge█Barka
 launchSetup_lz1█Strefa 1
@@ -140,6 +142,7 @@ creator_vehicleCanGoAnywhere█Ten pojazd może lecieć wszędzie, gdzie tylko c
 creator_capsuleRocket█Ta rakieta może wystartować tylko kapsuły.
 creator_spaceshipRocket█Ta rakieta może wystartować tylko statki kosmiczne.
 no_module_unlocked█Żaden moduł nie jest odblokowany.
+
 
 
 

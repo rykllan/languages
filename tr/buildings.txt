@@ -1,0 +1,149 @@
+
+
+building█Yapılar
+building_office█Ofis
+building_factory█Fabrika
+building_laboratory█Laboratuvar
+building_hangar█Hangar
+building_simpleLP█Basit Fırlatma Rampası
+building_advancedLP█Gelişmiş Fırlatma Rampası
+building_megaLP█Mega Fırlatma Rampası
+
+building_category_all█Hepsi
+building_category_production█Üretim
+building_category_storage█Depo
+building_category_other█Diğer
+
+buildingSetup_buildingName█Yapı Adı...
+buildingSetup_overview█Genel bakış
+buildingSetup_setup█Kurulum
+buildingSetup_modules█Modüller
+buildingSetup_other█Diğer
+buildingSetup_billsCurrentQuarter█Cari dönem faturaları
+
+buildingSetup_nowWorkingOn█Şimdi üzerinde çalışıyor
+buildingSetup_queue█Kuyruk
+
+buildingSetup_produce█Üretim
+
+returnToEarth█Dünya'ya dön
+returnToEarthShort█Dön
+
+buildingSetup_negotiationPowerEachEmployee█Her çalışan için müzakere gücü
+buildingSetup_negotiationPowerBuilding█Yapı müzakere gücü
+buildingSetup_oneEmployee█Bir çalışan
+buildingSetup_negotiationPower█Müzakere gücü
+
+buildingSetup_vehicleStored█Depolanan araçlar
+
+buildingSetup_employees█<size=14>{0} çalışanlar</size>&%{1} <color=#16A085>$</color> / yıllık&%<size=14>{2} <color=#16A085>$</color> / her biri
+buildingSetup_manageEmployees█Çalışanları yönetin
+
+buildingSetup_destroyBuilding█Yapıyı yok et
+
+small_factory█Küçük Fabrika
+small_factory_desc█Yalnızca küçük modüller oluşturabilirsiniz.
+
+medium_factory█Orta Fabrika
+medium_factory_desc█Yalnızca küçük ve orta ölçekli modüller oluşturabilirsiniz.
+
+large_factory█Büyük Fabrika
+large_factory_desc█Uzay Gemileri ve Süper Ağırlıklar hariç her türlü aracı inşa edebilirsiniz.
+
+giga_factory█Giga Fabrikası
+giga_factory_desc█Her türlü aracı ve LinkLink inşa edebilirsiniz.
+
+small_hangar█Küçük Hangar
+small_hangar_desc█Sadece roketleri saklayabilirsiniz.
+
+medium_hangar█Orta Hangar
+medium_hangar_desc█Sadece roket ve kapsüllerini saklayabilirsiniz.
+
+large_hangar█Büyük Hangar
+large_hangar_desc█Daha fazla roket ve kapsül saklayabilirsiniz.
+
+mega_hangar█Mega Hangar
+mega_hangar_desc█Sadece Uzay Gemilerini ve Süper Ağırlıkları saklayabilirsiniz.
+
+office█Ofis
+office_desc█Ofis çalışanları size daha fazla müzakere gücü veriyor (müzakere sırasında daha yüksek fiyat sunabilirsiniz).
+
+laboratory█Laboratuvar
+laboratory_desc█Beceri puanı üretir.
+
+megaLP█Mega Fırlatma Rampası
+megaLP_desc█Uzay gemilerini fırlatabilirsiniz.
+
+smallTerminal█LinkLink Küçük Terminal
+smallTerminal_desc█Terminaller, Dünya üzerindeki insanları LinkLinks ile birbirine bağlar. Daha fazla terminal == daha fazla kullanıcı kapasitesi.
+
+largeTerminal█LinkLink Büyük Terminal
+largeTerminal_desc█Terminaller, Dünya üzerindeki insanları LinkLinks ile birbirine bağlar. Daha fazla terminal == daha fazla kullanıcı kapasitesi.
+
+landingZone█İniş bölgesi
+landingZone_desc█Gerçekten tarif etmem gerekiyor mu?
+
+smallHotel█Küçük Otel
+smallHotel_desc█Marslılar böyle yerlerde yaşıyorlar.
+
+mediumHotel█Orta Otel
+mediumHotel_desc█Daha fazla Marslı böyle yerlerde yaşıyor.
+
+largeHotel█Büyük Otel
+largeHotel_desc█Birçok Marslı böyle yerlerde yaşıyor.
+
+waterFactory█Su Fabrikası
+waterFactory_desc█Su ve Oksijen Üretir.
+
+fuelFactory█Akaryakıt Fabrikası
+fuelFactory_desc█Yakıt Üretir.
+
+steelFactory█Çelik fabrikası
+steelFactory_desc█Malzeme ve Siber Otomobil Üretir.
+
+mediumGreenhouse█Orta Sera
+mediumGreenhouse_desc█Gıda ve Oksijen Üretir.
+
+largeGreenhouse█Büyük Sera
+largeGreenhouse_desc█Daha fazla Gıda ve Oksijen üretir.
+
+smallSolar█Küçük Solar
+smallSolar_desc█Elektrik Üretir.
+
+mediumSolar█Orta Solar
+mediumSolar_desc█Daha fazla Elektrik üretir.
+
+smallWaterStorage█Küçük Su Deposu
+smallWaterStorage_desc█Su ve Oksijen depolar.
+
+mediumWaterStorage█Orta Su Deposu
+mediumWaterStorage_desc█Daha fazla Su ve Oksijen depolar.
+
+largeWaterStorage█Büyük Su Deposu
+largeWaterStorage_desc█Çok daha fazla Su ve Oksijen depolar.
+
+smallFuelStorage█Küçük Yakıt Deposu
+smallFuelStorage_desc█Yakıt depolar.
+
+mediumFuelStorage█Orta Yakıt Deposu
+mediumFuelStorage_desc█Daha fazla yakıt depolar.
+
+largeFuelStorage█Büyük Yakıt Deposu
+largeFuelStorage_desc█Çok daha fazla yakıt depolar.
+
+lp_cape█Cape Canaveral
+lp_vandenberg█Vandenberg
+lp_pacificSpaceport█Pasifik Uzay Üssü
+lp_guiana█Guiana
+lp_midAtlanticSpaceport█Atlantik Uzay Üssü
+lp_balkonur█Baikonur
+lp_plesetsk█Plesetsk
+lp_xichang█Xichang
+lp_rocketComplex█Private Uzay Üssü
+lp_australia█Woomera
+lp_india█Satish Dhawan
+
+
+
+
+

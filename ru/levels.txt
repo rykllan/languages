@@ -20,18 +20,18 @@ levelTitle16█Человеческий фактор
 levelTitle17█Становимся большими
 levelTitle18█"Мы собираемся сделать это. Поскольку Бог - мой кровавый свидетель, я одержим желанием заставить его работать." - Илон Маск
 levelTitle19█Big Fu*king Rocket
-levelTitle20█Going Interplanetary
-levelTitle21█Spark
-levelTitle22█Infrastructure
-levelTitle23█Multi-Planetary Species
-levelTitle24█Expansion
-levelTitle25█Route
-levelTitle26█Cybermars
-levelTitle27█Sustainable City
-levelTitle28█Nuclear Bomb Goes Brrrrr
-levelTitle29█Too hot
-levelTitle30█Too cold
-levelTitle31█Home 2.0
+levelTitle20█Становимся мультиланетарными
+levelTitle21█Искра
+levelTitle22█Инфраструктура
+levelTitle23█Мультипланетарный вид
+levelTitle24█Экспансия
+levelTitle25█Путь
+levelTitle26█Кибермарс
+levelTitle27█Самостоятельный город
+levelTitle28█haha nuclear bombs go brrrrr
+levelTitle29█Очень горячо
+levelTitle30█Очень холодно
+levelTitle31█Земля 2.0
 levelTitle32█https://youtu.be/CfqCQQe2E2s
 
 progress_unlockAllModules█Разблокировать все модули
@@ -39,12 +39,12 @@ progress_launchSmallRockets█Запустить НОО-ракет: {0}
 progress_launchMediumRockets█Запустить MEO-ракет: {0}
 progress_launchLargeRockets█Запустить GEO-ракет: {0}
 progress_launchSuperheavyRockets█Запустить Spaceship: {0}
-progress_launchToMars█Launch {0} spaceship(s) to Mars
+progress_launchToMars█Запустить Spaceship к Марсу: {0}
 progress_launchCargoCapsules█Запустить грузовых кораблей: {0}
 progress_launchCrewCapsules█Запустить пилотируемых кораблей: {0}
 
 progress_landRockets█Посадить ракет: {0}
-progress_landOnMars█Land on Mars {0} spaceship(s)
+progress_landOnMars█Посадить Spaceship на Марс: {0}
 progress_reuseRockets█Повторно использовать ракет: {0}
 progress_catchFairings█Поймать обтекателей: {0}
 
@@ -54,94 +54,95 @@ progress_launchFromOwnLaunchPad█Запустить ракет с собств�
 progress_launchTesla█Запустить автомобиль
 progress_launchCat█Запустить кота!
 progress_launchTechnician█Запустить инженера!
-progress_launchPrologue█Launch SPATE's Prologue EP!
-progress_launchFlatearther█Launch Flatearther Murphy!
-progress_launchMattRescueMission█Launch Matt Rescue Mission!
-progress_launchMarsCamera█Launch Mars Camera!
+progress_launchPrologue█Запустить SPATE's Prologue EP!
+progress_launchFlatearther█Запустить плоскоземельщика Мёрфи!
+progress_launchMattRescueMission█Запустить миссию по спасению Мэтта!
+progress_launchMarsCamera█Запустить камеру к Марсу!
 
 progress_buildFactories█Построить фабрик: {0}
 progress_buildOffices█Построить офисов: {0}
 progress_buildLaboratories█Построить лабораторий: {0}
 progress_buildMegaLaunchPads█Построить "Мега-падов": {0}
-progress_buildMarsBuildings█Build {0} building(s) on Mars!
-progress_buildFuelFactories█Build {0} fuel factory(ies)!
-progress_buildSteelFactories█Build {0} steel factory(ies)!
-progress_buildLandingZones█Build {0} landing zone(s)!
+progress_buildMarsBuildings█Построить зданий на Марсе: {0}
+progress_buildFuelFactories█Построить топливных заводов: {0}
+progress_buildSteelFactories█Построить стальных заодов: {0}
+progress_buildLandingZones█Построить посадочных площадок: {0}
 
 progress_getContracts█Получить контрактов: {0}
 progress_launchLinkLinks█Запустить спутников LinkLink: {0}
 progress_reachLinkLinkUsers█Пользователей LinkLink: {0}
 progress_hireEmployees█Нанять сотрудников: {0}
-progress_martiansCount█Have {0} People on Mars
-progress_marsTerraform█Terraform Mars in {0}%
-progress_marsTransportOxygen█Transport {0} Oxygen units to Mars
+progress_martiansCount█Людей на Марсе: {0}
+progress_marsTerraform█Терраформировать Марс на {0}%
+progress_marsTransportOxygen█Транспортировать кислорода на Марс: {0}
 
 progress_maxOffices█Макс. офисов:
-progress_multiplePayloads█[<color=#81C784>FEATURE</color>] &%Launch many payloads at once!
-progress_fundraiserHats█[<color=#FF9F43>FUNDRAISING</color>] &%Sell hats!
-progress_fundraiserBricks█[<color=#FF9F43>FUNDRAISING</color>] &%Sell bricks!
-progress_fundraiserNAF█[<color=#FF9F43>FUNDRAISING</color>] &%Sell (not) flamethrowers!
-progress_fundraiserRocketquilla█[<color=#FF9F43>FUNDRAISING</color>] &%Sell rocketquillas!
-progress_fundraiserShorts█[<color=#FF9F43>FUNDRAISING</color>] &%Sell short shorts!
+progress_multiplePayloads█[<color=#81C784>ВОЗМОЖНОСТЬ</color>] &%Запуск неск. нагрузок за раз!
+progress_fundraiserHats█[<color=#FF9F43>ФИНАНСИРОВАНИЕ</color>] &%Продажа кепок!
+progress_fundraiserBricks█[<color=#FF9F43>ФИНАНСИРОВАНИЕ</color>] &%Продажа кирпичей!
+progress_fundraiserNAF█[<color=#FF9F43>ФИНАНСИРОВАНИЕ</color>] &%Продажа (не) огнемётов!
+progress_fundraiserRocketquilla█[<color=#FF9F43>ФИНАНСИРОВАНИЕ</color>] &%Продажа рокеткилы!
+progress_fundraiserShorts█[<color=#FF9F43>ФИНАНСИРОВАНИЕ</color>] &%Продажа коротких шорт!
 
 progress_issSupplierMission█Специальная миссия: <b><color=#64B5F6>Снабжение МКС
 progress_issCrewMission█Специальная миссия: <b><color=#64B5F6>Коммерческие экипажи для МКС
 progress_teslaRoadsterMission█Специальная миссия: <b><color=#64B5F6>Автомобиль
 progress_catMission█Специальная миссия: <b><color=#64B5F6>Кот астронавта
 progress_technicianMission█Специальная миссия: <b><color=#64B5F6>Инженер в чемодане
-progress_truthMission█Special Mission: <b><color=#64B5F6>The Truth
-progress_mattMission█Special Mission: <b><color=#64B5F6>Matt
-progress_spateMission█Special Mission: <b><color=#64B5F6>Prologue EP
+progress_truthMission█Специальная миссия: <b><color=#64B5F6>Вера
+progress_mattMission█Специальная миссия: <b><color=#64B5F6>Мэтт
+progress_spateMission█Специальная миссия: <b><color=#64B5F6>Prologue EP
 
-progress_smallFactory█[<color=#E74C3C>BUILDING</color>] &%Small Factory
-progress_mediumFactory█[<color=#E74C3C>BUILDING</color>] &%Medium Factory
-progress_largeFactory█[<color=#E74C3C>BUILDING</color>] &%Large Factory
-progress_gigaFactory█[<color=#E74C3C>BUILDING</color>] &%Giga Factory
+progress_smallFactory█[<color=#E74C3C>ЗДАНИЕ</color>] &%Малая фабрика
+progress_mediumFactory█[<color=#E74C3C>ЗДАНИЕ</color>] &%Средняя фабрика
+progress_largeFactory█[<color=#E74C3C>ЗДАНИЕ</color>] &%Большая фабрика
+progress_gigaFactory█[<color=#E74C3C>ЗДАНИЕ</color>] &%Гигафабрика
 
-progress_smallHangar█[<color=#E74C3C>BUILDING</color>] &%Small Hangar
-progress_mediumHangar█[<color=#E74C3C>BUILDING</color>] &%Medium Hangar
-progress_largeHangar█[<color=#E74C3C>BUILDING</color>] &%Large Hangar
-progress_megaHangar█[<color=#E74C3C>BUILDING</color>] &%Mega Hangar
+progress_smallHangar█[<color=#E74C3C>ЗДАНИЕ</color>] &%Малый ангар
+progress_mediumHangar█[<color=#E74C3C>ЗДАНИЕ</color>] &%Средний ангар
+progress_largeHangar█[<color=#E74C3C>ЗДАНИЕ</color>] &%Большой ангар
+progress_megaHangar█[<color=#E74C3C>ЗДАНИЕ</color>] &%"Мега-ангар"
 
-progress_linkLinkSmallTerminal█[<color=#E74C3C>BUILDING</color>] &%LinkLink Small Terminal
-progress_linkLinkLargeTerminal█[<color=#E74C3C>BUILDING</color>] &%LinkLink Large Terminal
+progress_linkLinkSmallTerminal█[<color=#E74C3C>ЗДАНИЕ</color>] &%Малый терминал LinkLink
+progress_linkLinkLargeTerminal█[<color=#E74C3C>ЗДАНИЕ</color>] &%Большой терминал LinkLink
 
-progress_megaLaunchPad█[<color=#E74C3C>BUILDING</color>] &%Mega Launch Pad
+progress_megaLaunchPad█[<color=#E74C3C>ЗДАНИЕ</color>] &%"Мега-пад"
 
-progress_smallHotel█[<color=#E74C3C>BUILDING</color>] &%Small Hotel
-progress_mediumHotel█[<color=#E74C3C>BUILDING</color>] &%Medium Hotel
-progress_largeHotel█[<color=#E74C3C>BUILDING</color>] &%Large Hotel
+progress_smallHotel█[<color=#E74C3C>ЗДАНИЕ</color>] &%Малый отель
+progress_mediumHotel█[<color=#E74C3C>ЗДАНИЕ</color>] &%Средний отель
+progress_largeHotel█[<color=#E74C3C>ЗДАНИЕ</color>] &%Большой отель
 
-progress_mediumGreenhouse█[<color=#E74C3C>BUILDING</color>] &%Medium Greenhouse
-progress_largeGreenhouse█[<color=#E74C3C>BUILDING</color>] &%Large Greenhouse
+progress_mediumGreenhouse█[<color=#E74C3C>ЗДАНИЕ</color>] &%Средняя теплица
+progress_largeGreenhouse█[<color=#E74C3C>ЗДАНИЕ</color>] &%Большая теплица
 
-progress_smallSolar█[<color=#E74C3C>BUILDING</color>] &%Small Solar
-progress_mediumSolar█[<color=#E74C3C>BUILDING</color>] &%Medium Solar
+progress_smallSolar█[<color=#E74C3C>ЗДАНИЕ</color>] &%Малая солнечная панель
+progress_mediumSolar█[<color=#E74C3C>ЗДАНИЕ</color>] &%Средняя солнечная панель
 
-progress_smallWater█[<color=#E74C3C>BUILDING</color>] &%Small Water Storage
-progress_mediumWater█[<color=#E74C3C>BUILDING</color>] &%Medium Water Storage
-progress_largeWater█[<color=#E74C3C>BUILDING</color>] &%Large Water Storage
+progress_smallWater█[<color=#E74C3C>ЗДАНИЕ</color>] &%Малый водный резервуар
+progress_mediumWater█[<color=#E74C3C>ЗДАНИЕ</color>] &%Средний водный резервуар
+progress_largeWater█[<color=#E74C3C>ЗДАНИЕ</color>] &%Большой водный резервуар
 
-progress_smallFuel█[<color=#E74C3C>BUILDING</color>] &%Small Fuel Storage
-progress_mediumFuel█[<color=#E74C3C>BUILDING</color>] &%Medium Fuel Storage
-progress_largeFuel█[<color=#E74C3C>BUILDING</color>] &%Large Fuel Storage
+progress_smallFuel█[<color=#E74C3C>ЗДАНИЕ</color>] &%Малый топливный резервуар
+progress_mediumFuel█[<color=#E74C3C>ЗДАНИЕ</color>] &%Средний топливный резервуар
+progress_largeFuel█[<color=#E74C3C>ЗДАНИЕ</color>] &%Большой топливный резервуар
 
-progress_waterFactory█[<color=#E74C3C>BUILDING</color>] &%Water Factory
-progress_fuelFactory█[<color=#E74C3C>BUILDING</color>] &%Fuel Factory
-progress_steelFactory█[<color=#E74C3C>BUILDING</color>] &%Steel Factory
+progress_waterFactory█[<color=#E74C3C>ЗДАНИЕ</color>] &%Фабрика по производству воды
+progress_fuelFactory█[<color=#E74C3C>ЗДАНИЕ</color>] &%Топливная фабрика
+progress_steelFactory█[<color=#E74C3C>ЗДАНИЕ</color>] &%Стальная фабрика
 
-progress_landingZone█[<color=#E74C3C>BUILDING</color>] &%Landing Zone
+progress_landingZone█[<color=#E74C3C>ЗДАНИЕ</color>] &%Посадочная площадка
 
-progress_linkLink30█[<color=#81C784>FEATURE</color>] &%LinkLink (60)
-progress_materials20█[<color=#81C784>FEATURE</color>] &%Materials (35)
-progress_oxygen40█[<color=#81C784>FEATURE</color>] &%Oxygen (40)
-progress_martians15█[<color=#81C784>FEATURE</color>] &%Martians (15)
-progress_cybercar3█[<color=#81C784>FEATURE</color>] &%Cybercar (3)
-progress_nuke3█[<color=#81C784>FEATURE</color>] &%Nuke (3)
+progress_linkLink30█[<color=#81C784>ВОЗМОЖНОСТЬ</color>] &%LinkLink (60)
+progress_materials20█[<color=#81C784>ВОЗМОЖНОСТЬ</color>] &%Материалы (35)
+progress_oxygen40█[<color=#81C784>ВОЗМОЖНОСТЬ</color>] &%Кислород (40)
+progress_martians15█[<color=#81C784>ВОЗМОЖНОСТЬ</color>] &%Марсиане (15)
+progress_cybercar3█[<color=#81C784>ВОЗМОЖНОСТЬ</color>] &%Киберкар (3)
+progress_nuke3█[<color=#81C784>ВОЗМОЖНОСТЬ</color>] &%Атомная бомба (3)
 
 progress_linkLinkCapacity50█[<color=#81C784>LinkLink</color>] Вместимость LinkLink +50%
 progress_linkLinkCapacity25█[<color=#81C784>LinkLink</color>] Вместимость LinkLink +25%
 progress_linkLinkCosts█[<color=#81C784>LinkLink</color>] Стоимость производства LinkLink -25%
+
 
 
 

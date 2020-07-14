@@ -16,6 +16,8 @@ iss_catContent█Mi gato, Balwina, esta en muy mal estado... Y yo tengo que qued
 iss_technicianHeader█Emergencia en la EEI
 iss_technicianContent█Buenas tardes, &%&%Actualmente hay 4 astronautas en la Espación Espacíal Internacionál. Sus vidas estan en peligro debido a una fuga mediana en uno de los modulos. &%&%Sabemos que tu compañia no tiene capsulas de tripulacion, por eso tendras que usar una capsula de carga. &%&%Porfavor hazlo tan rapido como puedas Y no hables con la prensa sobre el vuelo. Nadie puede saber que mandaremos una persona en una cápsula de carga! &%&%Gracias por la coperación, seras remunerado cuando la misión termine.
 
+iss_vehicleAboutToReturn█¡{0} está por regresar a la Tierra!
+
 teslaRoadsterHeader█Misión del Tesla Roadster
 teslaRoadsterContent█Lanza un auto al espacio porque pues...¿por qué no?
 
@@ -39,7 +41,7 @@ cantRepairSoManyVehicles█¡No puedes reparar tantos vehículos al mismo tiempo
 cantRemoveProject█No puedes quitar este proyecto porque hay vehículos en él.
 
 noHangars█No puedes guardar este vehículo por que no tienes espacio en tus hangares o tienes que construir <color=#64B5F6>{0}</color> para guardarlo {1}.
-noHangarsLanding█A spaceship is trying to land! You need more space in <color=#64B5F6>{0}</color> to store it!
+noHangarsLanding█¡Una nave espacial está tratando de aterrizar!¡Necesitas mas espacio <color=#64B5F6>{0}</color> para guardarla!
 noFactories█{0} no puede ser construido por que no tienes {2} capaces de hacer {1} módulos.
 
 projectMustHaveName█El proyecto debe tener un nombre. ¿Alguna vez has visto un cohete sin nombre?
@@ -63,14 +65,15 @@ cantBuildSimpleLP█No puedes construir plataformas de lanzamiento simples en es
 cantBuildAdvancedLP█No puedes construir plataformas de lanzamiento avanzadas en este momento.
 cantBuildMegaLP█No puedes construir mega plataformas de lanzamiento en este momento.
 
-noGigaFactories█You don't have any GigaFactories!
+noGigaFactories█¡No tienes ninguna Giga-Fábrica!
 
-noMoney█Not enough money!
-noMaterials█Not enough materials!
-noCybercars█Not enough cybercars!
+noMoney█¡Dinero insuficiente!
+noMaterials█¡Materiales insuficientes!
+noCybercars█¡Cibercarros insuficientes!
 
-parkingOrbit█Parking Orbit
-leavingParkingOrbit█Leaving Orbit in {0}
+parkingOrbit█Órbita Estacionaria
+leavingParkingOrbit█Saliendo de órbita en{0}
+
 
 
 

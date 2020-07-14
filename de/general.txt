@@ -30,17 +30,22 @@ orbit_leo█LEO
 orbit_meo█MEO
 orbit_geo█GEO
 orbit_iss█ISS
+orbit_marsOrbit█Mars Orbit
+orbit_marsSurface█Mars Surface
 
 vehicle_cargo█Fracht
 vehicle_crew█Besatzung
 vehicle_tanker█Tanker
 
+map_settings_header█Quick Settings
 map_settings_trackers_visible█Trackers Visible
 map_settings_satellites_visible█Satelliten sichtbar
 map_settings_linklink_outline█LinkLink Outline
 
 earth█Erde
 mars█Mars
+
+switchPlanet█Switch Planet
 
 tanking█Tanking...
 
@@ -62,6 +67,7 @@ unitsToProduce█Zu produzierende Einheiten: {0}
 marsProductionHeader█<b>Produktion</b> <size=50%>/Quartier</size>
 marsUsageHeader█<b>Benutzung</b> <size=50%>/Quartier</size>
 marsStorageHeader█<b>Speicher</b>
+
 
 
 

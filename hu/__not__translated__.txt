@@ -28,75 +28,87 @@ File: general.txt (24)
 Original Translation: orbit_iss█ISS
 
 File: general.txt (25)
-Original Translation: vehicle_cargo█Cargo
+Original Translation: orbit_marsOrbit█Mars Orbit
 
 File: general.txt (26)
-Original Translation: vehicle_crew█Crew
+Original Translation: orbit_marsSurface█Mars Surface
 
 File: general.txt (27)
-Original Translation: vehicle_tanker█Tanker
+Original Translation: vehicle_cargo█Cargo
 
 File: general.txt (28)
-Original Translation: map_settings_trackers_visible█Trackers Visible
+Original Translation: vehicle_crew█Crew
 
 File: general.txt (29)
-Original Translation: map_settings_satellites_visible█Satellites Visible
+Original Translation: vehicle_tanker█Tanker
 
 File: general.txt (30)
-Original Translation: map_settings_linklink_outline█LinkLink Outline
+Original Translation: map_settings_header█Quick Settings
 
 File: general.txt (31)
-Original Translation: earth█Earth
+Original Translation: map_settings_trackers_visible█Trackers Visible
 
 File: general.txt (32)
-Original Translation: mars█Mars
+Original Translation: map_settings_satellites_visible█Satellites Visible
 
 File: general.txt (33)
-Original Translation: tanking█Tanking...
+Original Translation: map_settings_linklink_outline█LinkLink Outline
 
 File: general.txt (34)
-Original Translation: marsDetails█Mars Details
+Original Translation: earth█Earth
 
 File: general.txt (35)
-Original Translation: earthLikePlanet█Earth-like Planet
+Original Translation: mars█Mars
 
 File: general.txt (36)
-Original Translation: martians█Martians
+Original Translation: switchPlanet█Switch Planet
 
 File: general.txt (37)
-Original Translation: materials█Materials
+Original Translation: tanking█Tanking...
 
 File: general.txt (38)
-Original Translation: electricity█Electricity
+Original Translation: marsDetails█Mars Details
 
 File: general.txt (39)
-Original Translation: food█Food
+Original Translation: earthLikePlanet█Earth-like Planet
 
 File: general.txt (40)
-Original Translation: water█Water
+Original Translation: martians█Martians
 
 File: general.txt (41)
-Original Translation: oxygen█Oxygen
+Original Translation: materials█Materials
 
 File: general.txt (42)
-Original Translation: fuel█Fuel
+Original Translation: electricity█Electricity
 
 File: general.txt (43)
-Original Translation: cybercars█Cybercars
+Original Translation: food█Food
 
 File: general.txt (44)
-Original Translation: nuke█Nuke
+Original Translation: water█Water
 
 File: general.txt (45)
-Original Translation: unitsToProduce█Units to Produce: {0}
+Original Translation: oxygen█Oxygen
 
 File: general.txt (46)
-Original Translation: marsProductionHeader█<b>Production</b> <size=50%>/quarter</size>
+Original Translation: fuel█Fuel
 
 File: general.txt (47)
-Original Translation: marsUsageHeader█<b>Usage</b> <size=50%>/quarter</size>
+Original Translation: cybercars█Cybercars
 
 File: general.txt (48)
+Original Translation: nuke█Nuke
+
+File: general.txt (49)
+Original Translation: unitsToProduce█Units to Produce: {0}
+
+File: general.txt (50)
+Original Translation: marsProductionHeader█<b>Production</b> <size=50%>/quarter</size>
+
+File: general.txt (51)
+Original Translation: marsUsageHeader█<b>Usage</b> <size=50%>/quarter</size>
+
+File: general.txt (52)
 Original Translation: marsStorageHeader█<b>Storage</b>
 
 File: buildings.txt (0)
@@ -126,208 +138,211 @@ Original Translation: buildingSetup_produce█Produce
 File: buildings.txt (21)
 Original Translation: returnToEarth█Return to Earth
 
-File: buildings.txt (30)
-Original Translation: small_factory█Small Factory
+File: buildings.txt (22)
+Original Translation: returnToEarthShort█Return
 
 File: buildings.txt (31)
-Original Translation: small_factory_desc█You can build only small modules.
+Original Translation: small_factory█Small Factory
 
 File: buildings.txt (32)
-Original Translation: medium_factory█Medium Factory
+Original Translation: small_factory_desc█You can build only small modules.
 
 File: buildings.txt (33)
-Original Translation: medium_factory_desc█You can build only small and medium modules.
+Original Translation: medium_factory█Medium Factory
 
 File: buildings.txt (34)
-Original Translation: large_factory█Large Factory
+Original Translation: medium_factory_desc█You can build only small and medium modules.
 
 File: buildings.txt (35)
-Original Translation: large_factory_desc█You can build all kinds of vehicles except Spaceships and Superheavies.
+Original Translation: large_factory█Large Factory
 
 File: buildings.txt (36)
-Original Translation: giga_factory█Giga Factory
+Original Translation: large_factory_desc█You can build all kinds of vehicles except Spaceships and Superheavies.
 
 File: buildings.txt (37)
-Original Translation: giga_factory_desc█You can build every kind of vehicles and LinkLink.
+Original Translation: giga_factory█Giga Factory
 
 File: buildings.txt (38)
-Original Translation: small_hangar█Small Hangar
+Original Translation: giga_factory_desc█You can build every kind of vehicles and LinkLink.
 
 File: buildings.txt (39)
-Original Translation: small_hangar_desc█You can store only rockets.
+Original Translation: small_hangar█Small Hangar
 
 File: buildings.txt (40)
-Original Translation: medium_hangar█Medium Hangar
+Original Translation: small_hangar_desc█You can store only rockets.
 
 File: buildings.txt (41)
-Original Translation: medium_hangar_desc█You can store only rockets and capsules.
+Original Translation: medium_hangar█Medium Hangar
 
 File: buildings.txt (42)
-Original Translation: large_hangar█Large Hangar
+Original Translation: medium_hangar_desc█You can store only rockets and capsules.
 
 File: buildings.txt (43)
-Original Translation: large_hangar_desc█You can store more rockets and capsules.
+Original Translation: large_hangar█Large Hangar
 
 File: buildings.txt (44)
-Original Translation: mega_hangar█Mega Hangar
+Original Translation: large_hangar_desc█You can store more rockets and capsules.
 
 File: buildings.txt (45)
+Original Translation: mega_hangar█Mega Hangar
+
+File: buildings.txt (46)
 Original Translation: mega_hangar_desc█You can store only Spaceships and Superheavies.
 
-File: buildings.txt (47)
+File: buildings.txt (48)
 Original Translation: office_desc█Office employees are giving you more negotiation power (you can offer higher price at negotiating).
 
-File: buildings.txt (49)
+File: buildings.txt (50)
 Original Translation: laboratory_desc█Produces skill points.
 
-File: buildings.txt (51)
+File: buildings.txt (52)
 Original Translation: megaLP_desc█You can launch Spaceships.
 
-File: buildings.txt (52)
+File: buildings.txt (53)
 Original Translation: smallTerminal█LinkLink Small Terminal
 
-File: buildings.txt (53)
+File: buildings.txt (54)
 Original Translation: smallTerminal_desc█Terminals are connecting people on Earth with LinkLinks. More terminals == more users capacity.
 
-File: buildings.txt (54)
+File: buildings.txt (55)
 Original Translation: largeTerminal█LinkLink Large Terminal
 
-File: buildings.txt (55)
+File: buildings.txt (56)
 Original Translation: largeTerminal_desc█Terminals are connecting people on Earth with LinkLinks. More terminals == more users capacity.
 
-File: buildings.txt (56)
+File: buildings.txt (57)
 Original Translation: landingZone█Landing Zone
 
-File: buildings.txt (57)
+File: buildings.txt (58)
 Original Translation: landingZone_desc█Do I really need to describe it?
 
-File: buildings.txt (58)
+File: buildings.txt (59)
 Original Translation: smallHotel█Small Hotel
 
-File: buildings.txt (59)
+File: buildings.txt (60)
 Original Translation: smallHotel_desc█Martians are living in places like this.
 
-File: buildings.txt (60)
+File: buildings.txt (61)
 Original Translation: mediumHotel█Medium Hotel
 
-File: buildings.txt (61)
+File: buildings.txt (62)
 Original Translation: mediumHotel_desc█More Martians are living in places like this.
 
-File: buildings.txt (62)
+File: buildings.txt (63)
 Original Translation: largeHotel█Large Hotel
 
-File: buildings.txt (63)
+File: buildings.txt (64)
 Original Translation: largeHotel_desc█A lot of Martians are living in places like this.
 
-File: buildings.txt (64)
+File: buildings.txt (65)
 Original Translation: waterFactory█Water Factory
 
-File: buildings.txt (65)
+File: buildings.txt (66)
 Original Translation: waterFactory_desc█Produces Water and Oxygen.
 
-File: buildings.txt (66)
+File: buildings.txt (67)
 Original Translation: fuelFactory█Fuel Factory
 
-File: buildings.txt (67)
+File: buildings.txt (68)
 Original Translation: fuelFactory_desc█Produces Fuel.
 
-File: buildings.txt (68)
+File: buildings.txt (69)
 Original Translation: steelFactory█Steel Factory
 
-File: buildings.txt (69)
+File: buildings.txt (70)
 Original Translation: steelFactory_desc█Produces Materials and Cybercars.
 
-File: buildings.txt (70)
+File: buildings.txt (71)
 Original Translation: mediumGreenhouse█Medium Greenhouse
 
-File: buildings.txt (71)
+File: buildings.txt (72)
 Original Translation: mediumGreenhouse_desc█Produces Food and Oxygen.
 
-File: buildings.txt (72)
+File: buildings.txt (73)
 Original Translation: largeGreenhouse█Large Greenhouse
 
-File: buildings.txt (73)
+File: buildings.txt (74)
 Original Translation: largeGreenhouse_desc█Produces more Food and Oxygen.
 
-File: buildings.txt (74)
+File: buildings.txt (75)
 Original Translation: smallSolar█Small Solar
 
-File: buildings.txt (75)
+File: buildings.txt (76)
 Original Translation: smallSolar_desc█Produces Electricity.
 
-File: buildings.txt (76)
+File: buildings.txt (77)
 Original Translation: mediumSolar█Medium Solar
 
-File: buildings.txt (77)
+File: buildings.txt (78)
 Original Translation: mediumSolar_desc█Produces more Electricity.
 
-File: buildings.txt (78)
+File: buildings.txt (79)
 Original Translation: smallWaterStorage█Small Water Storage
 
-File: buildings.txt (79)
+File: buildings.txt (80)
 Original Translation: smallWaterStorage_desc█Stores Water and Oxygen.
 
-File: buildings.txt (80)
+File: buildings.txt (81)
 Original Translation: mediumWaterStorage█Medium Water Storage
 
-File: buildings.txt (81)
+File: buildings.txt (82)
 Original Translation: mediumWaterStorage_desc█Stores more Water and Oxygen.
 
-File: buildings.txt (82)
+File: buildings.txt (83)
 Original Translation: largeWaterStorage█Large Water Storage
 
-File: buildings.txt (83)
+File: buildings.txt (84)
 Original Translation: largeWaterStorage_desc█Stores a lot of Water and Oxygen.
 
-File: buildings.txt (84)
+File: buildings.txt (85)
 Original Translation: smallFuelStorage█Small Fuel Storage
 
-File: buildings.txt (85)
+File: buildings.txt (86)
 Original Translation: smallFuelStorage_desc█Stores Fuel.
 
-File: buildings.txt (86)
+File: buildings.txt (87)
 Original Translation: mediumFuelStorage█Medium Fuel Storage
 
-File: buildings.txt (87)
+File: buildings.txt (88)
 Original Translation: mediumFuelStorage_desc█Stores more Fuel.
 
-File: buildings.txt (88)
+File: buildings.txt (89)
 Original Translation: largeFuelStorage█Large Fuel Storage
 
-File: buildings.txt (89)
+File: buildings.txt (90)
 Original Translation: largeFuelStorage_desc█Stores a lot of Fuel.
 
-File: buildings.txt (90)
+File: buildings.txt (91)
 Original Translation: lp_cape█Cape Canaveral
 
-File: buildings.txt (91)
+File: buildings.txt (92)
 Original Translation: lp_vandenberg█Vandenberg
 
-File: buildings.txt (92)
+File: buildings.txt (93)
 Original Translation: lp_pacificSpaceport█Pacific Spaceport
 
-File: buildings.txt (93)
+File: buildings.txt (94)
 Original Translation: lp_guiana█Guiana
 
-File: buildings.txt (94)
+File: buildings.txt (95)
 Original Translation: lp_midAtlanticSpaceport█Atlantic Spaceport
 
-File: buildings.txt (95)
+File: buildings.txt (96)
 Original Translation: lp_balkonur█Baikonur
 
-File: buildings.txt (96)
+File: buildings.txt (97)
 Original Translation: lp_plesetsk█Plesetsk
 
-File: buildings.txt (97)
+File: buildings.txt (98)
 Original Translation: lp_xichang█Xichang
 
-File: buildings.txt (98)
+File: buildings.txt (99)
 Original Translation: lp_rocketComplex█Private Spaceport
 
-File: buildings.txt (99)
+File: buildings.txt (100)
 Original Translation: lp_australia█Woomera
 
-File: buildings.txt (100)
+File: buildings.txt (101)
 Original Translation: lp_india█Satish Dhawan
 
 File: company.txt (7)
@@ -444,6 +459,42 @@ Original Translation: contract_deadline_fine█Fine:
 File: contracts.txt (29)
 Original Translation: payload_preparing_to_fly█Preparing to fly
 
+File: contracts.txt (30)
+Original Translation: contract_crs█Commercial Resupply Service
+
+File: contracts.txt (31)
+Original Translation: payload_crs█CRS-{0} (ISS Resupply)
+
+File: contracts.txt (32)
+Original Translation: contract_ccp█Commercial Crew Program
+
+File: contracts.txt (33)
+Original Translation: payload_ccp█CCP-{0} (ISS Crew)
+
+File: contracts.txt (34)
+Original Translation: payload_tintin█Tintin AB (LinkLink Test)
+
+File: contracts.txt (35)
+Original Translation: contract_tesla█Starman
+
+File: contracts.txt (36)
+Original Translation: payload_tesla█Tesla Roadster
+
+File: contracts.txt (37)
+Original Translation: contract_potato█Dummy Payloads
+
+File: contracts.txt (38)
+Original Translation: payload_potato█Orbital Potato
+
+File: contracts.txt (39)
+Original Translation: contract_balwina█meow... Meow... MEOW!!!
+
+File: contracts.txt (40)
+Original Translation: contract_technician█Emergency
+
+File: contracts.txt (41)
+Original Translation: payload_technician█Technician
+
 File: contracts.txt (42)
 Original Translation: payload_flatEarther█Murphy (Flatearther)
 
@@ -473,6 +524,9 @@ Original Translation: payload_matt█Matt Rescue Mission
 
 File: contracts.txt (51)
 Original Translation: content_matt█There's a new offer from NASA. The purpose of the mission is to send a spaceship to Mars to return Matt to Earth.
+
+File: levels.txt (1)
+Original Translation: levelTitle1█Startup
 
 File: levels.txt (20)
 Original Translation: levelTitle20█Going Interplanetary
@@ -897,6 +951,27 @@ Original Translation: menu_specialThanks█Special Thanks
 File: mainMenu.txt (38)
 Original Translation: menu_icons█Icons From Flaticon.com
 
+File: modules.txt (11)
+Original Translation: type_antenna█Antenna
+
+File: modules.txt (12)
+Original Translation: type_utility█Utility
+
+File: modules.txt (13)
+Original Translation: module_factory_small█Small
+
+File: modules.txt (14)
+Original Translation: module_factory_medium█Medium
+
+File: modules.txt (15)
+Original Translation: module_factory_large█Large
+
+File: modules.txt (16)
+Original Translation: module_factory_giga█Giga
+
+File: modules.txt (40)
+Original Translation: mdl_fairingParachutes█Fairing Parachutes,Reusable rocket is required to recover the fairings.
+
 File: modules.txt (46)
 Original Translation: mdl_booster_connector█Booster Connector,Required for sidebooster rockets. (Falcon Heavy Boi)
 
@@ -1092,28 +1167,31 @@ Original Translation: iss_technicianHeader█Emergency on the ISS
 File: notifications.txt (9)
 Original Translation: iss_technicianContent█Good evening,&%&%There are currently 4 astronauts on the International Space Station. Their lives are in danger because of medium-sized leakage in one of the modules.&%&%We know, that your company does not have any crew capsules, that's why you will need to launch a technician in a cargo capsule.&%&%Please do it as fast as you can AND don't talk with the press about that flight. No one can know that we're about to launch a human in a cargo capsule!&%&%Thanks for your cooperation, you will get paid after the mission.
 
-File: notifications.txt (26)
-Original Translation: noHangarsLanding█A spaceship is trying to land! You need more space in <color=#64B5F6>{0}</color> to store it!
+File: notifications.txt (10)
+Original Translation: iss_vehicleAboutToReturn█{0} is about to return to the Earth!
 
 File: notifications.txt (27)
+Original Translation: noHangarsLanding█A spaceship is trying to land! You need more space in <color=#64B5F6>{0}</color> to store it!
+
+File: notifications.txt (28)
 Original Translation: noFactories█{0} can't be built because you need a {2} to be able to build {1} modules.
 
-File: notifications.txt (43)
+File: notifications.txt (44)
 Original Translation: noGigaFactories█You don't have any GigaFactories!
 
-File: notifications.txt (44)
+File: notifications.txt (45)
 Original Translation: noMoney█Not enough money!
 
-File: notifications.txt (45)
+File: notifications.txt (46)
 Original Translation: noMaterials█Not enough materials!
 
-File: notifications.txt (46)
+File: notifications.txt (47)
 Original Translation: noCybercars█Not enough cybercars!
 
-File: notifications.txt (47)
+File: notifications.txt (48)
 Original Translation: parkingOrbit█Parking Orbit
 
-File: notifications.txt (48)
+File: notifications.txt (49)
 Original Translation: leavingParkingOrbit█Leaving Orbit in {0}
 
 File: tweets.txt (18)
@@ -1135,73 +1213,85 @@ File: vehicles.txt (4)
 Original Translation: vehiclesDockedToISS█Docked Vehicles
 
 File: vehicles.txt (5)
+Original Translation: readyToLeave█Ready
+
+File: vehicles.txt (6)
 Original Translation: issHeaderText█International Space Station&%<size=14><b><color=#64B5F6>Operational
 
 File: vehicles.txt (14)
+Original Translation: vehicles_projects█Projects
+
+File: vehicles.txt (15)
 Original Translation: vehicles_view█View
 
-File: vehicles.txt (22)
+File: vehicles.txt (23)
 Original Translation: inQueue█In queue&%<size=14><b><color=#64B5F6>Module will be built in a moment
 
-File: vehicles.txt (27)
+File: vehicles.txt (28)
 Original Translation: turnExpendable█Turn Expendable
 
-File: vehicles.txt (28)
+File: vehicles.txt (29)
 Original Translation: earthPO█Parked on <color=#64B5F6>Earth's</color> Parking Orbit (Leaving in <b>{0}</b>)
 
-File: vehicles.txt (29)
+File: vehicles.txt (30)
 Original Translation: marsPO█Parked on <color=#E17055>Mars'</color> Parking Orbit (Leaving in <b>{0}</b>)
 
-File: vehicles.txt (30)
+File: vehicles.txt (31)
 Original Translation: marsTraveling█Traveling to <color=#E17055>Mars</color> (Arriving in <b>{0}</b>)
 
-File: vehicles.txt (31)
+File: vehicles.txt (32)
 Original Translation: earthTraveling█Traveling to <color=#64B5F6>Earth</color> (Arriving in <b>{0}</b>)
 
-File: vehicles.txt (32)
+File: vehicles.txt (33)
 Original Translation: marsLanding█Landing on <color=#E17055>Mars</color>
 
-File: vehicles.txt (33)
+File: vehicles.txt (34)
 Original Translation: earthLanding█Landing on <color=#64B5F6>Earth</color>
 
-File: vehicles.txt (34)
+File: vehicles.txt (35)
 Original Translation: marsLanded█Landed on <color=#E17055>Mars</color>
 
-File: vehicles.txt (35)
+File: vehicles.txt (36)
 Original Translation: readyToLaunch█<b><color=#64B5F6>{0} of {1}</b></color>&%<size=70%>are ready to launch!
 
-File: vehicles.txt (50)
+File: vehicles.txt (51)
 Original Translation: fairingRecovery█Fairing recovery
 
-File: vehicles.txt (51)
+File: vehicles.txt (52)
 Original Translation: landingNotSupported█Landing not supported!&%You need:<size=12><b>&%-Grid Fins & Landing Legs&%-Battery&%-GPS (for automatic reusability)&%-4 or 9 Advanced Engines</b></size>&%
 
-File: vehicles.txt (52)
+File: vehicles.txt (53)
 Original Translation: capsulesNotSupported█Capsules not supported!&%You need:<size=12><b>&%-Battery&%-GPS&%-4 or 9 Advanced Engines</b></size>&%
 
-File: vehicles.txt (53)
+File: vehicles.txt (54)
 Original Translation: heavyNotSupported█Heavy rocket not supported!&%You need:<size=12><b>&%-Rocket with automatic reusability</b></size>&%
 
-File: vehicles.txt (54)
+File: vehicles.txt (55)
 Original Translation: fairingCatchingNotSupported█Fairing catching not supported!&%You need:<size=12><b>&%-Rocket with automatic reusability</b></size>&%
 
-File: vehicles.txt (58)
+File: vehicles.txt (59)
 Original Translation: launchAll█Launch All
 
 File: vehicles.txt (67)
+Original Translation: launchSetup_selectTanker█Orbital Tanker
+
+File: vehicles.txt (68)
 Original Translation: launchSetup_barge█Barge
 
-File: vehicles.txt (82)
+File: vehicles.txt (74)
+Original Translation: launchSetup_pizza█Pizza
+
+File: vehicles.txt (83)
 Original Translation: failures█Failures
 
-File: vehicles.txt (89)
+File: vehicles.txt (90)
 Original Translation: launchPanel_speedMetric█km/h
 
-File: vehicles.txt (90)
+File: vehicles.txt (91)
 Original Translation: launchPanel_altitudeMetric█km
 
-File: vehicles.txt (110)
+File: vehicles.txt (111)
 Original Translation: creator_capsuleRocket█This rocket can only carry the capsules.
 
-File: vehicles.txt (111)
+File: vehicles.txt (112)
 Original Translation: creator_spaceshipRocket█This rocket can only carry the spaceships.

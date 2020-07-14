@@ -6,39 +6,39 @@ menu_settings█Configuración
 menu_credits█Créditos
 menu_exit█Salir
 menu_save█Guardar
-menu_saveNotSupported█Save From Older Version :(
+menu_saveNotSupported█Archivo de versión antigua :(
 menu_gameOver█GAMEOVER! :(
 
-menu_createNewGame█Create New Game
+menu_createNewGame█Crear juego nuevo
 
-lastPlayed█Last Played:
+lastPlayed█Último jugado:
 
-menu_gameMode█Game Mode
-menu_classic█<b>Classic</b>&%<size=75%>Play the classic mode where you have to build your own space company from scratch.
-menu_sandbox█<b>Sandbox</b>&%<size=75%>In sandbox mode everything is unlocked and unlimited. Kinda boring tbh.
+menu_gameMode█Modo de Juego
+menu_classic█<b>Classic</b>&%<size=75%>Juega el modo clásico donde tienes que construir tu propia compañia espacial desde cero.
+menu_sandbox█<b>Sandbox</b>&%<size=75%>En el modo Sandbox toda está desbloqueado e ilimitado. Un poco aburrido.
 
-menu_difficulty█Game Difficulty
-menu_easy█<b>Easy</b>&%<size=75%>Play easy if you want to play easy. Just launch those big rockets.
-menu_hard█<b>Hard</b>&%<size=75%>Coming soon!
+menu_difficulty█Dificultad de Juego
+menu_easy█<b>Easy</b>&%<size=75%>Juega facil si quieres jugar sin complicación. Solo lanza esos Cohetes.
+menu_hard█<b>Hard</b>&%<size=75%>¡Viene pronto!
 
-menu_apply█Apply
+menu_apply█Aplicar
 
-menu_quality█Graphics
+menu_quality█Gráficos
 menu_low█Baja
 menu_medium█Media
 menu_high█Alta
-menu_environment█Environment?
-menu_postprocessings█Post Processing?
+menu_environment█¿Ambiente?
+menu_postprocessings█¿Post Procesamiento?
 
 menu_gameplay█Jugabilidad
 menu_autoSave█¿Guardado automático?
 menu_autoPause█¿Auto pausado?
-menu_alwaysDay█Always Day?
-menu_hangarsVisual█Hangars Visual?
+menu_alwaysDay█¿Siempre Día?
+menu_hangarsVisual█¿Hangares visuales?
 
 menu_video█Video
-menu_fullscreen█Pantalla completa?
-menu_vsync█V-Sync?
+menu_fullscreen█¿Pantalla completa?
+menu_vsync█¿V-Sync?
 
 menu_audio█Audio
 menu_music█¿Música?
@@ -47,10 +47,11 @@ menu_sounds█¿Sonidos?
 menu_language█Idioma
 
 
-menu_creators█Creators
-menu_collaboration█Collaboration
-menu_specialThanks█Special Thanks
-menu_icons█Icons From Flaticon.com
+menu_creators█Creadores
+menu_collaboration█Colaboración
+menu_specialThanks█Agradecimientos especiales
+menu_icons█Iconos de Flaticon.com
+
 
 
 

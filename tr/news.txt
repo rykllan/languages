@@ -1,0 +1,239 @@
+
+
+news_technology_content_p11█Tüm {0} hayranları bunu bekliyor! Bugünkü CEO'nun basın toplantısında yanılsamalara yer kalmadı - araştırmalarda insanlığı Mars'a götürecek bir başka büyük atılımın gerçekleştiğine tanık oluyoruz.
+news_technology_content_p12█İlginç zamanlarda yaşıyoruz! Mars'a giden yarış iyi başladı ve bundan ne çıkacağını merak ediyoruz. {1} vaatlerini yerine getirecek mi?
+news_technology_content_p13█Bugün {0} şirketini dört gözle bekliyoruz. İnsanlar Mars'a ayak basacak mı? Birkaç yıl içinde göreceğiz.
+news_technology_content_p14█Bunu bekliyordun, değil mi? {0} şirket merkezinden en son haberleri aldık. Her şey, teknolojilerinin çok hızlı geliştiğini gösteriyor.
+
+news_technology_content_p21█{1}: "Şu anda geliştirdiğimiz roketler rekabetçi olmaktan çok uzak. Umarım borsada daha fazla kar elde etmek sadece basit bir övünme değildir. {0} gerçekten daha iyi teknolojilere sahip mi? Mars'a ayak basacak mıyız? 
+news_technology_content_p22█"Geleceğe bakmayı umuyoruz. Roketlerimizin iyileştirilmesi sadece daha büyük yükleri yörüngeye taşımamıza izin vermeyecektir. Bu, insanlığın önümüzdeki on yıllar boyunca izleyeceği yolun başlangıcıdır. - {1}, {0}. 
+news_technology_content_p23█%company name% ile sunulan yeni nesil motor geçtiğimiz yıl ilk testlerini başarı ile geçti. {1} 10 yıl içinde motoru test etmek için roketlerden birine entegre edilerek uzay boşluğuna çıkarılacağı açıkladı. Rakiplerinin korkmak için bir nedeni var mı?
+news_technology_content_p24█"Eminim işe yarayacaktır! "{1} dedi dünkü konferansta. Yükün yörüngeye yerleşmesinden sonra Dünya'ya düşen roketleri kurtarmak istiyor. Doğru zamanda paraşütle okyanusa düşecek, bu olayda uzaya ve Mars'a daha ucuz uçuşlar için bir adımın başlangıcıdır!
+
+news_technology_content_p31█{0} hakkında daha iyi haberler duymayı dört gözle bekliyoruz!
+news_technology_content_p32█{1} para sayıyor, sayfa görüntülemelerimizi sayıyoruz. Belki de reklam tanıtma zamanı gelmiştir?
+news_technology_content_p33█Mars'a iniş yapan bir insanın hayalleri gözlerimizin önünde gerçekleşiyor.
+news_technology_content_p34█İlk hangisi? Ay mı Mars mı? {1} muhtemelen zaten biliyordur, ama söylemek istemiyorlar.
+
+
+
+news_technology_header1█{0} gelişiyor. {1} yeni teknolojilere para yatırıyor.
+news_technology_header2█Yeni {0} laboratuvarları yüksek hızda ve verimli çalışıyor.
+news_technology_header3█{1} gelişime yatırım yapıyor. Yakında yeni roket modelleri mi geliyor?
+news_technology_header4█Acaba bunu nasıl karşılayacaklar? {1} gelişime yatırım yapıyor.
+news_technology_header5█{1}: "Hedefimiz Mars. Yeni roket modülleri üzerinde çok çalışıyoruz.
+news_technology_header6█Yatırımcılar çok memnun. {0} uzay yarışını kazanacak mı?
+news_technology_header7█Mars'a mı gidiyorsunuz? {0} roketleri için yeni modüller sunuyor.
+news_technology_header8█Dahası ve daha iyisi. Yeni slogan {0}?
+news_technology_header9█{2} Twitter'da: "{1} 'in yaptıklarından çok etkilendim. Ama yine de kazanacağız.
+news_technology_header10█{0} 'da büyük atılım. Roketler için yeni modüller yakında kullanımda olacak.
+
+
+
+
+
+
+
+news_fail_content_p11█{0} ile ilgili rahatsız edici haberler geliyor. Roketleri beklenmedik bir şekilde büyük bir patlama ile görevini sonlandırdı.
+news_fail_content_p12█{0} şirketinin lansman alanının yakınındaki vatandaşlar bugün gökyüsünde inanılmaz bir gösteriye şahit oldu. Muhabirimize göre, bu sabah gökyüzünde ortaya çıkan ateş topu {0} 'dan bir roket.
+news_fail_content_p13█Şehirlerin yakınında çıkan roketlerin sesinin vatandaşlar için sorunların en küçük olduğu anlaşıldı. Ta ki roketler patlamaya başlayana kadar. Sabah saatlerinde ofisimiz gürültülü bir patlamayla uyanan endişeli vatandaşlardan şikayet almaya başladı.
+news_fail_content_p14█Başka bir gün, kamptan hoş olmayan başka bir haber {0}. {1} adlı bir milyardere ait bir roket, görevini beklenmedik ve hızlı bir şekilde sona erdirdi.
+
+news_fail_content_p21█Patlamanın nedenleri halen araştırılmaktadır. Şirketin CEO'su {1} kısa bir Twitter yayınında durum hakkında yorum yaptı: "Hiçbir şey yapmayan hata yapmaz. Şerefe!". Gönderiye bir resim de eklendi - yarım boş bir şişe votka votka "Żubrówka" nın bir fotoğrafı.
+news_fail_content_p22█Şirketle yakından ilişkili olan anonim kaynağımız, roketin fırlatılmasından itibaren 3 dakika içinde motorun yanma odasında hidrolik arızası olduğunu bildirir. Ayrıntılar muhtemelen bugün için planlanan basın toplantısında duyurulacak.
+news_fail_content_p23█Kazanın nedenleri henüz tam olarak belirlenememiştir ve önümüzdeki aylarda ayrıntılı olarak incelenecektir. Nedeni ne olursa olsun, patlama {0} için büyük bir görüntü kaybı anlamına gelir.
+news_fail_content_p24█Bütün ekip patlamanın nedenlerini açıklamak için çok çalışıyor. Yakında ekipmanın başarısız olup olmadığını, bir insan hatası olup olmadığını veya haksız bir rekabet eylemi olup olmadığını öğreneceğiz.
+news_fail_content_p25█Durumun acılığı, şirketin başlangıcından itibaren {1} inovasyon ve ideal girişimcinin somutlaşmış hali olduğu bu şirketin tüm taraftarları hiçbir şeyi gizlememesidir. "Hasta ve yorgunum ve şimdi tüm hisselerimi satıyorum! Güzel uçuşlar görmek istiyorum, patlamalar değil..."- @denis-szwarc, kullanıcı tarafından yazılmıştır reddit.com.
+
+news_fail_content_p31█Bir sonraki uçuşların daha başarılı ve daha fazla gösterişli olacağını umuyoruz.
+news_fail_content_p32█Sonraki açılışlarda {0} sahibine daha fazla şans diliyoruz.
+news_fail_content_p33█Felaketin nedenlerinin hızla açıklanacağına ve daha fazla patlama olmayacağına inanıyoruz.
+news_fail_content_p34█{0} için bu tatsız günde, bir sonraki başlangıçlar için parmaklarımızı birbirine kenetlemekten başka yapacak bir şey kalmadı.
+news_fail_content_p35█Artık roket patlamaları hakkında yazmak istemiyoruz, ancak başka seçeneğimiz de yok gibi.
+news_fail_content_p36█Hiç ağzımı açtırma şimdi.
+
+
+
+
+
+
+
+news_fail_header1█{1}: "Bu hepimiz için acı verici ama önemli bir derstir. {0} roketimizin son uçuşu havai fişek gösterisiyle sona erdi.
+news_fail_header2█Bir roket kocaman bir ateş topuna dönüştü. {0} felaketin nedenlerini inceliyor.
+news_fail_header3█{0} başı dertte. Roketlerinin patlaması, yakındaki şehrin sakinlerini uyandırdı.
+news_fail_header4█O roket artık yok. {0} a ait roket atmosferde yandı.
+news_fail_header5█{1}: "Bu sefer işe yarayacağını düşündük. Ateş topuna dönmüş bir roket bugün görmek istediğimiz şey değildi.
+news_fail_header6█"Yüksek sesle dile getireceğiz! "{0} CEO'sunun sözleri gerçek oldu. Roketleri deliler gibi patladı.
+news_fail_header7█{1} gökyüzünü korkutuyor! Arka arkaya roket patlamaları {0} 'ın finansal akışını tehdit ediyor.
+news_fail_header8█{0}: Roketimizin güçlü patlaması şirketin pozisyonunu tehdit ediyor. {1} çıkışta mı?
+
+
+
+
+
+
+
+
+
+
+news_bankrupt_content_p11█{1}, {0} CEO'su bugün bir basın toplantısında şirketin tüm ofis ve fabrikaların kapatıldığını duyurdu.
+news_bankrupt_content_p12█Patlayan roketlerle ilgili sorunlar, sözleşmelere uyulmaması ve finansal belgelerdeki karışıklık muhtemelen {0} başkanının tek hatası değildi. {1} bugün iflas ilan etti.
+news_bankrupt_content_p13█Mars'a ilk başarılı ekip görevi için muhtemelen uzun süre bekleyeceğiz. Piyasa, {0} sahibi olan {1} tarafından yapılan hataları affetmez. Şirket bugün kapatıldı.
+news_bankrupt_content_p14█Bunu bekliyorduk. {0} roketlerinin başarısız birçok fırlatımından sonra, yönetim kuruluna toparlanması zaman verildi. CEO, {1} eşyalarını toplayabilir.
+
+news_bankrupt_content_p21█Uzay fethetme ile ilgili hayallerin bu üzücü sonu sadece {0} finansal sorunların başlangıcıdır. Aldığımız bilgilere göre, şirket maddi hasar davalarıyla dolu. Hepsi özel evlere düşen roket parçaları yüzünden.
+news_bankrupt_content_p22█{1} 'in medyaya gönderdiği duygusal ifade, yönetim kurulunun diğer üyelerine karşı hislerini açıkça beyan ediyor. "Hayallerim hainler ve hırsızlar tarafından çalındı. Elimdeki güç ile her şeyi yaptım ve şimdi hiçbir şeyim kalmadı. Üzgünüm."
+news_bankrupt_content_p23█{0} basın toplantısı dramatikti. Acının tatlı tebessümü ile {1} kürsüye çıktı. Açıkladığı gibi, yönetim kurulunun başka bir üyesi ile küçük bir kavga olduğunu ifade etti. Gayri resmi olarak, şirketin kasasında kalan son 100 dolarlık banknot olduğunu öğrendik. Ne yazık ki, {0} kurucusunun ifadeleri özetlenemiyor - yaşanılanları o kadar yüksek sesli ve ağlayarak okudu ki hiçbir şey anlamadık.
+
+news_bankrupt_content_p31█Dürüstlük mü? Onlar için üzülmüyoruz bile.
+news_bankrupt_content_p32█{1} çoraplara biraz para koymasını umuyoruz.
+news_bankrupt_content_p33█Şimdi her şey {2} 'nin elinde.
+news_bankrupt_content_p34█Sırada şirketin hangisi olduğunu merak ediyorum.
+
+
+
+
+
+
+news_bankrupt_header1█{0} 'ın üzücü sonu. {1} uzay sektörüne veda ediyor.
+news_bankrupt_header2█Artık Mars hayalleri yok. {0} fabrikalarını kapatıyor.
+news_bankrupt_header3█"Pay sahiplerinin beklentileri beklentilerimizi aştı "- {1}, {0} sonu anlamına geliyor.
+news_bankrupt_header4█{1} - hayalperest birisi ... ne yazık ki iflas etti.
+news_bankrupt_header5█Artık {0} uçuş olmayacak. Şirket iflasın eşiğinde.
+news_bankrupt_header6█Endüstride artık {0} için yer yok.
+news_bankrupt_header7█Bir şirket vardı ve o şirket artık yok. {0} roketlerini toplayıp gitti!
+news_bankrupt_header8█{1} başkanı uzaya gidecekti ama aynı zamanda hapse girecekti. {0} parasına ne oldu?
+news_bankrupt_header9█{0} çalışanları grev yapıyor. {1} 'in ödemeler için parası yok!
+news_bankrupt_header10█{1} okula gitmediği için sınıfta mı kaldı? {0} bütçesi çok düşük bir seviyede.
+news_bankrupt_header11█Analistler bunu uzun zamandır biliyorlardı. {0} iflas etti!
+news_bankrupt_header12█{2}, {0} CEO'suna gülüyor: "{1} hayal gücünden yoksun! Uzun sürmeyeceğini biliyordum!"
+
+
+
+
+
+
+
+
+news_yearsummary_beforeRes_header█Uzay şirketleri {0} 'da ne yapıyorlardı? Büyük özet!
+news_yearsummary_beforeRes_content█Bu yıl, diğerlerinin yanı sıra, birçok ilginç kararlar, olaylar ve uçuş getirdi! Giderek daha fazla uzay şirketinin… özel olması şaşırtıcı! Bu olaylar roket gelişimini çok hızlandıracaktır.&%&%İşte bazı yıllık istatistikler:&%&%<color=#64B5F6>Flights</color>:&%{0}&%<color=#64B5F6>Contracts</color>:&%{1}&%<color=#64B5F6>Bütçe</color>:&%{2}&%Hepimiz gelecek yıl etkinliklerini bekliyoruz. {3} şu anda yeniden kullanılabilir roketler üzerinde çalışıyor. Bu şirket komik, metal bir çubukla nasıl roketi indirebilecek ki? Bu imkansız bir şey.
+
+
+
+
+
+
+
+news_FundraisingHats_header█{1}, {0} logolu 20.000 şapka sattı. Uzay işini finanse etmenin mükemmel yolu mu?
+news_FundraisingHats_content█{1} harika ilerliyor. Manyakça, ama yine de şaşırtıcı. {0} CEO'suna yönetim tarafından şirketin bütçesine mümkün olan en keskin bir dille biraz nakit eklemesi söylendi. Normal bir CEO muhtemelen işe alım maliyetini azaltmak için birkaç çalışanı işten çıkarabilir. &%&%{1} şapka ... sattı. Ve neredeyse satılan bu sayı 20.000 civarında. Bu {1} tarafından yapılan son derece sıra dışı bir eylem mi?
+
+news_FundraisingBricks_header█"Hey, bir Tuğla al!" - {0} adlı şaşırtıcı bir kampanya.
+news_FundraisingBricks_content█{1} tekrar yaptı. Kesinlikle. Bundan sonra {0} 'ın çok iyi ellerde olduğunu ve iflasın gerçekleşme olasılığının düşük olduğunu biliyoruz. &%&%{1} bu kez şirketin finansal akışını iyileştirmek için birkaç bin tuğla satmaya karar verdi. Ek bir avantajı, tuğlaların rakip ürünlerin fiyatının neredeyse yarısı kadar olmasıdır. Ayrıca çevre dostu. Şirketin ilk raporlarından tuğlaların çok iyi sattığını biliyoruz.
+
+news_FundraisingNotFlamethrowers_header█Nakliye şirketleri şunu söyledi...
+news_FundraisingNotFlamethrowers_content█... .... "Flamethrower" adında olan hiçbir şeyi taşıyamacaklar. {1} ne yaptı biliyor musunuz? Elbette ismini "Alev Makinesi" olarak değiştirdiler. &%&%{1} birkaç dolar daha kazanmak için başka bir fikir geliştirdi. Bu sefer 20.000'den fazla satılan bir ürün olan büyük bir çakmak yaptı! İlk söylentiler, 30 milyondan fazla nakit kazandığını söylüyor. {0} 'ın artık iflas etmekten korkmadığını hissediyorum.
+
+
+news_FundraisingRocketquilla_header█Sert içecek hayranları {0} 'dan alkollü içeceklere atladılar.
+news_FundraisingRocketquilla_content█Giyim hayranları klasik şapkalarına, inşaatçılar ucuz tuğlalarına, fanatikler TV boyutunda çakmaklarına ve içmeyi sevenler için patlayan bir lezzette alkol karışımına sahip oldular. &%&%{1} 'in roket versiyonundaki tekila piyasaya çıktı ve ... uzay şirketinin cebine 100 milyon dolardan fazla para ekleyerek hızla satıldı. Satın alabildiniz mi?
+
+
+
+
+
+
+
+
+
+news_iss_2002q4_header█Atlantis mekiğinin bir başkası olan - yeni ITS S1 modülü ISS'de piyasaya sürüldü.
+news_iss_2002q4_content█Neredeyse 14 m uzunluğunda, 4.6 m genişliğinde ve 1.8 m yüksekliğindedir. 14 tondan daha ağır olan ITS S1 modülü, inşa edilen ISS istasyonuna yeni katıldı. ITS S1, merkezi ITS S0 segmentine takılacak ilk nervürlü yan segmenttir. İstasyonun enerji sistemini soğutmak için üç güçlü ısı emici monte edilmiştir. Ses iletiminin kalitesini, verimini ve vakum deneyleri için çeşitli platformları iyileştirmek için ITS S1 üzerine başka bir istasyon iletişim sistemi de kurulmuştur. S1 ayrıca, istasyonun bu sektörünün gelecekteki gözlemini kolaylaştıracak iki kamera ile donatılmıştır. Izgara, amonyak tanklarının, soğutma devrelerinin ve pompa setlerinin izlenmesi de dahil olmak üzere soğutma kontrolünden sorumlu kendi araç bilgisayarına sahiptir. &%&%Bu, Atlantis mekiğinin üçüncül görevi ise inşa edilen Uluslararası Uzay İstasyonunun diğer bölümlerini gösterime çıkartmak.
+
+news_iss_2007q3_header█Yörüngeye yerleştirilen Harmony (Node 2) - Destiny, Columbus ve Kibo modüllerini birbirine bağlayacak.
+news_iss_2007q3_content█23 Ekim 2007'de Harmony modülünü (Node 2) yörüngeye getiren Keşif mekiğinin görevi başarıyla gerçekleştirdi. Harmony, üç modülü bir araya getirecek bir tür ayırıcıdır - Amerikan, Japon (daha sonra istasyona katılacak) ve Avrupa (Columbus laboratuvarı muhtemelen 2008'in başında yörüngeye yerleştirilecektir) modülü. İçeriisnde elektriğin işlenmesinden ve yukarıda belirtilen modüllere iletilmesinden sorumlu araçlar içeren rafları vardır. &%&%NASA ve ESA arasındaki anlaşma ile Node 2, Torino'daki merkezinde bulunan İtalyan şirket Alenia Spazio tarafından inşa edildi.
+
+news_iss_2008q1_header█Avrupa Columbus laboratuvarı ISS'ye katıldı!
+news_iss_2008q1_content█Uluslararası Uzay İstasyonu büyüyor. Atlantis mekiğinin Flight 1E - STS-122'sinin bir parçası olarak, yörüngeye başka bir büyük modül daha fırlatıldı. Orada yapılan bilimsel deneyler, bitki biyolojisi, ekzoloji, heliofizik, insan fizyolojisi ve sıvı fiziği gibi araştırma alanlarını kapsayacaktır. &%&%Columbus 10 tonun üzerinde olup ve 10 yıldır inşa ediliyor.
+
+news_iss_2008q2_header█Girişim servisi, Japon Kibo modülünün ilk kısmını ISS'ye teslim etti.
+news_iss_2008q2_content█Japon Aerocosmic Exploration Ajansı tarafından tasarlandığı gibi, Kibo'nun (JEM) temel amacı bilimsel deneyler yapmaktır. JEM, iki kişinin aynı anda çalışması için istasyonlara sahip olacak, ancak laboratuvar Uluslararası Uzay İstasyonu'nun dört mürettebat üyesini barındırabilecek. &%&%Endeavour misyonu sırasında Expedition 16 mürettebat değişimini gerçekleştirdi.
+
+news_iss_2009q4_header█Rus Küçük Araştırma Modülü 2 "Poisk" zaten yörüngede.
+news_iss_2009q4_content█Poisk modülü ile Rus Soyuz-U roket görevi başarıyla gerçekleştirildi. Poisk hava kilidi, geminin itme segmentini kullanarak istasyona ulaştı. &%&%Bu, ISS'yi genişleten ikinci Rus Soyuz misyonudur.
+
+news_iss_2010q1_header█Halihazırda ISS'nin en önemli unsurlarından biri!
+news_iss_2010q1_content█Cupola (Kubbe) Amerikan mekiği Endeavor'un yardımıyla uzaya kaldırıldı. Modül, istasyonun içinden dışarıda gerçekleştirilen faaliyetlere doğrudan panoramik bir görünüm sağlayacaktır. Bunlar arasında otomatik bir manipülatör, uzay yürüyüşleri, mekik yerleştirme manevraları veya harici cihazların teknik durumunun gözden geçirilmesi ve değerlendirilmesi yer alır. &%&%Kubbe, Dünya'nın ve diğer gök cisimlerinin mükemmel bir gözlem noktası olacaktır.
+
+news_iss_2010q2_header█Amerikan-Rusya işbirliği, ISS'ye başka bir modül sağladı.
+news_iss_2010q2_content█Atlantis servisinin otuz saniyelik uçuşu ve halihazırda servis programının yüz otuz saniyelik görevi başarılı oldu. Bu kez Rassvet modülü (TR: Şafak) Uluslararası Uzay İstasyonu'na katıldı. Öncelikle kargo depolaması ve istasyon için yerleştirme modülü olarak kullanılacaktır. &%&%NASA, Rassvet kapasitesini kullanarak istasyona taşınacak 3000 pound (veya 1360kg) ekipman, yedek parça, yiyecek ve erzakları modüle yerleştirdi.
+
+news_iss_2011q1_header█Keşif servisinin son görevi. Leonardo, ISS'ye katıldı.
+news_iss_2011q1_content█Bugün saat 14: 50'de, ISS'ye yerleştirilen Keşif servisinin bir kartındaki Leonardo modülü (PMM), Harmony modül düğümüne kalıcı olarak bağlandı. &%&%Leonardo Çok Fonksiyonlu Lojistik Modülü (MPLM), ISS'ye giden ve ISS'ye giden servislerin tedarik görevlerinde kullanılan büyük bir hermetik konteynerdir. STS-131 görevinden sonra Leonardo, Kalıcı Çok Fonksiyonlu Modüle (PMM) dönüştürüldü. Dönüşüm, ISS ile sınırsız bir süre boyunca kalıcı bir bağlantıya izin verdi - bu nedenle Leonardo, Uluslararası Uzay İstasyonunda ek bir depolama tesisi olarak hizmet verecek.
+
+
+
+
+
+
+news_flat_earth_contract_name█Hakikat
+news_flat_earth_contract_desc█Günaydın,&%&%Benim Adım Murphy. Amerikan düz Dünya Derneği'nin başkanıyım. Yuvarlak Dünya hakkındaki efsaneyi bir kez ve herkes için çürütmek istiyoruz. Bu yüzden uzaya uçmak, film çekmek ve fotoğraf çekmek istiyorum.&%&%Bu teklifi kabul eder misin?
+
+news_flat_earth_accepted_header█Düz dünya savunucuları uzaya uçuyorlar-gezegenimizin düz olduğunu herkese kanıtlamak istiyorlar.
+news_flat_earth_accepted_content█Bugünkü basın toplantısında, Murphy uzay uçuşu için para toplamayı başardığını açıkladı.&%&%Murphy uçak biletini {0} 'dan satın aldı - uçuş gelecek yıl içinde gerçekleşecek.
+
+news_flat_earth_declined_header█{0} gerçeği saklamakla suçlandı. Düz Dünya Derneği Başkanı için yapılan uzay uçuşunu reddetti.
+news_flat_earth_declined_content█"{0} bizden büyük bir teklif aldı. Kabul etmedi - böylece bizden ne sakladığını biliyoruz." - Amerikan Düz Dünya Derneği başkanı Murphy tüm bu gelişmeler hakkında böyle yorum yaptı. &%&%Uzaya uçuşlar herkes için değil mi? {0} CEO'su durum hakkında yorum yapmadı.
+
+news_flat_earth_ready_header█Uzay eğitimi tamamlandı. Murphy Dünya'nın düz olup olmadığını görecek.
+news_flat_earth_ready_content█Uzay şirketinin {0} CEO'su bugün Düz Dünya Derneği Başkanı'nın uçmaya hazır olduğunu doğruladı.&%&%Sonunda hepimiz gerçeği öğrenecek miyiz?
+
+news_flat_earth_success_header█{0} ile Murphy görevini başarıyla tamamladı! Kapsüldeyken neler gördü?
+news_flat_earth_success_content█Düz Dünya Derneği başkanı ile yapılan turizm misyonu başarılı oldu. Uzayda birkaç gün sonra, Murphy gazetecilerin sorularını cevaplamak istemedi. Üzülmüş görünen Murphy hemen otele döndü.&%&%Telefonlara da cevap vermiyor.
+
+news_flat_earth_afterSuccess_header█Murphy alenen özür diliyor.
+news_flat_earth_afterSuccess_content█“Kendi gözlerimle gördüm! Düz değil. Bir top gibi, anlıyor musun? Orada, gezegenimize bakarken ... ... tüm hayatım boyunca kandırıldığımı fark ettim. başkalarını aldattım. Üzgünüm. " - Düz Dünya Derneği eski başkanı yeni YouTube kanalında yayınlanan bir videosunda bunları söyledi.&%&%Yeni seçilen başkan Mira, Murphy'nin yalan söylediğini veya {1} tarafından aldatıldığını söyledi. "Ya kapsülün pencereler yerine monitörleri varsa ve yuvarlak bir dünya resmi görüntülemişse?"
+
+news_flat_earth_failure_header█{0} 'ın roketi Murphy ile birlikte yörüngeye girmeden önce patladı. Felaketin nedenleri araştırılıyor.
+news_flat_earth_failure_content█Uzay uçuşu sayesinde Dünya'nın düz olduğuna dair son kanıtı elde edecek olan kişi Murphy idi.&%&%Düz Dünya Topluluğu Başkan Yardımcısı kısa bir açıklama yaptı: "Kesinlikle kubbeye çarptı. Murphy bir kahraman, bize gerçeği göstermek için hayatını feda etti."
+
+
+
+
+
+news_spate_accept_header█Yeni SPATE albümünün uzay kampanyası. Albümü ISS'ye uçacak.
+news_spate_accept_content█Müzik yapımcısı SPATE, en son albümünün ISS'ye uçacağı için {0} ile bir sözleşme imzaladı. &%&%Albüm birkaç ay içinde bir sonraki tedarik misyonuyla birlikte gönderilecek. &%&%Uluslararası Uzay İstasyonu üyeleri büyük bir müzik partisi mi hazırlıyor?
+
+news_spate_success_header█ISS'deki ilk parti.
+news_spate_success_content█{0} şirketi, SPATE'in en yeni albümünü bir pazarlama kampanyasının parçası olarak yayınladıktan sonra, astronotlar Uluslararası Uzay İstasyonunda gerçekten yüksek (ama duyulmayan) bir parti düzenledi. &%&%ISS yapısı bu kadar iyi çalınan baslara dayanabilir mi?
+
+
+opportunity2019Q1_header█NASA, Opportunity Rover görevini resmi olarak sonlandırıyor
+opportunity2019Q1_content█15 yıl - 25 Şubat 2004'te Kızıl gezegene inen Opportunity Rover'ın misyonu sona erdi. &%&%Ne yazık ki, Haziran 2018'den beri uykuda kalan Opportunity ile iletişim kurmak için son girişimler başarısız oldu - gezegendeki ekipmana güç sağlamak için kullanılan güneş pilleri, büyük bir kum fırtınası sonucu kumla kaplandı. &%&%15 yıl boyunca Opportunity, Dünya'ya sayısız veri gönderdi ve birçok keşfe katkıda bulundu - Mars atmosferinde cirrus bulutlarını gözlemledi ve Mars uydularının güneş kalkanının arka planına geçişi gibi olayların artık Dünya'dan astronomik gözlemlerin yapılmasını olanaksız hale getirdi.
+
+
+
+
+matt_entry_header█Mars'taki Trajedi - Astronot Matt ile temas sağlanamıyor
+matt_entry_content█Mars'taki büyük bir kum fırtınası ölümcül bir bedele sebep oldu. NASA'nın birkaç gün Mars'ta konuşlandırılan ekibi Dünya'ya geri dönmek zorunda kaldı. &%&%Ne yazık ki, ekip geri dönüyor - mavi gezegenimize güvenli bir şekilde geri dönüş sağlamak için ekip uzay mekiğine kaçarken, astronotlardan biri üssünde kaldı. NASA temsilcilerinden öğrenmeyi başardığımız için dava yemiş olabiliriz. &%&%Üs muhtemelen şiddetli bir fırtına tarafından tahrip edildi - Matt ile temas yok.
+
+matt_expansion_header█NASA iyi haberi paylaşıyor. Mars'ta kalan Matt ile temasa geçmeyi başardık - astronot yaşıyor!
+matt_expansion_content█NASA'nın basın toplantısında CEO gazetecilerle iyi haberler paylaştı. Astronot, yıkılan Mars üssünün geri kalanıyla temas halinde kaldı. &%&%NASA şu anda bir kurtarma görevi planı hazırlıyor. Gayri resmi olarak öğrendiğimiz gibi, bir kurtarma görevinin hızlı bir şekilde uygulanmasına izin veren tek teknoloji, {0} şirketinde bulunmaktadır.
+
+matt_accept_header█NASA'nın {1} ile birlikte ortak kurtarma görevi.
+matt_accept_content█Her iki şirket de bugün Mars'ta kalan astronotu kurtarma çalışmalarına başladığını açıkladı. &%&%{0}, Matt'i güvenle Dünya'ya getirmek için roketlerinden birini kırmızı gezegene gönderecek. &%&%Uçuşun birkaç gün içinde gerçekleşmesi bekleniyor.
+
+matt_decline_header█NASA'nın elleri bağlı. {0} Mars'a bir kurtarma görevi göndermeyecek.
+matt_decline_content█Ne yazık ki, varsayımlarımızın doğru olduğu ortaya çıktı. {1}, {0} CEO'su NASA'ya yardım etmeyi reddetti. Bunun nedeni, görevin çok uzun olması ve {0} uçuş takviminin çok sıkı olmasıdır. &%&%{1} tarafından yönetilen şirket, kurtarma görevi göndermek için doğru teknolojiye sahip tek şirketti.
+
+matt_success_header█Matt için umut. {1} 'in kurtarma görevi başarıyla tamamlandı.
+matt_success_content█Bşardık! {1} ve NASA CEO'sunun memnuniyet duymak için artık bir nedeni var. &%&%Mars'ta kum fırtınası nedeniye hasar görmüş üssünde kalan Matt, yakında eve uçacak. &%&%Bir sonraki insanlı Mars görevlerinin üzücü sürprizler olmadan gerçekleşeceğini umuyoruz.
+
+
+matt_failure_header█{1} 'in kurtarma görevi gerçekleşmeyecek. {0} 'ın roketi fırlatma sırasında patladı.
+matt_failure_content█Bugün atmosferde gerçekleşen dramatik olaylara tanık olduk. Kurtarma göreviyle Mars'a ulaşması gereken özel hazırlanmış, insansız uzay aracı atmosferde yandı. &%&%Matt'i yıkılan Mars üssünde yardım beklerken kurtarmak için son girişimdi. {1} ve NASA artık doğru roketlere sahip değil. &%&%Huzur içinde yat Matt.
+
+
+
+
+
+
+

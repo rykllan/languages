@@ -60,8 +60,9 @@ linkLink_welcome_content█Tutaj będziesz mógł stworzyć własną konstelacj�
 
 30percentDeorbit█30% twoich LinkLinków zostanie zdeorbitowanych w <b>{0}</b>
 
-buildLinkLinkInGiga█Build LinkLink in any Giga Factory
-openGigaFactory█Open Giga Factory
+buildLinkLinkInGiga█Zbuduj LinkLinki w Giga Fabryce
+openGigaFactory█Otwórz Giga Fabrykę
+
 
 
 

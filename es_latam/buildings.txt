@@ -1,6 +1,6 @@
 
 
-building█Building
+building█Edificio
 building_office█Oficina
 building_factory█Fábrica
 building_laboratory█Laboratorio
@@ -11,22 +11,23 @@ building_megaLP█Mega plataforma de lanzamiento
 
 building_category_all█Todos
 building_category_production█Production
-building_category_storage█Storage
-building_category_other█Other
+building_category_storage█Almacenamiento
+building_category_other█Otros
 
 buildingSetup_buildingName█Nombre de la construcción...
 buildingSetup_overview█Resumen
 buildingSetup_setup█Configuración
-buildingSetup_modules█Modules
-buildingSetup_other█Other
+buildingSetup_modules█Módulos
+buildingSetup_other█Otros
 buildingSetup_billsCurrentQuarter█Facturas del trimestre en curso
 
 buildingSetup_nowWorkingOn█Trabajando actualmente en
 buildingSetup_queue█Cola
 
-buildingSetup_produce█Produce
+buildingSetup_produce█Producir
 
-returnToEarth█Return to Earth
+returnToEarth█Regresar a la Tierra
+returnToEarthShort█Regresar
 
 buildingSetup_negotiationPowerEachEmployee█Poder de negociación para cada empleado
 buildingSetup_negotiationPowerBuilding█Poder de negociación de la construcción
@@ -49,7 +50,7 @@ medium_factory_desc█Puedes hacer solo módulos pequeños y medianos.
 large_factory█Fábrica grande
 large_factory_desc█Puedes hacer toda clase de vehículos excepto Naves Espaciales y Superpesados.
 
-giga_factory█Giga Factory
+giga_factory█Giga Fábrica
 giga_factory_desc█Puedes hacer toda clase de vehículos y LinkLink.
 
 small_hangar█Hangar Pequeño
@@ -73,62 +74,62 @@ laboratory_desc█Produce puntos de habilidad.
 megaLP█Mega Plataforma de Lanzamientp
 megaLP_desc█Puedes lanzar Naves Espaciales.
 
-smallTerminal█LinkLink Small Terminal
-smallTerminal_desc█Terminals are connecting people on Earth with LinkLinks. More terminals == more users capacity.
+smallTerminal█Terminal Pequeña de LinkLink  
+smallTerminal_desc█Las terminales conectan a la gente de la Tierra con LinkLink. Más Terminales == Mayor capacidad de usuarios.
 
-largeTerminal█LinkLink Large Terminal
-largeTerminal_desc█Terminals are connecting people on Earth with LinkLinks. More terminals == more users capacity.
+largeTerminal█Terminal Grande de LinkLink 
+largeTerminal_desc█Las terminales conectan a la gente de la Tierra con LinkLink. Más Terminales == Mayor capacidad de usuarios.
 
-landingZone█Landing Zone
-landingZone_desc█Do I really need to describe it?
+landingZone█Zona de Aterrizaje 
+landingZone_desc█¿De verdad quieres que te lo explique?
 
-smallHotel█Small Hotel
-smallHotel_desc█Martians are living in places like this.
+smallHotel█Hotel Pequeño
+smallHotel_desc█Los Marcianos viven en sitios así.
 
-mediumHotel█Medium Hotel
-mediumHotel_desc█More Martians are living in places like this.
+mediumHotel█Hotel Mediano
+mediumHotel_desc█Más Marcianos viven en sitios así.
 
-largeHotel█Large Hotel
-largeHotel_desc█A lot of Martians are living in places like this.
+largeHotel█Hotel Grande
+largeHotel_desc█Muchos más Marcianos viven en sitios así.
 
-waterFactory█Water Factory
-waterFactory_desc█Produces Water and Oxygen.
+waterFactory█Fábrica de Agua
+waterFactory_desc█Produce Agua y Oxígeno.
 
-fuelFactory█Fuel Factory
-fuelFactory_desc█Produces Fuel.
+fuelFactory█Fábrica de Combustible
+fuelFactory_desc█Produce Combustible.
 
-steelFactory█Steel Factory
-steelFactory_desc█Produces Materials and Cybercars.
+steelFactory█Fábrica de Acero
+steelFactory_desc█Produce Materiales y Cibercarros.
 
-mediumGreenhouse█Medium Greenhouse
-mediumGreenhouse_desc█Produces Food and Oxygen.
+mediumGreenhouse█Invernadero Mediano
+mediumGreenhouse_desc█Produce Comida y Oxígeno.
 
-largeGreenhouse█Large Greenhouse
-largeGreenhouse_desc█Produces more Food and Oxygen.
+largeGreenhouse█Invernadero Grande
+largeGreenhouse_desc█Produce más Comida y Oxígeno.
 
-smallSolar█Small Solar
-smallSolar_desc█Produces Electricity.
+smallSolar█Solar Pequeño
+smallSolar_desc█Produce Electricidad.
 
-mediumSolar█Medium Solar
-mediumSolar_desc█Produces more Electricity.
+mediumSolar█Solar Mediano
+mediumSolar_desc█Produce más Electricidad.
 
-smallWaterStorage█Small Water Storage
-smallWaterStorage_desc█Stores Water and Oxygen.
+smallWaterStorage█Almacenamiento de Agua Pequeño
+smallWaterStorage_desc█Almacena Agua y Oxígeno.
 
-mediumWaterStorage█Medium Water Storage
-mediumWaterStorage_desc█Stores more Water and Oxygen.
+mediumWaterStorage█Almacenamiento de Agua Mediano
+mediumWaterStorage_desc█Almacena más Agua y Oxígeno.
 
-largeWaterStorage█Large Water Storage
-largeWaterStorage_desc█Stores a lot of Water and Oxygen.
+largeWaterStorage█Almacenamiento de Agua Grande
+largeWaterStorage_desc█Almacena mucho más Agua y Oxígeno.
 
-smallFuelStorage█Small Fuel Storage
-smallFuelStorage_desc█Stores Fuel.
+smallFuelStorage█Almacenamiento de Combustible Pequeño
+smallFuelStorage_desc█Almacena Combustible.
 
-mediumFuelStorage█Medium Fuel Storage
-mediumFuelStorage_desc█Stores more Fuel.
+mediumFuelStorage█Almacenamiento de Combustible Mediano
+mediumFuelStorage_desc█Almacena más Combustible.
 
-largeFuelStorage█Large Fuel Storage
-largeFuelStorage_desc█Stores a lot of Fuel.
+largeFuelStorage█Almacenamiento de Combustible Grande
+largeFuelStorage_desc█Almacena mucho más Combustible.
 
 lp_cape█Cabo Cañaveral
 lp_vandenberg█Vandenberg
@@ -141,6 +142,7 @@ lp_xichang█Xichang
 lp_rocketComplex█Puerto Espacial Privado
 lp_australia█Woomera
 lp_india█Satish Dhawan
+
 
 
 

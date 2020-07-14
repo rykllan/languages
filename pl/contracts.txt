@@ -44,10 +44,10 @@ contract_deadline_fine█Kara:
 payload_preparing_to_fly█Przygotowywanie do lotu
 
 
-contract_crs█Commercial Resupply Service
+contract_crs█Komercyjny Program Zaopatrzeniowy
 payload_crs█CRS-{0} (Dostawa MSK)
 
-contract_ccp█Commercial Crew Program
+contract_ccp█Komercyjny Program Załogowy
 payload_ccp█CCP-{0} (Załoga MSK)
 
 payload_tintin█Tintin AB (LinkLink Test)
@@ -67,7 +67,7 @@ payload_flatEarther█Murphy (Płaskoziemca)
 
 contract_marsCamera█Wyprawa na Marsa
 payload_marsCamera█Marsjańska Kamera
-content_marsCamera█Wystrzel kamerę ciężką rakietą "Heavy" aby móc zobaczyć i grać na Marsie.
+content_marsCamera█Wystrzel kamerę ciężką rakietą "Heavy" aby móc grać na Marsie.
 
 
 contract_spate█SPATE: Prologue EP
@@ -76,7 +76,8 @@ content_spate█Młody producent muzyczny z Finlandii wydaje nową płytę z kos
 
 contract_matt█Uratuj Matt'a
 payload_matt█Misja Ratunkowa dla Matt'a
-content_matt█Pojawiła się nowa oferta od NASA. Celem misji, jest wysłanie statku kosmicznego na Marsa, którą będzie mógł wrócić na Ziemię Matt.
+content_matt█Pojawiła się nowa oferta od NASA. Celem misji jest wysłanie statku kosmicznego na Marsa, którą będzie mógł wrócić na Ziemię Matt.
+
 
 
 

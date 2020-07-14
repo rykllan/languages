@@ -1,0 +1,39 @@
+
+
+tweet_static_fire_1█Statik ateşleme {0} denemeleri inanılmazdı! Çok Yakında. <color=#64B5F6>#earthx</color>
+tweet_static_fire_2█Statik ateş çok fazla gürültü ve duman çıkarır, ancak fırlatmadan önce roketi kontrol edebiliriz.{0} <color=#64B5F6>#space_company</color> <color=#64B5F6>#earthx</color>
+tweet_static_fire_3█Ahh! <color=#64B5F6>#static_fire</color> of {0} roket başarısız oldu... Müşterinin yükünü kaybettik. Böyle olmamalıydı. <color=#64B5F6>#earthx</color>
+tweet_static_fire_4█Aslında bir patlama değildi, sadece hızlı ve programsız bir ayrılma işlemiydi. {0} statik ateşleme başarısız oldu. <color=#64B5F6>#earthx</color> <color=#64B5F6>#static_fire</color>
+
+
+tweet_abort_1█Bugünkü {0} fırlatma lansmanını sadece birkaç dakika önce iptal etmek zorunda kaldık. Yakında daha fazla bilgi verilecek! <color=#64B5F6>#earthx</color>
+tweet_abort_2█Müşterimiz yükünde bir sorun buldu, bu yüzden onu indirmek zorunda kaldık. {0} birkaç gün içinde fırlatılacak! <color=#64B5F6>#earthx</color>
+
+
+tweet_deploy_1█Bugünün {1} lansmanı için {0} ekibine çok teşekkürler! Orada altın çalışanlarımız var! <color=#64B5F6>#earthx</color>
+tweet_deploy_2█Yük, şimdi hedef yörüngeye gidiyor (yaklaşık bir saatlik uçuş). {1} takımı coşuyor! {0} <color=#64B5F6>#earthx</color>
+tweet_deploy_3█Ayrılma! Yük, şimdi {0} ikinci aşama ile hedef yörüngeye gidiyor! <color=#64B5F6>#earthx</color>
+tweet_deploy_4█Tebrikler, {1} takımı!
+tweet_deploy_5█Uyduları ayırdıktan sonra canlı yayına dön → (bu özellik yakında kullanıma sunulacaktır) <color=#64B5F6>#earthx</color>
+
+
+tweet_land_1█{0} indi! 
+tweet_land_2█{0} indi!! Bu {1} inişimiz! <color=#64B5F6>#earthx</color>
+tweet_land_3█{0} ilk aşama tammalandı! Tam görüntüler tmrw. <color=#64B5F6>#earthx</color>
+
+
+tweet_crash_1█Bu beklenmedik bir şeydi. {0} <color=#64B5F6>#earthx</color>
+tweet_crash_2█Ekibimiz {0} roketin patlamasını araştırıyor.
+tweet_crash_3█Bak, bu bir patlama değildi. Sadece hızlı bir programsız ayrılma işlemiydi. {0} <color=#64B5F6>#earthx</color>
+tweet_crash_4█Ekibimiz sorunu buldu. Motorla ilgili bir şeydi. Gelecekteki uçuşlarımızda tekrar olmaz. {0} <color=#64B5F6>#earthx</color>
+
+
+tweet_linklink_first█Bu tweet'i LinkLink uydusu üzerinden uzaya gönderiliyor.
+tweet_linklink_worked█Aha, valla oldu!!
+tweet_linklink_visible█Onları Dünya'dan görebiliyor musun acaba <color=#64B5F6>#linklink</color> <color=#64B5F6>#internet</color>
+tweet_linklink_failure█<color=#64B5F6>#linklink</color> Elimizden gelenin en iyisini yapıyoruz. Teknisyenlerimiz dünyanın en iyisi! <color=#64B5F6>#failure</color> {0}
+
+
+
+
+

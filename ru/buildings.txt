@@ -10,23 +10,24 @@ building_advancedLP█Продвинутая стартовая площадка
 building_megaLP█"Мега-пад"
 
 building_category_all█Всё
-building_category_production█Production
-building_category_storage█Storage
-building_category_other█Other
+building_category_production█Производство
+building_category_storage█Хранение
+building_category_other█Другое
 
 buildingSetup_buildingName█Название здания...
 buildingSetup_overview█Обзор
 buildingSetup_setup█Управление
-buildingSetup_modules█Modules
-buildingSetup_other█Other
+buildingSetup_modules█Модули
+buildingSetup_other█Другое
 buildingSetup_billsCurrentQuarter█Счета за текущий квартал
 
 buildingSetup_nowWorkingOn█Работает над
 buildingSetup_queue█Очередь
 
-buildingSetup_produce█Produce
+buildingSetup_produce█Произвести
 
-returnToEarth█Return to Earth
+returnToEarth█Вернуть на Землю
+returnToEarthShort█Вернуть
 
 buildingSetup_negotiationPowerEachEmployee█Сила переговоров от сотрудников
 buildingSetup_negotiationPowerBuilding█Сила переговоров от здания
@@ -47,7 +48,7 @@ medium_factory█Средняя фабрика
 medium_factory_desc█Может производить только модули лёгких и средних ракет.
 
 large_factory█Большая фабрика
-large_factory_desc█Может производить модули всех ракет кроме Superheavy и Spaceship.
+large_factory_desc█Может производить модули всех ракет, кроме Superheavy и Spaceship.
 
 giga_factory█Гигафабрика
 giga_factory_desc█Может производить любые модули и спутники LinkLink.
@@ -73,62 +74,62 @@ laboratory_desc█Производит очки исследований.
 megaLP█"Мега-пад"
 megaLP_desc█Вы можете запускать Spaceship
 
-smallTerminal█LinkLink Small Terminal
-smallTerminal_desc█Terminals are connecting people on Earth with LinkLinks. More terminals == more users capacity.
+smallTerminal█Малый терминал LinkLink
+smallTerminal_desc█Терминалы соединают людей на Земле со спутниками LinkLink. Больше терминалов -> больше вместимость.
 
-largeTerminal█LinkLink Large Terminal
-largeTerminal_desc█Terminals are connecting people on Earth with LinkLinks. More terminals == more users capacity.
+largeTerminal█Большой терминал LinkLink
+largeTerminal_desc█Терминалы соединяют людей на Земле со спутниками LinkLink. Больше терминалов -> больше вместимость
 
-landingZone█Landing Zone
-landingZone_desc█Do I really need to describe it?
+landingZone█Посадочная площадка
+landingZone_desc█Мне точно нужно рассказывать для чего это?
 
-smallHotel█Small Hotel
-smallHotel_desc█Martians are living in places like this.
+smallHotel█Малый отель
+smallHotel_desc█Марсиане живут в примерно таких местах.
 
-mediumHotel█Medium Hotel
-mediumHotel_desc█More Martians are living in places like this.
+mediumHotel█Средний отель
+mediumHotel_desc█Много марсиан живут в таких местах.
 
-largeHotel█Large Hotel
-largeHotel_desc█A lot of Martians are living in places like this.
+largeHotel█Большой отель
+largeHotel_desc█Очень много марсиан живут в таких местах.
 
-waterFactory█Water Factory
-waterFactory_desc█Produces Water and Oxygen.
+waterFactory█Фабрика по производству воды
+waterFactory_desc█Производит воду и кислород.
 
-fuelFactory█Fuel Factory
-fuelFactory_desc█Produces Fuel.
+fuelFactory█Топливная фабрика
+fuelFactory_desc█Производит топливо.
 
-steelFactory█Steel Factory
-steelFactory_desc█Produces Materials and Cybercars.
+steelFactory█Стальная фабрика
+steelFactory_desc█Производит материалы и киберкары.
 
-mediumGreenhouse█Medium Greenhouse
-mediumGreenhouse_desc█Produces Food and Oxygen.
+mediumGreenhouse█Средняя теплица
+mediumGreenhouse_desc█Производит еду и кислород.
 
-largeGreenhouse█Large Greenhouse
-largeGreenhouse_desc█Produces more Food and Oxygen.
+largeGreenhouse█Большая теплица
+largeGreenhouse_desc█Производит больше еды и кислорода.
 
-smallSolar█Small Solar
-smallSolar_desc█Produces Electricity.
+smallSolar█Малая солнечная панель
+smallSolar_desc█Производи электричество.
 
-mediumSolar█Medium Solar
-mediumSolar_desc█Produces more Electricity.
+mediumSolar█Средняя солнечная панель
+mediumSolar_desc█Производит больше электричества.
 
-smallWaterStorage█Small Water Storage
-smallWaterStorage_desc█Stores Water and Oxygen.
+smallWaterStorage█Малый водный резервуар
+smallWaterStorage_desc█Содержит воду и кислород.
 
-mediumWaterStorage█Medium Water Storage
-mediumWaterStorage_desc█Stores more Water and Oxygen.
+mediumWaterStorage█Средний водный резервуар
+mediumWaterStorage_desc█Содержит больше воды и кислорода.
 
-largeWaterStorage█Large Water Storage
-largeWaterStorage_desc█Stores a lot of Water and Oxygen.
+largeWaterStorage█Большой водный резервуар
+largeWaterStorage_desc█Содержит очень много воды и кислорода.
 
-smallFuelStorage█Small Fuel Storage
-smallFuelStorage_desc█Stores Fuel.
+smallFuelStorage█Малый топливный резервуар
+smallFuelStorage_desc█Содержит топливо.
 
-mediumFuelStorage█Medium Fuel Storage
-mediumFuelStorage_desc█Stores more Fuel.
+mediumFuelStorage█Средний топливный резервуар
+mediumFuelStorage_desc█Содержит больше топлива.
 
-largeFuelStorage█Large Fuel Storage
-largeFuelStorage_desc█Stores a lot of Fuel.
+largeFuelStorage█Большой топливный резервуар
+largeFuelStorage_desc█Содержит очень много топлива.
 
 lp_cape█Мыс Канаверал
 lp_vandenberg█Ванденберг
@@ -141,6 +142,7 @@ lp_xichang█Сичан
 lp_rocketComplex█Приватный космодром
 lp_australia█Вумера
 lp_india█Космический центр им. Сатиша Дхавана
+
 
 
 

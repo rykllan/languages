@@ -14,7 +14,9 @@ iss_catHeader█Pomóż, proszę!
 iss_catContent█Mój kot, Balwina, jest w bardzo złym stanie... Moja misja na MSK potrwa jeszcze z 4 miesiące i boję się, że już jej nie zobaczę.&%&%Z tego też powodu PROSZĘ Cię, abyś zabrał moją kotkę na MSK przy następnej misji :(&%&%Proszę rozważ to i z góry dziękuję,&%&%Teresa
 
 iss_technicianHeader█Nagły wypadek na MSK
-iss_technicianContent█Dobry wieczór,&%&%Na Międzynarodowej Stacji Kosmicznej przebywa aktualnie 4 astronautów. Ich życie jest aktualnie w dużym niebezpieczeństwie, poniważ astronauci odkryli średniej wielkości wyciek powietrza w jednym z modułów.&%&%Wiemy, że Twoja firma nie posiada aktualnie żadnych kapsuł załogowych, dlatego będziesz musiał wysłać technika na MSK w kapsule towarowej.&%&%Proszę wykonaj misję najszybciej jak potrafisz I nie wspominaj o niej prasie. Nikt nie może wiedzieć, że zaraz wystrzelimy człowieka w kapsule towarowej! &%&%Dziękuję za współpracę, zostaniesz dobrze nagrodzony po tej misji.
+iss_technicianContent█Dobry wieczór,&%&%Na Międzynarodowej Stacji Kosmicznej przebywa aktualnie 4 astronautów. Ich życie jest aktualnie w dużym niebezpieczeństwie, poniważ odkryli oni średniej wielkości wyciek powietrza w jednym z modułów.&%&%Wiemy, że Twoja firma nie posiada aktualnie żadnych kapsuł załogowych, dlatego będziesz musiał wysłać technika na MSK w kapsule towarowej.&%&%Proszę wykonaj misję najszybciej jak potrafisz. I nie wspominaj o niej prasie! Nikt nie może wiedzieć, że zaraz wystrzelimy człowieka w kapsule towarowej! &%&%Dziękuję za współpracę, zostaniesz dobrze nagrodzony po tej misji.
+
+iss_vehicleAboutToReturn█{0} niedługo wróci na ziemię!
 
 teslaRoadsterHeader█Misja: Auto w Kosmos
 teslaRoadsterContent█Wystrzel auto w kosmos!
@@ -50,7 +52,7 @@ moduleUpgraded█Moduł ulepszony!
 notEnoughSkillPoints█Za mało punktów doświadczenia!
 
 congratulations█Gratulacje!
-congratulations_content█Gratuluję pierwszego udanego lotu!&%Chciałbym Cię poinformować, że Twoja firma otrzymała fundusze na dalszy rozwój twoich rakiet.&%<color=#64B5F6><b>Nie zmarnuj ich!</color>.
+congratulations_content█Gratuluję pierwszego udanego lotu!&%Chciałbym Cię poinformować, że Twoja firma otrzymała fundusze na dalszy rozwój Twoich rakiet.&%<color=#64B5F6><b>Nie zmarnuj ich!</color>.
 
 buildingWorking█Ten budynek aktualnie pracuje.
 hangarStoring█Ten hangar przechowuje rakiety.
@@ -71,6 +73,7 @@ noCybercars█Brak cyberaut!
 
 parkingOrbit█Orbita Parkująca
 leavingParkingOrbit█Opuszcza orbitę w {0}
+
 
 
 

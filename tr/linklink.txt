@@ -1,0 +1,70 @@
+
+
+linkLink_announcement_header█LinkLink - İnternet'in geleceği?
+linkLink_announcement_content█{1} uzay şirketinin sahibi {0} işini genişletiyor. Mars'a bir adam göndermek CEO'NUN en büyük amacı gibi görünüyor.&%&%Bu kez {1}, gezegenimizin halkına hızlı ve uygun fiyatlı internet sağlama hedefi belirlendi. Bunu, Dünya'nın yörüngesine gönderilen yüzlerce küçük telekomünikasyon uydusu ile başarmak istiyor. Bu teknolojinin adı da duyuruldu - "LinkLink".&%&%Bu yeni teknolojideki çalışmaların ilerleyişi hakkında sizi bilgilendireceğiz.
+
+
+linkLink_tintin_header█Yörüngedeki ilk LinkLink uyduları!
+linkLink_tintin_content█Bugünkü roket fırlatımı tarih yazacak. Bize hızlı ve uygun {5} fiyatlı internet erişimi vermek için gemide küçük LinkLink uydular bulunmakta {0}. &%&%Geniş bir kullanıcı yelpazesi için hizmetin tam olarak ne zaman başlatılacağını bilmiyoruz.
+
+
+linkLink_terminals_header█Gizemli {0} antenlerin yapımı tamamlandı.
+linkLink_terminals_content█Dünyanın en büyük şehirlerinin yakınında gizemli yuvarlak yapıların inşaası tamamlandı. Bildiğiniz gibi, bunlar LinkLink uydu takımyıldızı ile iletişimden sorumlu antenlerdir. &%&%Hizmet yakında başlayacak mı?
+
+
+linkLink_run_header█İlk kullanıcılar LinkLink Internet'i test etmeye başladı!
+linkLink_run_content█Gelecek bugün! {0} ilk kullanıcılar geleceğin uydu internetine bağladı. &%&%Testlere katılan kullanıcılar çoğunlukla bağlantının hızını ve kararlılığını övüyor.
+
+
+linkLink_10k_header█LinkLink internet taze kek gibi satıyor!
+linkLink_10k_content█Testler tamamlandı! {0} hizmeti satmaya başladı - ilk günden itibaren 10.000 kişi tarafından satın alındı. &%&%{1} buna kadeh kaldırılır!
+
+
+linkLink_250k_header█250.000 LinkLink kullanıcısı!
+linkLink_250k_content█{0} yavaşlamıyor. Kablosuz yüksek hızlı internetler inanılmaz başarılı. &%&%Bugünkü basın toplantısında CEO {1} Dünya genelinde 250.000'den fazla insanın LinkLink'in hizmetini kullandığını paylaştı. &%&%Düşük fiyat ve yüksek kullanılabilirlik başarı için gerçek bir reçete!
+
+linkLink_million_header█LinkLink'in finansal başarısı. {1} milyonlar kazanıyor!
+linkLink_million_content█Bu şirketin en son kazanç rakamları yılda bir milyon dolardan fazla {0}. Bu miktarın sadece LinkLink'in İnternet erişim servisi için geçerli olduğunu belirtmek gerekir. &%&%Umuyoruz ki {1} parayı iyi yerlere harcarlar - misal, Mars'a bir adam gönderecekti.
+
+
+linkLink_failure_header█Big LinkLink Bağlantı Arızası - 24 saat İnternet erişimi olmayan kullanıcılar bulunmakta.
+linkLink_failure_content█Söz konusu LinkLink aboneleri İnternet erişiminin olmadığını bildiriyor. Kullanıcıların yarısından fazlası neredeyse 24 saat boyunca ağa bağlanamıyor. &%&%{1} teknisyenleri zaten arızayı ortadan kaldırmak için çalışıyor. Bu tür sorunların gelecekte gerçekleşmemesini umuyoruz.
+
+linkLink_giga_factory_needed█LinkLink uyduları oluşturmak için bir GigaFabrikası'na ihtiyacınız var.
+
+linkLink_system█Sistem
+linkLink_production█Üretim
+linkLink_statistics█İstatistikler
+
+linkLink_100_required█Hizmeti çalıştırmak için en az <color=#64B5F6><b>100</b></color> LinkLink'e ihtiyacınız var.
+
+linkLink_run█LinkLink'i çalıştır
+linkLink_customerPrice█Müşteri fiyatı (aylık)
+linkLink_customersHistory█Müşterilerin Geçmişi
+linkLink_serviceDown█LinkLink hizmetleri kapalı. Teknisyenler bunu düzeltmek için çalışıyor. (bir yıl bile sürebilir)
+
+linkLink_build█LinkLink İnşa Et
+
+linkLink_totalCustomers█Kullanıcılar
+linkLink_totalLinkLinks█Toplam LinkLink'liler
+linkLink_income█Yıllık gelir
+linkLink_stability█Bağlantı Kararlılığı
+linkLink_capacity█LinkLink Kapasitesi (Maks kullanıcı)
+linkLink_terminalCapacity█Terminal Kapasitesi (Maks kullanıcı)
+
+linkLink_smallFailure█LinkLink'lerinizden bazıları çalışmayı durdurdu ve yörüngeden çıktı.
+linkLink_30_deorbited█LinkLink'lerinizin% 30'u kullanım ömrü sona erdiği için yörüngeden çıktı.
+
+linkLink_welcome_header█LinkLink
+linkLink_welcome_content█EarthX'te daha sonra , dünya çapında uygun fiyatlı İnternet sağlayacak kendi uydu takımyıldızınızı oluşturabileceksiniz.&%&%Ancak, bunu yapmak için önce 2 test uydusu fırlatmanız gerekecek.&%&%Bol şans!
+
+30percentDeorbit█LinkLink'lerin% 30'u yörüngeden ayrılacak <b>{0}</b>
+
+buildLinkLinkInGiga█Herhangi bir Giga Fabrikasında LinkLink oluşturun
+openGigaFactory█Giga Fabrikasını Aç
+
+
+
+
+
+
