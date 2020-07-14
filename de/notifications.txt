@@ -69,7 +69,7 @@ noGigaFactories█Du hast keine Giga Fabrik!
 
 noMoney█Nicht genug Geld!
 noMaterials█Nicht genug Materialien!
-noCybercars█Nicht genug cybercars!
+noCybercars█Nicht genug Cybercars!
 
 parkingOrbit█Parkplatz-Umlaufbahn
 leavingParkingOrbit█Verlässt Orbit in {0}

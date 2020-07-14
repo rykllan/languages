@@ -7,7 +7,7 @@ spaceship█Raumschiff
 spaceships█Raumschiffe
 vehiclesDockedToISS█Gedockte Fahrzeuge
 
-readyToLeave█Ready
+readyToLeave█Fertig
 
 issHeaderText█Internationale Raumstation (ISS)&%<size=14><b><color=#64B5F6>Einsatzbereit
 
@@ -50,7 +50,7 @@ marsLanded█Gestartet vom <color=#E17055>Mars</color>
 
 readyToLaunch█<b><color=#64B5F6>{0} von {1}</b></color>&%<size=70%>sind bereit zum starten!
 
-capabilities█Capabilities
+capabilities█Fähigkeiten
 reliability█Zuverlässigkeit
 condition█Zustand
 
@@ -66,18 +66,18 @@ sideboosters█Seitenbooster
 superheavy█Superheavy
 spaceshipsOnly█Nur Raumschiffe
 capsulesOnly█Nur Kapseln
-fairingRecovery█Fairing recovery
+fairingRecovery█Rückgewinnung der Verkleidung
 
 landingNotSupported█Landung nich Untestützt!&%Benötigt:<size=12><b>&%-Grid Fins & Landebeine&%-Batterie&%-GPS (für automatische Wiederverwendung)&%-4 oder 9 Fortgeschrittener Antrieb</b></size>&%
 capsulesNotSupported█Kapsel nicht Unterstützt!&%Benötigt:<size=12><b>&%-Batterie&%-GPS&%-4 or 9 Fortgeschrittener Antrieb</b></size>&%
 heavyNotSupported█Schwere Rakete nicht Unterstützt!&%Benötigt:<size=12><b>&%-Rakete mit automatischer Wiederverwendung</b></size>&%
-fairingCatchingNotSupported█Fairing catching nicht Unterstützt!&%Benötigt:<size=12><b>&%-Rakete mit automatischer Wiederverwendung</b></size>&%
+fairingCatchingNotSupported█Verkleidungsbergung nicht Unterstützt!&%Benötigt:<size=12><b>&%-Rakete mit automatischer Wiederverwendung</b></size>&%
 
 payload█Nutzlast
 crew█Mannschaft
 cargo█Fracht
 
-launchAll█Launch All
+launchAll█Alle starten
 
 launchSetup_header█Start Setup
 launchSetup_missionName█Missionsname...

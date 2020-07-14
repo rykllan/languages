@@ -9,7 +9,7 @@ contracts_menu_offers█Angebote
 contracts_payloads█{0} Fracht(en)
 contracts_availableIn█Verfügbar in
 contracts_noRockets█Keine geeigneten Raketen!
-contracts_negotiators█Negotiators
+contracts_negotiators█Verhandlungspartner
 contracts_approx█Ungefähr.
 contracts_selectLaunchPrice█Startpreis auswählen
 contracts_avgRocketPrice█Durchschnittlicher Raketenpreis:

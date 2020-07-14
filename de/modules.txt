@@ -52,13 +52,13 @@ mdl_s_fairings█Kleine Verkleidung,Erforderlich für kleine Raketen.
 mdl_m_fairings█Mittlere Verkleidung,Erforderlich für mittlere Raketen.
 mdl_l_fairings█Große Verkleidung,Erforderlich für große Raketen.
 mdl_vc_fairings█Fahrzeug-Steckverbinder,Erforderlich für Kapselraketen/Raumschiff.
-mdl_fairingParachutes█Fairing Parachutes,Reusable rocket is required to recover the fairings.
+mdl_fairingParachutes█Verkleidungsfallschirme, wiederverwendbare Rakete ist erforderlich, um die Verkleidungen zu bergen.
 
 
 ---Landing Stuff---█---Landing Stuff---
 
-mdl_a_gridfins█Aluminium Grid Fins,Required for manual landing rockets.
-mdl_t_gridfins█Titanium Grid Fins,Required for auto landing rockets.
+mdl_a_gridfins█Aluminium Grid Fins,Erforderlich für manuell landende Raketen.
+mdl_t_gridfins█Titanium Grid Fins,Erforderlich für automatisch landende Raketen.
 mdl_m_landingLegs█Manuelle Landebeine,Erforderlich für manuell landende Raketen.
 mdl_a_landingLegs█Automatische Landebeine,Erforderlich für automatisch landende Raketen.
 mdl_booster_connector█Booster Connector,Required for sidebooster rockets. (Falcon Heavy Boi)

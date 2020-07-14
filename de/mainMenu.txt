@@ -27,7 +27,7 @@ menu_quality█Grafik
 menu_low█Schlecht
 menu_medium█Mittel
 menu_high█Hoch
-menu_environment█Environment?
+menu_environment█Umgebung?
 menu_postprocessings█Nachbearbeitung?
 
 menu_gameplay█Gameplay
