@@ -28,10 +28,10 @@ File: general.txt (23)
 Original Translation: orbit_geo█GEO
 
 File: general.txt (25)
-Original Translation: orbit_marsOrbit█Mars Orbit
+Original Translation: orbit_marsOrbit█Marte Orbit
 
 File: general.txt (26)
-Original Translation: orbit_marsSurface█Mars Surface
+Original Translation: orbit_marsSurface█Marte Surface
 
 File: general.txt (27)
 Original Translation: vehicle_cargo█Cargo
@@ -55,19 +55,19 @@ File: general.txt (33)
 Original Translation: map_settings_linklink_outline█LinkLink Outline
 
 File: general.txt (34)
-Original Translation: earth█Earth
+Original Translation: earth█Tierra
 
 File: general.txt (35)
-Original Translation: mars█Mars
+Original Translation: mars█Marte
 
 File: general.txt (36)
-Original Translation: switchPlanet█Switch Planet
+Original Translation: switchPlanet█Switch Planeta
 
 File: general.txt (37)
 Original Translation: tanking█Tanking...
 
 File: general.txt (38)
-Original Translation: marsDetails█Mars Details
+Original Translation: marsDetails█Marte Details
 
 File: general.txt (39)
 Original Translation: earthLikePlanet█Earth-like Planet
@@ -85,10 +85,10 @@ File: general.txt (43)
 Original Translation: food█Food
 
 File: general.txt (44)
-Original Translation: water█Water
+Original Translation: water█Agua
 
 File: general.txt (45)
-Original Translation: oxygen█Oxygen
+Original Translation: oxygen█Oxigeno 
 
 File: general.txt (46)
 Original Translation: fuel█Fuel
@@ -139,13 +139,13 @@ File: buildings.txt (20)
 Original Translation: buildingSetup_produce█Produce
 
 File: buildings.txt (21)
-Original Translation: returnToEarth█Return to Earth
+Original Translation: returnToEarth█Return a Tierra
 
 File: buildings.txt (22)
 Original Translation: returnToEarthShort█Return
 
 File: buildings.txt (31)
-Original Translation: small_factory█Small Factory
+Original Translation: small_factory█Pequena Fabrica
 
 File: buildings.txt (32)
 Original Translation: small_factory_desc█You can build only small modules.
@@ -169,7 +169,7 @@ File: buildings.txt (38)
 Original Translation: giga_factory_desc█You can build every kind of vehicles and LinkLink.
 
 File: buildings.txt (39)
-Original Translation: small_hangar█Small Hangar
+Original Translation: small_hangar█Pequena Hangar
 
 File: buildings.txt (40)
 Original Translation: small_hangar_desc█You can store only rockets.
@@ -181,7 +181,7 @@ File: buildings.txt (42)
 Original Translation: medium_hangar_desc█You can store only rockets and capsules.
 
 File: buildings.txt (43)
-Original Translation: large_hangar█Large Hangar
+Original Translation: large_hangar█Grande Hangar
 
 File: buildings.txt (44)
 Original Translation: large_hangar_desc█You can store more rockets and capsules.
@@ -202,7 +202,7 @@ File: buildings.txt (49)
 Original Translation: laboratory█Laboratory
 
 File: buildings.txt (50)
-Original Translation: laboratory_desc█Produces skill points.
+Original Translation: laboratory_desc█Produce skill points.
 
 File: buildings.txt (51)
 Original Translation: megaLP█Mega Launch Pad
@@ -229,7 +229,7 @@ File: buildings.txt (58)
 Original Translation: landingZone_desc█Do I really need to describe it?
 
 File: buildings.txt (59)
-Original Translation: smallHotel█Small Hotel
+Original Translation: smallHotel█Peqeno Hotel
 
 File: buildings.txt (60)
 Original Translation: smallHotel_desc█Martians are living in places like this.
@@ -241,25 +241,25 @@ File: buildings.txt (62)
 Original Translation: mediumHotel_desc█More Martians are living in places like this.
 
 File: buildings.txt (63)
-Original Translation: largeHotel█Large Hotel
+Original Translation: largeHotel█Grande Hotel
 
 File: buildings.txt (64)
 Original Translation: largeHotel_desc█A lot of Martians are living in places like this.
 
 File: buildings.txt (65)
-Original Translation: waterFactory█Water Factory
+Original Translation: waterFactory█Agua Fabricia
 
 File: buildings.txt (66)
-Original Translation: waterFactory_desc█Produces Water and Oxygen.
+Original Translation: waterFactory_desc█Produce Agua y Oxigeno.
 
 File: buildings.txt (67)
-Original Translation: fuelFactory█Fuel Factory
+Original Translation: fuelFactory█Fuel Fabricia
 
 File: buildings.txt (68)
-Original Translation: fuelFactory_desc█Produces Fuel.
+Original Translation: fuelFactory_desc█Produce Fuel.
 
 File: buildings.txt (69)
-Original Translation: steelFactory█Steel Factory
+Original Translation: steelFactory█Steel Fabricia
 
 File: buildings.txt (70)
 Original Translation: steelFactory_desc█Produces Materials and Cybercars.
@@ -268,46 +268,46 @@ File: buildings.txt (71)
 Original Translation: mediumGreenhouse█Medium Greenhouse
 
 File: buildings.txt (72)
-Original Translation: mediumGreenhouse_desc█Produces Food and Oxygen.
+Original Translation: mediumGreenhouse_desc█Produce Food and Oxigeno.
 
 File: buildings.txt (73)
-Original Translation: largeGreenhouse█Large Greenhouse
+Original Translation: largeGreenhouse█Grande Greenhouse
 
 File: buildings.txt (74)
-Original Translation: largeGreenhouse_desc█Produces more Food and Oxygen.
+Original Translation: largeGreenhouse_desc█Produce more Food and Oxigeno.
 
 File: buildings.txt (75)
-Original Translation: smallSolar█Small Solar
+Original Translation: smallSolar█Pequena Solar
 
 File: buildings.txt (76)
-Original Translation: smallSolar_desc█Produces Electricity.
+Original Translation: smallSolar_desc█Produce Electricity.
 
 File: buildings.txt (77)
 Original Translation: mediumSolar█Medium Solar
 
 File: buildings.txt (78)
-Original Translation: mediumSolar_desc█Produces more Electricity.
+Original Translation: mediumSolar_desc█Produce mas Electricity.
 
 File: buildings.txt (79)
-Original Translation: smallWaterStorage█Small Water Storage
+Original Translation: smallWaterStorage█Pequena Agua Storage
 
 File: buildings.txt (80)
 Original Translation: smallWaterStorage_desc█Stores Water and Oxygen.
 
 File: buildings.txt (81)
-Original Translation: mediumWaterStorage█Medium Water Storage
+Original Translation: mediumWaterStorage█Medium Agua Storage
 
 File: buildings.txt (82)
-Original Translation: mediumWaterStorage_desc█Stores more Water and Oxygen.
+Original Translation: mediumWaterStorage_desc█Stores more Agua and Oxigenio.
 
 File: buildings.txt (83)
-Original Translation: largeWaterStorage█Large Water Storage
+Original Translation: largeWaterStorage█Grande Agua Storage
 
 File: buildings.txt (84)
-Original Translation: largeWaterStorage_desc█Stores a lot of Water and Oxygen.
+Original Translation: largeWaterStorage_desc█Stores a lot of Agua y Oxigeno.
 
 File: buildings.txt (85)
-Original Translation: smallFuelStorage█Small Fuel Storage
+Original Translation: smallFuelStorage█Fuel Storage
 
 File: buildings.txt (86)
 Original Translation: smallFuelStorage_desc█Stores Fuel.
@@ -319,7 +319,7 @@ File: buildings.txt (88)
 Original Translation: mediumFuelStorage_desc█Stores more Fuel.
 
 File: buildings.txt (89)
-Original Translation: largeFuelStorage█Large Fuel Storage
+Original Translation: largeFuelStorage█Grande Fuel Storage
 
 File: buildings.txt (90)
 Original Translation: largeFuelStorage_desc█Stores a lot of Fuel.
@@ -358,13 +358,13 @@ File: buildings.txt (101)
 Original Translation: lp_india█Satish Dhawan
 
 File: company.txt (7)
-Original Translation: company_financeHistory█Finance History
+Original Translation: company_financeHistory█Finance Historia
 
 File: company.txt (8)
-Original Translation: company_flightHistory█Flight History
+Original Translation: company_flightHistory█Flight Historia
 
 File: company.txt (9)
-Original Translation: company_competitionHistory█Competition History
+Original Translation: company_competitionHistory█Competition Histori
 
 File: company.txt (15)
 Original Translation: rocketquillas█Rocketquillas
@@ -502,7 +502,7 @@ File: contracts.txt (37)
 Original Translation: contract_potato█Dummy Payloads
 
 File: contracts.txt (38)
-Original Translation: payload_potato█Orbital Potato
+Original Translation: payload_potato█Orbital Patata
 
 File: contracts.txt (39)
 Original Translation: contract_balwina█meow... Meow... MEOW!!!
@@ -517,10 +517,10 @@ File: contracts.txt (42)
 Original Translation: payload_flatEarther█Murphy (Flatearther)
 
 File: contracts.txt (43)
-Original Translation: contract_marsCamera█Mars Journey
+Original Translation: contract_marsCamera█Marte Journey
 
 File: contracts.txt (44)
-Original Translation: payload_marsCamera█Mars Camera
+Original Translation: payload_marsCamera█Marte Camera
 
 File: contracts.txt (45)
 Original Translation: content_marsCamera█Launch Mars Camera with your Heavy Rocket to Mars Orbit. You will then be able to see and interact with Mars!
@@ -580,10 +580,10 @@ File: levels.txt (28)
 Original Translation: levelTitle28█Nuclear Bomb Goes Brrrrr
 
 File: levels.txt (29)
-Original Translation: levelTitle29█Too hot
+Original Translation: levelTitle29█Too Caliente
 
 File: levels.txt (30)
-Original Translation: levelTitle30█Too cold
+Original Translation: levelTitle30█Too Frio
 
 File: levels.txt (31)
 Original Translation: levelTitle31█Home 2.0
@@ -817,7 +817,7 @@ File: linklink.txt (10)
 Original Translation: linkLink_250k_header█250,000 LinkLink users!
 
 File: linklink.txt (16)
-Original Translation: linkLink_giga_factory_needed█You need a GigaFactory in order to build LinkLink satellites.
+Original Translation: linkLink_giga_factory_needed█You need a GigaFactory in order a build LinkLink satellites.
 
 File: linklink.txt (17)
 Original Translation: linkLink_system█System
@@ -901,7 +901,7 @@ File: mainMenu.txt (12)
 Original Translation: menu_sandbox█<b>Sandbox</b>&%<size=75%>In sandbox mode everything is unlocked and unlimited. Kinda boring tbh.
 
 File: mainMenu.txt (13)
-Original Translation: menu_difficulty█Game Difficulty
+Original Translation: menu_difficulty█Juego Dificultad
 
 File: mainMenu.txt (14)
 Original Translation: menu_easy█<b>Easy</b>&%<size=75%>Play easy if you want to play easy. Just launch those big rockets.
@@ -952,13 +952,13 @@ File: modules.txt (12)
 Original Translation: type_utility█Utility
 
 File: modules.txt (13)
-Original Translation: module_factory_small█Small
+Original Translation: module_factory_small█Peqeno
 
 File: modules.txt (14)
 Original Translation: module_factory_medium█Medium
 
 File: modules.txt (15)
-Original Translation: module_factory_large█Large
+Original Translation: module_factory_large█Grande
 
 File: modules.txt (16)
 Original Translation: module_factory_giga█Giga
@@ -979,10 +979,10 @@ File: modules.txt (67)
 Original Translation: mdl_fuelUtility█Fuel Utility,Tanker Spaceship
 
 File: news.txt (42)
-Original Translation: news_fail_header6█"We'll be loud!" The words of the CEO of {0} have just come true. Their rockets explode like crazy.
+Original Translation: news_fail_header6█"We'll be loud!" The words of el verdadera CEO of {0} have just come true. Their rockets explode like crazy.
 
 File: news.txt (70)
-Original Translation: news_FundraisingHats_header█{1} has sold 20,000 hats with the {0} logo. The perfect way to finance space business?
+Original Translation: news_FundraisingHats_header█{1} has sold 20,000 hats with the {0} logo. The perfecto way a finance space business?
 
 File: news.txt (71)
 Original Translation: news_FundraisingHats_content█{1} is amazing. Crazy, but still amazing. {0}'s CEO was told by the management to add some cash to the company's budget in the sharpest possible way. A normal CEO would probably lay off a few employees to reduce the cost of hiring. &%&%{1} sold... hats. And quite a lot of them, almost 20,000. Is this the last such an unusual act by {1}?
@@ -1042,7 +1042,7 @@ File: news.txt (89)
 Original Translation: news_iss_2010q1_content█The Cupola (Dome) was lifted into space with the help of the American shuttle Endeavour. The module will allow a direct panoramic view from inside of the station to activities performed outside. These will include operations performed with an automatic manipulator, space walks, shuttle docking manoeuvres or review and evaluation of the technical condition of external devices. &%&%The dome will be an excellent observation point of the Earth and other celestial bodies.
 
 File: news.txt (90)
-Original Translation: news_iss_2010q2_header█The American-Russian cooperation has provided the ISS with another module.
+Original Translation: news_iss_2010q2_header█The American-Russian cooperation has provided la ISS with another module.
 
 File: news.txt (91)
 Original Translation: news_iss_2010q2_content█The thirty-second flight of the Atlantis shuttle and already one hundred and thirty-second mission of the shuttle program was successful. This time the Rassvet module (EN: Dawn) joined the International Space Station. It will be used primarily for cargo storage and as a docking module for the station. &%&%Using the capacity of Rassvet, NASA has placed in the module 3000 pounds (or 1360kg) of equipment, spare parts, food, and victuals to be transported to the station.
@@ -1054,7 +1054,7 @@ File: news.txt (93)
 Original Translation: news_iss_2011q1_content█Today at 2:50 p.m., the Leonardo module (PMM) that is on a board of the Discovery shuttle, which is docked to the ISS, was permanently attached to the Harmony module node. &%&%The Leonardo Multifunctional Logistics Module (MPLM) is a large hermetic container used in supply missions of shuttles to and from ISS. After the STS-131 mission, Leonardo was converted into a Permanent Multifunctional Module (PMM). The conversion allowed a permanent connection to the ISS for an unlimited period of time - thus, Leonardo will serve as an additional storage facility at the International Space Station.
 
 File: news.txt (94)
-Original Translation: news_flat_earth_contract_name█The Truth
+Original Translation: news_flat_earth_contract_name█La verdad
 
 File: news.txt (95)
 Original Translation: news_flat_earth_contract_desc█Good morning,&%&%My name is Murphy. I'm the president of the American Flat Earth Society. We want to disprove once and for all the myth about round Earth. I'm interested in flying into space, making movies and taking pictures.&%&%Can you accept this offer?
@@ -1153,7 +1153,7 @@ File: notifications.txt (6)
 Original Translation: iss_catHeader█Please help!
 
 File: notifications.txt (8)
-Original Translation: iss_technicianHeader█Emergency on the ISS
+Original Translation: iss_technicianHeader█Emergency on la ISS
 
 File: notifications.txt (10)
 Original Translation: iss_vehicleAboutToReturn█{0} is about to return to the Earth!
@@ -1171,7 +1171,7 @@ File: notifications.txt (44)
 Original Translation: noGigaFactories█You don't have any GigaFactories!
 
 File: notifications.txt (45)
-Original Translation: noMoney█Not enough money!
+Original Translation: noMoney█Not enough dinero!
 
 File: notifications.txt (46)
 Original Translation: noMaterials█Not enough materials!
@@ -1180,7 +1180,7 @@ File: notifications.txt (47)
 Original Translation: noCybercars█Not enough cybercars!
 
 File: notifications.txt (48)
-Original Translation: parkingOrbit█Parking Orbit
+Original Translation: parkingOrbit█Parking Orbita
 
 File: notifications.txt (49)
 Original Translation: leavingParkingOrbit█Leaving Orbit in {0}
