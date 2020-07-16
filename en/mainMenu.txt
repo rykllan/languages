@@ -35,6 +35,7 @@ menu_autoSave█Auto Save?
 menu_autoPause█Auto Pause?
 menu_alwaysDay█Always Day?
 menu_hangarsVisual█Hangars Visual?
+menu_gameOver█Gameover?
 
 menu_video█Video
 menu_fullscreen█Fullscreen?
