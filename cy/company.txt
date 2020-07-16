@@ -1,62 +1,62 @@
 
 
-company_createNewCompany█Create a new company
-company_ceoName█CEO name
-company_companyName█Company name
-company_createCompany█Create company
+company_createNewCompany█Ddechrau cwmni newydd
+company_ceoName█Enw CEO
+company_companyName█Enw cwmni
+company_createCompany█Ddechrau cwmni
 
-company_header█Company
-company_overview█Overview
-company_fundraising█Fundraising
-company_financeHistory█Finance History
-company_flightHistory█Flight History
-company_competitionHistory█Competition History
+company_header█Cwmni
+company_overview█Trosolwg
+company_fundraising█Codi arian
+company_financeHistory█Hanes arianol
+company_flightHistory█Hanes hedfanau
+company_competitionHistory█Hanes cystadleath
 
-fundraising_productionCost█Production cost:
-fundraising_sales█Sales:
-hats█Hats
-bricks█Bricks
-not_a_flamethrowers█<color=#E74C3C><size=10>Not a</size></color>&%Flamethrowers
-rocketquillas█Rocketquillas
-shorts█Short Shorts
-use█Use
+fundraising_productionCost█Pris cynhyrchu:
+fundraising_sales█Gwerthiadau:
+hats█Hetiau
+bricks█Briciau
+not_a_flamethrowers█<color=#E74C3C><size=10>Ddim yn</size></color>&%Tântaflwyr
+rocketquillas█Quillasrocked
+shorts█Siorts byr
+use█Defnyddio
 
-company_progressHeader█Company Progress
-company_progressLevel█Level
-company_progressNewStuff█New Stuff
-company_progressCompleteChallenges█Complete Challenges <size=70%>(<color=#E74C3C>**</color> = optional)
-company_progressNextLevel█Next Level
-company_progressPreviousLevel█Previous Level
-locked█Locked
-unlock█Unlock
-unlocked█Unlocked
-upgrade█Upgrade
-XskillPoints█skill points
+company_progressHeader█Cynydd cwmni
+company_progressLevel█Lefel
+company_progressNewStuff█Pethau newydd
+company_progressCompleteChallenges█Cwblhau sialensiau <size=70%>(<color=#E74C3C>**</color> = dewisol)
+company_progressNextLevel█Lefel nesaf
+company_progressPreviousLevel█Lefel diwethaf
+locked█Dan glo
+unlock█Datgloi
+unlocked█Wedi datgloi
+upgrade█Uwchraddio
+XskillPoints█Bwyntiau sgil
 
-upgradeHeader█<b>UPGRADE</b>&%<size=13><color=#64B5F6>15 skill points
-upgrade_reliability█<b>Reliability:</b> <color=#81C784>+10%
-upgrade_buildCost█<b>Build cost:</b> <color=#81C784>-10%
-upgrade_buildTime█<b>Build time:</b> <color=#81C784>-10%
+upgradeHeader█<b>UWCHRADDIO</b>&%<size=13><color=#64B5F6>15 Pwyntiau sgil
+upgrade_reliability█<b>Dibynadwyedd:</b> <color=#81C784>+10%
+upgrade_buildCost█<b>Pris adeiladu:</b> <color=#81C784>-10%
+upgrade_buildTime█<b>Amser adeiladu:</b> <color=#81C784>-10%
 
-company_menu_finance█Finance
-company_menu_flights█Flights
-company_menu_competition█Competition
+company_menu_finance█Arian
+company_menu_flights█Hedfanau
+company_menu_competition█Cystadleaeth
 
-company_summary█Finance Summary (Last 10 Years)&%<size=14>Where do you spend most money?
+company_summary█Crynodeb arianol (Last 10 Years)&%<size=14>Ble ydych in gwario y fwyaf o eich arian?
 
-company_successes█Successes
-company_failures█Failures
-company_flights█Flights
-company_income█Income
-company_outcome█Outcome
-company_balance█Balance
+company_successes█Llwyddianau
+company_failures█Fethuanau
+company_flights█Hedfanau
+company_income█Incwm
+company_outcome█Cost
+company_balance█Arian mewn banc
 
-company_launches█Launches
-company_construction█Construction
-company_employees█Employees
-company_others█Others
-company_lossPerYear█Average <mark=#E74C3C25>loss</mark> per year
-company_profitPerYear█Average <mark=#64B5F625>profit</mark> per year
+company_launches█Lawnsiadau
+company_construction█Adeiladu
+company_employees█Gweithwyr
+company_others█Arall
+company_lossPerYear█Cyfartaledd <mark=#E74C3C25>loss</mark> Y blwyddyn
+company_profitPerYear█Cyfartaledd <mark=#64B5F625>profit</mark> Y blwyddyn
 
 
 
