@@ -20,4 +20,6 @@ Turkish: Mehmet Tandoğan from https://turkceoyunmerkezi.com/
 
 French: Paola Sanchez & Clovis Chateau
 
+Weldsh: Sbaeneg
+
 Big thanks to Krzysztof Gmyr for organizing the team & helping with the corrections!
