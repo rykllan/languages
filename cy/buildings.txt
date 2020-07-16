@@ -1,145 +1,145 @@
 
 
-building█Building
-building_office█Office
-building_factory█Factory
-building_laboratory█Laboratory
+building█Adeilad
+building_office█Swyddfa
+building_factory█Fatri
+building_laboratory█Labordy
 building_hangar█Hangar
-building_simpleLP█Simple Launch Pad
-building_advancedLP█Advanced Launch Pad
-building_megaLP█Mega Launch Pad
+building_simpleLP█Pad Lawnsio Lyml
+building_advancedLP█Pad Lawnsio Datblygedig
+building_megaLP█Pad Lawnsio Mega
 
-building_category_all█All
-building_category_production█Production
-building_category_storage█Storage
-building_category_other█Other
+building_category_all█Popeth
+building_category_production█Cynhyrchu
+building_category_storage█Storio
+building_category_other█Arall
 
-buildingSetup_buildingName█Building name...
-buildingSetup_overview█Overview
-buildingSetup_setup█Setup
-buildingSetup_modules█Modules
-buildingSetup_other█Other
+buildingSetup_buildingName█Enw Adeilad...
+buildingSetup_overview█Trosolwg
+buildingSetup_setup█Sefydlu
+buildingSetup_modules█Modiwlau
+buildingSetup_other█Arall
 buildingSetup_billsCurrentQuarter█Bills for current quarter
 
-buildingSetup_nowWorkingOn█Now working on
-buildingSetup_queue█Queue
+buildingSetup_nowWorkingOn█Nawr Yn Gweithio arno
+buildingSetup_queue█Ciw
 
-buildingSetup_produce█Produce
+buildingSetup_produce█Cynhyrchu
 
-returnToEarth█Return to Earth
-returnToEarthShort█Return
+returnToEarth█Ynol I'r ddear
+returnToEarthShort█Ynol
 
-buildingSetup_negotiationPowerEachEmployee█Negotiation power for each employee
-buildingSetup_negotiationPowerBuilding█Building negotiation power
-buildingSetup_oneEmployee█One employee
-buildingSetup_negotiationPower█Negotiation power
+buildingSetup_negotiationPowerEachEmployee█Pwer Trafod am pob gweithwyr
+buildingSetup_negotiationPowerBuilding█Pwer trafod am yr adeilad
+buildingSetup_oneEmployee█Un gweithwyr
+buildingSetup_negotiationPower█Pwer trafod
 
-buildingSetup_vehicleStored█Vehicles stored
+buildingSetup_vehicleStored█Cerbydau wedi storio
 
 buildingSetup_employees█<size=14>{0} employees</size>&%{1} <color=#16A085>$</color> / year&%<size=14>{2} <color=#16A085>$</color> / each
-buildingSetup_manageEmployees█Manage employees
+buildingSetup_manageEmployees█Rheioli Gweithwyr
 
-buildingSetup_destroyBuilding█Destroy building
+buildingSetup_destroyBuilding█Dinistrio adeilad
 
-small_factory█Small Factory
-small_factory_desc█You can build only small modules.
+small_factory█Fatri bach
+small_factory_desc█Rydych ond yn gallu adeiladu cerbyd fach.
 
-medium_factory█Medium Factory
-medium_factory_desc█You can build only small and medium modules.
+medium_factory█Fatri maint canolig
+medium_factory_desc█Rydych ond yn gallu adeiladu cerbyd fach a canolig.
 
-large_factory█Large Factory
-large_factory_desc█You can build all kinds of vehicles except Spaceships and Superheavies.
+large_factory█Fatri fawr
+large_factory_desc█Rydych yn gallu adeiladu pob fath o cerbyd heblaw am llongau ofod a llongau trwm iawn.
 
-giga_factory█Giga Factory
-giga_factory_desc█You can build every kind of vehicles and LinkLink.
+giga_factory█Fatri giga
+giga_factory_desc█Rydych yn gallu adeiladu pob fath o roced a Linklink.
 
-small_hangar█Small Hangar
-small_hangar_desc█You can store only rockets.
+small_hangar█Stordi fach
+small_hangar_desc█Rydych ond yn gallu storio rocedi.
 
-medium_hangar█Medium Hangar
-medium_hangar_desc█You can store only rockets and capsules.
+medium_hangar█Stordi faint canolig
+medium_hangar_desc█Rydych ond yn gallu storio rocedi a capsiwlau.
 
-large_hangar█Large Hangar
-large_hangar_desc█You can store more rockets and capsules.
+large_hangar█Stordi fawr
+large_hangar_desc█Rydych yn gallu storio fwy o rocedi a capsiwlau.
 
-mega_hangar█Mega Hangar
-mega_hangar_desc█You can store only Spaceships and Superheavies.
+mega_hangar█Stordi enfawr
+mega_hangar_desc█Rydych ond yn gallu storio llongau gofod a llongau trwm iawn.
 
-office█Office
-office_desc█Office employees are giving you more negotiation power (you can offer higher price at negotiating).
+office█Swyddfa
+office_desc█Mae gweithwyr yn rhoi chi fwy pwer yn trafodau (rydych yn gallu rhoi pris fwy yn trafodau).
 
-laboratory█Laboratory
-laboratory_desc█Produces skill points.
+laboratory█Labordy
+laboratory_desc█yn creu pwyntiau sgil
 
-megaLP█Mega Launch Pad
-megaLP_desc█You can launch Spaceships.
+megaLP█Pad lawnsio
+megaLP_desc█Rydych yn gallu lawnsio longau gofod
 
-smallTerminal█LinkLink Small Terminal
-smallTerminal_desc█Terminals are connecting people on Earth with LinkLinks. More terminals == more users capacity.
+smallTerminal█adeilad LinkLink fach
+smallTerminal_desc█Adeiladau yn cysylltu pobl arno y ddear gyda LinkLinks. fwy o adeiladau == fwy o cwsmeriaid.
 
-largeTerminal█LinkLink Large Terminal
-largeTerminal_desc█Terminals are connecting people on Earth with LinkLinks. More terminals == more users capacity.
+largeTerminal█adeilad LinkLink fawr
+largeTerminal_desc█Adeiladau yn cysylltu pobl arno y ddear gyda LinkLinks. fwy o adeiladau == fwy o cwsmeriaid.
 
-landingZone█Landing Zone
-landingZone_desc█Do I really need to describe it?
+landingZone█Lle glanio
+landingZone_desc█ydw i angen esbonio?
 
-smallHotel█Small Hotel
-smallHotel_desc█Martians are living in places like this.
+smallHotel█Gwesti fach
+smallHotel_desc█pobl ar mawrth yn byd=w mewn llwfydd fel hyn.
 
-mediumHotel█Medium Hotel
-mediumHotel_desc█More Martians are living in places like this.
+mediumHotel█Gwesti faint canolig
+mediumHotel_desc█Fwy o pobl ar mawrth yn byw mewn llefydd fel hyn.
 
-largeHotel█Large Hotel
-largeHotel_desc█A lot of Martians are living in places like this.
+largeHotel█Gwesti fawr
+largeHotel_desc█Llawer o pobl ar mawrth yn byw mewn llefydd fel hyn
 
-waterFactory█Water Factory
-waterFactory_desc█Produces Water and Oxygen.
+waterFactory█Fatri ddwr
+waterFactory_desc█Yn creu ddwr a ocsigen
 
-fuelFactory█Fuel Factory
-fuelFactory_desc█Produces Fuel.
+fuelFactory█Fatri tanwydd
+fuelFactory_desc█yn cynhyrchu tanwydd
 
-steelFactory█Steel Factory
-steelFactory_desc█Produces Materials and Cybercars.
+steelFactory█Fatri heuarn
+steelFactory_desc█Yn cynhyrchu deunyddiau
 
-mediumGreenhouse█Medium Greenhouse
-mediumGreenhouse_desc█Produces Food and Oxygen.
+mediumGreenhouse█Tŷ gwydyr maint canolig
+mediumGreenhouse_desc█Yn cynhyrchu ocsigen a ddwr.
 
-largeGreenhouse█Large Greenhouse
-largeGreenhouse_desc█Produces more Food and Oxygen.
+largeGreenhouse█Tŷ gwydyr fawr
+largeGreenhouse_desc█Yn cynhyrchu fwy o ocsigen a ddwr.
 
-smallSolar█Small Solar
-smallSolar_desc█Produces Electricity.
+smallSolar█Paneli solar fach
+smallSolar_desc█Yn cynhyrchu trydan.
 
-mediumSolar█Medium Solar
-mediumSolar_desc█Produces more Electricity.
+mediumSolar█Paneli solar maint canolig
+mediumSolar_desc█Yn cynhyrchu fwy o trydan.
 
-smallWaterStorage█Small Water Storage
-smallWaterStorage_desc█Stores Water and Oxygen.
+smallWaterStorage█Stordi ddwr fach
+smallWaterStorage_desc█Yn storio ddwr a ocsigen.
 
-mediumWaterStorage█Medium Water Storage
-mediumWaterStorage_desc█Stores more Water and Oxygen.
+mediumWaterStorage█Stordi ddwr maint canolig
+mediumWaterStorage_desc█Yn storio fwy o ddwr a ocsigen.
 
-largeWaterStorage█Large Water Storage
-largeWaterStorage_desc█Stores a lot of Water and Oxygen.
+largeWaterStorage█Stordi ddwr fawr
+largeWaterStorage_desc█yn storio fwy o ddwr.
 
-smallFuelStorage█Small Fuel Storage
-smallFuelStorage_desc█Stores Fuel.
+smallFuelStorage█Stordi tanwydd
+smallFuelStorage_desc█Yn storio tanwydd
 
-mediumFuelStorage█Medium Fuel Storage
-mediumFuelStorage_desc█Stores more Fuel.
+mediumFuelStorage█Stordi tanwydd maint canolig
+mediumFuelStorage_desc█Yn storio fwy o tanwydd
 
-largeFuelStorage█Large Fuel Storage
-largeFuelStorage_desc█Stores a lot of Fuel.
+largeFuelStorage█Stordi tanwydd fawr
+largeFuelStorage_desc█Yn storio llawer o tanwydd
 
 lp_cape█Cape Canaveral
 lp_vandenberg█Vandenberg
-lp_pacificSpaceport█Pacific Spaceport
+lp_pacificSpaceport█Porthladd gofod Môr tawel
 lp_guiana█Guiana
-lp_midAtlanticSpaceport█Atlantic Spaceport
+lp_midAtlanticSpaceport█Porthladd gofod Môr iwerdd
 lp_balkonur█Baikonur
 lp_plesetsk█Plesetsk
 lp_xichang█Xichang
-lp_rocketComplex█Private Spaceport
+lp_rocketComplex█Porthladd gofod preifat
 lp_australia█Woomera
 lp_india█Satish Dhawan
 
