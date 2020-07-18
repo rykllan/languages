@@ -24,9 +24,6 @@ Original Translation: orbit_iss█ISS
 File: general.txt (25)
 Original Translation: orbit_marsOrbit█Mars Orbit
 
-File: general.txt (26)
-Original Translation: orbit_marsSurface█Mars Surface
-
 File: general.txt (29)
 Original Translation: vehicle_tanker█Tanker
 
@@ -42,32 +39,17 @@ Original Translation: map_settings_linklink_outline█LinkLink Outline
 File: general.txt (35)
 Original Translation: mars█Mars
 
-File: general.txt (36)
-Original Translation: switchPlanet█Switch Planet
-
-File: general.txt (37)
-Original Translation: tanking█Tanking...
-
 File: general.txt (47)
 Original Translation: cybercars█Cybercars
 
 File: buildings.txt (4)
 Original Translation: building_hangar█Hangar
 
-File: buildings.txt (9)
-Original Translation: building_category_production█Production
-
 File: buildings.txt (14)
 Original Translation: buildingSetup_setup█Setup
 
-File: buildings.txt (22)
-Original Translation: returnToEarthShort█Return
-
 File: buildings.txt (45)
 Original Translation: mega_hangar█Mega Hangar
-
-File: buildings.txt (58)
-Original Translation: landingZone_desc█Do I really need to describe it?
 
 File: buildings.txt (91)
 Original Translation: lp_cape█Cape Canaveral
@@ -102,23 +84,11 @@ Original Translation: lp_australia█Woomera
 File: buildings.txt (101)
 Original Translation: lp_india█Satish Dhawan
 
-File: company.txt (9)
-Original Translation: company_competitionHistory█Competition History
-
 File: company.txt (15)
 Original Translation: rocketquillas█Rocketquillas
 
 File: company.txt (19)
 Original Translation: company_progressLevel█Level
-
-File: company.txt (20)
-Original Translation: company_progressNewStuff█New Stuff
-
-File: company.txt (35)
-Original Translation: company_menu_competition█Competition
-
-File: contracts.txt (7)
-Original Translation: contracts_negotiators█Negotiators
 
 File: contracts.txt (46)
 Original Translation: contract_spate█SPATE: Prologue EP
@@ -153,29 +123,8 @@ Original Translation: levelTitle26█Cybermars
 File: levels.txt (32)
 Original Translation: levelTitle32█https://youtu.be/CfqCQQe2E2s
 
-File: levels.txt (50)
-Original Translation: progress_launchPrologue█Launch SPATE's Prologue EP!
-
-File: levels.txt (70)
-Original Translation: progress_multiplePayloads█[<color=#81C784>FEATURE</color>] &%Launch many payloads at once!
-
 File: levels.txt (77)
 Original Translation: progress_issCrewMission█Special Mission: <b><color=#64B5F6>ISS Commercial Crew
-
-File: levels.txt (78)
-Original Translation: progress_teslaRoadsterMission█Special Mission: <b><color=#64B5F6>Launch a car
-
-File: levels.txt (79)
-Original Translation: progress_catMission█Special Mission: <b><color=#64B5F6>Astronaut's Cat
-
-File: levels.txt (83)
-Original Translation: progress_spateMission█Special Mission: <b><color=#64B5F6>Prologue EP
-
-File: levels.txt (112)
-Original Translation: progress_linkLink30█[<color=#81C784>FEATURE</color>] &%LinkLink (60)
-
-File: levels.txt (116)
-Original Translation: progress_cybercar3█[<color=#81C784>FEATURE</color>] &%Cybercar (3)
 
 File: linklink.txt (17)
 Original Translation: linkLink_system█System
@@ -186,25 +135,25 @@ Original Translation: menu_credits█Credits
 File: mainMenu.txt (7)
 Original Translation: menu_gameOver█GAMEOVER! :(
 
-File: mainMenu.txt (21)
-Original Translation: menu_environment█Environment?
-
 File: mainMenu.txt (23)
 Original Translation: menu_gameplay█Gameplay
 
 File: mainMenu.txt (28)
+Original Translation: menu_gameOverSetting█Gameover?
+
+File: mainMenu.txt (29)
 Original Translation: menu_video█Video
 
-File: mainMenu.txt (30)
+File: mainMenu.txt (31)
 Original Translation: menu_vsync█V-Sync?
 
-File: mainMenu.txt (31)
+File: mainMenu.txt (32)
 Original Translation: menu_audio█Audio
 
-File: mainMenu.txt (33)
+File: mainMenu.txt (34)
 Original Translation: menu_sounds█Sounds?
 
-File: mainMenu.txt (35)
+File: mainMenu.txt (36)
 Original Translation: menu_creators█Creators
 
 File: modules.txt (3)
@@ -218,15 +167,6 @@ Original Translation: type_utility█Utility
 
 File: modules.txt (16)
 Original Translation: module_factory_giga█Giga
-
-File: modules.txt (40)
-Original Translation: mdl_fairingParachutes█Fairing Parachutes,Reusable rocket is required to recover the fairings.
-
-File: modules.txt (42)
-Original Translation: mdl_a_gridfins█Aluminium Grid Fins,Required for manual landing rockets.
-
-File: modules.txt (43)
-Original Translation: mdl_t_gridfins█Titanium Grid Fins,Required for auto landing rockets.
 
 File: modules.txt (46)
 Original Translation: mdl_booster_connector█Booster Connector,Required for sidebooster rockets. (Falcon Heavy Boi)
@@ -258,44 +198,38 @@ Original Translation: noFactories█{0} can't be built because you need a {2} to
 File: tooltips.txt (3)
 Original Translation: tooltip_news█News
 
-File: vehicles.txt (5)
-Original Translation: readyToLeave█Ready
-
 File: vehicles.txt (28)
 Original Translation: turnExpendable█Turn Expendable
 
-File: vehicles.txt (37)
-Original Translation: capabilities█Capabilities
+File: vehicles.txt (35)
+Original Translation: marsTryingLand█Trying to Land on <color=#E17055>Mars</color>
 
-File: vehicles.txt (48)
+File: vehicles.txt (36)
+Original Translation: earthTryingLand█Trying to Land on <color=#64B5F6>Earth</color>
+
+File: vehicles.txt (50)
 Original Translation: superheavy█Superheavy
 
-File: vehicles.txt (51)
-Original Translation: fairingRecovery█Fairing recovery
-
-File: vehicles.txt (59)
-Original Translation: launchAll█Launch All
-
-File: vehicles.txt (62)
+File: vehicles.txt (64)
 Original Translation: launchSetup_mission█Mission
 
-File: vehicles.txt (67)
+File: vehicles.txt (69)
 Original Translation: launchSetup_selectTanker█Orbital Tanker
 
-File: vehicles.txt (74)
+File: vehicles.txt (76)
 Original Translation: launchSetup_pizza█Pizza
 
-File: vehicles.txt (76)
+File: vehicles.txt (78)
 Original Translation: launchSetup_everydayStickers█Everyday Stickers
 
-File: vehicles.txt (89)
+File: vehicles.txt (91)
 Original Translation: launchPanel_staticFire█Static fire
 
-File: vehicles.txt (90)
+File: vehicles.txt (92)
 Original Translation: launchPanel_speedMetric█km/h
 
-File: vehicles.txt (91)
+File: vehicles.txt (93)
 Original Translation: launchPanel_altitudeMetric█km
 
-File: vehicles.txt (98)
+File: vehicles.txt (100)
 Original Translation: missionReportDeploy█Deploy

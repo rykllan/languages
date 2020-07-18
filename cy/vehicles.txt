@@ -46,6 +46,8 @@ marsTraveling█Traveling to <color=#E17055>Mars</color> (Arriving in <b>{0}</b>
 earthTraveling█Traveling to <color=#64B5F6>Earth</color> (Arriving in <b>{0}</b>)
 marsLanding█Landing on <color=#E17055>Mars</color>
 earthLanding█Landing on <color=#64B5F6>Earth</color>
+marsTryingLand█Trying to Land on <color=#E17055>Mars</color>
+earthTryingLand█Trying to Land on <color=#64B5F6>Earth</color>
 marsLanded█Landed on <color=#E17055>Mars</color>
 
 readyToLaunch█<b><color=#64B5F6>{0} of {1}</b></color>&%<size=70%>are ready to launch!
@@ -142,6 +144,7 @@ creator_vehicleCanGoAnywhere█This vehicle can go to any place you want.
 creator_capsuleRocket█This rocket can only carry the capsules.
 creator_spaceshipRocket█This rocket can only carry the spaceships.
 no_module_unlocked█No module is unlocked.
+
 
 
 

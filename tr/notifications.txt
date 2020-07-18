@@ -79,3 +79,4 @@ leavingParkingOrbit█{0} Yörüngeden ayrılıyor
 
 
 
+

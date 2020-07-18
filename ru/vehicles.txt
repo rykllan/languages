@@ -46,6 +46,8 @@ marsTraveling█В полёте к <color=#E17055>Марсу</color> (Прибы
 earthTraveling█В полёте к <color=#64B5F6>Земле</color> (Прибытие в <b>{0}</b>)
 marsLanding█Садится на <color=#E17055>Марс</color>
 earthLanding█Садится на <color=#64B5F6>Землю</color>
+marsTryingLand█Trying to Land on <color=#E17055>Mars</color>
+earthTryingLand█Trying to Land on <color=#64B5F6>Earth</color>
 marsLanded█На поверхности <color=#E17055>Марса</color>
 
 readyToLaunch█<b><color=#64B5F6>{0} из {1}</b></color>&%<size=70%>готовы к запуску!
@@ -142,6 +144,7 @@ creator_vehicleCanGoAnywhere█Эта ракета может отправить
 creator_capsuleRocket█Эта ракета может поддерживать только капсулы.
 creator_spaceshipRocket█Эта ракета может поддерживать только Spaceship.
 no_module_unlocked█Нет разблокированных модулей.
+
 
 
 

@@ -46,6 +46,8 @@ marsTraveling█Seyahat ediyor <color=#E17055>Mars</color> (Varacak <b>{0}</b>)
 earthTraveling█Seyahat ediyor <color=#64B5F6>Dünya</color> (Varacak <b>{0}</b>)
 marsLanding█İniş yapılıyor <color=#E17055>Mars</color>
 earthLanding█İniş yapılıyor <color=#64B5F6>Dünya</color>
+marsTryingLand█Trying to Land on <color=#E17055>Mars</color>
+earthTryingLand█Trying to Land on <color=#64B5F6>Earth</color>
 marsLanded█İniş yapıldı <color=#E17055>Mars</color>
 
 readyToLaunch█<b><color=#64B5F6>{0} of {1}</b></color>&%<size=70%>fırlatılmaya hazır!
@@ -142,6 +144,7 @@ creator_vehicleCanGoAnywhere█Bu araç istediğiniz yere gidebilir.
 creator_capsuleRocket█Bu roket sadece kapsülleri taşıyabilir.
 creator_spaceshipRocket█Bu roket sadece uzay gemilerini taşıyabilir.
 no_module_unlocked█Hiçbir modülün kilidi açılmadı.
+
 
 
 

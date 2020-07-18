@@ -2,3 +2,2187 @@
 
 --- NOT TRANSLATED ---
 
+
+File: general.txt (0)
+Original Translation: gameSaved█Game has been auto-saved. Don't worry!
+
+File: general.txt (1)
+Original Translation: gameLoaded█Game has been loaded. Have fun!
+
+File: general.txt (2)
+Original Translation: confirm█Are you sure?
+
+File: general.txt (3)
+Original Translation: confirm_removeVehicle█Do you really want to remove this vehicle?
+
+File: general.txt (4)
+Original Translation: confirm_destroyBuilding█Do you really want to destroy this building?
+
+File: general.txt (5)
+Original Translation: confirm_abortRocket█Do you really want to abort that rocket?
+
+File: general.txt (6)
+Original Translation: confirm_turnExpendable█Do you really want to remove the landing gear? The rocket will burn in the atmosphere after the flight.
+
+File: general.txt (7)
+Original Translation: confirm_exitGame█You leave me now, huh? :(
+
+File: general.txt (8)
+Original Translation: confirm_exitMainMenu█Other games would tell you here, that your unsaved progress will be lost.
+
+File: general.txt (9)
+Original Translation: confirm_deleteSave█Maybe next time you will not bankrupt.
+
+File: general.txt (10)
+Original Translation: yes█Yes
+
+File: general.txt (11)
+Original Translation: no█No
+
+File: general.txt (12)
+Original Translation: ok█Ok
+
+File: general.txt (13)
+Original Translation: enterText█Enter text...
+
+File: general.txt (14)
+Original Translation: notification█Notification
+
+File: general.txt (15)
+Original Translation: payload_size_verySmall█Very Small
+
+File: general.txt (16)
+Original Translation: payload_size_small█Small
+
+File: general.txt (17)
+Original Translation: payload_size_medium█Medium
+
+File: general.txt (18)
+Original Translation: payload_size_large█Large
+
+File: general.txt (19)
+Original Translation: payload_size_veryLarge█Very Large
+
+File: general.txt (20)
+Original Translation: orbit_so█Suborbit
+
+File: general.txt (21)
+Original Translation: orbit_leo█LEO
+
+File: general.txt (22)
+Original Translation: orbit_meo█MEO
+
+File: general.txt (23)
+Original Translation: orbit_geo█GEO
+
+File: general.txt (24)
+Original Translation: orbit_iss█ISS
+
+File: general.txt (25)
+Original Translation: orbit_marsOrbit█Mars Orbit
+
+File: general.txt (26)
+Original Translation: orbit_marsSurface█Mars Surface
+
+File: general.txt (27)
+Original Translation: vehicle_cargo█Cargo
+
+File: general.txt (28)
+Original Translation: vehicle_crew█Crew
+
+File: general.txt (29)
+Original Translation: vehicle_tanker█Tanker
+
+File: general.txt (30)
+Original Translation: map_settings_header█Quick Settings
+
+File: general.txt (31)
+Original Translation: map_settings_trackers_visible█Trackers Visible
+
+File: general.txt (32)
+Original Translation: map_settings_satellites_visible█Satellites Visible
+
+File: general.txt (33)
+Original Translation: map_settings_linklink_outline█LinkLink Outline
+
+File: general.txt (34)
+Original Translation: earth█Earth
+
+File: general.txt (35)
+Original Translation: mars█Mars
+
+File: general.txt (36)
+Original Translation: switchPlanet█Switch Planet
+
+File: general.txt (37)
+Original Translation: tanking█Tanking...
+
+File: general.txt (38)
+Original Translation: marsDetails█Mars Details
+
+File: general.txt (39)
+Original Translation: earthLikePlanet█Earth-like Planet
+
+File: general.txt (40)
+Original Translation: martians█Martians
+
+File: general.txt (41)
+Original Translation: materials█Materials
+
+File: general.txt (42)
+Original Translation: electricity█Electricity
+
+File: general.txt (43)
+Original Translation: food█Food
+
+File: general.txt (44)
+Original Translation: water█Water
+
+File: general.txt (45)
+Original Translation: oxygen█Oxygen
+
+File: general.txt (46)
+Original Translation: fuel█Fuel
+
+File: general.txt (47)
+Original Translation: cybercars█Cybercars
+
+File: general.txt (48)
+Original Translation: nuke█Nuke
+
+File: general.txt (49)
+Original Translation: unitsToProduce█Units to Produce: {0}
+
+File: general.txt (50)
+Original Translation: marsProductionHeader█<b>Production</b> <size=50%>/quarter</size>
+
+File: general.txt (51)
+Original Translation: marsUsageHeader█<b>Usage</b> <size=50%>/quarter</size>
+
+File: general.txt (52)
+Original Translation: marsStorageHeader█<b>Storage</b>
+
+File: buildings.txt (4)
+Original Translation: building_hangar█Hangar
+
+File: buildings.txt (17)
+Original Translation: buildingSetup_billsCurrentQuarter█Bills for current quarter
+
+File: buildings.txt (28)
+Original Translation: buildingSetup_employees█<size=14>{0} employees</size>&%{1} <color=#16A085>$</color> / year&%<size=14>{2} <color=#16A085>$</color> / each
+
+File: buildings.txt (91)
+Original Translation: lp_cape█Cape Canaveral
+
+File: buildings.txt (92)
+Original Translation: lp_vandenberg█Vandenberg
+
+File: buildings.txt (94)
+Original Translation: lp_guiana█Guiana
+
+File: buildings.txt (96)
+Original Translation: lp_balkonur█Baikonur
+
+File: buildings.txt (97)
+Original Translation: lp_plesetsk█Plesetsk
+
+File: buildings.txt (98)
+Original Translation: lp_xichang█Xichang
+
+File: buildings.txt (100)
+Original Translation: lp_australia█Woomera
+
+File: buildings.txt (101)
+Original Translation: lp_india█Satish Dhawan
+
+File: contracts.txt (0)
+Original Translation: contracts_header█Missions
+
+File: contracts.txt (1)
+Original Translation: contracts_menu_payloads█Payloads
+
+File: contracts.txt (2)
+Original Translation: contracts_menu_contracts█Contracts
+
+File: contracts.txt (3)
+Original Translation: contracts_menu_offers█Offers
+
+File: contracts.txt (4)
+Original Translation: contracts_payloads█{0} payloads
+
+File: contracts.txt (5)
+Original Translation: contracts_availableIn█Available in
+
+File: contracts.txt (6)
+Original Translation: contracts_noRockets█No capable rockets!
+
+File: contracts.txt (7)
+Original Translation: contracts_negotiators█Negotiators
+
+File: contracts.txt (8)
+Original Translation: contracts_approx█Approx.
+
+File: contracts.txt (9)
+Original Translation: contracts_selectLaunchPrice█Select launch price
+
+File: contracts.txt (10)
+Original Translation: contracts_avgRocketPrice█Avg. rocket price:
+
+File: contracts.txt (11)
+Original Translation: contracts_avgProfit█Avg. profit:
+
+File: contracts.txt (12)
+Original Translation: contracts_submitOffer█Submit offer
+
+File: contracts.txt (13)
+Original Translation: contracts_negotiate█Negotiate
+
+File: contracts.txt (14)
+Original Translation: contracts_onMissionSuccess█On Mission Success
+
+File: contracts.txt (15)
+Original Translation: contracts_onMissionFailure█On Mission Failure
+
+File: contracts.txt (16)
+Original Translation: contracts_offer_decline█Decline Offer
+
+File: contracts.txt (17)
+Original Translation: contracts_offer_accept█Accept Offer
+
+File: contracts.txt (18)
+Original Translation: contracts_offer_accepted█You accepted this offer.
+
+File: contracts.txt (19)
+Original Translation: deadline_critical█Very critical!
+
+File: contracts.txt (20)
+Original Translation: deadline_launchNow█Launch now!
+
+File: contracts.txt (21)
+Original Translation: deadline_yearLeft█1 year left!
+
+File: contracts.txt (22)
+Original Translation: deadline_yearsLeft█{0} years left!
+
+File: contracts.txt (23)
+Original Translation: contract_negotiating█Negotiating
+
+File: contracts.txt (24)
+Original Translation: contract_active█Active
+
+File: contracts.txt (25)
+Original Translation: contract_completed█Completed
+
+File: contracts.txt (26)
+Original Translation: contract_won_status█<color=#64B5F6><b>You won this contract.</b></color>&%<align="left">&%<size=13>You will need to launch these payloads in time, <mark=#64B5F625>starting in {0}</mark>:</size></align>&%&%{1}
+
+File: contracts.txt (27)
+Original Translation: contract_decline_confirm█Do you really want to decline this offer?
+
+File: contracts.txt (28)
+Original Translation: contract_deadline_fine█Fine:
+
+File: contracts.txt (29)
+Original Translation: payload_preparing_to_fly█Preparing to fly
+
+File: contracts.txt (30)
+Original Translation: contract_crs█Commercial Resupply Service
+
+File: contracts.txt (31)
+Original Translation: payload_crs█CRS-{0} (ISS Resupply)
+
+File: contracts.txt (32)
+Original Translation: contract_ccp█Commercial Crew Program
+
+File: contracts.txt (33)
+Original Translation: payload_ccp█CCP-{0} (ISS Crew)
+
+File: contracts.txt (34)
+Original Translation: payload_tintin█Tintin AB (LinkLink Test)
+
+File: contracts.txt (35)
+Original Translation: contract_tesla█Starman
+
+File: contracts.txt (36)
+Original Translation: payload_tesla█Tesla Roadster
+
+File: contracts.txt (37)
+Original Translation: contract_potato█Dummy Payloads
+
+File: contracts.txt (38)
+Original Translation: payload_potato█Orbital Potato
+
+File: contracts.txt (39)
+Original Translation: contract_balwina█meow... Meow... MEOW!!!
+
+File: contracts.txt (40)
+Original Translation: contract_technician█Emergency
+
+File: contracts.txt (41)
+Original Translation: payload_technician█Technician
+
+File: contracts.txt (42)
+Original Translation: payload_flatEarther█Murphy (Flatearther)
+
+File: contracts.txt (43)
+Original Translation: contract_marsCamera█Mars Journey
+
+File: contracts.txt (44)
+Original Translation: payload_marsCamera█Mars Camera
+
+File: contracts.txt (45)
+Original Translation: content_marsCamera█Launch Mars Camera with your Heavy Rocket to Mars Orbit. You will then be able to see Mars!
+
+File: contracts.txt (46)
+Original Translation: contract_spate█SPATE: Prologue EP
+
+File: contracts.txt (47)
+Original Translation: payload_spate█Prologue EP
+
+File: contracts.txt (48)
+Original Translation: content_spate█A young music producer from Finland is releasing a new album with space songs. As part of his marketing campaign, he would like to send a physical copy of his album with the next ISS supply transport.
+
+File: contracts.txt (49)
+Original Translation: contract_matt█Rescue Matt
+
+File: contracts.txt (50)
+Original Translation: payload_matt█Matt Rescue Mission
+
+File: contracts.txt (51)
+Original Translation: content_matt█There's a new offer from NASA. The purpose of the mission is to send a spaceship to Mars to return Matt to Earth.
+
+File: fails.txt (0)
+Original Translation: fail1█Well, technically it DID land... just not in one piece.
+
+File: fails.txt (1)
+Original Translation: fail2█Basically we don't know what happened ok
+
+File: fails.txt (2)
+Original Translation: fail3█Error 404: Rocket not Found
+
+File: fails.txt (3)
+Original Translation: fail4█Short Circuit: Uninsulated cables caused fire
+
+File: fails.txt (4)
+Original Translation: fail5█Rocket not responding, press any key to continue
+
+File: fails.txt (5)
+Original Translation: fail6█System update caused the rocket to reboot during the flight.......
+
+File: fails.txt (6)
+Original Translation: fail7█Rocket quitted in order to pursue its dream to become a world famous firework.
+
+File: fails.txt (7)
+Original Translation: fail8█Battery overheated (result: boom)
+
+File: fails.txt (8)
+Original Translation: fail9█Who knew THAT can break
+
+File: fails.txt (9)
+Original Translation: fail11█Sensor Failure: It just didn't work properly (Press F to pay respect).
+
+File: fails.txt (10)
+Original Translation: fail12█Who forgot to install the landing legs?
+
+File: fails.txt (11)
+Original Translation: fail13█The vehicle lost connection with the launch center, it didn't know what to do.
+
+File: fails.txt (12)
+Original Translation: fail14█That's why you shouldn't ignite your engines with a flamethrower
+
+File: fails.txt (13)
+Original Translation: fail15█Antenna Failure: On-Board Computer didn't get enough informations from the launch center.
+
+File: fails.txt (14)
+Original Translation: fail16█Why the hell is the payload inside the fuel tank?!?!
+
+File: fails.txt (15)
+Original Translation: fail17█Free candy here: https://discord.gg/sbXwwMs
+
+File: fails.txt (16)
+Original Translation: fail18█Not enough duct tape
+
+File: fails.txt (17)
+Original Translation: fail19█Overpressure: Engine's combustion chamber exploded.
+
+File: fails.txt (18)
+Original Translation: fail20█Looks the like rocket blew up due to aliens... don't worry, we will keep it a secret.
+
+File: fails.txt (19)
+Original Translation: fail21█Leakage: The fuel found its way out of the fuel tank.
+
+File: fails.txt (20)
+Original Translation: fail22█What goes up, musk crash down.
+
+File: fails.txt (21)
+Original Translation: fail23█Leakage: A small hole between engine and fuel tank caused boom boom
+
+File: fails.txt (22)
+Original Translation: fail24█Your rocket defied physics... that is why it crashed
+
+File: fails.txt (23)
+Original Translation: fail25█Hydraulic Failure: An important rocket part couldn't move.
+
+File: fails.txt (24)
+Original Translation: fail26█Wait, that's not the ignition button
+
+File: fails.txt (25)
+Original Translation: fail27█Overpressure: Payload just... exploded during the flight. The rocket was not guilty!
+
+File: fails.txt (26)
+Original Translation: fail28█Oh deer, we forgot to open the parachutes...
+
+File: fails.txt (27)
+Original Translation: fail29█Stupid Employee: He left his work tool inside a pipe, which got blocked by it.
+
+File: fails.txt (28)
+Original Translation: fail30█Greta sniped your rocket because it's bad for the environment
+
+File: fails.txt (29)
+Original Translation: fail31█Hydraulic Failure: The fairings couldn't open
+
+File: fails.txt (30)
+Original Translation: fail32█Don't worry, it's just a scratch
+
+File: fails.txt (31)
+Original Translation: fail33█Compression: The fuel was compressed a little bit too much.
+
+File: fails.txt (32)
+Original Translation: fail34█The payload wasn't in Rocket-mode
+
+File: fails.txt (33)
+Original Translation: fail35█The fuel was too hot inside the fuel tank.
+
+File: fails.txt (34)
+Original Translation: fail36█Note to self, don't stick stages together with Blu Tac
+
+File: levels.txt (0)
+Original Translation: levelTitle0█Company Registered
+
+File: levels.txt (1)
+Original Translation: levelTitle1█Startup
+
+File: levels.txt (2)
+Original Translation: levelTitle2█"When something is important enough, you do it even if the odds are not in your favor." - Elon Musk
+
+File: levels.txt (3)
+Original Translation: levelTitle3█"M" like Medium
+
+File: levels.txt (4)
+Original Translation: levelTitle4█"I could either watch it happen or be a part of it." - Elon Musk
+
+File: levels.txt (5)
+Original Translation: levelTitle5█Remember to land
+
+File: levels.txt (6)
+Original Translation: levelTitle6█Supplier
+
+File: levels.txt (7)
+Original Translation: levelTitle7█Acceleration
+
+File: levels.txt (9)
+Original Translation: levelTitle9█Acceleration
+
+File: levels.txt (10)
+Original Translation: levelTitle10█The power of computers
+
+File: levels.txt (11)
+Original Translation: levelTitle11█Catch it!
+
+File: levels.txt (12)
+Original Translation: levelTitle12█Going Heavy
+
+File: levels.txt (14)
+Original Translation: levelTitle14█Emergency
+
+File: levels.txt (15)
+Original Translation: levelTitle15█Do not put Humans inside the Fairings
+
+File: levels.txt (16)
+Original Translation: levelTitle16█Human Factor
+
+File: levels.txt (17)
+Original Translation: levelTitle17█Going Big
+
+File: levels.txt (18)
+Original Translation: levelTitle18█"We're going to make it happen. As God is my bloody witness, I'm hell-bent on making it work." - Elon Musk
+
+File: levels.txt (19)
+Original Translation: levelTitle19█Big Fu*king Rocket
+
+File: levels.txt (20)
+Original Translation: levelTitle20█Going Interplanetary
+
+File: levels.txt (22)
+Original Translation: levelTitle22█Infrastructure
+
+File: levels.txt (23)
+Original Translation: levelTitle23█Multi-Planetary Species
+
+File: levels.txt (24)
+Original Translation: levelTitle24█Expansion
+
+File: levels.txt (25)
+Original Translation: levelTitle25█Route
+
+File: levels.txt (26)
+Original Translation: levelTitle26█Cybermars
+
+File: levels.txt (27)
+Original Translation: levelTitle27█Sustainable City
+
+File: levels.txt (28)
+Original Translation: levelTitle28█Nuclear Bomb Goes Brrrrr
+
+File: levels.txt (29)
+Original Translation: levelTitle29█Too hot
+
+File: levels.txt (30)
+Original Translation: levelTitle30█Too cold
+
+File: levels.txt (31)
+Original Translation: levelTitle31█Home 2.0
+
+File: levels.txt (32)
+Original Translation: levelTitle32█https://youtu.be/CfqCQQe2E2s
+
+File: levels.txt (33)
+Original Translation: progress_unlockAllModules█Unlock all modules
+
+File: levels.txt (34)
+Original Translation: progress_launchSmallRockets█Launch {0} LEO rocket(s)
+
+File: levels.txt (35)
+Original Translation: progress_launchMediumRockets█Launch {0} MEO rocket(s)
+
+File: levels.txt (36)
+Original Translation: progress_launchLargeRockets█Launch {0} GEO rocket(s)
+
+File: levels.txt (37)
+Original Translation: progress_launchSuperheavyRockets█Launch {0} spaceship(s)
+
+File: levels.txt (38)
+Original Translation: progress_launchToMars█Launch {0} spaceship(s) to Mars
+
+File: levels.txt (39)
+Original Translation: progress_launchCargoCapsules█Launch {0} cargo capsule(s)
+
+File: levels.txt (40)
+Original Translation: progress_launchCrewCapsules█Launch {0} crew capsule(s)
+
+File: levels.txt (41)
+Original Translation: progress_landRockets█Land with {0} rocket(s)
+
+File: levels.txt (42)
+Original Translation: progress_landOnMars█Land on Mars {0} spaceship(s)
+
+File: levels.txt (43)
+Original Translation: progress_reuseRockets█Reuse {0} rocket(s)
+
+File: levels.txt (44)
+Original Translation: progress_catchFairings█Catch {0} fairings!
+
+File: levels.txt (45)
+Original Translation: progress_launchPayloadsAtOnce█Launch {0} payloads at once
+
+File: levels.txt (46)
+Original Translation: progress_launchFromOwnLaunchPad█Launch {0} rocket(s) from your own launch pad!
+
+File: levels.txt (47)
+Original Translation: progress_launchTesla█Launch a car!
+
+File: levels.txt (48)
+Original Translation: progress_launchCat█Launch a cat!
+
+File: levels.txt (49)
+Original Translation: progress_launchTechnician█Launch a technician!
+
+File: levels.txt (50)
+Original Translation: progress_launchPrologue█Launch SPATE's Prologue EP!
+
+File: levels.txt (51)
+Original Translation: progress_launchFlatearther█Launch Flatearther Murphy!
+
+File: levels.txt (52)
+Original Translation: progress_launchMattRescueMission█Launch Matt Rescue Mission!
+
+File: levels.txt (53)
+Original Translation: progress_launchMarsCamera█Launch Mars Camera!
+
+File: levels.txt (54)
+Original Translation: progress_buildFactories█Build {0} factorie(s)!
+
+File: levels.txt (55)
+Original Translation: progress_buildOffices█Build {0} office(s)!
+
+File: levels.txt (56)
+Original Translation: progress_buildLaboratories█Build {0} laboratorie(s)!
+
+File: levels.txt (57)
+Original Translation: progress_buildMegaLaunchPads█Build {0} mega launch pad(s)!
+
+File: levels.txt (58)
+Original Translation: progress_buildMarsBuildings█Build {0} building(s) on Mars!
+
+File: levels.txt (59)
+Original Translation: progress_buildFuelFactories█Build {0} fuel factory(ies)!
+
+File: levels.txt (60)
+Original Translation: progress_buildSteelFactories█Build {0} steel factory(ies)!
+
+File: levels.txt (61)
+Original Translation: progress_buildLandingZones█Build {0} landing zone(s)!
+
+File: levels.txt (62)
+Original Translation: progress_getContracts█Get {0} contract(s)
+
+File: levels.txt (63)
+Original Translation: progress_launchLinkLinks█Launch LinkLinks: {0}
+
+File: levels.txt (64)
+Original Translation: progress_reachLinkLinkUsers█LinkLink users: {0}
+
+File: levels.txt (65)
+Original Translation: progress_hireEmployees█Hire employees: {0}
+
+File: levels.txt (66)
+Original Translation: progress_martiansCount█Have {0} People on Mars
+
+File: levels.txt (67)
+Original Translation: progress_marsTerraform█Terraform Mars in {0}%
+
+File: levels.txt (68)
+Original Translation: progress_marsTransportOxygen█Transport {0} Oxygen units to Mars
+
+File: levels.txt (69)
+Original Translation: progress_maxOffices█Max Offices:
+
+File: levels.txt (70)
+Original Translation: progress_multiplePayloads█[<color=#81C784>FEATURE</color>] &%Launch many payloads at once!
+
+File: levels.txt (71)
+Original Translation: progress_fundraiserHats█[<color=#FF9F43>FUNDRAISING</color>] &%Sell hats!
+
+File: levels.txt (72)
+Original Translation: progress_fundraiserBricks█[<color=#FF9F43>FUNDRAISING</color>] &%Sell bricks!
+
+File: levels.txt (73)
+Original Translation: progress_fundraiserNAF█[<color=#FF9F43>FUNDRAISING</color>] &%Sell (not) flamethrowers!
+
+File: levels.txt (74)
+Original Translation: progress_fundraiserRocketquilla█[<color=#FF9F43>FUNDRAISING</color>] &%Sell rocketquillas!
+
+File: levels.txt (75)
+Original Translation: progress_fundraiserShorts█[<color=#FF9F43>FUNDRAISING</color>] &%Sell short shorts!
+
+File: levels.txt (76)
+Original Translation: progress_issSupplierMission█Special Mission: <b><color=#64B5F6>ISS Supplier
+
+File: levels.txt (77)
+Original Translation: progress_issCrewMission█Special Mission: <b><color=#64B5F6>ISS Commercial Crew
+
+File: levels.txt (78)
+Original Translation: progress_teslaRoadsterMission█Special Mission: <b><color=#64B5F6>Launch a car
+
+File: levels.txt (79)
+Original Translation: progress_catMission█Special Mission: <b><color=#64B5F6>Astronaut's Cat
+
+File: levels.txt (80)
+Original Translation: progress_technicianMission█Special Mission: <b><color=#64B5F6>Technician in a Suitcase
+
+File: levels.txt (81)
+Original Translation: progress_truthMission█Special Mission: <b><color=#64B5F6>The Truth
+
+File: levels.txt (82)
+Original Translation: progress_mattMission█Special Mission: <b><color=#64B5F6>Matt
+
+File: levels.txt (83)
+Original Translation: progress_spateMission█Special Mission: <b><color=#64B5F6>Prologue EP
+
+File: levels.txt (84)
+Original Translation: progress_smallFactory█[<color=#E74C3C>BUILDING</color>] &%Small Factory
+
+File: levels.txt (85)
+Original Translation: progress_mediumFactory█[<color=#E74C3C>BUILDING</color>] &%Medium Factory
+
+File: levels.txt (86)
+Original Translation: progress_largeFactory█[<color=#E74C3C>BUILDING</color>] &%Large Factory
+
+File: levels.txt (87)
+Original Translation: progress_gigaFactory█[<color=#E74C3C>BUILDING</color>] &%Giga Factory
+
+File: levels.txt (88)
+Original Translation: progress_smallHangar█[<color=#E74C3C>BUILDING</color>] &%Small Hangar
+
+File: levels.txt (89)
+Original Translation: progress_mediumHangar█[<color=#E74C3C>BUILDING</color>] &%Medium Hangar
+
+File: levels.txt (90)
+Original Translation: progress_largeHangar█[<color=#E74C3C>BUILDING</color>] &%Large Hangar
+
+File: levels.txt (91)
+Original Translation: progress_megaHangar█[<color=#E74C3C>BUILDING</color>] &%Mega Hangar
+
+File: levels.txt (92)
+Original Translation: progress_linkLinkSmallTerminal█[<color=#E74C3C>BUILDING</color>] &%LinkLink Small Terminal
+
+File: levels.txt (93)
+Original Translation: progress_linkLinkLargeTerminal█[<color=#E74C3C>BUILDING</color>] &%LinkLink Large Terminal
+
+File: levels.txt (94)
+Original Translation: progress_megaLaunchPad█[<color=#E74C3C>BUILDING</color>] &%Mega Launch Pad
+
+File: levels.txt (95)
+Original Translation: progress_smallHotel█[<color=#E74C3C>BUILDING</color>] &%Small Hotel
+
+File: levels.txt (96)
+Original Translation: progress_mediumHotel█[<color=#E74C3C>BUILDING</color>] &%Medium Hotel
+
+File: levels.txt (97)
+Original Translation: progress_largeHotel█[<color=#E74C3C>BUILDING</color>] &%Large Hotel
+
+File: levels.txt (98)
+Original Translation: progress_mediumGreenhouse█[<color=#E74C3C>BUILDING</color>] &%Medium Greenhouse
+
+File: levels.txt (99)
+Original Translation: progress_largeGreenhouse█[<color=#E74C3C>BUILDING</color>] &%Large Greenhouse
+
+File: levels.txt (100)
+Original Translation: progress_smallSolar█[<color=#E74C3C>BUILDING</color>] &%Small Solar
+
+File: levels.txt (101)
+Original Translation: progress_mediumSolar█[<color=#E74C3C>BUILDING</color>] &%Medium Solar
+
+File: levels.txt (102)
+Original Translation: progress_smallWater█[<color=#E74C3C>BUILDING</color>] &%Small Water Storage
+
+File: levels.txt (103)
+Original Translation: progress_mediumWater█[<color=#E74C3C>BUILDING</color>] &%Medium Water Storage
+
+File: levels.txt (104)
+Original Translation: progress_largeWater█[<color=#E74C3C>BUILDING</color>] &%Large Water Storage
+
+File: levels.txt (105)
+Original Translation: progress_smallFuel█[<color=#E74C3C>BUILDING</color>] &%Small Fuel Storage
+
+File: levels.txt (106)
+Original Translation: progress_mediumFuel█[<color=#E74C3C>BUILDING</color>] &%Medium Fuel Storage
+
+File: levels.txt (107)
+Original Translation: progress_largeFuel█[<color=#E74C3C>BUILDING</color>] &%Large Fuel Storage
+
+File: levels.txt (108)
+Original Translation: progress_waterFactory█[<color=#E74C3C>BUILDING</color>] &%Water Factory
+
+File: levels.txt (109)
+Original Translation: progress_fuelFactory█[<color=#E74C3C>BUILDING</color>] &%Fuel Factory
+
+File: levels.txt (110)
+Original Translation: progress_steelFactory█[<color=#E74C3C>BUILDING</color>] &%Steel Factory
+
+File: levels.txt (111)
+Original Translation: progress_landingZone█[<color=#E74C3C>BUILDING</color>] &%Landing Zone
+
+File: levels.txt (112)
+Original Translation: progress_linkLink30█[<color=#81C784>FEATURE</color>] &%LinkLink (60)
+
+File: levels.txt (113)
+Original Translation: progress_materials20█[<color=#81C784>FEATURE</color>] &%Materials (35)
+
+File: levels.txt (114)
+Original Translation: progress_oxygen40█[<color=#81C784>FEATURE</color>] &%Oxygen (40)
+
+File: levels.txt (115)
+Original Translation: progress_martians15█[<color=#81C784>FEATURE</color>] &%Martians (15)
+
+File: levels.txt (116)
+Original Translation: progress_cybercar3█[<color=#81C784>FEATURE</color>] &%Cybercar (3)
+
+File: levels.txt (117)
+Original Translation: progress_nuke3█[<color=#81C784>FEATURE</color>] &%Nuke (3)
+
+File: levels.txt (118)
+Original Translation: progress_linkLinkCapacity50█[<color=#81C784>LinkLink</color>] LinkLink Capacity +50%
+
+File: levels.txt (119)
+Original Translation: progress_linkLinkCapacity25█[<color=#81C784>LinkLink</color>] LinkLink Capacity +25%
+
+File: levels.txt (120)
+Original Translation: progress_linkLinkCosts█[<color=#81C784>LinkLink</color>] LinkLink Production Costs -25%
+
+File: linklink.txt (0)
+Original Translation: linkLink_announcement_header█LinkLink - the future of the Internet?
+
+File: linklink.txt (1)
+Original Translation: linkLink_announcement_content█{1}, the owner of the space company {0}, is expanding his business. It would seem that sending a man to Mars is the CEO's top ambition.&%&%This time {1} has set himself the goal of providing fast and affordable internet to the people of our planet. He wants to achieve this with hundreds of small telecommunication satellites sent into the Earth's orbit. The name of the technology was also announced - "LinkLink".&%&%We will keep you informed about the progress of work on this new technology.
+
+File: linklink.txt (2)
+Original Translation: linkLink_tintin_header█First LinkLink satellites in orbit!
+
+File: linklink.txt (3)
+Original Translation: linkLink_tintin_content█Today's rocket launch will make history. There were {5} small LinkLink satellites on board to give us fast and affordable internet access from {0}. &%&%We don't know when exactly the service will be launched for a wide range of users.  
+
+File: linklink.txt (4)
+Original Translation: linkLink_terminals_header█The construction of mysterious {0} antennas is completed.
+
+File: linklink.txt (5)
+Original Translation: linkLink_terminals_content█There have been mysterious circular constructions placed near the largest cities in the world. As we managed to determine, these are the antennas responsible for communication with the LinkLink satellite constellation. &%&%The service will start soon?
+
+File: linklink.txt (6)
+Original Translation: linkLink_run_header█The first users started testing the LinkLink Internet!
+
+File: linklink.txt (7)
+Original Translation: linkLink_run_content█The future is today! {0} has just connected the first users to its satellite internet of the future. &%&%Users taking part in the tests praise mostly the speed and stability of the connection.
+
+File: linklink.txt (8)
+Original Translation: linkLink_10k_header█LinkLink internet sells like hot cakes!
+
+File: linklink.txt (9)
+Original Translation: linkLink_10k_content█Tests completed! {0} has started selling the service - on the first day from the start contracts were signed by 10 000 people. &%&%{1} can open the bottle champagne!
+
+File: linklink.txt (10)
+Original Translation: linkLink_250k_header█250,000 LinkLink users!
+
+File: linklink.txt (11)
+Original Translation: linkLink_250k_content█{0} is not slowing down. Their wireless high-speed internet is an incredible success. &%&%At today's press conference the CEO {1} shared that more than 250,000 people around the world use LinkLink's service. &%&%Low price and high availability is a real recipe for success!
+
+File: linklink.txt (12)
+Original Translation: linkLink_million_header█LinkLink's financial success. {1} earns millions!
+
+File: linklink.txt (13)
+Original Translation: linkLink_million_content█More than one million dollars a year, that's the latest earnings figures of the company {0}. It is worth noting that this amount applies just to LinkLink's Internet access service. &%&%We hope that {1} will spend his money well - for example, he would send a man to Mars.
+
+File: linklink.txt (14)
+Original Translation: linkLink_failure_header█Big LinkLink breakdown - users without access to the Internet for 24 hours.
+
+File: linklink.txt (15)
+Original Translation: linkLink_failure_content█Concerned LinkLink subscribers report a failure of their Internet access. More than half of the users can't connect to the network for almost 24 hours. &%&%{1}'s technicians are already working on removing the causes of the accident. We hope that such failures won't occur in the future.
+
+File: linklink.txt (16)
+Original Translation: linkLink_giga_factory_needed█You need a GigaFactory in order to build LinkLink satellites.
+
+File: linklink.txt (17)
+Original Translation: linkLink_system█System
+
+File: linklink.txt (18)
+Original Translation: linkLink_production█Production
+
+File: linklink.txt (19)
+Original Translation: linkLink_statistics█Statistics
+
+File: linklink.txt (20)
+Original Translation: linkLink_100_required█You need at least <color=#64B5F6><b>100</b></color> LinkLinks in order to run the service.
+
+File: linklink.txt (21)
+Original Translation: linkLink_run█Run LinkLink
+
+File: linklink.txt (22)
+Original Translation: linkLink_customerPrice█Customer price (per month)
+
+File: linklink.txt (23)
+Original Translation: linkLink_customersHistory█Customers' History
+
+File: linklink.txt (24)
+Original Translation: linkLink_serviceDown█LinkLink services down. Technicians are working on fixing this. (it may take even a year)
+
+File: linklink.txt (25)
+Original Translation: linkLink_build█Build LinkLink
+
+File: linklink.txt (26)
+Original Translation: linkLink_totalCustomers█Users
+
+File: linklink.txt (27)
+Original Translation: linkLink_totalLinkLinks█Total LinkLinks
+
+File: linklink.txt (28)
+Original Translation: linkLink_income█Yearly Income
+
+File: linklink.txt (29)
+Original Translation: linkLink_stability█Connection Stability
+
+File: linklink.txt (30)
+Original Translation: linkLink_capacity█LinkLink Capacity (Max users)
+
+File: linklink.txt (31)
+Original Translation: linkLink_terminalCapacity█Terminal Capacity (Max users)
+
+File: linklink.txt (32)
+Original Translation: linkLink_smallFailure█Some of your LinkLinks stopped working and have been deorbited.
+
+File: linklink.txt (33)
+Original Translation: linkLink_30_deorbited█30% of your LinkLinks have been deorbited because their lifetime has ended.
+
+File: linklink.txt (35)
+Original Translation: linkLink_welcome_content█Later in EarthX, you will be able to create your own satellite constelation which will provide affordable Internet worldwide.&%&%However, to do so, you need to launch 2 test satellites first.&%&%Good luck!
+
+File: linklink.txt (36)
+Original Translation: 30percentDeorbit█30% of LinkLinks will deorbit in <b>{0}</b>
+
+File: linklink.txt (37)
+Original Translation: buildLinkLinkInGiga█Build LinkLink in any Giga Factory
+
+File: linklink.txt (38)
+Original Translation: openGigaFactory█Open Giga Factory
+
+File: mainMenu.txt (0)
+Original Translation: menu_newGame█New Game
+
+File: mainMenu.txt (1)
+Original Translation: menu_loadGame█Load Game
+
+File: mainMenu.txt (2)
+Original Translation: menu_settings█Settings
+
+File: mainMenu.txt (3)
+Original Translation: menu_credits█Credits
+
+File: mainMenu.txt (4)
+Original Translation: menu_exit█Exit
+
+File: mainMenu.txt (5)
+Original Translation: menu_save█Save
+
+File: mainMenu.txt (6)
+Original Translation: menu_saveNotSupported█Save From Older Version :(
+
+File: mainMenu.txt (7)
+Original Translation: menu_gameOver█GAMEOVER! :(
+
+File: mainMenu.txt (8)
+Original Translation: menu_createNewGame█Create New Game
+
+File: mainMenu.txt (9)
+Original Translation: lastPlayed█Last Played:
+
+File: mainMenu.txt (10)
+Original Translation: menu_gameMode█Game Mode
+
+File: mainMenu.txt (11)
+Original Translation: menu_classic█<b>Classic</b>&%<size=75%>Play the classic mode where you have to build your own space company from scratch.
+
+File: mainMenu.txt (12)
+Original Translation: menu_sandbox█<b>Sandbox</b>&%<size=75%>In sandbox mode everything is unlocked and unlimited. Kinda boring tbh.
+
+File: mainMenu.txt (13)
+Original Translation: menu_difficulty█Game Difficulty
+
+File: mainMenu.txt (14)
+Original Translation: menu_easy█<b>Easy</b>&%<size=75%>Play easy if you want to play easy. Just launch those big rockets.
+
+File: mainMenu.txt (15)
+Original Translation: menu_hard█<b>Hard</b>&%<size=75%>Coming soon!
+
+File: mainMenu.txt (16)
+Original Translation: menu_apply█Apply
+
+File: mainMenu.txt (17)
+Original Translation: menu_quality█Graphics
+
+File: mainMenu.txt (18)
+Original Translation: menu_low█Low
+
+File: mainMenu.txt (19)
+Original Translation: menu_medium█Medium
+
+File: mainMenu.txt (20)
+Original Translation: menu_high█High
+
+File: mainMenu.txt (21)
+Original Translation: menu_environment█Environment?
+
+File: mainMenu.txt (22)
+Original Translation: menu_postprocessings█Post Processing?
+
+File: mainMenu.txt (23)
+Original Translation: menu_gameplay█Gameplay
+
+File: mainMenu.txt (24)
+Original Translation: menu_autoSave█Auto Save?
+
+File: mainMenu.txt (25)
+Original Translation: menu_autoPause█Auto Pause?
+
+File: mainMenu.txt (26)
+Original Translation: menu_alwaysDay█Always Day?
+
+File: mainMenu.txt (27)
+Original Translation: menu_hangarsVisual█Hangars Visual?
+
+File: mainMenu.txt (28)
+Original Translation: menu_gameOverSetting█Gameover?
+
+File: mainMenu.txt (29)
+Original Translation: menu_video█Video
+
+File: mainMenu.txt (30)
+Original Translation: menu_fullscreen█Fullscreen?
+
+File: mainMenu.txt (31)
+Original Translation: menu_vsync█V-Sync?
+
+File: mainMenu.txt (32)
+Original Translation: menu_audio█Audio
+
+File: mainMenu.txt (33)
+Original Translation: menu_music█Music?
+
+File: mainMenu.txt (34)
+Original Translation: menu_sounds█Sounds?
+
+File: mainMenu.txt (35)
+Original Translation: menu_language█Language
+
+File: mainMenu.txt (36)
+Original Translation: menu_creators█Creators
+
+File: mainMenu.txt (37)
+Original Translation: menu_collaboration█Collaboration
+
+File: mainMenu.txt (38)
+Original Translation: menu_specialThanks█Special Thanks
+
+File: mainMenu.txt (39)
+Original Translation: menu_icons█Icons From Flaticon.com
+
+File: modules.txt (0)
+Original Translation: type_fairings█Fairing
+
+File: modules.txt (1)
+Original Translation: type_fuelTank█Fuel Tank
+
+File: modules.txt (2)
+Original Translation: type_engine█Engine
+
+File: modules.txt (3)
+Original Translation: type_computer█Computer
+
+File: modules.txt (4)
+Original Translation: type_gridFins█Grid Fins
+
+File: modules.txt (5)
+Original Translation: type_landingLegs█Landing Legs
+
+File: modules.txt (6)
+Original Translation: type_battery█Battery
+
+File: modules.txt (7)
+Original Translation: type_other█Other
+
+File: modules.txt (8)
+Original Translation: type_body█Body
+
+File: modules.txt (9)
+Original Translation: type_parachutes█Parachutes
+
+File: modules.txt (10)
+Original Translation: type_sensors█Sensors
+
+File: modules.txt (11)
+Original Translation: type_antenna█Antenna
+
+File: modules.txt (12)
+Original Translation: type_utility█Utility
+
+File: modules.txt (13)
+Original Translation: module_factory_small█Small
+
+File: modules.txt (14)
+Original Translation: module_factory_medium█Medium
+
+File: modules.txt (15)
+Original Translation: module_factory_large█Large
+
+File: modules.txt (16)
+Original Translation: module_factory_giga█Giga
+
+File: modules.txt (18)
+Original Translation: mdl_s_engine█Simple Engine,Required for small rockets.
+
+File: modules.txt (19)
+Original Translation: mdl_a_engine█Advanced Engine,Required for medium rockets.
+
+File: modules.txt (20)
+Original Translation: mdl_a4_engine█4 Advanced Engines,Required for manual landing rockets.
+
+File: modules.txt (21)
+Original Translation: mdl_a9_engine█9 Advanced Engines,Required for large/automatic landing rockets.
+
+File: modules.txt (22)
+Original Translation: mdl_m27_engine█37 Methane Engines,Required for very large rockets. (Superheavy Boi)
+
+File: modules.txt (24)
+Original Translation: mdl_s_fueltank█Small Fuel Tank,Required for small rockets.
+
+File: modules.txt (25)
+Original Translation: mdl_m_fueltank█Medium Fuel Tank,Required for medium/capsule rockets.
+
+File: modules.txt (26)
+Original Translation: mdl_l_fueltank█Large Fuel Tank,Required for large/landing rockets.
+
+File: modules.txt (27)
+Original Translation: mdl_vl_fueltank█Super Fuel Tank,Required for very large/spaceship rockets. (Superheavy Boi)
+
+File: modules.txt (29)
+Original Translation: mdl_s_computer█Simple Computer,Required for small and medium rockets.
+
+File: modules.txt (30)
+Original Translation: mdl_a_computer█Advanced Computer,Required for large/capsule/landing rockets.
+
+File: modules.txt (31)
+Original Translation: mdl_sn_computer█Skynet Computer,Required for very large/spaceship rockets.
+
+File: modules.txt (32)
+Original Translation: mdl_s_battery█Small Battery,Required for manual landing/capsule rockets.
+
+File: modules.txt (33)
+Original Translation: mdl_a_battery█Advanced Battery,Required for automatic landing/capsule/spaceship rockets.
+
+File: modules.txt (34)
+Original Translation: mdl_gps█GPS,Required for capsule/landing rockets.
+
+File: modules.txt (36)
+Original Translation: mdl_s_fairings█Small Fairing,Required for small rockets.
+
+File: modules.txt (37)
+Original Translation: mdl_m_fairings█Medium Fairing,Required for medium rockets.
+
+File: modules.txt (38)
+Original Translation: mdl_l_fairings█Large Fairing,Required for large rockets.
+
+File: modules.txt (39)
+Original Translation: mdl_vc_fairings█Vehicle Connector,Required for capsule/spaceship rockets.
+
+File: modules.txt (40)
+Original Translation: mdl_fairingParachutes█Fairing Parachutes,Reusable rocket is required to recover the fairings.
+
+File: modules.txt (42)
+Original Translation: mdl_a_gridfins█Aluminium Grid Fins,Required for manual landing rockets.
+
+File: modules.txt (43)
+Original Translation: mdl_t_gridfins█Titanium Grid Fins,Required for auto landing rockets.
+
+File: modules.txt (44)
+Original Translation: mdl_m_landingLegs█Manual Landing Legs,Required for manual landing rockets.
+
+File: modules.txt (45)
+Original Translation: mdl_a_landingLegs█Automatic Landing Legs,Required for auto landing rockets.
+
+File: modules.txt (46)
+Original Translation: mdl_booster_connector█Booster Connector,Required for sidebooster rockets. (Falcon Heavy Boi)
+
+File: modules.txt (48)
+Original Translation: mdl_light_structure█Light Body,Required for cargo capsules.
+
+File: modules.txt (49)
+Original Translation: mdl_heavy_structure█Heavy Body,Required for crew capsules.
+
+File: modules.txt (50)
+Original Translation: mdl_chip_computer█Computer Chip,Required for capsules.
+
+File: modules.txt (51)
+Original Translation: mdl_a_antenna█Advanced Antenna,Required for crew capsules.
+
+File: modules.txt (52)
+Original Translation: mdl_s_antenna█Simple Antenna,Required for cargo capsules.
+
+File: modules.txt (53)
+Original Translation: mdl_a_escape_engines█Advanced Escape Engines,Required for crew capsules.
+
+File: modules.txt (54)
+Original Translation: mdl_s_escape_engines█Simple Escape Engines,Required for crew capsules.
+
+File: modules.txt (55)
+Original Translation: mdl_a_parachutes█Advanced Parachutes,Required for crew capsules.
+
+File: modules.txt (56)
+Original Translation: mdl_s_parachutes█Simple Parachutes,Required for cargo capsules.
+
+File: modules.txt (57)
+Original Translation: mdl_camera█Camera,Camera allows you to see what the rockets see (Webcast).
+
+File: modules.txt (58)
+Original Translation: mdl_s_altitude(capsule)█Altitude Sensor,Required for crew capsules.
+
+File: modules.txt (59)
+Original Translation: mdl_s_altitude(rocket)█Altitude Sensor,This sensor gives you more telemetry data on your launch. See how fast your rocket is!
+
+File: modules.txt (60)
+Original Translation: mdl_s_heat█Heat Sensor,Required for crew capsules.
+
+File: modules.txt (62)
+Original Translation: mdl_methane_fueltank█Methane Fuel Tank,Required for Spaceships.
+
+File: modules.txt (63)
+Original Translation: mdl_methane_engine█6 Methane Engines,Required for Spaceships.
+
+File: modules.txt (64)
+Original Translation: mdl_stainlesssteel_structure█Stainless Steel Body,Required for Spaceships.
+
+File: modules.txt (65)
+Original Translation: mdl_cargoUtility█Cargo Utility,Cargo Spaceship Module
+
+File: modules.txt (66)
+Original Translation: mdl_crewUtility█Crew Utility,Crew Spaceship Module
+
+File: modules.txt (67)
+Original Translation: mdl_fuelUtility█Fuel Utility,Tanker Spaceship
+
+File: news.txt (0)
+Original Translation: news_technology_content_p11█All {0} fans have been waiting for this! Today's CEO's press conference leaves no room for illusions - we are witnessing another major breakthrough in the research that will lead humanity to Mars.
+
+File: news.txt (1)
+Original Translation: news_technology_content_p12█We live in interesting times! The race to Mars started for good and we are curious what will come out of it. Will {1} keep his promises?
+
+File: news.txt (2)
+Original Translation: news_technology_content_p13█Today we are looking forward to the {0} company. Will their human missions ever set foot on Mars? We will see in a few years.
+
+File: news.txt (3)
+Original Translation: news_technology_content_p14█You've been waiting for this, haven't you? We have the latest news from the company headquarters of {0}. Everything seems to indicate that their technology is developing very fast.
+
+File: news.txt (4)
+Original Translation: news_technology_content_p21█{1}: "The rockets we are currently developing are far from competitive. Let's hope it's not just a simple boast to make more profits on the stock market. Does {0} really have better technologies? Will we ever set foot on Mars? 
+
+File: news.txt (5)
+Original Translation: news_technology_content_p22█"We hope to look to the future. Improvements of our rockets will not only allow us to carry larger charges into orbit. This is the beginning of the path that mankind will follow over the next decades. - {1}, {0}. 
+
+File: news.txt (6)
+Original Translation: news_technology_content_p23█The new generation engine presented by %company name% has just passed its first successful tests last year. {1} announced that within 10 years the engine will be on the board of one of the rockets to test it in the vacuum of space. Do the competitors have a reason to fear?
+
+File: news.txt (7)
+Original Translation: news_technology_content_p24█"I'm sure it'll work!", says {1} at yesterday's conference. He wants to recover the rockets that fell to the Earth after the launch of the payload into orbit. A rocket falling at a very high speed would open the parachute at the right time and then fall into the ocean. This is another step towards cheaper flights into space and to Mars! 
+
+File: news.txt (8)
+Original Translation: news_technology_content_p31█We are looking forward to hearing more good news about {0}!
+
+File: news.txt (9)
+Original Translation: news_technology_content_p32█{1} is counting money, we are counting our page views. Maybe it's time to introduce ads?
+
+File: news.txt (10)
+Original Translation: news_technology_content_p33█Dreams of a human landing on Mars are coming true in front of our eyes.
+
+File: news.txt (11)
+Original Translation: news_technology_content_p34█What's the first one? Moon or Mars? {1} probably already knows it, but they don't want to say it.
+
+File: news.txt (12)
+Original Translation: news_technology_header1█{0} is developing. {1} is cashing in on new technologies.
+
+File: news.txt (13)
+Original Translation: news_technology_header2█The new {0} laboratories are running at high speed. 
+
+File: news.txt (14)
+Original Translation: news_technology_header3█{1} invests in development. New rocket models coming soon?
+
+File: news.txt (15)
+Original Translation: news_technology_header4█I wonder how can he afford that? {1} invests in development. 
+
+File: news.txt (16)
+Original Translation: news_technology_header5█{1}: "Our goal is Mars. We are working hard on new rocket modules.
+
+File: news.txt (17)
+Original Translation: news_technology_header6█Investors are delighted. Will {0} win the space race?
+
+File: news.txt (18)
+Original Translation: news_technology_header7█Heading for Mars? {0} presents new modules for its rockets.
+
+File: news.txt (19)
+Original Translation: news_technology_header8█More and higher. New motto {0}?
+
+File: news.txt (20)
+Original Translation: news_technology_header9█{2} on Twitter: "I am impressed with what {1} is doing. But we will win anyway.
+
+File: news.txt (21)
+Original Translation: news_technology_header10█Big breakthrough in {0}. New modules for rockets will soon be in use.
+
+File: news.txt (22)
+Original Translation: news_fail_content_p11█Disturbing news from {0}. Their rocket unexpectedly ended its mission with a huge explosion. 
+
+File: news.txt (23)
+Original Translation: news_fail_content_p12█Citizens near the launch area of the {0} corporation witnessed an amazing, sky-high spectacle today. According to our correspondent, the fireball that appeared in the sky this morning is a rocket from {0}.
+
+File: news.txt (24)
+Original Translation: news_fail_content_p13█It would seem that the sound of rockets taking off near cities is the smallest problem for their citizens. Until the rockets start to explode. In the morning, our office began to receive complaints from anxious citizens who have been woken up by a loud explosion.
+
+File: news.txt (25)
+Original Translation: news_fail_content_p14█Another day, another unpleasant news from the camp {0}. A rocket that belongs to a billionaire named {1} ended its mission in a rather unexpected and loud way.
+
+File: news.txt (26)
+Original Translation: news_fail_content_p21█The causes of the explosion are currently being investigated. The company's CEO, {1}, commented on the situation in a short Twitter post: "The one who does nothing makes no mistakes. Cheers!". There was also a picture added to the post - a photograph of a half-empty bottle of polish vodka "Żubrówka". 
+
+File: news.txt (27)
+Original Translation: news_fail_content_p22█Our anonymous source, closely associated with the company, informs that in 3 minutes from the launch of the rocket there was a failure of hydraulics in the combustion chamber of the engine. Details will probably be announced at the press conference planned for today. 
+
+File: news.txt (28)
+Original Translation: news_fail_content_p23█The causes of the accident are not yet well identified and will be investigated in detail in the coming months. Regardless of the cause, the explosion means a major image loss for {0}. 
+
+File: news.txt (29)
+Original Translation: news_fail_content_p24█The whole team is working hard to explain the reasons for the explosion. We will soon find out whether the equipment failed, whether it was a human failure or whether it was an act of unfair competition.
+
+File: news.txt (30)
+Original Translation: news_fail_content_p25█The bitterness of the situation is not hidden by the fans of the company all over the world, for whom {1} from the beginning of its activity was the embodiment of innovation and ideal entrepreneur. "I am sick and tired and I am selling all my shares now! I want to see beautiful flights, not explosions..." - was written by @denis-szwarc, the user of reddit.com.
+
+File: news.txt (31)
+Original Translation: news_fail_content_p31█We hope that the next flights will be more successful, but not less spectacular.
+
+File: news.txt (32)
+Original Translation: news_fail_content_p32█We wish the owner of {0} more luck during the next launches.
+
+File: news.txt (33)
+Original Translation: news_fail_content_p33█We firmly believe that the causes of the disaster will be explained quickly and that no more explosions will take place.
+
+File: news.txt (34)
+Original Translation: news_fail_content_p34█In this unpleasant day for {0} there is nothing left for us to do but to keep our fingers crossed for the next starts.
+
+File: news.txt (35)
+Original Translation: news_fail_content_p35█We don't want to write about rocket explosions anymore, but we have no other choice.
+
+File: news.txt (36)
+Original Translation: news_fail_content_p36█Don't get me started.
+
+File: news.txt (37)
+Original Translation: news_fail_header1█{1}: "This is a painful but important lesson for all of us. The last flight of our rocket from {0} ended with fireworks.
+
+File: news.txt (38)
+Original Translation: news_fail_header2█A rocket turned into a huge fireball. {0} examines the causes of the disaster.
+
+File: news.txt (39)
+Original Translation: news_fail_header3█{0} is in trouble. The explosion of their rocket woke up the residents of the nearby city.
+
+File: news.txt (40)
+Original Translation: news_fail_header4█That rocket is no longer in existence. The rocket belonging to the {0} burned in the atmosphere.
+
+File: news.txt (41)
+Original Translation: news_fail_header5█{1}: "We thought it would work this time. A rocket on fire is not what we wanted to see today. 
+
+File: news.txt (42)
+Original Translation: news_fail_header6█"We'll be loud!" The words of the CEO of {0} have just come true. Their rockets explode like crazy.
+
+File: news.txt (43)
+Original Translation: news_fail_header7█{1} terrorizes the sky! Successive rocket explosions threaten the financial flow of the {0}.
+
+File: news.txt (44)
+Original Translation: news_fail_header8█{0}: The powerful explosion of our rocket threatens the company's position. {1} at the exit?
+
+File: news.txt (45)
+Original Translation: news_bankrupt_content_p11█{1}, the CEO of {0} announced today at a press conference the closure of the company with all offices and factories. 
+
+File: news.txt (46)
+Original Translation: news_bankrupt_content_p12█Problems with exploding rockets, failure to comply with contracts and mess in financial documents are probably not the only mistakes of the chairman of {0}. {1} today declared bankruptcy.
+
+File: news.txt (47)
+Original Translation: news_bankrupt_content_p13█We will probably wait a long time for the first successful crew mission to Mars. The market does not forgive the mistakes made by {1}, the owner of {0}. The company was closed today.
+
+File: news.txt (48)
+Original Translation: news_bankrupt_content_p14█We could have expected that. After many unsuccessful launches of the {0} rockets, there came the time for the settlement of the management board. The CEO, {1} can already pack his stuff. 
+
+File: news.txt (49)
+Original Translation: news_bankrupt_content_p21█This sad end of the dreams about conquering space is only the beginning of {0} financial problems. According to the information we have received, the company is flooded with lawsuits for property damage. All because of the rocket parts falling on private homes.
+
+File: news.txt (50)
+Original Translation: news_bankrupt_content_p22█The emotional statement that {1} sent to the media does not lack bitter words towards the other members of the management board. "My dreams were stolen (...) by traitors and thieves. I did everything in my power and now I am left with nothing. I'm sorry."
+
+File: news.txt (51)
+Original Translation: news_bankrupt_content_p23█The press conference of {0} was a dramatic one. {1} appeared on it with a black eye. As he explained, there was a small fight with another member of the management board. Unofficially, we learned that it was the last $100 bill that was left in the company's safe. Unfortunately, the statements of the founder of {0} will not be summarized - reading them he cried so loudly that we did not understand anything.
+
+File: news.txt (52)
+Original Translation: news_bankrupt_content_p31█Honestly? We don't even feel sorry for them. 
+
+File: news.txt (53)
+Original Translation: news_bankrupt_content_p32█We hope that {1} put some money into the sock.
+
+File: news.txt (54)
+Original Translation: news_bankrupt_content_p33█Now it's all in the hands of {2}.
+
+File: news.txt (55)
+Original Translation: news_bankrupt_content_p34█I wonder which company is next.
+
+File: news.txt (56)
+Original Translation: news_bankrupt_header1█Sad end of the {0}. {1} says goodbye to the space sector.
+
+File: news.txt (57)
+Original Translation: news_bankrupt_header2█No more dreams of Mars. {0} closes its factories.
+
+File: news.txt (58)
+Original Translation: news_bankrupt_header3█"The expectations of the shareholders have exceeded our expectations" - {1} refers to the end of {0}.
+
+File: news.txt (59)
+Original Translation: news_bankrupt_header4█{1} - visionary and... bankrupt. 
+
+File: news.txt (60)
+Original Translation: news_bankrupt_header5█There will be no more {0} flights. The company goes bankrupt.
+
+File: news.txt (61)
+Original Translation: news_bankrupt_header6█There is no room for {0} in the industry anymore. {0} on administrative leave.
+
+File: news.txt (62)
+Original Translation: news_bankrupt_header7█There was a company, and there is no company. {0} rolls up their rockets!
+
+File: news.txt (63)
+Original Translation: news_bankrupt_header8█President {1} was supposed to go into space but he's going to jail. What happened to the {0} money?
+
+File: news.txt (64)
+Original Translation: news_bankrupt_header9█Strike of {0} employees. {1} has no money for payouts!
+
+File: news.txt (65)
+Original Translation: news_bankrupt_header10█{1} didn't go to school and can't count? The {0} budget is at a very low level.
+
+File: news.txt (66)
+Original Translation: news_bankrupt_header11█The analysts have known that for a long time. {0} went bankrupt!
+
+File: news.txt (67)
+Original Translation: news_bankrupt_header12█{2} laughs at the CEO of {0}: "{1} lacks imagination! I knew it wouldn't last long!"
+
+File: news.txt (68)
+Original Translation: news_yearsummary_beforeRes_header█How were the space companies doing in {0}? Big summary! 
+
+File: news.txt (69)
+Original Translation: news_yearsummary_beforeRes_content█This year, as well as the others, brought a lot of interesting decisions, events, and flights! This is amazing that more and more space companies are… private! This will speed up the rocket development a lot.&%&%Here are some annual stats:&%&%<color=#64B5F6>Flights</color>:&%{0}&%<color=#64B5F6>Contracts</color>:&%{1}&%<color=#64B5F6>Budget</color>:&%{2}&%We are all waiting for next year events. We know that {3} is currently working on reusable rockets. This company is funny, how can you even land with a metal stick? This is impossible.
+
+File: news.txt (70)
+Original Translation: news_FundraisingHats_header█{1} has sold 20,000 hats with the {0} logo. The perfect way to finance space business?
+
+File: news.txt (71)
+Original Translation: news_FundraisingHats_content█{1} is amazing. Crazy, but still amazing. {0}'s CEO was told by the management to add some cash to the company's budget in the sharpest possible way. A normal CEO would probably lay off a few employees to reduce the cost of hiring. &%&%{1} sold... hats. And quite a lot of them, almost 20,000. Is this the last such an unusual act by {1}?
+
+File: news.txt (72)
+Original Translation: news_FundraisingBricks_header█"Hey, get a Brick!" - a surprising campaign of {0}.
+
+File: news.txt (73)
+Original Translation: news_FundraisingBricks_content█{1} did it again. Exactly. After this one we know that {0} is in very good hands, and bankruptcy is unlikely to happen. &%&%{1} this time decided to sell several thousand bricks to improve the financial flow of the company. An additional advantage is that the bricks are almost half the price of rival products. They are also ECO friendly. From the first reports of the company we know that the bricks sell very good.
+
+File: news.txt (74)
+Original Translation: news_FundraisingNotFlamethrowers_header█The shipping companies have said that...
+
+File: news.txt (75)
+Original Translation: news_FundraisingNotFlamethrowers_content█... they will not transport anything that has "Flamethrower" in its name. What did {1} do? Of course he changed their name to "Not a Flamethrower". &%&%{1} has come up with another idea to make a few extra dollars. This time he made a huge lighter, sold in over 20,000 items! First rumors say he made over 30 million in cash. I have a feeling that {0} is not afraid to go bankrupt anymore.
+
+File: news.txt (76)
+Original Translation: news_FundraisingRocketquilla_header█Fans of strong drinks have pounced on alcohol drinks from {0}.
+
+File: news.txt (77)
+Original Translation: news_FundraisingRocketquilla_content█Fans of clothing got hats, builders got cheap bricks, fanatics of TV-sized lighters got (not a) flamethrowers, and those who like to drink got... an explosive mixture of alcohol. &%&%Tequila in the rocket version from {1} has just made its market debut and... quickly sold out adding more than $100 million to the space company's pocket. Did you manage to buy it?
+
+File: news.txt (78)
+Original Translation: news_iss_2002q4_header█Another mission of the Atlantis shuttle - the new ITS S1 module has been launched on ISS.
+
+File: news.txt (79)
+Original Translation: news_iss_2002q4_content█It is almost 14 m long, 4.6 m wide and 1.8 m high. Weighing more than 14 tons, the ITS S1 module has just joined the ISS station that is being built. The ITS S1 is the first ribbed side segment to be attached on one side to the central ITS S0 segment. Three powerful heat sinks have been mounted on it to cool the station's energy system. Another station communication system has also been installed on the ITS S1 to improve the quality and throughput of audio transmission and several platforms for vacuum experiments. The S1 is also equipped with two cameras, which will facilitate future observation of this sector of the station. The grating has its own on-board computer, which is responsible for cooling control, including monitoring of ammonia tanks, cooling circuits and pump sets. &%&%This is the third mission of the Atlantis shuttle to deliver further parts of the International Space Station that is being built.
+
+File: news.txt (80)
+Original Translation: news_iss_2007q3_header█Harmony (Node 2) delivered to orbit - will connect Destiny, Columbus, and Kibo modules.
+
+File: news.txt (81)
+Original Translation: news_iss_2007q3_content█The mission of the Discovery shuttle, which brought on 23rd October 2007 the Harmony module (Node 2) into orbit, ended successfully. Harmony is a kind of splitter that will combine the three modules together - American, Japanese (will join the station later), and European (Columbus laboratory will be placed in orbit probably at the beginning of 2008) module. On its board it has racks containing instruments responsible for processing the electricity and transmitting it to the modules mentioned above. &%&%By the agreement between NASA and ESA, Node 2 was built by the Italian company Alenia Spazio, in its centre in Turin. 
+
+File: news.txt (82)
+Original Translation: news_iss_2008q1_header█The European Columbus laboratory has joined the ISS!
+
+File: news.txt (83)
+Original Translation: news_iss_2008q1_content█The International Space Station is getting bigger. As a part of Flight 1E - STS-122 of the Atlantis shuttle, another huge module was launched into orbit. The scientific experiments conducted there will cover such fields of research as plant biology, exobiology, heliophysics, human physiology, and fluid physics. &%&%Columbus weighs over 10 tons and was being built for 10 years.
+
+File: news.txt (84)
+Original Translation: news_iss_2008q2_header█Endeavour shuttle delivered the first part of the Japanese Kibo module on ISS.
+
+File: news.txt (85)
+Original Translation: news_iss_2008q2_content█As designed by the Japanese Agency for Aerocosmic Exploration, the main purpose of Kibo (JEM) is to conduct scientific experiments in a vacuum. JEM will have stations for two people to work simultaneously, but the laboratory will be able to accommodate up to four crew members of the International Space Station. &%&%During the mission of the ferry Endeavour there was also an exchange of crew members of Expedition 16.
+
+File: news.txt (86)
+Original Translation: news_iss_2009q4_header█Russian Small Research Module 2 "Poisk" already in orbit.
+
+File: news.txt (87)
+Original Translation: news_iss_2009q4_content█The Russian Soyuz-U rocket mission with the Poisk module on board was successful. The Poisk airlock reached the station using the modified instrument-propulsion segment of the Progress vessel. &%&%This is the second Russian Soyuz mission to expand the ISS.
+
+File: news.txt (88)
+Original Translation: news_iss_2010q1_header█One of the most important elements of ISS already in place!
+
+File: news.txt (89)
+Original Translation: news_iss_2010q1_content█The Cupola (Dome) was lifted into space with the help of the American shuttle Endeavour. The module will allow a direct panoramic view from inside of the station to activities performed outside. These will include operations performed with an automatic manipulator, space walks, shuttle docking manoeuvres or review and evaluation of the technical condition of external devices. &%&%The dome will be an excellent observation point of the Earth and other celestial bodies.
+
+File: news.txt (90)
+Original Translation: news_iss_2010q2_header█The American-Russian cooperation has provided the ISS with another module.
+
+File: news.txt (91)
+Original Translation: news_iss_2010q2_content█The thirty-second flight of the Atlantis shuttle and already one hundred and thirty-second mission of the shuttle program was successful. This time the Rassvet module (EN: Dawn) joined the International Space Station. It will be used primarily for cargo storage and as a docking module for the station. &%&%Using the capacity of Rassvet, NASA has placed in the module 3000 pounds (or 1360kg) of equipment, spare parts, food, and victuals to be transported to the station.
+
+File: news.txt (92)
+Original Translation: news_iss_2011q1_header█The last mission of the Discovery shuttle. Leonardo joined the ISS.
+
+File: news.txt (93)
+Original Translation: news_iss_2011q1_content█Today at 2:50 p.m., the Leonardo module (PMM) that is on a board of the Discovery shuttle, which is docked to the ISS, was permanently attached to the Harmony module node. &%&%The Leonardo Multifunctional Logistics Module (MPLM) is a large hermetic container used in supply missions of shuttles to and from ISS. After the STS-131 mission, Leonardo was converted into a Permanent Multifunctional Module (PMM). The conversion allowed a permanent connection to the ISS for an unlimited period of time - thus, Leonardo will serve as an additional storage facility at the International Space Station.
+
+File: news.txt (94)
+Original Translation: news_flat_earth_contract_name█The Truth
+
+File: news.txt (95)
+Original Translation: news_flat_earth_contract_desc█Good morning,&%&%My name is Murphy. I'm the president of the American Flat Earth Society. We want to disprove once and for all the myth about round Earth. I'm interested in flying into space, making movies and taking pictures.&%&%Can you accept this offer?
+
+File: news.txt (96)
+Original Translation: news_flat_earth_accepted_header█The flatearthers are flying into space - they want to prove to everyone that our planet is flat.
+
+File: news.txt (97)
+Original Translation: news_flat_earth_accepted_content█At today's press conference, Murphy announced that he was successful in collecting the money for his space flight.&%&%Murphy bought his space ticket from the {0} - the flight will take place within the next year.
+
+File: news.txt (98)
+Original Translation: news_flat_earth_declined_header█{0} accused of hiding the truth. He refused the space flight to the president of the Flat Earth Society.
+
+File: news.txt (99)
+Original Translation: news_flat_earth_declined_content█"{0} has received a great offer from us. He didn't take it - so we can be sure what he's hiding." - this is how Murphy, president of the American Society of the Flat Earth, commented on the whole situation. &%&%Flights into space not for everyone? The CEO of {0} has not commented this situation.
+
+File: news.txt (100)
+Original Translation: news_flat_earth_ready_header█Space training completed. Murphy will see if the Earth is flat.
+
+File: news.txt (101)
+Original Translation: news_flat_earth_ready_content█The CEO of the space company {0} confirmed today that the President of the Flat Earth Society is ready to fly.&%&%Will we all finally know the truth?
+
+File: news.txt (102)
+Original Translation: news_flat_earth_success_header█{0} mission with Murphy aboard successful! What did he see from the capsule?
+
+File: news.txt (103)
+Original Translation: news_flat_earth_success_content█The tourist mission with the president of the Flat Earth Society was successful. After a several days in space, Murphy did not want to answer the journalists' questions. Looking sad, Murphy immediately went to the hotel.&%&%He does not answer the phone.
+
+File: news.txt (104)
+Original Translation: news_flat_earth_afterSuccess_header█Murphy publicly apologizes.
+
+File: news.txt (105)
+Original Translation: news_flat_earth_afterSuccess_content█"I saw it with my own eyes! The Earth is not flat! It's like a ball, you understand that? Up there, looking at our planet... ...I realized I've been fooled all my life. And I've been cheating on others. I'm so sorry." - said the former president of the Flat Earth Society in a video published on his new YouTube channel.&%&%Mira, the newly elected president said Murphy was lying, or was cheated by {1}. "What if the capsule had monitors instead of windows and displayed a picture of round Earth?"
+
+File: news.txt (106)
+Original Translation: news_flat_earth_failure_header█{0}'s rocket, together with Murphy, exploded before entering the orbit. The causes of the disaster are being investigated.
+
+File: news.txt (107)
+Original Translation: news_flat_earth_failure_content█Murphy was on board, who, thanks to the space flight, was going to gain the final proof that the Earth is flat.&%&%The Vice President of the Flat Earth Society issued a short statement: "It certainly crashed into the dome. Murphy is a hero, he sacrificed his life to show us the truth."
+
+File: news.txt (108)
+Original Translation: news_spate_accept_header█Space campaign of the new SPATE album. His EP will fly to the ISS.
+
+File: news.txt (109)
+Original Translation: news_spate_accept_content█Music producer SPATE has signed a contract with {0}, thanks to which his latest album will fly to the ISS. &%&%The album will be shipped with the next supply mission in a few months. &%&%Are the members of the International Space Station already preparing a big music party?
+
+File: news.txt (110)
+Original Translation: news_spate_success_header█First party on the ISS.
+
+File: news.txt (111)
+Original Translation: news_spate_success_content█After the company {0} delivered the SPATE's newest album as part of a marketing campaign, the astronauts held a really loud (but inaudible) party on the International Space Station. &%&%Can the ISS structure withstand such a well played bass?
+
+File: news.txt (112)
+Original Translation: opportunity2019Q1_header█NASA officially ends the Opportunity Rover mission
+
+File: news.txt (113)
+Original Translation: opportunity2019Q1_content█15 years - that's how long the mission of Opportunity's rover, which landed on the red planet on 25 February 2004, lasted. &%&%Unfortunately, the last attempts to contact Opportunity, which was stuck asleep since June 2018, were unsuccessful - the solar cells used to power the equipment on board the rover were covered with sand as a result of a general planetary sand-storm. &%&%For 15 years of work, Opportunity sent countless data to Earth and contributed to many discoveries - he observed cirrus clouds in Mars atmosphere, and made astronomical observations impossible to make from Earth, such as the transit of Mars moons on the background of the solar shield.
+
+File: news.txt (114)
+Original Translation: matt_entry_header█Tragedy on Mars - astronaut Matt is dead
+
+File: news.txt (115)
+Original Translation: matt_entry_content█A huge sandstorm on Mars took a deadly toll. NASA team, which has been stationed on Mars for several days, was forced to return to Earth. &%&%Unfortunately, the team is coming back in a reduced staff - while escaping to the space shuttle, which is to ensure safe return to our blue planet, one of the astronauts is still at the base. As we managed to find out from NASA representatives, the reason was to be a problem with the suit. &%&%The base was probably destroyed by a raging storm - there is no contact with Matt.
+
+File: news.txt (116)
+Original Translation: matt_expansion_header█NASA is sharing the good news. We managed to get in touch with Matt who stayed on Mars - the astronaut is alive!
+
+File: news.txt (117)
+Original Translation: matt_expansion_content█At NASA's press conference, the CEO shared good news with journalists. They managed to contact the astronaut who stayed in the destroyed Martian base. &%&%NASA is currently preparing a rescue mission plan. As we have unofficially learned, the only technology that allows a rapid deployment of a rescue mission has {0}.
+
+File: news.txt (118)
+Original Translation: matt_accept_header█NASA joint rescue mission together with {1}. 
+
+File: news.txt (119)
+Original Translation: matt_accept_content█Both companies announced today that they are beginning work on rescuing the remaining astronaut on Mars. &%&%{0} will send one of their rockets to the red planet to bring Matt safely to Earth. &%&%The flight is due to take place in a few days.
+
+File: news.txt (120)
+Original Translation: matt_decline_header█NASA has its hands tied. {0} will not send a rescue mission to Mars.
+
+File: news.txt (121)
+Original Translation: matt_decline_content█Unfortunately, our assumptions turned out to be correct. {1}, the CEO of {0} has refused to help NASA. The reason for this is that the mission's too long and the flight calendar for {0} is very tight. &%&%The company managed by {1} was the only one with the right technology to send a rescue mission.
+
+File: news.txt (122)
+Original Translation: matt_success_header█Hope for Matt. {1}'s rescue mission completed successfully.
+
+File: news.txt (123)
+Original Translation: matt_success_content█We did it! {1} and the CEO of NASA have reason to be pleased. &%&%Matt, who stayed on Mars in a sandstorm-damaged base, will soon be flying home. &%&%We hope that the next manned missions to Mars will take place without sad surprises.
+
+File: news.txt (124)
+Original Translation: matt_failure_header█The {1}'s rescue mission will not happen. {0}'s rocket exploded during launch.
+
+File: news.txt (125)
+Original Translation: matt_failure_content█Today we witnessed dramatic events that took place in the atmosphere. Specially prepared, unmanned ship, which was supposed to reach Mars with a rescue mission, burned down in the atmosphere. &%&%It was the last attempt to save Matt waiting for help in the destroyed Martian base. {1} and NASA no longer have the right rockets. &%&%Rest in peace, Matt.
+
+File: notifications.txt (0)
+Original Translation: company_ceoAndCompanyMustHaveName█Company and the CEO must have a name!
+
+File: notifications.txt (1)
+Original Translation: earthxWelcome█Hey, Elo- oh, this is you... <color=#64B5F6>{0}</color>!&%I see you've finally set up the rocket company you've mentioned before. "<color=#64B5F6>{1}</color>" is actually a cool name! I have to tell you, you're very brave.&%&%Big companies that have a monopoly on the launch provider market have not invested in some newer technology for years. They're still using inefficient boosters and obsolete engines. What if they could land their rockets back on Earth? Then it would be possible to send multiple payloads with only 1 rocket! I hope you can build a landing rocket or even a sidebooster one in a few years.&%&%Good luck!
+
+File: notifications.txt (2)
+Original Translation: iss_CRSHeader█ISS Commercial Resupply Services
+
+File: notifications.txt (3)
+Original Translation: iss_CRSContent█Hey!&%&%You've proven you can launch rockets and cargo capsules. For this reason you were chosen by the creator of this game to regularly supply the international space station for several years.&%&%You are forced to do this because I have not programmed the option to refuse, and the game without this mission would be... boring.
+
+File: notifications.txt (4)
+Original Translation: iss_CCPHeader█ISS Commercial Crew Program
+
+File: notifications.txt (5)
+Original Translation: iss_CCPContent█Hey!&%&%Your company has grown very much since its foundation. Anyway, have you ever imagined yourself as the CEO of one of the biggest space companies in the world? Well, neither have I.&%&%But the game goes on and I see that you have a lot on your mind, so I give you 6 additional crew missions (the creator of the game detected that you already have the necessary capsule). Crew missions must be sent regularly to the international space station.&%&%Oh, I almost forgot, make sure your rocket doesn't explode, or it'll be bad if you burn people, lol.
+
+File: notifications.txt (6)
+Original Translation: iss_catHeader█Please help!
+
+File: notifications.txt (7)
+Original Translation: iss_catContent█My cat, Balwina, is in very bad condition... I have to stay on the ISS for another 4 months and I'm very afraid, that I will never be able to meet her again!!&%&%Because of this fact, PLEASE put it on your next ISS mission :(&%&%Please consider it and thank you,&%&%Teresa
+
+File: notifications.txt (8)
+Original Translation: iss_technicianHeader█Emergency on the ISS
+
+File: notifications.txt (9)
+Original Translation: iss_technicianContent█Good evening,&%&%There are currently 4 astronauts on the International Space Station. Their lives are in danger because of medium-sized leakage in one of the modules.&%&%We know, that your company does not have any crew capsules, that's why you will need to launch a technician in a cargo capsule.&%&%Please do it as fast as you can AND don't talk with the press about that flight. No one can know that we're about to launch a human in a cargo capsule!&%&%Thanks for your cooperation, you will get paid after the mission.
+
+File: notifications.txt (10)
+Original Translation: iss_vehicleAboutToReturn█{0} is about to return to the Earth!
+
+File: notifications.txt (11)
+Original Translation: teslaRoadsterHeader█Car in space Mission
+
+File: notifications.txt (12)
+Original Translation: teslaRoadsterContent█Launch a car into space because why not!
+
+File: notifications.txt (13)
+Original Translation: contract_newPayloadsHeader█New payloads!
+
+File: notifications.txt (14)
+Original Translation: contract_newPayloadsContent█These payloads were constructed and tested:&%{0}&%Now you can launch them.&%{1}
+
+File: notifications.txt (15)
+Original Translation: contract_goLaunchThemOkNow█I mean really now.&%&%Why are you still here lol&%&%Ok just go launch them or I will delete your rockets
+
+File: notifications.txt (16)
+Original Translation: contract_hurryUpHeader█Hurry up!
+
+File: notifications.txt (17)
+Original Translation: contract_hurryUpContent█You need to complete these payloads as soon as possible:&%{0}&%&%What are you waiting for? Your rockets aren't autonomous, go and launch them!
+
+File: notifications.txt (18)
+Original Translation: contract_badBoyHeader█Bad boy. (or girl)
+
+File: notifications.txt (19)
+Original Translation: contract_badBoyContent█You were fined 15% of each payload because you didn't launch these payloads in time:&%{0}&%&%The world isn't over yet. Go and grab more contracts! :)
+
+File: notifications.txt (20)
+Original Translation: staticFireIssueFound█Your engineers have found an issue in your rocket and they have fixed it.
+
+File: notifications.txt (21)
+Original Translation: cantBuildNoFactories█You need factories to build rockets!
+
+File: notifications.txt (22)
+Original Translation: cantBuildSoManyVehicles█You can't build so many vehicles at the same time!
+
+File: notifications.txt (23)
+Original Translation: cantLaunchSoManyVehicles█You can't launch so many rockets at the same time!
+
+File: notifications.txt (24)
+Original Translation: cantRepairSoManyVehicles█You can't repair so many vehicles at the same time!
+
+File: notifications.txt (25)
+Original Translation: cantRemoveProject█You can't remove this project because there are vehicles in it.
+
+File: notifications.txt (26)
+Original Translation: noHangars█You can't store this vehicle because there's no space in your hangar or you need to build a <color=#64B5F6>{0}</color> in order to store that {1}.
+
+File: notifications.txt (27)
+Original Translation: noHangarsLanding█A spaceship is trying to land! You need more space in <color=#64B5F6>{0}</color> to store it!
+
+File: notifications.txt (28)
+Original Translation: noFactories█{0} can't be built because you need a {2} to be able to build {1} modules.
+
+File: notifications.txt (29)
+Original Translation: projectMustHaveName█Project must have a name. Have you ever seen a rocket without a name?
+
+File: notifications.txt (30)
+Original Translation: projectSameName█{0} already exists. Maybe name it <color=yellow><b><size=20>'{0} Max Pro Ultra Slim'?
+
+File: notifications.txt (31)
+Original Translation: moduleUnlocked█Module unlocked!
+
+File: notifications.txt (32)
+Original Translation: moduleUpgraded█Module upgraded!
+
+File: notifications.txt (33)
+Original Translation: notEnoughSkillPoints█Not enough skill points!
+
+File: notifications.txt (34)
+Original Translation: congratulations█Congratulations!
+
+File: notifications.txt (35)
+Original Translation: congratulations_content█Congratulations on your first successful flight!&%We would like to inform you that your company was granted funds from the government for further research and development.&%<color=#64B5F6><b>Don't waste them</color>.
+
+File: notifications.txt (36)
+Original Translation: buildingWorking█This building is working now.
+
+File: notifications.txt (37)
+Original Translation: hangarStoring█This hangar is storing vehicles.
+
+File: notifications.txt (38)
+Original Translation: rocketLaunching█A rocket is launching from this launchpad now.
+
+File: notifications.txt (39)
+Original Translation: cantBuildOffices█You can't build so many offices.
+
+File: notifications.txt (40)
+Original Translation: cantBuildFactories█You can't build so many factories.
+
+File: notifications.txt (41)
+Original Translation: cantBuildSimpleLP█You can't build simple launch pads now.
+
+File: notifications.txt (42)
+Original Translation: cantBuildAdvancedLP█You can't build advanced launch pads now.
+
+File: notifications.txt (43)
+Original Translation: cantBuildMegaLP█You can't build mega launch pads now.
+
+File: notifications.txt (44)
+Original Translation: noGigaFactories█You don't have any GigaFactories!
+
+File: notifications.txt (45)
+Original Translation: noMoney█Not enough money!
+
+File: notifications.txt (46)
+Original Translation: noMaterials█Not enough materials!
+
+File: notifications.txt (47)
+Original Translation: noCybercars█Not enough cybercars!
+
+File: notifications.txt (48)
+Original Translation: parkingOrbit█Parking Orbit
+
+File: notifications.txt (49)
+Original Translation: leavingParkingOrbit█Leaving Orbit in {0}
+
+File: tooltips.txt (0)
+Original Translation: tooltip_companyProgress█Company Progress
+
+File: tooltips.txt (1)
+Original Translation: tooltip_vehicles█Vehicles
+
+File: tooltips.txt (2)
+Original Translation: tooltip_contracts█Missions
+
+File: tooltips.txt (3)
+Original Translation: tooltip_news█News
+
+File: tooltips.txt (4)
+Original Translation: tooltip_company█Company
+
+File: tooltips.txt (5)
+Original Translation: tooltip_buildMode█Build Mode
+
+File: tooltips.txt (6)
+Original Translation: tooltip_money█Money
+
+File: tooltips.txt (7)
+Original Translation: tooltip_skillPoints█Skill Points
+
+File: tweets.txt (0)
+Original Translation: tweet_static_fire_1█Static fire of the {0} went amazingly well! Launching soon. <color=#64B5F6>#earthx</color>
+
+File: tweets.txt (1)
+Original Translation: tweet_static_fire_2█Static fire makes a lot of noise and smoke, but we can check the rocket before the launch. {0} <color=#64B5F6>#space_company</color> <color=#64B5F6>#earthx</color>
+
+File: tweets.txt (2)
+Original Translation: tweet_static_fire_3█Ahh! <color=#64B5F6>#static_fire</color> of {0} rocket has failed... We've lost the customer payload. Shouldn't have happened. <color=#64B5F6>#earthx</color>
+
+File: tweets.txt (3)
+Original Translation: tweet_static_fire_4█It actually wasn't an explosion, it was just a rapid unscheduled disassembly. {0} static fire has failed. <color=#64B5F6>#earthx</color> <color=#64B5F6>#static_fire</color>
+
+File: tweets.txt (4)
+Original Translation: tweet_abort_1█We've had to abort today's {0} mission just a few moments before the launch. More info soon! <color=#64B5F6>#earthx</color>
+
+File: tweets.txt (5)
+Original Translation: tweet_abort_2█Our customer found an issue in his payload, so we've had to take it down. {0} launch in a few days! <color=#64B5F6>#earthx</color>
+
+File: tweets.txt (6)
+Original Translation: tweet_deploy_1█Big thanks to the {1} team for today's {0} launch! We have some golden employees over there! <color=#64B5F6>#earthx</color>
+
+File: tweets.txt (7)
+Original Translation: tweet_deploy_2█The payload is now heading to the target orbit (about one-hour flight). {1} team rocks! {0} <color=#64B5F6>#earthx</color>
+
+File: tweets.txt (8)
+Original Translation: tweet_deploy_3█Separation! Payload is heading now to the target orbit with {0} second stage! <color=#64B5F6>#earthx</color>
+
+File: tweets.txt (9)
+Original Translation: tweet_deploy_4█Congrats, {1} team!
+
+File: tweets.txt (10)
+Original Translation: tweet_deploy_5█Go back live after the separating of satellites → (this feature is coming soon) <color=#64B5F6>#earthx</color>
+
+File: tweets.txt (11)
+Original Translation: tweet_land_1█{0} has landed! 
+
+File: tweets.txt (12)
+Original Translation: tweet_land_2█{0} has landed! It's our {1} landing! <color=#64B5F6>#earthx</color>
+
+File: tweets.txt (13)
+Original Translation: tweet_land_3█{0} first stage has landed! Full footage tmrw. <color=#64B5F6>#earthx</color>
+
+File: tweets.txt (14)
+Original Translation: tweet_crash_1█Well, that was unexpected. {0} <color=#64B5F6>#earthx</color>
+
+File: tweets.txt (15)
+Original Translation: tweet_crash_2█Our team is investigating the {0} rocket explosion.
+
+File: tweets.txt (16)
+Original Translation: tweet_crash_3█Look, it wasn't an explosion. It was just a rapid unscheduled disassembly. {0} <color=#64B5F6>#earthx</color>
+
+File: tweets.txt (17)
+Original Translation: tweet_crash_4█Our team found the issue. It was something with the engine. Shouldn't happen again in our future flights. {0} <color=#64B5F6>#earthx</color>
+
+File: tweets.txt (18)
+Original Translation: tweet_linklink_first█Sending this tweet through space via LinkLink satellite
+
+File: tweets.txt (19)
+Original Translation: tweet_linklink_worked█Whoa, it worked!!
+
+File: tweets.txt (20)
+Original Translation: tweet_linklink_visible█I wonder if you can see them from Earth <color=#64B5F6>#linklink</color> <color=#64B5F6>#internet</color>
+
+File: tweets.txt (21)
+Original Translation: tweet_linklink_failure█<color=#64B5F6>#linklink</color> We're doing our best. Our technicians are the best in the world! <color=#64B5F6>#failure</color> {0}
+
+File: vehicles.txt (0)
+Original Translation: rocket█Rocket
+
+File: vehicles.txt (1)
+Original Translation: capsule█Capsule
+
+File: vehicles.txt (2)
+Original Translation: spaceship█Spaceship
+
+File: vehicles.txt (3)
+Original Translation: spaceships█Spaceships
+
+File: vehicles.txt (4)
+Original Translation: vehiclesDockedToISS█Docked Vehicles
+
+File: vehicles.txt (5)
+Original Translation: readyToLeave█Ready
+
+File: vehicles.txt (6)
+Original Translation: issHeaderText█International Space Station&%<size=14><b><color=#64B5F6>Operational
+
+File: vehicles.txt (7)
+Original Translation: rocketRequiresCapsule█Rocket (Requires Capsule)
+
+File: vehicles.txt (8)
+Original Translation: rocketRequiresSpaceship█Rocket (Requires Spaceship)
+
+File: vehicles.txt (9)
+Original Translation: vehicles█Vehicles
+
+File: vehicles.txt (10)
+Original Translation: vehicles_newProjectHeader█Create new project
+
+File: vehicles.txt (11)
+Original Translation: vehicles_newProjectButton█New project
+
+File: vehicles.txt (12)
+Original Translation: vehicles_newVehicleHeader█Create new vehicle
+
+File: vehicles.txt (13)
+Original Translation: vehicles_newVehicleButton█New vehicle
+
+File: vehicles.txt (14)
+Original Translation: vehicles_projects█Projects
+
+File: vehicles.txt (15)
+Original Translation: vehicles_view█View
+
+File: vehicles.txt (16)
+Original Translation: land█Land
+
+File: vehicles.txt (17)
+Original Translation: reusedVehicle█Reused vehicle:
+
+File: vehicles.txt (18)
+Original Translation: buildCosts█Build costs
+
+File: vehicles.txt (19)
+Original Translation: buildTime█Build time
+
+File: vehicles.txt (20)
+Original Translation: originalBuildCosts█Original build costs
+
+File: vehicles.txt (21)
+Original Translation: optimizedBuildCosts█Optimized build costs
+
+File: vehicles.txt (22)
+Original Translation: launchCosts█Launch costs
+
+File: vehicles.txt (23)
+Original Translation: inQueue█In queue&%<size=14><b><color=#64B5F6>Module will be built in a moment
+
+File: vehicles.txt (24)
+Original Translation: build█Build
+
+File: vehicles.txt (25)
+Original Translation: built█Built
+
+File: vehicles.txt (26)
+Original Translation: launch█Launch
+
+File: vehicles.txt (27)
+Original Translation: repair█Repair
+
+File: vehicles.txt (28)
+Original Translation: turnExpendable█Turn Expendable
+
+File: vehicles.txt (29)
+Original Translation: earthPO█Parked on <color=#64B5F6>Earth's</color> Parking Orbit (Leaving in <b>{0}</b>)
+
+File: vehicles.txt (30)
+Original Translation: marsPO█Parked on <color=#E17055>Mars'</color> Parking Orbit (Leaving in <b>{0}</b>)
+
+File: vehicles.txt (31)
+Original Translation: marsTraveling█Traveling to <color=#E17055>Mars</color> (Arriving in <b>{0}</b>)
+
+File: vehicles.txt (32)
+Original Translation: earthTraveling█Traveling to <color=#64B5F6>Earth</color> (Arriving in <b>{0}</b>)
+
+File: vehicles.txt (33)
+Original Translation: marsLanding█Landing on <color=#E17055>Mars</color>
+
+File: vehicles.txt (34)
+Original Translation: earthLanding█Landing on <color=#64B5F6>Earth</color>
+
+File: vehicles.txt (35)
+Original Translation: marsTryingLand█Trying to Land on <color=#E17055>Mars</color>
+
+File: vehicles.txt (36)
+Original Translation: earthTryingLand█Trying to Land on <color=#64B5F6>Earth</color>
+
+File: vehicles.txt (37)
+Original Translation: marsLanded█Landed on <color=#E17055>Mars</color>
+
+File: vehicles.txt (38)
+Original Translation: readyToLaunch█<b><color=#64B5F6>{0} of {1}</b></color>&%<size=70%>are ready to launch!
+
+File: vehicles.txt (39)
+Original Translation: capabilities█Capabilities
+
+File: vehicles.txt (40)
+Original Translation: reliability█Reliability
+
+File: vehicles.txt (41)
+Original Translation: condition█Condition
+
+File: vehicles.txt (42)
+Original Translation: notBuiltYet█Not built yet
+
+File: vehicles.txt (43)
+Original Translation: constructing█Constructing...
+
+File: vehicles.txt (44)
+Original Translation: repairing█Repairing...
+
+File: vehicles.txt (45)
+Original Translation: flying█Flying now
+
+File: vehicles.txt (46)
+Original Translation: dockedToISS█Docked to ISS (Will come back soon.)
+
+File: vehicles.txt (47)
+Original Translation: reusable█Reusable
+
+File: vehicles.txt (48)
+Original Translation: manual█Manual
+
+File: vehicles.txt (49)
+Original Translation: sideboosters█Sideboosters
+
+File: vehicles.txt (50)
+Original Translation: superheavy█Superheavy
+
+File: vehicles.txt (51)
+Original Translation: spaceshipsOnly█Spaceships only
+
+File: vehicles.txt (52)
+Original Translation: capsulesOnly█Capsules only
+
+File: vehicles.txt (53)
+Original Translation: fairingRecovery█Fairing recovery
+
+File: vehicles.txt (54)
+Original Translation: landingNotSupported█Landing not supported!&%You need:<size=12><b>&%-Grid Fins & Landing Legs&%-Battery&%-GPS (for automatic reusability)&%-4 or 9 Advanced Engines</b></size>&%
+
+File: vehicles.txt (55)
+Original Translation: capsulesNotSupported█Capsules not supported!&%You need:<size=12><b>&%-Battery&%-GPS&%-4 or 9 Advanced Engines</b></size>&%
+
+File: vehicles.txt (56)
+Original Translation: heavyNotSupported█Heavy rocket not supported!&%You need:<size=12><b>&%-Rocket with automatic reusability</b></size>&%
+
+File: vehicles.txt (57)
+Original Translation: fairingCatchingNotSupported█Fairing catching not supported!&%You need:<size=12><b>&%-Rocket with automatic reusability</b></size>&%
+
+File: vehicles.txt (58)
+Original Translation: payload█Payload
+
+File: vehicles.txt (59)
+Original Translation: crew█Crew
+
+File: vehicles.txt (60)
+Original Translation: cargo█Cargo
+
+File: vehicles.txt (61)
+Original Translation: launchAll█Launch All
+
+File: vehicles.txt (62)
+Original Translation: launchSetup_header█Launch Setup
+
+File: vehicles.txt (63)
+Original Translation: launchSetup_missionName█Mission name...
+
+File: vehicles.txt (64)
+Original Translation: launchSetup_mission█Mission
+
+File: vehicles.txt (65)
+Original Translation: launchSetup_noVehiclesFound█[No vehicles found.]
+
+File: vehicles.txt (66)
+Original Translation: launchSetup_noPayloadsFound█[No capable payloads found.]
+
+File: vehicles.txt (67)
+Original Translation: launchSetup_selectVehicle█Select vehicle
+
+File: vehicles.txt (68)
+Original Translation: launchSetup_selectLaunchPad█Launch Pad
+
+File: vehicles.txt (69)
+Original Translation: launchSetup_selectTanker█Orbital Tanker
+
+File: vehicles.txt (70)
+Original Translation: launchSetup_barge█Barge
+
+File: vehicles.txt (73)
+Original Translation: launchSetup_testFlight█Test Flight
+
+File: vehicles.txt (74)
+Original Translation: launchSetup_concrete█Concrete
+
+File: vehicles.txt (75)
+Original Translation: launchSetup_cheese█Cheese
+
+File: vehicles.txt (76)
+Original Translation: launchSetup_pizza█Pizza
+
+File: vehicles.txt (77)
+Original Translation: launchSetup_earthPlush█Earth Plush
+
+File: vehicles.txt (78)
+Original Translation: launchSetup_everydayStickers█Everyday Stickers
+
+File: vehicles.txt (79)
+Original Translation: launchSetup_landingZone█Landing Zone
+
+File: vehicles.txt (80)
+Original Translation: launchSetup_success█Success
+
+File: vehicles.txt (81)
+Original Translation: launchSetup_crash█Crash
+
+File: vehicles.txt (82)
+Original Translation: failure█Failure
+
+File: vehicles.txt (83)
+Original Translation: noData█No data
+
+File: vehicles.txt (84)
+Original Translation: flights█Flights
+
+File: vehicles.txt (85)
+Original Translation: failures█Failures
+
+File: vehicles.txt (86)
+Original Translation: partialSuccess█Partial Success
+
+File: vehicles.txt (87)
+Original Translation: launchPanel_telemetry█Telemetry
+
+File: vehicles.txt (88)
+Original Translation: launchPanel_noSupportTelemetry█This rocket does not support telemetry.
+
+File: vehicles.txt (89)
+Original Translation: launchPanel_speed█Speed
+
+File: vehicles.txt (90)
+Original Translation: launchPanel_altitude█Altitude
+
+File: vehicles.txt (91)
+Original Translation: launchPanel_staticFire█Static fire
+
+File: vehicles.txt (92)
+Original Translation: launchPanel_speedMetric█km/h
+
+File: vehicles.txt (93)
+Original Translation: launchPanel_altitudeMetric█km
+
+File: vehicles.txt (94)
+Original Translation: buildPanel_moveToHangar█Move to hangar
+
+File: vehicles.txt (95)
+Original Translation: missionReportHeader█Mission report
+
+File: vehicles.txt (96)
+Original Translation: missionReportMissionName█Mission name:
+
+File: vehicles.txt (97)
+Original Translation: missionReportRocketName█Rocket:
+
+File: vehicles.txt (98)
+Original Translation: missionReportMissionResult█Mission Result
+
+File: vehicles.txt (99)
+Original Translation: missionReportLaunch█Launch
+
+File: vehicles.txt (100)
+Original Translation: missionReportDeploy█Deploy
+
+File: vehicles.txt (101)
+Original Translation: missionReportLanding█Landing
+
+File: vehicles.txt (102)
+Original Translation: missionReportFairingLanding█Fairing landing
+
+File: vehicles.txt (103)
+Original Translation: missionReportSecondVehicleLanding█Second vehicle landing
+
+File: vehicles.txt (104)
+Original Translation: missionReportMissionIncome█Mission income
+
+File: vehicles.txt (105)
+Original Translation: missionReportDamageCompensation█Damage compensation
+
+File: vehicles.txt (106)
+Original Translation: missionReportLandedRocket█Landed rocket
+
+File: vehicles.txt (107)
+Original Translation: profit█profit
+
+File: vehicles.txt (108)
+Original Translation: loss█loss
+
+File: vehicles.txt (109)
+Original Translation: creator_header█New project
+
+File: vehicles.txt (110)
+Original Translation: creator_vehicleName█Vehicle name...
+
+File: vehicles.txt (111)
+Original Translation: creator_createProject█Create project
+
+File: vehicles.txt (112)
+Original Translation: creator_vehicleCanGoAnywhere█This vehicle can go to any place you want.
+
+File: vehicles.txt (113)
+Original Translation: creator_capsuleRocket█This rocket can only carry the capsules.
+
+File: vehicles.txt (114)
+Original Translation: creator_spaceshipRocket█This rocket can only carry the spaceships.
+
+File: vehicles.txt (115)
+Original Translation: no_module_unlocked█No module is unlocked.
