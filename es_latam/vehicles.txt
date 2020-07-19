@@ -46,6 +46,8 @@ marsTraveling█Viajando a <color=#E17055>Marte</color> (Llegando en <b>{0}</b>)
 earthTraveling█Viajando a <color=#64B5F6>Tierra</color> (Llegando en <b>{0}</b>)
 marsLanding█Aterrizando en <color=#E17055>Marte</color>
 earthLanding█Aterrizando en <color=#64B5F6>Tierra</color>
+marsTryingLand█Trying to Land on <color=#E17055>Mars</color>
+earthTryingLand█Trying to Land on <color=#64B5F6>Earth</color>
 marsLanded█Aterrizó <color=#E17055>Marte</color>
 
 readyToLaunch█¡<b><color=#64B5F6>{0} de {1}</b></color>&%<size=70%> están listos para lanzar!
@@ -142,6 +144,7 @@ creator_vehicleCanGoAnywhere█Éste vehículo puede ir a donde quieras.
 creator_capsuleRocket█Éste cohete solo puede llevar cápsulas.
 creator_spaceshipRocket█Éste cohete solo puede llevar naves espaciales.
 no_module_unlocked█Ningún módulo está desbloqueado.
+
 
 
 

@@ -62,3 +62,4 @@ company_profitPerYear█Ortalama <mark=#64B5F625>profit</mark> yıl başına
 
 
 
+

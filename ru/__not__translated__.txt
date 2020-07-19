@@ -3,59 +3,11 @@
 --- NOT TRANSLATED ---
 
 
-File: general.txt (25)
-Original Translation: orbit_marsOrbit█Mars Orbit
+File: mainMenu.txt (28)
+Original Translation: menu_gameOverSetting█Gameover?
 
-File: general.txt (26)
-Original Translation: orbit_marsSurface█Mars Surface
+File: vehicles.txt (35)
+Original Translation: marsTryingLand█Trying to Land on <color=#E17055>Mars</color>
 
-File: general.txt (30)
-Original Translation: map_settings_header█Quick Settings
-
-File: general.txt (36)
-Original Translation: switchPlanet█Switch Planet
-
-File: buildings.txt (9)
-Original Translation: building_category_production█Production
-
-File: buildings.txt (10)
-Original Translation: building_category_storage█Storage
-
-File: buildings.txt (11)
-Original Translation: building_category_other█Other
-
-File: buildings.txt (15)
-Original Translation: buildingSetup_modules█Modules
-
-File: buildings.txt (16)
-Original Translation: buildingSetup_other█Other
-
-File: buildings.txt (20)
-Original Translation: buildingSetup_produce█Produce
-
-File: buildings.txt (22)
-Original Translation: returnToEarthShort█Return
-
-File: contracts.txt (46)
-Original Translation: contract_spate█SPATE: Prologue EP
-
-File: contracts.txt (47)
-Original Translation: payload_spate█Prologue EP
-
-File: levels.txt (32)
-Original Translation: levelTitle32█https://youtu.be/CfqCQQe2E2s
-
-File: levels.txt (58)
-Original Translation: progress_buildMarsBuildings█Build {0} building(s) on Mars!
-
-File: news.txt (42)
-Original Translation: news_fail_header6█"We'll be loud!" The words of the CEO of {0} have just come true. Their rockets explode like crazy.
-
-File: notifications.txt (10)
-Original Translation: iss_vehicleAboutToReturn█{0} is about to return to the Earth!
-
-File: vehicles.txt (5)
-Original Translation: readyToLeave█Ready
-
-File: vehicles.txt (67)
-Original Translation: launchSetup_selectTanker█Orbital Tanker
+File: vehicles.txt (36)
+Original Translation: earthTryingLand█Trying to Land on <color=#64B5F6>Earth</color>

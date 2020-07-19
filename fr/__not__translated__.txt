@@ -435,9 +435,6 @@ Original Translation: contract_marsCamera█Mars Journey
 File: contracts.txt (44)
 Original Translation: payload_marsCamera█Mars Camera
 
-File: contracts.txt (45)
-Original Translation: content_marsCamera█Launch Mars Camera with your Heavy Rocket to Mars Orbit. You will then be able to see and interact with Mars!
-
 File: contracts.txt (46)
 Original Translation: contract_spate█SPATE: Prologue EP
 
@@ -819,22 +816,25 @@ Original Translation: menu_alwaysDay█Always Day?
 File: mainMenu.txt (27)
 Original Translation: menu_hangarsVisual█Hangars Visual?
 
-File: mainMenu.txt (30)
-Original Translation: menu_vsync█V-Sync?
+File: mainMenu.txt (28)
+Original Translation: menu_gameOverSetting█Gameover?
 
 File: mainMenu.txt (31)
+Original Translation: menu_vsync█V-Sync?
+
+File: mainMenu.txt (32)
 Original Translation: menu_audio█Audio
 
-File: mainMenu.txt (35)
+File: mainMenu.txt (36)
 Original Translation: menu_creators█Creators
 
-File: mainMenu.txt (36)
+File: mainMenu.txt (37)
 Original Translation: menu_collaboration█Collaboration
 
-File: mainMenu.txt (37)
+File: mainMenu.txt (38)
 Original Translation: menu_specialThanks█Special Thanks
 
-File: mainMenu.txt (38)
+File: mainMenu.txt (39)
 Original Translation: menu_icons█Icons From Flaticon.com
 
 File: modules.txt (9)
@@ -885,9 +885,6 @@ Original Translation: news_flat_earth_accepted_content█At today's press confer
 File: news.txt (98)
 Original Translation: news_flat_earth_declined_header█{0} accused of hiding the truth. He refused the space flight to the president of the Flat Earth Society.
 
-File: news.txt (99)
-Original Translation: news_flat_earth_declined_content█"{0} has received a great offer from us. He didn't take it - so we can be sure what he's hiding from us." - this is how Murphy, president of the American Society of the Flat Earth, commented on the whole situation. &%&%Flights into space not for everyone? The CEO of {0} has not commented on the situation.
-
 File: news.txt (100)
 Original Translation: news_flat_earth_ready_header█Space training completed. Murphy will see if the Earth is flat.
 
@@ -903,17 +900,8 @@ Original Translation: news_flat_earth_success_content█The tourist mission with
 File: news.txt (104)
 Original Translation: news_flat_earth_afterSuccess_header█Murphy publicly apologizes.
 
-File: news.txt (105)
-Original Translation: news_flat_earth_afterSuccess_content█"I saw it with my own eyes! She's not flat. She's like a ball, you understand that? Up there, looking at our planet... ...I realized I've been fooled all my life. And I've been cheating on others. I'm sorry." - said the former president of the Flat Earth Society in a video published on his new YouTube channel.&%&%Mira, the newly elected president said Murphy was lying, or was cheated by {1}. "What if the capsule had monitors instead of windows and displayed a picture of round Earth?"
-
 File: news.txt (106)
 Original Translation: news_flat_earth_failure_header█{0}'s rocket, together with Murphy, exploded before entering the orbit. The causes of the disaster are being investigated.
-
-File: news.txt (107)
-Original Translation: news_flat_earth_failure_content█On board the rocket was Murphy, who, thanks to the space flight, was going to gain the final proof that the Earth is flat.&%&%The Vice President of the Flat Earth Society issued a short statement: "It certainly crashed into the dome. Murphy is a hero, he sacrificed his life to show us the truth."
-
-File: news.txt (108)
-Original Translation: news_spate_accept_header█Space campaign of the new SPATE album. His album will fly to the ISS.
 
 File: news.txt (109)
 Original Translation: news_spate_accept_content█Music producer SPATE has signed a contract with {0}, thanks to which his latest album will fly to the ISS. &%&%The album will be shipped with the next supply mission in a few months. &%&%Are the members of the International Space Station already preparing a big music party?
@@ -933,17 +921,8 @@ Original Translation: opportunity2019Q1_content█15 years - that's how long the
 File: news.txt (114)
 Original Translation: matt_entry_header█Tragedy on Mars - astronaut Matt is dead
 
-File: news.txt (115)
-Original Translation: matt_entry_content█A huge sandstorm on Mars took a deadly toll. NASA's team, which has been stationed on Mars for several days, was forced to return to Earth. &%&%Unfortunately, the team is coming back in a reduced formation - while escaping to the space shuttle, which is to ensure safe return to our blue planet, one of the astronauts remained at the base. As we managed to find out from NASA representatives, the reason was to be a problem with the suit. &%&%The base was probably destroyed by a raging storm - there is no contact with Matt.
-
 File: news.txt (116)
 Original Translation: matt_expansion_header█NASA is sharing the good news. We managed to get in touch with Matt who stayed on Mars - the astronaut is alive!
-
-File: news.txt (117)
-Original Translation: matt_expansion_content█At NASA's press conference, the CEO shared good news with journalists. The astronaut remained in contact with the rest of the destroyed Martian base. &%&%NASA is currently preparing a rescue mission plan. As we have unofficially learned, the only technology that allows a rapid deployment of a rescue mission has {0}.
-
-File: news.txt (118)
-Original Translation: matt_accept_header█NASA's joint rescue mission together with {1}. 
 
 File: news.txt (119)
 Original Translation: matt_accept_content█Both companies announced today that they are beginning work on rescuing the remaining astronaut on Mars. &%&%{0} will send one of their rockets to the red planet to bring Matt safely to Earth. &%&%The flight is due to take place in a few days.
@@ -1057,46 +1036,52 @@ File: vehicles.txt (34)
 Original Translation: earthLanding█Landing on <color=#64B5F6>Earth</color>
 
 File: vehicles.txt (35)
-Original Translation: marsLanded█Landed on <color=#E17055>Mars</color>
+Original Translation: marsTryingLand█Trying to Land on <color=#E17055>Mars</color>
 
 File: vehicles.txt (36)
+Original Translation: earthTryingLand█Trying to Land on <color=#64B5F6>Earth</color>
+
+File: vehicles.txt (37)
+Original Translation: marsLanded█Landed on <color=#E17055>Mars</color>
+
+File: vehicles.txt (38)
 Original Translation: readyToLaunch█<b><color=#64B5F6>{0} of {1}</b></color>&%<size=70%>are ready to launch!
 
-File: vehicles.txt (43)
+File: vehicles.txt (45)
 Original Translation: flying█Flying now
 
-File: vehicles.txt (59)
+File: vehicles.txt (61)
 Original Translation: launchAll█Launch All
 
-File: vehicles.txt (62)
+File: vehicles.txt (64)
 Original Translation: launchSetup_mission█Mission
 
-File: vehicles.txt (67)
+File: vehicles.txt (69)
 Original Translation: launchSetup_selectTanker█Orbital Tanker
 
-File: vehicles.txt (68)
+File: vehicles.txt (70)
 Original Translation: launchSetup_barge█Barge
 
-File: vehicles.txt (74)
+File: vehicles.txt (76)
 Original Translation: launchSetup_pizza█Pizza
 
-File: vehicles.txt (79)
+File: vehicles.txt (81)
 Original Translation: launchSetup_crash█Crash
 
-File: vehicles.txt (88)
+File: vehicles.txt (90)
 Original Translation: launchPanel_altitude█Altitude
 
-File: vehicles.txt (90)
+File: vehicles.txt (92)
 Original Translation: launchPanel_speedMetric█km/h
 
-File: vehicles.txt (91)
+File: vehicles.txt (93)
 Original Translation: launchPanel_altitudeMetric█km
 
-File: vehicles.txt (105)
+File: vehicles.txt (107)
 Original Translation: profit█profit
 
-File: vehicles.txt (111)
+File: vehicles.txt (113)
 Original Translation: creator_capsuleRocket█This rocket can only carry the capsules.
 
-File: vehicles.txt (112)
+File: vehicles.txt (114)
 Original Translation: creator_spaceshipRocket█This rocket can only carry the spaceships.

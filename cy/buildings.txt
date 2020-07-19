@@ -1,0 +1,150 @@
+
+
+building█Adeilad
+building_office█Swyddfa
+building_factory█Fatri
+building_laboratory█Labordy
+building_hangar█Hangar
+building_simpleLP█Pad Lawnsio Lyml
+building_advancedLP█Pad Lawnsio Datblygedig
+building_megaLP█Pad Lawnsio Mega
+
+building_category_all█Popeth
+building_category_production█Cynhyrchu
+building_category_storage█Storio
+building_category_other█Arall
+
+buildingSetup_buildingName█Enw Adeilad...
+buildingSetup_overview█Trosolwg
+buildingSetup_setup█Sefydlu
+buildingSetup_modules█Modiwlau
+buildingSetup_other█Arall
+buildingSetup_billsCurrentQuarter█Bills for current quarter
+
+buildingSetup_nowWorkingOn█Nawr Yn Gweithio arno
+buildingSetup_queue█Ciw
+
+buildingSetup_produce█Cynhyrchu
+
+returnToEarth█Ynol I'r ddear
+returnToEarthShort█Ynol
+
+buildingSetup_negotiationPowerEachEmployee█Pwer Trafod am pob gweithwyr
+buildingSetup_negotiationPowerBuilding█Pwer trafod am yr adeilad
+buildingSetup_oneEmployee█Un gweithwyr
+buildingSetup_negotiationPower█Pwer trafod
+
+buildingSetup_vehicleStored█Cerbydau wedi storio
+
+buildingSetup_employees█<size=14>{0} employees</size>&%{1} <color=#16A085>$</color> / year&%<size=14>{2} <color=#16A085>$</color> / each
+buildingSetup_manageEmployees█Rheioli Gweithwyr
+
+buildingSetup_destroyBuilding█Dinistrio adeilad
+
+small_factory█Fatri bach
+small_factory_desc█Rydych ond yn gallu adeiladu cerbyd fach.
+
+medium_factory█Fatri maint canolig
+medium_factory_desc█Rydych ond yn gallu adeiladu cerbyd fach a canolig.
+
+large_factory█Fatri fawr
+large_factory_desc█Rydych yn gallu adeiladu pob fath o cerbyd heblaw am llongau ofod a llongau trwm iawn.
+
+giga_factory█Fatri giga
+giga_factory_desc█Rydych yn gallu adeiladu pob fath o roced a Linklink.
+
+small_hangar█Stordi fach
+small_hangar_desc█Rydych ond yn gallu storio rocedi.
+
+medium_hangar█Stordi faint canolig
+medium_hangar_desc█Rydych ond yn gallu storio rocedi a capsiwlau.
+
+large_hangar█Stordi fawr
+large_hangar_desc█Rydych yn gallu storio fwy o rocedi a capsiwlau.
+
+mega_hangar█Stordi enfawr
+mega_hangar_desc█Rydych ond yn gallu storio llongau gofod a llongau trwm iawn.
+
+office█Swyddfa
+office_desc█Mae gweithwyr yn rhoi chi fwy pwer yn trafodau (rydych yn gallu rhoi pris fwy yn trafodau).
+
+laboratory█Labordy
+laboratory_desc█yn creu pwyntiau sgil
+
+megaLP█Pad lawnsio
+megaLP_desc█Rydych yn gallu lawnsio longau gofod
+
+smallTerminal█adeilad LinkLink fach
+smallTerminal_desc█Adeiladau yn cysylltu pobl arno y ddear gyda LinkLinks. fwy o adeiladau == fwy o cwsmeriaid.
+
+largeTerminal█adeilad LinkLink fawr
+largeTerminal_desc█Adeiladau yn cysylltu pobl arno y ddear gyda LinkLinks. fwy o adeiladau == fwy o cwsmeriaid.
+
+landingZone█Lle glanio
+landingZone_desc█ydw i angen esbonio?
+
+smallHotel█Gwesti fach
+smallHotel_desc█pobl ar mawrth yn byd=w mewn llwfydd fel hyn.
+
+mediumHotel█Gwesti faint canolig
+mediumHotel_desc█Fwy o pobl ar mawrth yn byw mewn llefydd fel hyn.
+
+largeHotel█Gwesti fawr
+largeHotel_desc█Llawer o pobl ar mawrth yn byw mewn llefydd fel hyn
+
+waterFactory█Fatri ddwr
+waterFactory_desc█Yn creu ddwr a ocsigen
+
+fuelFactory█Fatri tanwydd
+fuelFactory_desc█yn cynhyrchu tanwydd
+
+steelFactory█Fatri heuarn
+steelFactory_desc█Yn cynhyrchu deunyddiau
+
+mediumGreenhouse█Tŷ gwydyr maint canolig
+mediumGreenhouse_desc█Yn cynhyrchu ocsigen a ddwr.
+
+largeGreenhouse█Tŷ gwydyr fawr
+largeGreenhouse_desc█Yn cynhyrchu fwy o ocsigen a ddwr.
+
+smallSolar█Paneli solar fach
+smallSolar_desc█Yn cynhyrchu trydan.
+
+mediumSolar█Paneli solar maint canolig
+mediumSolar_desc█Yn cynhyrchu fwy o trydan.
+
+smallWaterStorage█Stordi ddwr fach
+smallWaterStorage_desc█Yn storio ddwr a ocsigen.
+
+mediumWaterStorage█Stordi ddwr maint canolig
+mediumWaterStorage_desc█Yn storio fwy o ddwr a ocsigen.
+
+largeWaterStorage█Stordi ddwr fawr
+largeWaterStorage_desc█yn storio fwy o ddwr.
+
+smallFuelStorage█Stordi tanwydd
+smallFuelStorage_desc█Yn storio tanwydd
+
+mediumFuelStorage█Stordi tanwydd maint canolig
+mediumFuelStorage_desc█Yn storio fwy o tanwydd
+
+largeFuelStorage█Stordi tanwydd fawr
+largeFuelStorage_desc█Yn storio llawer o tanwydd
+
+lp_cape█Cape Canaveral
+lp_vandenberg█Vandenberg
+lp_pacificSpaceport█Porthladd gofod Môr tawel
+lp_guiana█Guiana
+lp_midAtlanticSpaceport█Porthladd gofod Môr iwerdd
+lp_balkonur█Baikonur
+lp_plesetsk█Plesetsk
+lp_xichang█Xichang
+lp_rocketComplex█Porthladd gofod preifat
+lp_australia█Woomera
+lp_india█Satish Dhawan
+
+
+
+
+
+

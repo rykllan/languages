@@ -3,20 +3,8 @@
 --- NOT TRANSLATED ---
 
 
-File: general.txt (25)
-Original Translation: orbit_marsOrbit█Mars Orbit
-
 File: general.txt (26)
 Original Translation: orbit_marsSurface█Mars Surface
-
-File: general.txt (30)
-Original Translation: map_settings_header█Quick Settings
-
-File: general.txt (36)
-Original Translation: switchPlanet█Switch Planet
-
-File: buildings.txt (22)
-Original Translation: returnToEarthShort█Return
 
 File: contracts.txt (38)
 Original Translation: payload_potato█Orbital Potato
@@ -30,17 +18,14 @@ Original Translation: levelTitle32█https://youtu.be/CfqCQQe2E2s
 File: linklink.txt (17)
 Original Translation: linkLink_system█System
 
+File: mainMenu.txt (28)
+Original Translation: menu_gameOverSetting█Gameover?
+
 File: modules.txt (16)
 Original Translation: module_factory_giga█Giga
 
-File: notifications.txt (10)
-Original Translation: iss_vehicleAboutToReturn█{0} is about to return to the Earth!
-
-File: vehicles.txt (5)
-Original Translation: readyToLeave█Ready
+File: vehicles.txt (35)
+Original Translation: marsTryingLand█Trying to Land on <color=#E17055>Mars</color>
 
 File: vehicles.txt (36)
-Original Translation: readyToLaunch█<b><color=#64B5F6>{0} of {1}</b></color>&%<size=70%>are ready to launch!
-
-File: vehicles.txt (67)
-Original Translation: launchSetup_selectTanker█Orbital Tanker
+Original Translation: earthTryingLand█Trying to Land on <color=#64B5F6>Earth</color>

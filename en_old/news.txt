@@ -181,7 +181,7 @@ news_flat_earth_accepted_header█The flatearthers are flying into space - they 
 news_flat_earth_accepted_content█At today's press conference, Murphy announced that he was successful in collecting the money for his space flight.&%&%Murphy bought his space ticket from the {0} - the flight will take place within the next year.
 
 news_flat_earth_declined_header█{0} accused of hiding the truth. He refused the space flight to the president of the Flat Earth Society.
-news_flat_earth_declined_content█"{0} has received a great offer from us. He didn't take it - so we can be sure what he's hiding from us." - this is how Murphy, president of the American Society of the Flat Earth, commented on the whole situation. &%&%Flights into space not for everyone? The CEO of {0} has not commented on the situation.
+news_flat_earth_declined_content█"{0} has received a great offer from us. He didn't take it - so we can be sure what he's hiding." - this is how Murphy, president of the American Society of the Flat Earth, commented on the whole situation. &%&%Flights into space not for everyone? The CEO of {0} has not commented this situation.
 
 news_flat_earth_ready_header█Space training completed. Murphy will see if the Earth is flat.
 news_flat_earth_ready_content█The CEO of the space company {0} confirmed today that the President of the Flat Earth Society is ready to fly.&%&%Will we all finally know the truth?
@@ -190,16 +190,16 @@ news_flat_earth_success_header█{0} mission with Murphy aboard successful! What
 news_flat_earth_success_content█The tourist mission with the president of the Flat Earth Society was successful. After a several days in space, Murphy did not want to answer the journalists' questions. Looking sad, Murphy immediately went to the hotel.&%&%He does not answer the phone.
 
 news_flat_earth_afterSuccess_header█Murphy publicly apologizes.
-news_flat_earth_afterSuccess_content█"I saw it with my own eyes! She's not flat. She's like a ball, you understand that? Up there, looking at our planet... ...I realized I've been fooled all my life. And I've been cheating on others. I'm sorry." - said the former president of the Flat Earth Society in a video published on his new YouTube channel.&%&%Mira, the newly elected president said Murphy was lying, or was cheated by {1}. "What if the capsule had monitors instead of windows and displayed a picture of round Earth?"
+news_flat_earth_afterSuccess_content█"I saw it with my own eyes! The Earth is not flat! It's like a ball, you understand that? Up there, looking at our planet... ...I realized I've been fooled all my life. And I've been cheating on others. I'm so sorry." - said the former president of the Flat Earth Society in a video published on his new YouTube channel.&%&%Mira, the newly elected president said Murphy was lying, or was cheated by {1}. "What if the capsule had monitors instead of windows and displayed a picture of round Earth?"
 
 news_flat_earth_failure_header█{0}'s rocket, together with Murphy, exploded before entering the orbit. The causes of the disaster are being investigated.
-news_flat_earth_failure_content█On board the rocket was Murphy, who, thanks to the space flight, was going to gain the final proof that the Earth is flat.&%&%The Vice President of the Flat Earth Society issued a short statement: "It certainly crashed into the dome. Murphy is a hero, he sacrificed his life to show us the truth."
+news_flat_earth_failure_content█Murphy was on board, who, thanks to the space flight, was going to gain the final proof that the Earth is flat.&%&%The Vice President of the Flat Earth Society issued a short statement: "It certainly crashed into the dome. Murphy is a hero, he sacrificed his life to show us the truth."
 
 
 
 
 
-news_spate_accept_header█Space campaign of the new SPATE album. His album will fly to the ISS.
+news_spate_accept_header█Space campaign of the new SPATE album. His EP will fly to the ISS.
 news_spate_accept_content█Music producer SPATE has signed a contract with {0}, thanks to which his latest album will fly to the ISS. &%&%The album will be shipped with the next supply mission in a few months. &%&%Are the members of the International Space Station already preparing a big music party?
 
 news_spate_success_header█First party on the ISS.
@@ -213,12 +213,12 @@ opportunity2019Q1_content█15 years - that's how long the mission of Opportunit
 
 
 matt_entry_header█Tragedy on Mars - astronaut Matt is dead
-matt_entry_content█A huge sandstorm on Mars took a deadly toll. NASA's team, which has been stationed on Mars for several days, was forced to return to Earth. &%&%Unfortunately, the team is coming back in a reduced formation - while escaping to the space shuttle, which is to ensure safe return to our blue planet, one of the astronauts remained at the base. As we managed to find out from NASA representatives, the reason was to be a problem with the suit. &%&%The base was probably destroyed by a raging storm - there is no contact with Matt.
+matt_entry_content█A huge sandstorm on Mars took a deadly toll. NASA team, which has been stationed on Mars for several days, was forced to return to Earth. &%&%Unfortunately, the team is coming back in a reduced staff - while escaping to the space shuttle, which is to ensure safe return to our blue planet, one of the astronauts is still at the base. As we managed to find out from NASA representatives, the reason was to be a problem with the suit. &%&%The base was probably destroyed by a raging storm - there is no contact with Matt.
 
 matt_expansion_header█NASA is sharing the good news. We managed to get in touch with Matt who stayed on Mars - the astronaut is alive!
-matt_expansion_content█At NASA's press conference, the CEO shared good news with journalists. The astronaut remained in contact with the rest of the destroyed Martian base. &%&%NASA is currently preparing a rescue mission plan. As we have unofficially learned, the only technology that allows a rapid deployment of a rescue mission has {0}.
+matt_expansion_content█At NASA's press conference, the CEO shared good news with journalists. They managed to contact the astronaut who stayed in the destroyed Martian base. &%&%NASA is currently preparing a rescue mission plan. As we have unofficially learned, the only technology that allows a rapid deployment of a rescue mission has {0}.
 
-matt_accept_header█NASA's joint rescue mission together with {1}. 
+matt_accept_header█NASA joint rescue mission together with {1}. 
 matt_accept_content█Both companies announced today that they are beginning work on rescuing the remaining astronaut on Mars. &%&%{0} will send one of their rockets to the red planet to bring Matt safely to Earth. &%&%The flight is due to take place in a few days.
 
 matt_decline_header█NASA has its hands tied. {0} will not send a rescue mission to Mars.
@@ -230,6 +230,8 @@ matt_success_content█We did it! {1} and the CEO of NASA have reason to be plea
 
 matt_failure_header█The {1}'s rescue mission will not happen. {0}'s rocket exploded during launch.
 matt_failure_content█Today we witnessed dramatic events that took place in the atmosphere. Specially prepared, unmanned ship, which was supposed to reach Mars with a rescue mission, burned down in the atmosphere. &%&%It was the last attempt to save Matt waiting for help in the destroyed Martian base. {1} and NASA no longer have the right rockets. &%&%Rest in peace, Matt.
+
+
 
 
 

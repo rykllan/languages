@@ -35,6 +35,7 @@ menu_autoSave█Auto zapis?
 menu_autoPause█Auto pauza?
 menu_alwaysDay█Zawsze Dzień?
 menu_hangarsVisual█Lepsze Hangary?
+menu_gameOverSetting█Gameover?
 
 menu_video█Wyświetlanie
 menu_fullscreen█Pełny ekran?
@@ -51,6 +52,7 @@ menu_creators█Twórcy
 menu_collaboration█Współpraca
 menu_specialThanks█Specjalne Podziękowania
 menu_icons█Ikony pochodzą z Flaticon.com
+
 
 
 
