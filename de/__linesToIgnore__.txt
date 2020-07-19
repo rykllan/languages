@@ -1,7 +1,127 @@
 
+File: general.txt (20)
+Original Translation: orbit_so█Suborbit
 
+File: general.txt (21)
+Original Translation: orbit_leo█LEO
 
+File: general.txt (22)
+Original Translation: orbit_meo█MEO
 
+File: general.txt (23)
+Original Translation: orbit_geo█GEO
 
+File: general.txt (24)
+Original Translation: orbit_iss█ISS
 
+File: general.txt (25)
+Original Translation: orbit_marsOrbit█Mars Orbit
+
+File: general.txt (29)
+Original Translation: vehicle_tanker█Tanker
+
+File: general.txt (35)
+Original Translation: mars█Mars
+
+File: buildings.txt (4)
+Original Translation: building_hangar█Hangar
+
+File: buildings.txt (14)
+Original Translation: buildingSetup_setup█Setup
+
+File: buildings.txt (45)
+Original Translation: mega_hangar█Mega Hangar
+
+File: buildings.txt (91)
+Original Translation: lp_cape█Cape Canaveral
+
+File: buildings.txt (92)
+Original Translation: lp_vandenberg█Vandenberg
+
+File: buildings.txt (93)
+Original Translation: lp_pacificSpaceport█Pacific Spaceport
+
+File: buildings.txt (94)
+Original Translation: lp_guiana█Guiana
+
+File: buildings.txt (95)
+Original Translation: lp_midAtlanticSpaceport█Atlantic Spaceport
+
+File: buildings.txt (96)
+Original Translation: lp_balkonur█Baikonur
+
+File: buildings.txt (97)
+Original Translation: lp_plesetsk█Plesetsk
+
+File: buildings.txt (98)
+Original Translation: lp_xichang█Xichang
+
+File: buildings.txt (99)
+Original Translation: lp_rocketComplex█Private Spaceport
+
+File: buildings.txt (100)
+Original Translation: lp_australia█Woomera
+
+File: buildings.txt (101)
+Original Translation: lp_india█Satish Dhawan
+
+File: company.txt (19)
+Original Translation: company_progressLevel█Level
+
+File: levels.txt (1)
+Original Translation: levelTitle1█Startup
+
+File: levels.txt (32)
+Original Translation: levelTitle32█https://youtu.be/CfqCQQe2E2s
+
+File: linklink.txt (17)
+Original Translation: linkLink_system█System
+
+File: mainMenu.txt (3)
+Original Translation: menu_credits█Credits
+
+File: mainMenu.txt (7)
+Original Translation: menu_gameOver█GAMEOVER! :(
+
+File: mainMenu.txt (23)
+Original Translation: menu_gameplay█Gameplay
+
+File: mainMenu.txt (28)
+Original Translation: menu_gameOverSetting█Gameover?
+
+File: mainMenu.txt (29)
+Original Translation: menu_video█Video
+
+File: mainMenu.txt (31)
+Original Translation: menu_vsync█V-Sync?
+
+File: mainMenu.txt (32)
+Original Translation: menu_audio█Audio
+
+File: mainMenu.txt (34)
+Original Translation: menu_sounds█Sounds?
+
+File: modules.txt (3)
+Original Translation: type_computer█Computer
+
+File: modules.txt (16)
+Original Translation: module_factory_giga█Giga
+
+File: tooltips.txt (3)
+Original Translation: tooltip_news█News
+
+File: vehicles.txt (64)
+Original Translation: launchSetup_mission█Mission
+
+File: vehicles.txt (69)
+Original Translation: launchSetup_selectTanker█Orbital Tanker
+
+File: vehicles.txt (76)
+Original Translation: launchSetup_pizza█Pizza
+
+File: vehicles.txt (92)
+Original Translation: launchPanel_speedMetric█km/h
+
+File: vehicles.txt (93)
+Original Translation: launchPanel_altitudeMetric█km
 

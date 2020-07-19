@@ -46,8 +46,8 @@ marsTraveling█Reist zum <color=#E17055>Mars</color> (Kommt an in <b>{0}</b>)
 earthTraveling█Reist zur <color=#64B5F6>Erde</color> (Kommt an in <b>{0}</b>)
 marsLanding█Landet auf <color=#E17055>Mars</color>
 earthLanding█Gestartet von der <color=#64B5F6>Erde</color>
-marsTryingLand█Trying to Land on <color=#E17055>Mars</color>
-earthTryingLand█Trying to Land on <color=#64B5F6>Earth</color>
+marsTryingLand█Versucht auf <color=#E17055>Mars</color> zu landen
+earthTryingLand█Versucht auf <color=#64B5F6>Erde</color> zu landen
 marsLanded█Gestartet vom <color=#E17055>Mars</color>
 
 readyToLaunch█<b><color=#64B5F6>{0} von {1}</b></color>&%<size=70%>sind bereit zum starten!
@@ -114,7 +114,7 @@ launchPanel_telemetry█Telemetrie
 launchPanel_noSupportTelemetry█Diese Rakete unterstützt keine Telemetrie.
 launchPanel_speed█Geschwindigkeit
 launchPanel_altitude█Höhe
-launchPanel_staticFire█Static fire
+launchPanel_staticFire█Antriebstest
 launchPanel_speedMetric█km/h
 launchPanel_altitudeMetric█km
 

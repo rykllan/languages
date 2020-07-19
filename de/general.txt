@@ -14,7 +14,7 @@ confirm_deleteSave█Vielleicht gehst du nächstes mal nicht Bankrot.
 
 yes█Ja
 no█Nein
-ok█Ok
+ok█Okay
 
 enterText█Text eingeben...
 
