@@ -73,7 +73,7 @@ progress_launchLinkLinks█Starte LinkLinks: {0}
 progress_reachLinkLinkUsers█LinkLink-Benutzer: {0}
 progress_hireEmployees█Mitarbeiter einstellen: {0}
 progress_martiansCount█Habe {0} Marsianer
-progress_marsTerraform█Terraformiere den Mars in {0}%
+progress_marsTerraform█Terraformiere den Mars zu {0}%
 progress_marsTransportOxygen█Transportiere {0} Sauerstoffeinheiten zum Mars
 
 progress_maxOffices█Max Büros:

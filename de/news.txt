@@ -22,7 +22,7 @@ news_technology_header2█Die neuen {0} Laboratorien von {0} laufen auf Hochtour
 news_technology_header3█{1} investiert in Entwicklung. Kommen bald neue Raketenmodelle?
 news_technology_header4█Ich frage mich, wie kann er sich das leisten? {1} investiert in Entwicklung. 
 news_technology_header5█{1}: "Unser Ziel ist der Mars. Wir arbeiten hart an neuen Raketenmodulen.
-news_technology_header6█Investors are delighted. Will {0} win the space race?
+news_technology_header6█Die Investoren sind begeistert. Wird {0} das Weltraumrennen gewinnen?
 news_technology_header7█Auf dem Weg zum Mars? {0} stellt neue Module für seine Raketen vor.
 news_technology_header8█Mehr und höher. Neues Motto {0}?
 news_technology_header9█{2} auf Twitter: "Ich bin beeindruckt von dem, was {1} tut. Aber wir werden trotzdem gewinnen.
@@ -86,7 +86,7 @@ news_bankrupt_content_p22█Das emotionale Statement, das {1} an die Medien gesc
 news_bankrupt_content_p23█Die Pressekonferenz von {0} war eine dramatische. {1} erschien darauf mit einem blauen Auge. Wie er erklärte, gab es einen kleinen Streit mit einem anderen Mitglied des Vorstandes. Inoffiziell erfuhren wir, dass es sich um den letzten 100-Dollar-Schein handelte, der im Safe der Firma lag. Leider werden die Aussagen des Gründers von {0} nicht zusammengefasst - als er sie las, weinte er so laut, dass wir nichts verstanden haben.
 
 news_bankrupt_content_p31█Ganz ehrlich? Sie tun uns nicht einmal leid. 
-news_bankrupt_content_p32█We hope that {1} put some money into the sock.
+news_bankrupt_content_p32█Wir hoffen, daß {1} etwas Geld bei Seite gelegt hat.
 news_bankrupt_content_p33█Jetzt liegt alles in den Händen von {2}.
 news_bankrupt_content_p34█Ich frage mich, welches Unternehmen das nächste ist.
 
