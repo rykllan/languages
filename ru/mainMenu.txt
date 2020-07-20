@@ -35,7 +35,7 @@ menu_autoSave█Автосохранение
 menu_autoPause█Автопауза
 menu_alwaysDay█Постоянный день
 menu_hangarsVisual█Ракеты в ангаре
-menu_gameOverSetting█Gameover?
+menu_gameOverSetting█Проигрыш
 
 menu_video█Видео
 menu_fullscreen█Полный экран
