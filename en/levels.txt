@@ -34,6 +34,12 @@ levelTitle30█Too cold
 levelTitle31█Home 2.0
 levelTitle32█https://youtu.be/CfqCQQe2E2s
 
+task_SkillPoints█Have {0} Skill Points! 
+task_LaunchSmallRocket█Launch {0} Small Rockets!
+task_LaunchMediumRocket█Launch {0} Medium Rockets!
+task_LaunchLargeRocket█Launch {0} Large Rockets!
+task_LaunchHeavyRocket█Launch {0} Heavy Rockets!
+
 progress_unlockAllModules█Unlock all modules
 progress_launchSmallRockets█Launch {0} LEO rocket(s)
 progress_launchMediumRockets█Launch {0} MEO rocket(s)
