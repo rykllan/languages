@@ -11,10 +11,10 @@ iss_CCPHeader█Misja: Lot załogowy na ISS
 iss_CCPContent█Hej!&%&%Twoja firma bardzo urosła od ostatniej wiadomości. Zresztą, wyobrażałeś sobie kiedyś siebie jako prezesa jednej z większych firm kosmicznych? Ja też nie.&%&%Ale gra toczy się dalej i widzę, że masz sporo na głowie. Dlatego dodaję Ci kilka misji załogowych, abyś miał jeszcze więcej pracy. Misje załogowe muszą być wysyłane regularnie do Międzynarodowej Stacji Kosmicznej.&%&%Oh, prawie zapomniałem: upewnij się, że rakiety Ci nie wybuchną, bo będzie źle jak spalisz ludzi, lol.
 
 iss_catHeader█Pomóż, proszę!
-iss_catContent█Mój kot, Balwina, jest w bardzo złym stanie... Moja misja na MSK potrwa jeszcze z 4 miesiące i boję się, że już jej nie zobaczę.&%&%Z tego też powodu PROSZĘ Cię, abyś zabrał moją kotkę na MSK przy następnej misji :(&%&%Proszę rozważ to i z góry dziękuję,&%&%Teresa
+iss_catContent█Mój kot, Balwina, jest w bardzo złym stanie... Moja misja na ISS potrwa jeszcze z 4 miesiące i boję się, że już jej nie zobaczę.&%&%Z tego też powodu PROSZĘ Cię, abyś zabrał moją kotkę na ISS przy następnej misji :(&%&%Proszę rozważ to i z góry dziękuję,&%&%Teresa
 
-iss_technicianHeader█Nagły wypadek na MSK
-iss_technicianContent█Dobry wieczór,&%&%Na Międzynarodowej Stacji Kosmicznej przebywa aktualnie 4 astronautów. Ich życie jest aktualnie w dużym niebezpieczeństwie, poniważ odkryli oni średniej wielkości wyciek powietrza w jednym z modułów.&%&%Wiemy, że Twoja firma nie posiada aktualnie żadnych kapsuł załogowych, dlatego będziesz musiał wysłać technika na MSK w kapsule towarowej.&%&%Proszę wykonaj misję najszybciej jak potrafisz. I nie wspominaj o niej prasie! Nikt nie może wiedzieć, że zaraz wystrzelimy człowieka w kapsule towarowej! &%&%Dziękuję za współpracę, zostaniesz dobrze nagrodzony po tej misji.
+iss_technicianHeader█Nagły wypadek na ISS
+iss_technicianContent█Dobry wieczór,&%&%Na Międzynarodowej Stacji Kosmicznej przebywa aktualnie 4 astronautów. Ich życie jest aktualnie w dużym niebezpieczeństwie, poniważ odkryli oni średniej wielkości wyciek powietrza w jednym z modułów.&%&%Wiemy, że Twoja firma nie posiada aktualnie żadnych kapsuł załogowych, dlatego będziesz musiał wysłać technika na ISS w kapsule towarowej.&%&%Proszę wykonaj misję najszybciej jak potrafisz. I nie wspominaj o niej prasie! Nikt nie może wiedzieć, że zaraz wystrzelimy człowieka w kapsule towarowej! &%&%Dziękuję za współpracę, zostaniesz dobrze nagrodzony po tej misji.
 
 iss_vehicleAboutToReturn█{0} niedługo wróci na ziemię!
 

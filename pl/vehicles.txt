@@ -60,7 +60,7 @@ notBuiltYet█Jeszcze niezbudowana
 constructing█Budowanie...
 repairing█Naprawianie...
 flying█W locie
-dockedToISS█Zadokowany do MSK (Niedługo powróci na ziemię.)
+dockedToISS█Zadokowany do ISS (Niedługo powróci na ziemię.)
 
 reusable█Wielokrotnego użytku
 manual█(ręczna)

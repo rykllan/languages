@@ -45,10 +45,10 @@ payload_preparing_to_fly█Przygotowywanie do lotu
 
 
 contract_crs█Komercyjny Program Zaopatrzeniowy
-payload_crs█CRS-{0} (Dostawa MSK)
+payload_crs█CRS-{0} (Dostawa ISS)
 
 contract_ccp█Komercyjny Program Załogowy
-payload_ccp█CCP-{0} (Załoga MSK)
+payload_ccp█CCP-{0} (Załoga ISS)
 
 payload_tintin█Tintin AB (LinkLink Test)
 

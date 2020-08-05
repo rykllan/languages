@@ -49,7 +49,7 @@ company_failures█Porażki
 company_flights█Loty
 company_income█Przychód
 company_outcome█Wydatki
-company_balance█Balans
+company_balance█Bilans
 
 company_launches█Starty
 company_construction█Budowy

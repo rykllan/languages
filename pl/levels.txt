@@ -72,7 +72,7 @@ progress_getContracts█Zdobądź kontrakty: {0}
 progress_launchLinkLinks█Wystrzel LinkLinki: {0}
 progress_reachLinkLinkUsers█Użytkownicy LinkLink: {0}
 progress_hireEmployees█Zatrudnij pracowników: {0}
-progress_martiansCount█Posiadaj Marsjaninów: {0}
+progress_martiansCount█Posiadaj Marsjan: {0}
 progress_marsTerraform█Terraformuj Marsa w {0}%
 progress_marsTransportOxygen█Przetransportuj jednostki Tlenu na Marsa: {0}
 
@@ -84,8 +84,8 @@ progress_fundraiserNAF█[<color=#FF9F43>FUNDRAISING</color>] &%Sprzedaj (nie)mi
 progress_fundraiserRocketquilla█[<color=#FF9F43>FUNDRAISING</color>] &%Sprzedaj rocketquille!
 progress_fundraiserShorts█[<color=#FF9F43>FUNDRAISING</color>] &%Sprzedaj krótkie szorty!
 
-progress_issSupplierMission█Misja Specjalna: <b><color=#64B5F6>Zaopatrywanie MSK
-progress_issCrewMission█Misja Specjalna: <b><color=#64B5F6>Komercyjne Loty Załogowe MSK
+progress_issSupplierMission█Misja Specjalna: <b><color=#64B5F6>Zaopatrywanie ISS
+progress_issCrewMission█Misja Specjalna: <b><color=#64B5F6>Komercyjne Loty Załogowe ISS
 progress_teslaRoadsterMission█Misja Specjalna: <b><color=#64B5F6>Auto w Kosmosie
 progress_catMission█Misja Specjalna: <b><color=#64B5F6>Kot Astronauty
 progress_technicianMission█Misja Specjalna: <b><color=#64B5F6>Technik w walizce

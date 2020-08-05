@@ -29,7 +29,7 @@ orbit_so█Suborbita
 orbit_leo█LEO
 orbit_meo█MEO
 orbit_geo█GEO
-orbit_iss█MSK
+orbit_iss█ISS
 orbit_marsOrbit█Orbita Marsa
 orbit_marsSurface█Mars Surface
 
