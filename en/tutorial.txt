@@ -1,4 +1,5 @@
-ex_welcome█
+ex_welcome█<b><size=110%><color=#64B5F6>YOUR GOALS</color></size></b>: &%-Don't go bankrupt, plz. &%-Work on new technologies and save money! Build landing rockets! &%-Build a colony on Mars. &%-Run LinkLink Internet service! &%-Terraform Mars :o
+
 ex_interface█
 
 ex_research█
