@@ -2,7 +2,7 @@ ex_welcome█<m>YOUR GOALS</m>: &%-Don't go bankrupt, plz. &%-Work on new techno
 
 ex_interface█I will now show you what the EarthX interface is being used for. Please <m>LISTEN</m> carefully. 
 
-ex_research█
+ex_research█<m>HOW TO RESEARCH?</m> &%&%Select a Vehicle in the <m>RESEARCH WINDOW</m>, then click on it to see the details. &%To Unlock or Upgrade chosen Vehicle, simply complete the appropriate Tasks. &%&%Almost every Task has a Question Mark icon; <m>CLICK ON IT</m> to call me at any time.
 
 ex_prototypes█
 
