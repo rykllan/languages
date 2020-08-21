@@ -7,7 +7,7 @@ ex_prototypes█
 ex_contracts█
 ex_payloads█
 
-ex_rocketLaunch█
+ex_rocketLaunch█<m>HOW TO LAUNCH ROCKETS?</m> &%&%Option A: Go to the <m>VEHICLES WINDOW</m> and click on the project of your choice. Then build a new rocket and just launch it once it's ready. &%&%Go to the <m>CONTRACTS WINDOW</m>, then select a payload in the payloads tab and launch it.
 ex_capsuleLaunch█
 ex_spaceshipLaunch█
 ex_marsLaunch█
