@@ -28,6 +28,6 @@ ex_linklink█<m>WHAT THE HELL IS LINKLINK?</m> &%&%
 
 ex_production█<m>PRODUCTION?</m> &%&%
 
-ex_mars█<m>MARS :o</m> &%&%
+ex_mars█<m>MARS :o</m> &%&%Build an Infrastructure on Mars, then to transport the first people from Earth. (Once you have a lot of people on Mars you will start them doing s... <m>human-reproduction-thing</m>!) &%&%You can use <m>NUKES</m> to warm up the Mars and <m>TERRAFORM</m> it.
 
 ex_endgame█<m>NUCLEAR BOMB GOES BRRR</m> &%&%
