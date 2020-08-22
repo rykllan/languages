@@ -16,7 +16,7 @@ ex_capsuleLaunch█<m>HOW TO LAUNCH CAPSULES?</m> &%&%Make sure you have a Capsu
 
 ex_spaceshipLaunch█<m>HOW TO LAUNCH SPACESHIPS?</m> &%&%Launching Spaceships works exact the same as launching Capsules! You just need a <m>SPACESHIP</m> and a <m>SUPERHEAVY ROCKET</m>.
 
-ex_marsLaunch█<m>HOW TO LAUNCH TO MARS?</m> &%&%
+ex_marsLaunch█<m>HOW TO LAUNCH TO MARS?</m> &%&%Make sure you have: &%-Spaceship (Crew or Cargo) &%-Tanker Spaceship (to refuel on orbit) &%-Superheavy Rocket &%-Some payloads you want to bring to Mars. &%&%Build the payloads in the <m>PRODUCTION WINDOW</m>. &%&%Once you have these, just launch the Spaceship like you would normally do, then select Mars payloads and a Tanker. &%Flight to Mars takes around 2-3 years. Spaceships will be waiting on the <m>PARKING ORBIT</m> before they leave.
 
 ex_staticfire█<m>HOW AND WHAT IS A STATIC FIRE?</m> &%&%
 
