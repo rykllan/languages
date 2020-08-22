@@ -16,18 +16,18 @@ ex_capsuleLaunch█<m>HOW TO LAUNCH CAPSULES?</m> &%&%Make sure you have a Capsu
 
 ex_spaceshipLaunch█<m>HOW TO LAUNCH SPACESHIPS?</m> &%&%Launching Spaceships works exact the same as launching Capsules! You just need a <m>SPACESHIP</m> and a <m>SUPERHEAVY ROCKET</m>.
 
-ex_marsLaunch█
+ex_marsLaunch█<m>HOW TO LAUNCH TO MARS?</m> &%&%
 
-ex_staticfire█
+ex_staticfire█<m>HOW AND WHAT IS A STATIC FIRE?</m> &%&%
 
-ex_rocketLand█
+ex_rocketLand█<m>HOW DO I LAND?</m> &%&%
 
-ex_droneship█
+ex_droneship█<m>WHAT ARE DRONESHIPS?</m> &%&%
 
-ex_linklink█
+ex_linklink█<m>WHAT THE HELL IS LINKLINK?</m> &%&%
 
-ex_production█
+ex_production█<m>PRODUCTION?</m> &%&%
 
-ex_mars█
+ex_mars█<m>MARS :o</m> &%&%
 
-ex_endgame█
+ex_endgame█<m>NUCLEAR BOMB GOES BRRR</m> &%&%
