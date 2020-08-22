@@ -18,7 +18,7 @@ ex_spaceshipLaunch█<m>HOW TO LAUNCH SPACESHIPS?</m> &%&%Launching Spaceships w
 
 ex_marsLaunch█<m>HOW TO LAUNCH TO MARS?</m> &%&%Make sure you have: &%-Spaceship (Crew or Cargo) &%-Tanker Spaceship (to refuel on orbit) &%-Superheavy Rocket &%-Some payloads you want to bring to Mars. &%&%Build the payloads in the <m>PRODUCTION WINDOW</m>. &%&%Once you have these, just launch the Spaceship like you would normally do, then select Mars payloads and a Tanker. &%Flight to Mars takes around 2-3 years. Spaceships will be waiting on the <m>PARKING ORBIT</m> before they leave.
 
-ex_staticfire█<m>HOW AND WHAT IS A STATIC FIRE?</m> &%&%
+ex_staticfire█<m>WHAT IS A STATIC FIRE?</m> &%&%It's a Test in which the Rocket fires its Engines for a few seconds without leaving. &%&%To test a particular Rocket, select it in the <m>VEHICLE WINDOW</m> and then click on the Static Fire button. &%&%It is not required but highly <m>RECOMMENDED</m>, as the rocket has a much better chance of succeeding in a mission.
 
 ex_rocketLand█<m>HOW DO I LAND?</m> &%&%
 
