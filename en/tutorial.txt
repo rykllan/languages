@@ -8,9 +8,9 @@ ex_prototypes█<m>HOW TO PROTOTYPE?</m> &%&%In the <m>RESEARCH WINDOW</m>, you 
 
 ex_contracts█<m>WHAT ARE CONTRACTS?</m> &%&%Try to <m>OFFER</m> as much as others or even less. You may not always win - even if you have the lowest price. &%&%<m>HIRING OFFICE EMPLOYEES</m> will allow you to offer more money. Do not negotiate for contracts which you cannot complete!
 
-ex_payloads█<m>WHAT ARE PAYLOADS?</m> &%&%Pay big attention to payload's <m>DEADLINE</m>, <m>SIZE/ORBIT</m>, and <m>TYPE</m> of it.
+ex_payloads█<m>WHAT ARE PAYLOADS?</m> &%&%Pay big attention to Payload's <m>DEADLINE</m>, <m>SIZE/ORBIT</m>, and <m>TYPE</m> of it. &%&%You can’t launch a Payload to <m>MEO</m> using a Rocket that can only reach <m>LEO</m>. You can't put a <m>LARGE PAYLOAD</m> into a <m>MEDIUM FAIRING</m>.
 
-ex_rocketLaunch█<m>HOW TO LAUNCH ROCKETS?</m> &%&%Option A: Go to the <m>VEHICLES WINDOW</m> and click on the project of your choice. Then build a new rocket and just launch it once it's ready. &%&%Option B: Go to the <m>CONTRACTS WINDOW</m>, then select a payload in the payloads tab and launch it.
+ex_rocketLaunch█<m>HOW TO LAUNCH ROCKETS?</m> &%&%Option A: Go to the <m>VEHICLES WINDOW</m> and click on the project of your choice. Then build a new rocket and just launch it once it's ready. &%&%Option B: Go to the <m>CONTRACTS WINDOW</m>, then select a payload in the payloads tab and launch it. &%&%Payloads to the ISS can fly in any capsule, but Crew Missions <m>MUST</m> take place in Crew Capsules.
 
 ex_capsuleLaunch█<m>HOW TO LAUNCH CAPSULES?</m> &%&%Make sure you have a Capsule and a Rocket that can launch it.Check it by going into the <m>RESEARCH WINDOW</m>, then selecting a Rocket and checking if the <m>CAPSULE SUPPORT UPGRADE</m> is unlocked.&%&% Crew Capsules require <m>CREW CAPSULE SUPPORT</m>!
 
