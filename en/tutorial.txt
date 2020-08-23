@@ -12,7 +12,7 @@ ex_payloads█<m>WHAT ARE PAYLOADS?</m> &%&%Pay big attention to Payload's <m>DE
 
 ex_rocketLaunch█<m>HOW TO LAUNCH ROCKETS?</m> &%&%Option A: Go to the <m>VEHICLES WINDOW</m> and click on the project of your choice. Then build a new rocket and just launch it once it's ready. &%&%Option B: Go to the <m>CONTRACTS WINDOW</m>, then select a payload in the payloads tab and launch it. &%&%Payloads to the ISS can fly in any capsule, but Crew Missions <m>MUST</m> take place in Crew Capsules.
 
-ex_capsuleLaunch█<m>HOW TO LAUNCH CAPSULES?</m> &%&%Make sure you have a Capsule and a Rocket that can launch it.Check it by going into the <m>RESEARCH WINDOW</m>, then selecting a Rocket and checking if the <m>CAPSULE SUPPORT UPGRADE</m> is unlocked.&%&% Crew Capsules require <m>CREW CAPSULE SUPPORT</m>!
+ex_capsuleLaunch█<m>HOW TO LAUNCH CAPSULES?</m> &%&%Make sure you have a Capsule and a Rocket that can launch it.Check it by going into the <m>RESEARCH WINDOW</m>, then selecting a Rocket and checking if the <m>CAPSULE SUPPORT UPGRADE</m> is unlocked. &%&%Crew Capsules require <m>CREW CAPSULE SUPPORT</m>!
 
 ex_spaceshipLaunch█<m>HOW TO LAUNCH SPACESHIPS?</m> &%&%Launching Spaceships works exact the same as launching Capsules! You just need a <m>SPACESHIP</m>, <m>SUPERHEAVY ROCKET</m>, and <m>MEGA LAUNCHPAD</m>.
 
