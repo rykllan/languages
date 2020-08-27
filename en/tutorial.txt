@@ -1,4 +1,4 @@
-ex_welcome█<m>HELLO, {0}! HERE ARE YOUR GOALS. REMEMBER AND EXECUTE THEM AND WE WILL BE FINE</m>: &%-Don't go bankrupt, plz. &%-Work on new technologies and save money! Build landing rockets! &%-Build a colony on Mars. &%-Run LinkLink Internet service! &%-Terraform Mars :o
+ex_welcome█<m>HELLO, {0}! &%&%HERE ARE YOUR GOALS. </m>&%&%Execute them and we will be Fine! &%&%   Don't go bankrupt, plz. &%   Develop new Technologies and Save Money! Build reusable rockets! &%   Build a Colony on Mars. &%   Run LinkLink Internet Service! &%   Terraform Mars!
 
 ex_interface█<m>HELP ME WITH THE INTERFACE!</m> &%&%I will now show you what the EarthX interface is being used for. Please <m>LISTEN</m> carefully. 
 
@@ -30,4 +30,4 @@ ex_production█<m>PRODUCTION?</m> &%&%YES! You can Produce your <m>OWN</m> Payl
 
 ex_mars█<m>MARS :o</m> &%&%Build an Infrastructure on Mars, then to transport the first people from Earth. (Once you have a lot of people on Mars you will start them doing s... <m>human-reproduction-thing</m>!) &%&%You can use <m>NUKES</m> to warm up the Mars and <m>TERRAFORM</m> it.
 
-ex_endgame█<m>NUCLEAR BOMB GOES BRRR</m> &%&%I wanted to congratulate you on your enormous success. You have done something that others have found impossible. You have terraformed Mars! &%&%Please listen what I have to say and remember to respect <m>OUR</m> beautiful, colorful Earth and the nature. &%&%Thank you!
+ex_endgame█<m>NUCLEAR BOMB GOES BRRR</m> &%&%I wanted to Congratulate you on your enormous Success. You have done something that others have found impossible. You have terraformed Mars! &%&%Please listen what I have to say and remember to respect <m>OUR</m> beautiful, colorful Earth and the nature. &%&%Thank you!
