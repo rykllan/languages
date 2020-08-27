@@ -28,6 +28,6 @@ ex_linklink█<m>WHAT IS LINKLINK?</m> &%&%It's a huge constellation of many tho
 
 ex_production█<m>PRODUCTION?</m> &%&%YES! You can Produce your <m>OWN</m> Payloads! &%Build a Giga factory first; then in the <m>PRODUCTION WINDOW</m>, you can choose what kind of Payload you want to Produce.
 
-ex_mars█<m>MARS :o</m> &%&%Build an Infrastructure on Mars, then to transport the first people from Earth. (Once you have a lot of people on Mars you will start them doing s... <m>human-reproduction-thing</m>!) &%&%You can use <m>NUKES</m> to warm up the Mars and <m>TERRAFORM</m> it.
+ex_mars█<m>MARS :o</m> &%&%Build an Infrastructure on Mars, then to transport the first people from Earth. (Once you have a lot of people on Mars they will start doing s... <m>human-reproduction-thing (~aka DNA sharing)</m>!) &%&%You can use <m>NUKES</m> to warm up the Mars and <m>TERRAFORM</m> it.
 
 ex_endgame█<m>NUCLEAR BOMB GOES BRRR</m> &%&%I wanted to Congratulate you on your enormous Success. You have done something that others have found impossible. You have terraformed Mars! &%&%Please listen what I have to say and remember to respect <m>OUR</m> beautiful, colorful Earth and the nature. &%&%Thank you!
