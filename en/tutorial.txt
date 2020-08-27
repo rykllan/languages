@@ -1,4 +1,4 @@
-ex_welcome█<m>HELLO, {0}! &%&%HERE ARE YOUR GOALS. </m>&%&%Execute them and we will be Fine! &%&%   Don't go bankrupt, plz. &%   Develop new Technologies and Save Money! Build reusable rockets! &%   Build a Colony on Mars. &%   Run LinkLink Internet Service! &%   Terraform Mars!
+ex_welcome█<m>HELLO, {0}! &%&%HERE ARE YOUR GOALS. </m>&%&%Execute them and we will be Fine! &%&%-> Don't go bankrupt, plz. &%-> Develop new Technologies and Save Money! Build reusable rockets! &%-> Build a Colony on Mars. &%-> Run LinkLink Internet Service! &%-> Terraform Mars!
 
 ex_interface█<m>HELP ME WITH THE INTERFACE!</m> &%&%I will now show you what the EarthX interface is being used for. Please <m>LISTEN</m> carefully. 
 
