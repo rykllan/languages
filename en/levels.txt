@@ -1,39 +1,4 @@
 
-
-levelTitle0█Company Registered
-levelTitle1█Startup
-levelTitle2█"When something is important enough, you do it even if the odds are not in your favor." - Elon Musk
-levelTitle3█"M" like Medium
-levelTitle4█"I could either watch it happen or be a part of it." - Elon Musk
-levelTitle5█Remember to land
-levelTitle6█Supplier
-levelTitle7█Acceleration
-levelTitle8█Tintin
-levelTitle9█Acceleration
-levelTitle10█The power of computers
-levelTitle11█Catch it!
-levelTitle12█Going Heavy
-levelTitle13█LinkLink
-levelTitle14█Emergency
-levelTitle15█Do not put Humans inside the Fairings
-levelTitle16█Human Factor
-levelTitle17█Going Big
-levelTitle18█"We're going to make it happen. As God is my bloody witness, I'm hell-bent on making it work." - Elon Musk
-levelTitle19█Big Fu*king Rocket
-levelTitle20█Going Interplanetary
-levelTitle21█Spark
-levelTitle22█Infrastructure
-levelTitle23█Multi-Planetary Species
-levelTitle24█Expansion
-levelTitle25█Route
-levelTitle26█Cybermars
-levelTitle27█Sustainable City
-levelTitle28█Nuclear Bomb Goes Brrrrr
-levelTitle29█Too hot
-levelTitle30█Too cold
-levelTitle31█Home 2.0
-levelTitle32█https://youtu.be/CfqCQQe2E2s
-
 task_SkillPoints█Have {0} Skill Points! 
 task_Money█Have {0} <color=#16A085>$</color>! 
 task_LaunchSmallRocket█Launch {0} Small Rocket(s)!
