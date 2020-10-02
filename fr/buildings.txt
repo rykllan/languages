@@ -9,28 +9,28 @@ building_simpleLP█Rampe de lancement simple
 building_advancedLP█Rampe de lancement avancée
 building_megaLP█Méga rampe de lancement
 
-building_category_all█toute
+building_category_all█Tous
 building_category_production█Production
-building_category_storage█Storage
-building_category_other█Other
+building_category_storage█Stockage
+building_category_other█Autres
 
 buildingSetup_buildingName█Nom du bâtiment...
 buildingSetup_overview█Aperçu
 buildingSetup_setup█Préparation
 buildingSetup_modules█Modules
-buildingSetup_other█Other
+buildingSetup_other█Autre
 buildingSetup_billsCurrentQuarter█Projets pour le trimestre en cours
 
-buildingSetup_nowWorkingOn█Travaillant actuellement sur
+buildingSetup_nowWorkingOn█Travaille actuellement sur
 buildingSetup_queue█Queue
 
-buildingSetup_produce█Produce
+buildingSetup_produce█Produit
 
-returnToEarth█Return to Earth
-returnToEarthShort█Return
+returnToEarth█Retourner sur Terre
+returnToEarthShort█Retourner
 
-buildingSetup_negotiationPowerEachEmployee█Pouvoir de négociation pour chaque employé
-buildingSetup_negotiationPowerBuilding█Pouvoir de négociation en construction
+buildingSetup_negotiationPowerEachEmployee█Pouvoir de négociation de chaque employé
+buildingSetup_negotiationPowerBuilding█Pouvoir de négociation de construction
 buildingSetup_oneEmployee█Un employé
 buildingSetup_negotiationPower█Pouvoir de négociation
 
@@ -39,76 +39,75 @@ buildingSetup_vehicleStored█Véhicules stockés
 buildingSetup_employees█<size=14>{0} employés</size>&%{1} <color=#16A085>$</color> / year&%<size=14>{2} <color=#16A085>$</color> / chaque
 buildingSetup_manageEmployees█Gérer les employés
 
-buildingSetup_destroyBuilding█Détruire bâtiment
+buildingSetup_destroyBuilding█Détruire le bâtiment
 
-small_factory█petite usine
-small_factory_desc█tu ne peut construire que de petit module
+small_factory█Petite usine
+small_factory_desc█Vous pouvez y construire des petits modules.
 
-medium_factory█usine moyenne
-medium_factory_desc█tu ne peut construire que des petit et moyen module
+medium_factory█Usine moyenne
+medium_factory_desc█Vous pouvez y construire des modules petits et moyens.
 
-large_factory█grand usine
-large_factory_desc█tu peut tout construire sauf des starship ou des super heavy
+large_factory█Grande usine
+large_factory_desc█Vous pouvez y construire tout type de véhicule sauf des navettes spatiales et SuperHeavy.
 
-giga_factory█giga usine
-giga_factory_desc█tu peut construire tout type de veicule et satelite
+giga_factory█Giga usine
+giga_factory_desc█Vous pouvez y construire tous types de véhicules et satellites.
 
-small_hangar█petit hangar
-small_hangar_desc█tu ne peut stocker que des fusée
+small_hangar█Petit hangar
+small_hangar_desc█Vous pouvez y stocker uniquement des fusées.
 
-medium_hangar█hangar medium
-medium_hangar_desc█tu ne peut stocker que des fusée et des capsule
+medium_hangar█Hangar moyen
+medium_hangar_desc█Vous pouvez y stocker uniquement des fusées et capsules.
 
-large_hangar█grand hangar
-large_hangar_desc█tu peut stocker plus des fusée et capsule
+large_hangar█Grand hangar
+large_hangar_desc█Vous pouvez y stocker plus de fusées et capsules.
 
-mega_hangar█hangar mega
-mega_hangar_desc█tu ne peut que stocker des starship et superheavy
+mega_hangar█Mega hangar
+mega_hangar_desc█Vous pouvez y stocker uniquement des navettes spatiales et SuperHeavy.
 
-office█bureau
-office_desc█les empoyer des bureau te donne plus de pouvoir de negotiation(tu peut proposer de plus grand prix a la negotiation).
+office█Bureau
+office_desc█Les employés de bureau donne un pouvoir de négociation plus grand. (Négocier de plus gros prix pour les contrats).
 
-laboratory█Laboratoir
-laboratory_desc█produit des point de skill
+laboratory█Laboratoire
+laboratory_desc█Produit des points de compétences.
 
-megaLP█pad de lancement mega
-megaLP_desc█tu peut lancer des starship
+megaLP█Mega pad de lancement
+megaLP_desc█Vous pouvez y lancer des navettes spatiales.
 
-smallTerminal█LinkLink Small Terminal
-smallTerminal_desc█Terminals are connecting people on Earth with LinkLinks. More terminals == more users capacity.
+smallTerminal█Petit terminal LinkLink
+smallTerminal_desc█Les terminaux permettent de connecter plus de personnes sur Terre via LinkLink. Un plus grand nombre de terminaux octroie une plus grosse capacité d'utilisateurs.
+largeTerminal█Grand terminal LinkLink
+largeTerminal_desc█Les terminaux permettent de connecter plus de personnes sur Terre via LinkLink. Un plus grand nombre de terminaux octroie une plus grosse capacité d'utilisateurs.
 
-largeTerminal█LinkLink Large Terminal
-largeTerminal_desc█Terminals are connecting people on Earth with LinkLinks. More terminals == more users capacity.
+landingZone█Zone d'atterrissage
+landingZone_desc█Dois-je vraiment décrire ce que c'est?
 
-landingZone█Landing Zone
-landingZone_desc█Do I really need to describe it?
+smallHotel█Petit hôtel
+smallHotel_desc█Les martiens vivent dans des endroits comme celui-ci.
 
-smallHotel█Small Hotel
-smallHotel_desc█Martians are living in places like this.
+mediumHotel█Hôtel moyen
+mediumHotel_desc█Plus de martiens peuvent vivre dans ce lieu.
 
-mediumHotel█Medium Hotel
-mediumHotel_desc█More Martians are living in places like this.
+largeHotel█Grand hôtel
+largeHotel_desc█Beaucoup de martiens peuvent y vivre.
 
-largeHotel█Large Hotel
-largeHotel_desc█A lot of Martians are living in places like this.
+waterFactory█Usine d'eau
+waterFactory_desc█Produit de l'eau et de l'oxygène.
 
-waterFactory█Water Factory
-waterFactory_desc█Produces Water and Oxygen.
+fuelFactory█Usine de carburant
+fuelFactory_desc█Produit du carburant.
 
-fuelFactory█Fuel Factory
-fuelFactory_desc█Produces Fuel.
+steelFactory█Usine d'acier
+steelFactory_desc█Produit des matériaux et des Cybercars.
 
-steelFactory█Steel Factory
-steelFactory_desc█Produces Materials and Cybercars.
+mediumGreenhouse█Serre moyenne
+mediumGreenhouse_desc█Produit de la nourriture et de l'oxygène.
 
-mediumGreenhouse█Medium Greenhouse
-mediumGreenhouse_desc█Produces Food and Oxygen.
-
-largeGreenhouse█Large Greenhouse
-largeGreenhouse_desc█Produces more Food and Oxygen.
+largeGreenhouse█Grande serre
+largeGreenhouse_desc█Produit plus de nourriture et d'oxygène.
 
 smallSolar█Small Solar
-smallSolar_desc█Produces Electricity.
+smallSolar_desc█Produit de l'électricité.
 
 mediumSolar█Medium Solar
 mediumSolar_desc█Produces more Electricity.
@@ -122,14 +121,14 @@ mediumWaterStorage_desc█Stores more Water and Oxygen.
 largeWaterStorage█Large Water Storage
 largeWaterStorage_desc█Stores a lot of Water and Oxygen.
 
-smallFuelStorage█Small Fuel Storage
-smallFuelStorage_desc█Stores Fuel.
+smallFuelStorage█Petit réservoir de carburant
+smallFuelStorage_desc█Stocke du carburant.
 
-mediumFuelStorage█Medium Fuel Storage
-mediumFuelStorage_desc█Stores more Fuel.
+mediumFuelStorage█Réservoir de carburant moyen
+mediumFuelStorage_desc█Stocke plus de carburant.
 
-largeFuelStorage█Large Fuel Storage
-largeFuelStorage_desc█Stores a lot of Fuel.
+largeFuelStorage█Grand réservoir de carburant
+largeFuelStorage_desc█Stocke beaucoup de carburant.
 
 lp_cape█Cap Canaveral
 lp_vandenberg█Vandenberg
