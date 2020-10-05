@@ -1,31 +1,48 @@
 
 task_SkillPoints█Have {0} Skill Points! 
 task_Money█Have {0} <color=#16A085>$</color>! 
+
 task_LaunchSmallRocket█Launch {0} Small Rocket(s)!
 task_LaunchMediumRocket█Launch {0} Medium Rocket(s)!
 task_LaunchLargeRocket█Launch {0} Large Rocket(s)!
 task_LaunchHeavyRocket█Launch {0} Heavy Rocket(s)!
+
 task_LaunchSpaceshipOrbit█Launch {0} Spaceship(s) to Earth's Orbit!
 task_LaunchSpaceshipMars█Launch {0} Spaceship(s) to Mars!
+
 task_LaunchCargoCapsule█Launch {0} Cargo Capsule(s) to the ISS!
 task_LaunchCrewCapsule█Launch {0} Crew Capsule(s) to the ISS!
+
 task_LandManually█Manually Land with {0} Rocket(s)!
 task_LandAutomatically█Automatically Land with {0} Rocket(s)!
 task_ReuseRockets█Reuse {0} Rocket(s)!
 task_LandOnMars█Land with {0} Spaceship(s) on Mars!
 task_CatchFairings█Catch {0} Fairings!
+
 task_LaunchMarsCamera█Launch Mars Camera!
 task_LaunchTinTin█Launch TinTin Test Satellites!
+
 task_LinkLinksTotal█Have {0} LinkLinks on Earth's Orbit!
 task_LinkLinkCustomers█Have {0} LinkLink Customers! 
+
 task_BuildSmallTerminals█Build {0} Small LinkLink Terminal(s)!
 task_BuildLargeTerminals█Build {0} Large LinkLink Terminal(s)!
 task_BuildMegaLaunchPad█Build {0} Mega Launch Pad(s)!
 task_BuildLandingZone█Build {0} Landing Zone(s) on Mars!
 task_BuildFuelFactory█Build {0} Fuel Factory(ies) on Mars!
+
 task_MarsOxygen█Transport {0} Oxygen to Mars with a Spaceship!
 task_MarsMartians█Transport {0} Martians to Mars with a Crew Spaceship!
 task_MarsTerraform█Terraform Mars with Nukes!
+
+task_BuildWaterFactory█Build {0} Water Factory(ies) on Mars!
+task_BuildMediumGreenhouse█Build {0} Greenhouse(s) on Mars!
+task_BuildSmallHotel█Build {0} Small Hotel(s) on Mars!
+task_BuildMediumHotel█Build {0} Medium Hotel(s) on Mars!
+task_BuildSmallWaterStorage█Build {0} Small Water Storage(s) on Mars!
+task_BuildMediumWaterStorage█Build {0} Medium Water Storage(s) on Mars!
+task_BuildSmallFuelStorage█Build {0} Small Fuel Storage(s) on Mars!
+task_BuildMediumFuelStorage█Build {0} Medium Fuel Storage(s) on Mars!
 
 progress_unlockAllModules█Unlock all modules
 progress_launchSmallRockets█Launch {0} LEO rocket(s)
