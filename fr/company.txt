@@ -1,16 +1,16 @@
 
 
-company_createNewCompany█Créer nouvelle compagnie
+company_createNewCompany█Créer une nouvelle entreprise
 company_ceoName█Nom du PDG
-company_companyName█Nom de la compagnie
-company_createCompany█Créer compagnie
+company_companyName█Nom de l'entreprise
+company_createCompany█Créer entreprise
 
-company_header█Compagnie
+company_header█Entreprise
 company_overview█Aperçu
 company_fundraising█Collecte de fonds
 company_financeHistory█Historique des finances
 company_flightHistory█Historique des vols
-company_competitionHistory█Competition History
+company_competitionHistory█Historique concurrentiel
 
 fundraising_productionCost█Coût de production :
 fundraising_sales█Ventes :
@@ -24,39 +24,39 @@ use█Utiliser
 company_progressHeader█Évolution de la compagnie
 company_progressLevel█Niveau
 company_progressNewStuff█Nouveautés
-company_progressCompleteChallenges█Complete Challenges <size=70%>(<color=#E74C3C>**</color> = optional)
+company_progressCompleteChallenges█Challenges réussis <size=70%>(<color=#E74C3C>**</color> = optional)
 company_progressNextLevel█Niveau suivant
-company_progressPreviousLevel█Niveau précédant
+company_progressPreviousLevel█Niveau précédent
 locked█Verrouillé
 unlock█Déverrouiller
 unlocked█Déverrouillé
 upgrade█Mise à jour
-XskillPoints█points de compétence
+XskillPoints█Points de compétence
 
 upgradeHeader█<b>MISE A JOUR</b>&%<size=13><color=#64B5F6>15 points de compétence
 upgrade_reliability█<b>Fiabilité :</b> <color=#81C784>+10%
 upgrade_buildCost█<b>Coût de production :</b> <color=#81C784>-10%
 upgrade_buildTime█<b>Temps de production :</b> <color=#81C784>-10%
 
-company_menu_finance█Finance
-company_menu_flights█Flights
-company_menu_competition█Competition
+company_menu_finance█Finances
+company_menu_flights█Vols
+company_menu_competition█Concurrents
 
-company_summary█Finance Summary (Last 10 Years)&%<size=14>Where do you spend most money?
+company_summary█Résumé des finances (10 dernières années)&%<size=14>Où dépensez vous le plus d'argent?
 
-company_successes█Successes
-company_failures█Failures
-company_flights█Flights
-company_income█Income
-company_outcome█Outcome
+company_successes█Réussites
+company_failures█Echecs
+company_flights█Vols
+company_income█Revenus
+company_outcome█Pertes
 company_balance█Balance
 
-company_launches█Launches
+company_launches█Lancements
 company_construction█Construction
-company_employees█Employees
-company_others█Others
-company_lossPerYear█Average <mark=#E74C3C25>loss</mark> per year
-company_profitPerYear█Average <mark=#E74C3C25>loss</mark> per year
+company_employees█Employés
+company_others█Autres
+company_lossPerYear█<mark=#E74C3C25>Perte</mark> moyenne par an
+company_profitPerYear█<mark=#E74C3C25>Perte</mark> moyenne par an
 
 
 
