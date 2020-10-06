@@ -106,20 +106,20 @@ mediumGreenhouse_desc█Produit de la nourriture et de l'oxygène.
 largeGreenhouse█Grande serre
 largeGreenhouse_desc█Produit plus de nourriture et d'oxygène.
 
-smallSolar█Small Solar
+smallSolar█Petit panneau solaire
 smallSolar_desc█Produit de l'électricité.
 
-mediumSolar█Medium Solar
-mediumSolar_desc█Produces more Electricity.
+mediumSolar█Panneau solaire moyen
+mediumSolar_desc█Produit plus d'électricité qu'un petit panneau solaire.
 
-smallWaterStorage█Small Water Storage
-smallWaterStorage_desc█Stores Water and Oxygen.
+smallWaterStorage█Petit réservoir d'eau
+smallWaterStorage_desc█Stocke de l'eau et de l'oxygène.
 
-mediumWaterStorage█Medium Water Storage
-mediumWaterStorage_desc█Stores more Water and Oxygen.
+mediumWaterStorage█Réservoir d'eau moyen
+mediumWaterStorage_desc█Stocke plus d'eau et d'oxyène qu'un petit réservoir d'eau.
 
-largeWaterStorage█Large Water Storage
-largeWaterStorage_desc█Stores a lot of Water and Oxygen.
+largeWaterStorage█Grand réservoir d'eau
+largeWaterStorage_desc█Stocke beaucoup d'eau et d'oxygène.
 
 smallFuelStorage█Petit réservoir de carburant
 smallFuelStorage_desc█Stocke du carburant.
