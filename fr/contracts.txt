@@ -2,85 +2,78 @@
 
 contracts_header█Missions
 
-contracts_menu_payloads█Payloads
-contracts_menu_contracts█Contracts
-contracts_menu_offers█Offers
+contracts_menu_payloads█Charges utiles
+contracts_menu_contracts█Contrats
+contracts_menu_offers█Offres
 
 contracts_payloads█{0} charges utiles
-contracts_availableIn█Disponible sur
+contracts_availableIn█Disponible dans
 contracts_noRockets█Aucune fusée en capacité !
-contracts_negotiators█Negotiators
+contracts_negotiators█Negociateurs
 contracts_approx█Approx.
 contracts_selectLaunchPrice█Sélectionner prix de lancement
 contracts_avgRocketPrice█Prix moyen :
 contracts_avgProfit█Profits moyens :
 
 contracts_submitOffer█Soumettre offre
-contracts_negotiate█Negotiate
+contracts_negotiate█Négocier
 
 contracts_onMissionSuccess█Succès de la mission
 contracts_onMissionFailure█Echec de la mission
 
-contracts_offer_decline█Decline Offer
-contracts_offer_accept█Accept Offer
-contracts_offer_accepted█You accepted this offer.
+contracts_offer_decline█Refuser l'offre
+contracts_offer_accept█Accepter l'offre
+contracts_offer_accepted█Vous avez accepté cette offre.
 
 deadline_critical█Critique !
 deadline_launchNow█Lancer maintenant !
 deadline_yearLeft█1 an restant !
 deadline_yearsLeft█{0} an(s) restant !
 
-contract_negotiating█Negotiating
-contract_active█Active
-contract_completed█Completed
+contract_negotiating█En cours de négociation
+contract_active█Actif
+contract_completed█Complété
 
-contract_won_status█<color=#64B5F6><b>You won this contract.</b></color>&%<align="left">&%<size=13>You will need to launch these payloads in time, <mark=#64B5F625>starting in {0}</mark>:</size></align>&%&%{1}
-
-
-contract_decline_confirm█Do you really want to decline this offer?
-
-contract_deadline_fine█Fine:
-
-payload_preparing_to_fly█Preparing to fly
+contract_won_status█<color=#64B5F6><b>Vous avez gagné ce contrat.</b></color>&%<align="left">&%<size=13>Vous devrez lancer ces charges utiles à temps, <mark=#64B5F625>démarre en {0}</mark>:</size></align>&%&%{1}
 
 
-contract_crs█Commercial Resupply Service
-payload_crs█CRS-{0} (ISS Resupply)
+contract_decline_confirm█Voulez-vous vraiment refuser cette offre?
 
-contract_ccp█Commercial Crew Program
-payload_ccp█CCP-{0} (ISS Crew)
+contract_deadline_fine█Pénalité:
 
-payload_tintin█Tintin AB (LinkLink Test)
+payload_preparing_to_fly█Preparation au lancement
+
+
+contract_crs█Service de ravitaillement commercial
+payload_crs█CRS-{0} (Ravitaillement SSI)
+
+contract_ccp█Programme d'équipage commercial
+payload_ccp█CCP-{0} (Equipage SSI)
+
+payload_tintin█Tintin AB (Test LinkLink )
 
 contract_tesla█Starman
 payload_tesla█Tesla Roadster
 
 contract_potato█Dummy Payloads
-payload_potato█Orbital Potato
+payload_potato█Patate orbital
 
 contract_balwina█meow... Meow... MEOW!!!
 
-contract_technician█Emergency
-payload_technician█Technician
+contract_technician█Urgence
+payload_technician█Technicien
 
 payload_flatEarther█Murphy (Flatearther)
 
-contract_marsCamera█Mars Journey
-payload_marsCamera█Mars Camera
-content_marsCamera█Launch Mars Camera with your Heavy Rocket to Mars Orbit. You will then be able to see and interact with Mars!
+contract_marsCamera█Trajet vers Mars
+payload_marsCamera█Caméra de Mars
+content_marsCamera█Lancez votre caméra de Mars avec votre Heavy Rocket vers l'orbite de Mars. Vous pourrez ensuite voir et intéragir avec Mars!
 
 
 contract_spate█SPATE: Prologue EP
 payload_spate█Prologue EP
-content_spate█A young music producer from Finland is releasing a new album with space songs. As part of his marketing campaign, he would like to send a physical copy of his album with the next ISS supply transport.
+content_spate█Un jeune producteur de musique venant de Filande sort un nouvel album avec des chansons sur l'espace. Faisant parti de sa campagne de marketing, il voudrait envoyé à la Station Spaciale Internationale une copie physique de son album grâce au prochain transport de ravitaillement vers la SSI.
 
-contract_matt█Rescue Matt
-payload_matt█Matt Rescue Mission
-content_matt█There's a new offer from NASA. The purpose of the mission is to send a spaceship to Mars to return Matt to Earth.
-
-
-
-
-
-
-
+contract_matt█Sauver Matt
+payload_matt█Mission de sauvetage de Matt
+content_matt█Il y a une nouvelle offre de la NASA. L'objectif de cette mission est d'envoyer une navette spatiale sur Mars pour que Matt puisse revenir sur Terre.
