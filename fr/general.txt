@@ -1,5 +1,3 @@
-
-
 gameSaved█La partie a été sauvegardée automatiquement. Pas de panique !
 gameLoaded█La partie a fini de se charger. Amuse-toi bien !
 
@@ -33,21 +31,21 @@ orbit_iss█SSI
 orbit_marsOrbit█Orbite de Mars
 orbit_marsSurface█Surface de Mars
 
-vehicle_cargo█Cargo
-vehicle_crew█Crew
-vehicle_tanker█Tanker
+vehicle_cargo█Cargaison
+vehicle_crew█Equipage
+vehicle_tanker█Fusée citerne
 
-map_settings_header█Quick Settings
-map_settings_trackers_visible█Trackers Visible
-map_settings_satellites_visible█Satellites Visible
-map_settings_linklink_outline█LinkLink Outline
+map_settings_header█Options rapides
+map_settings_trackers_visible█Visibilité des trackers
+map_settings_satellites_visible█Visibilité des satellites
+map_settings_linklink_outline█Contour des LinkLink
 
 earth█Terre
 mars█Mars
 
 switchPlanet█Changer de planète
 
-tanking█Tanking...
+tanking█En cours de ravitaillement...
 
 marsDetails█Détails de Mars
 earthLikePlanet█Planète similaire à la Terre
@@ -67,10 +65,3 @@ unitsToProduce█Unité à produire: {0}
 marsProductionHeader█<b>Production</b> <size=50%>/quarter</size>
 marsUsageHeader█<b>Usage</b> <size=50%>/quarter</size>
 marsStorageHeader█<b>Stockage</b>
-
-
-
-
-
-
-
