@@ -16,7 +16,7 @@ iss_catContent█Mon chat, Balwina, est en très mauvais état... Je dois rester
 iss_technicianHeader█Urgence à la SSI
 iss_technicianContent█Bonsoir,&%&%Il y a actuellement 4 astronautes à bord de la Station spatiale internationale. Leur vie est en danger à cause d'une fuite de taille moyenne dans l'un des modules.&%&%Nous savons que votre entreprise n'a pas de capsules d'équipage, c'est pourquoi vous devrez faire monter un technicien dans une capsule de cargaison.&%&%Veuillez le faire aussi vite que possible ET ne pas parler de ce vol à la presse. Personne ne doit savoir que nous sommes sur le point de lancer un humain dans une capsule de cargaison !&%&%Merci de votre coopération, vous serez payé après la mission.
 
-iss_vehicleAboutToReturn█{0} is about to return to the Earth!
+iss_vehicleAboutToReturn█{0} est sur le point de retourner sur Terre!
 
 teslaRoadsterHeader█Une voiture dans l'espace
 teslaRoadsterContent█Lance une voiture dans l'espace, après tout pourquoi pas !
@@ -40,9 +40,9 @@ cantRepairSoManyVehicles█Tu ne peux pas réparer autant de véhicules en même
 
 cantRemoveProject█Tu ne peux pas supprimer ce projet parce qu'il y a des véhicules dedans.
 
-noHangars█You can't store this vehicle because there's no space in your hangar or you need to build a <color=#64B5F6>{0}</color> in order to store that {1}.
-noHangarsLanding█A spaceship is trying to land! You need more space in <color=#64B5F6>{0}</color> to store it!
-noFactories█{0} can't be built because you need a {2} to be able to build {1} modules.
+noHangars█Vous ne pouvez pas stocker ce vehicule car il n'y a plus de place dans votre hangar. Vous devez en construire <color=#64B5F6>{0}</color> pour pouvoir stocker {1}.
+noHangarsLanding█Une fusée esssaie d'atterir! Vous avez besoin de plus d'espace dans <color=#64B5F6>{0}</color> pour la stocker!
+noFactories█{0} ne peut etre construit car vous avez besoin de {2} pour pouvoir construire {1} modules.
 
 projectMustHaveName█Le projet doit avoir un nom. Tu as déjà vu une fusée sans nom ?
 projectSameName█{0} existe déjà. Tu peux peut-être l'appeler <color=yellow><b><size=20>'{0} Max Pro Ultra Slim' ?
@@ -65,18 +65,11 @@ cantBuildSimpleLP█Tu ne peux plus construire de rampes de lancement simples ma
 cantBuildAdvancedLP█Tu ne peux plus construire de rampes de lancement avancées maintenant.
 cantBuildMegaLP█Tu ne peux plus construire de méga-rampes de lancement maintenant.
 
-noGigaFactories█You don't have any GigaFactories!
+noGigaFactories█Vous n'avez pas assez de Giga Usine!
 
-noMoney█Not enough money!
-noMaterials█Not enough materials!
-noCybercars█Not enough cybercars!
+noMoney█Pas assez d'argent!
+noMaterials█Pas assez de matériaux!
+noCybercars█Pas assez de cybercars!
 
-parkingOrbit█Parking Orbit
-leavingParkingOrbit█Leaving Orbit in {0}
-
-
-
-
-
-
-
+parkingOrbit█Parking Orbital
+leavingParkingOrbit█Quitte l'orbite en {0}
