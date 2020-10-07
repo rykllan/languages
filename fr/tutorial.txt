@@ -1,13 +1,13 @@
-ex_welcome█<m>YOUR GOALS</m>: &%-Don't go bankrupt, plz. &%-Work on new technologies and save money! Build landing rockets! &%-Build a colony on Mars. &%-Run LinkLink Internet service! &%-Terraform Mars :o
+ex_welcome█<m>VOS OBJECTIFS</m>: &%-Ne faites pas faillite, s'il vous plaît. &%-Travaillez sur de nouvelles technologies et épargner de l'argent! Construisez des fusées atterrissantes! &%-Construisez une colonie sur Mars. &%-Lancez le service internet LinkLink! &%-Terraformez Mars :o
 
-ex_interface█I will now show you what the EarthX interface is being used for. Please <m>LISTEN</m> carefully. 
+ex_interface█Je vais maintenant vous montrer comment on se sert de l'interface de EarthX. Veuillez <m>ECOUTER</m> attentivement. 
 
 ex_research█
 ex_prototypes█
 ex_contracts█
 ex_payloads█
 
-ex_rocketLaunch█<m>HOW TO LAUNCH ROCKETS?</m> &%&%Option A: Go to the <m>VEHICLES WINDOW</m> and click on the project of your choice. Then build a new rocket and just launch it once it's ready. &%&%Go to the <m>CONTRACTS WINDOW</m>, then select a payload in the payloads tab and launch it.
+ex_rocketLaunch█<m>COMMENT LANCER DES FUSEES?</m> &%&%Option A: Aller dans la <m>FENETRE VEHICULE</m> et cliquer sur le projet de votre choix. Ensuite construisez une nouvelle fusée et lancez la dès qu'elle est prête. &%&%Aller dans la <m>FENETRE CONTRATS</m>, ensuite sélectionner la charge utiles dans l'onglet des charges utiles pour la lancer.
 ex_capsuleLaunch█
 ex_spaceshipLaunch█
 ex_marsLaunch█
