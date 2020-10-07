@@ -1,56 +1,56 @@
 
 
-menu_newGame█New Game
-menu_loadGame█Load Game
+menu_newGame█Nouvelle partie
+menu_loadGame█Charger partie
 menu_settings█Réglages
 menu_credits█Crédits
 menu_exit█Quitter
 menu_save█Sauvegarder
-menu_saveNotSupported█Save From Older Version :(
+menu_saveNotSupported█Savegarde d'une version antérieure :(
 menu_gameOver█GAMEOVER! :(
 
-menu_createNewGame█Create New Game
+menu_createNewGame█Créer une nouvelle partie
 
-lastPlayed█Last Played:
+lastPlayed█Joué pour la dernière fois:
 
-menu_gameMode█Game Mode
-menu_classic█<b>Classic</b>&%<size=75%>Play the classic mode where you have to build your own space company from scratch.
-menu_sandbox█<b>Sandbox</b>&%<size=75%>In sandbox mode everything is unlocked and unlimited. Kinda boring tbh.
+menu_gameMode█Mode de jeu
+menu_classic█<b>Classique</b>&%<size=75%>Jouer le mode de jeu Classique où vous construisez votre propre entreprise spatiale en partant de rien.
+menu_sandbox█<b>Bac à sable</b>&%<size=75%>Dans le mode Bac à sable tout est débloqué et illimité. Plutôt ennuyeux pour être honnête.
 
-menu_difficulty█Game Difficulty
-menu_easy█<b>Easy</b>&%<size=75%>Play easy if you want to play easy. Just launch those big rockets.
-menu_hard█<b>Hard</b>&%<size=75%>Coming soon!
+menu_difficulty█Difficulté du jeu
+menu_easy█<b>Facile</b>&%<size=75%>Jouer en facile si vous voulez jouer tranquillement. Envoyez des grosses fusées!
+menu_hard█<b>Difficile</b>&%<size=75%>Arrive bientôt!
 
-menu_apply█Apply
+menu_apply█Appliquer
 
-menu_quality█Graphics
+menu_quality█Graphismes
 menu_low█Basse
 menu_medium█Moyenne
 menu_high█Haute
-menu_environment█Environment?
-menu_postprocessings█Post Processing?
+menu_environment█Environnement ?
+menu_postprocessings█Post-traitement ?
 
 menu_gameplay█Jouabilité
 menu_autoSave█Sauvegarde automatique ?
 menu_autoPause█Pause automatique ?
-menu_alwaysDay█Always Day?
-menu_hangarsVisual█Hangars Visual?
+menu_alwaysDay█Toujours la journée?
+menu_hangarsVisual█Visuels des hangars?
 menu_gameOverSetting█Gameover?
 
 menu_video█Vidéo
-menu_fullscreen█Plein écran ?
-menu_vsync█V-Sync?
+menu_fullscreen█Plein écran?
+menu_vsync█Synchronisation verticale?
 
 menu_audio█Audio
-menu_music█Musique ?
-menu_sounds█Sons ?
+menu_music█Musique?
+menu_sounds█Sons?
 
 menu_language█Langue
 
 
-menu_creators█Creators
+menu_creators█Createurs
 menu_collaboration█Collaboration
-menu_specialThanks█Special Thanks
+menu_specialThanks█Remerciement spécial
 menu_icons█Icons From Flaticon.com
 
 
