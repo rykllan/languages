@@ -4,24 +4,24 @@ rocket█Fusée
 capsule█Capsule
 spaceship█Navette spatiale
 
-spaceships█Spaceships
-vehiclesDockedToISS█Docked Vehicles
+spaceships█Navettes spatiales
+vehiclesDockedToISS█Véhicules à quai
 
-readyToLeave█Ready
+readyToLeave█Prêt
 
-issHeaderText█International Space Station&%<size=14><b><color=#64B5F6>Operational
+issHeaderText█Station Spatiale Internationale&%<size=14><b><color=#64B5F6>Operational
 
 rocketRequiresCapsule█Fusée (Requiert capsule)
 rocketRequiresSpaceship█Fusée (Requiert navette spatiale)
 
 vehicles█Véhicules
-vehicles_newProjectHeader█Créer nouveau projet
+vehicles_newProjectHeader█Créer un nouveau projet
 vehicles_newProjectButton█Nouveau projet
-vehicles_newVehicleHeader█Créer nouveau véhicule
+vehicles_newVehicleHeader█Créer un nouveau véhicule
 vehicles_newVehicleButton█Nouveau véhicule
 
-vehicles_projects█Projects
-vehicles_view█View
+vehicles_projects█Projets
+vehicles_view█Voir
 
 land█Atterrir
 
@@ -30,27 +30,27 @@ buildCosts█Coûts de production
 buildTime█Temps de production
 originalBuildCosts█Coûts de production originaux
 optimizedBuildCosts█Coûts de production optimisés
-launchCosts█Produire coûts
+launchCosts█Côuts de lancement
 
-inQueue█In queue&%<size=14><b><color=#64B5F6>Le module sera construit dans un petit moment
+inQueue█En file d'attente&%<size=14><b><color=#64B5F6>Le module sera construit dans un petit moment
 
 build█Construire		
 built█Construit
 launch█Lancer
 repair█Réparer
-turnExpendable█Turn Expendable
+turnExpendable█Dernier vol
 
-earthPO█Parked on <color=#64B5F6>Earth's</color> Parking Orbit (Leaving in <b>{0}</b>)
-marsPO█Parked on <color=#E17055>Mars'</color> Parking Orbit (Leaving in <b>{0}</b>)
-marsTraveling█Traveling to <color=#E17055>Mars</color> (Arriving in <b>{0}</b>)
+earthPO█Garé sur le Parking Orbital de la <color=#64B5F6>Terre</color> (Quitte en <b>{0}</b>)
+marsPO█Garé sur le Parking Orbital de <color=#E17055>Mars</color> (Quitte en <b>{0}</b>)
+marsTraveling█Voyage vers <color=#E17055>Mars</color> (Arrive en <b>{0}</b>)
 earthTraveling█Traveling to <color=#64B5F6>Earth</color> (Arriving in <b>{0}</b>)
-marsLanding█Landing on <color=#E17055>Mars</color>
-earthLanding█Landing on <color=#64B5F6>Earth</color>
-marsTryingLand█Trying to Land on <color=#E17055>Mars</color>
-earthTryingLand█Trying to Land on <color=#64B5F6>Earth</color>
-marsLanded█Landed on <color=#E17055>Mars</color>
+marsLanding█En train d'atterir sur <color=#E17055>Mars</color>
+earthLanding█En train d'atterir sur <color=#64B5F6>Earth</color>
+marsTryingLand█Essaie d'atterir sur <color=#E17055>Mars</color>
+earthTryingLand█Essaie d'atterir sur <color=#64B5F6>Earth</color>
+marsLanded█Atteri sur <color=#E17055>Mars</color>
 
-readyToLaunch█<b><color=#64B5F6>{0} of {1}</b></color>&%<size=70%>are ready to launch!
+readyToLaunch█<b><color=#64B5F6>{0} des {1}</b></color>&%<size=70%>sont prêts au lancement!
 
 capabilities█Capacités
 reliability█Fiabilité
@@ -59,8 +59,8 @@ condition█Etat
 notBuiltYet█Pas encore construit
 constructing█En construction...
 repairing█En réparation...
-flying█Flying now
-dockedToISS█Atterris à la SSI (Reviendra bientôt.)
+flying█En vol
+dockedToISS█Atterri à la SSI (Reviendra bientôt.)
 
 reusable█Réutilisable
 manual█Manuel
@@ -79,16 +79,16 @@ payload█Charge utile
 crew█Equipage
 cargo█Cargaison
 
-launchAll█Launch All
+launchAll█Tout Lancer
 
 launchSetup_header█Préparation du lancement
 launchSetup_missionName█Titre de la mission...
 launchSetup_mission█Mission
 launchSetup_noVehiclesFound█[Aucun véhicule trouvé.]
 launchSetup_noPayloadsFound█[Aucune charge en capacité trouvée.]
-launchSetup_selectVehicle█Sélectionner véhicule
-launchSetup_selectLaunchPad█Sélectionner rampe
-launchSetup_selectTanker█Orbital Tanker
+launchSetup_selectVehicle█Sélectionner un véhicule
+launchSetup_selectLaunchPad█Sélectionner une rampe
+launchSetup_selectTanker█Vaisseau de ravitaillement en orbite
 
 launchSetup_barge█Barge
 launchSetup_lz1█LZ-1
@@ -134,15 +134,15 @@ missionReportSecondVehicleLanding█Atterrissage du second véhicule
 missionReportMissionIncome█Revenus de la mission
 missionReportDamageCompensation█Compensation des dégâts
 missionReportLandedRocket█Fusée atterrie
-profit█profit
-loss█perte
+profit█Profits
+loss█Pertes
 
 creator_header█Nouveau projet
 creator_vehicleName█Nom du véhicule...
 creator_createProject█Créer projet
 creator_vehicleCanGoAnywhere█Ce véhicule peut aller partout où tu voudras.
-creator_capsuleRocket█This rocket can only carry the capsules.
-creator_spaceshipRocket█This rocket can only carry the spaceships.
+creator_capsuleRocket█Cette fusée peut seulement transporter des capsules.
+creator_spaceshipRocket█Cette fusée peut seulement transporter des navettes spatiales.
 no_module_unlocked█Aucun module n'est déverrouillé.
 
 
