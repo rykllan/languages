@@ -9,7 +9,7 @@ vehiclesDockedToISS█Véhicules à quai
 
 readyToLeave█Prêt
 
-issHeaderText█Station Spatiale Internationale&%<size=14><b><color=#64B5F6>Operational
+issHeaderText█Station Spatiale Internationale&%<size=14><b><color=#64B5F6>Operationnelle
 
 rocketRequiresCapsule█Fusée (Requiert capsule)
 rocketRequiresSpaceship█Fusée (Requiert navette spatiale)
