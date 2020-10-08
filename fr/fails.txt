@@ -20,7 +20,7 @@ fail18█Pas assez de gaffer
 fail19█Surpression : la chambre de combustion a explosé.
 fail20█On dirait que les aliens ont fait exploser la fusée... ça restera secret !
 fail21█Fuite : le carburant a glissé en-dehors du réservoir. 
-fail22█What goes up, musk crash down.
+fail22█Ce qui s'envole, Musk l'écrase.
 fail23█Fuite : un petit trou entre le moteur et le réservoir a fait boum
 fail24█Ta fusée a défié la physique et s'est écrasée
 fail25█Défaillance hydraulique : une pièce principale s'est bloquée.
