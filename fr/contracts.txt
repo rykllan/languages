@@ -55,7 +55,7 @@ payload_tintin█Tintin AB (Test LinkLink )
 contract_tesla█Starman
 payload_tesla█Tesla Roadster
 
-contract_potato█Dummy Payloads
+contract_potato█Charges utiles d'essai
 payload_potato█Patate orbital
 
 contract_balwina█meow... Meow... MEOW!!!
