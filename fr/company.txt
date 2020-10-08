@@ -18,19 +18,19 @@ hats█Casquettes
 bricks█Briques
 not_a_flamethrowers█<color=#E74C3C><size=10>Pas un</size></color>&%lance-flammes
 rocketquillas█Jet27
-shorts█Short Shorts
+shorts█Shorts court
 use█Utiliser
 
 company_progressHeader█Évolution de la compagnie
 company_progressLevel█Niveau
 company_progressNewStuff█Nouveautés
-company_progressCompleteChallenges█Challenges réussis <size=70%>(<color=#E74C3C>**</color> = optional)
+company_progressCompleteChallenges█Challenges réussis <size=70%>(<color=#E74C3C>**</color> = optionnel)
 company_progressNextLevel█Niveau suivant
 company_progressPreviousLevel█Niveau précédent
 locked█Verrouillé
 unlock█Déverrouiller
 unlocked█Déverrouillé
-upgrade█Mise à jour
+upgrade█Mettre à jour
 XskillPoints█Points de compétence
 
 upgradeHeader█<b>MISE A JOUR</b>&%<size=13><color=#64B5F6>15 points de compétence
