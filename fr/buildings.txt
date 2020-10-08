@@ -24,7 +24,7 @@ buildingSetup_billsCurrentQuarter█Projets pour le trimestre en cours
 buildingSetup_nowWorkingOn█Travaille actuellement sur
 buildingSetup_queue█Queue
 
-buildingSetup_produce█Produit
+buildingSetup_produce█Produire
 
 returnToEarth█Retourner sur Terre
 returnToEarthShort█Retourner
