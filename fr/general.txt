@@ -33,7 +33,7 @@ orbit_marsSurface█Surface de Mars
 
 vehicle_cargo█Cargaison
 vehicle_crew█Equipage
-vehicle_tanker█Fusée citerne
+vehicle_tanker█Fusée de ravitaillement (Tanker)
 
 map_settings_header█Options rapides
 map_settings_trackers_visible█Visibilité des trackers
@@ -62,6 +62,6 @@ nuke█Bombe nucléaire
 
 unitsToProduce█Unité à produire: {0}
 
-marsProductionHeader█<b>Production</b> <size=50%>/quarter</size>
-marsUsageHeader█<b>Usage</b> <size=50%>/quarter</size>
+marsProductionHeader█<b>Production</b> <size=50%>/trimestre</size>
+marsUsageHeader█<b>Usage</b> <size=50%>/trimestre</size>
 marsStorageHeader█<b>Stockage</b>
