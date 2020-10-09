@@ -36,8 +36,8 @@ vehicle_crew█Equipage
 vehicle_tanker█Fusée de ravitaillement (Tanker)
 
 map_settings_header█Options rapides
-map_settings_trackers_visible█Visibilité des trackers
-map_settings_satellites_visible█Visibilité des satellites
+map_settings_trackers_visible█Trackers des bâtiments
+map_settings_satellites_visible█Afficher les satellites
 map_settings_linklink_outline█Contour des LinkLink
 
 earth█Terre
