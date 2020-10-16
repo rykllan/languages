@@ -1,5 +1,6 @@
 
 task_SkillPoints█Have {0} Skill Points! 
+task_LaunchPayloads█Launch {0} Payloads into Space! 
 task_Money█Have {0} <color=#16A085>$</color>! 
 
 task_LaunchSmallRocket█Launch {0} Small Rocket(s)!
@@ -25,14 +26,14 @@ task_LargeRocketStaticFireTest█Static fire {0} Large Rocket(s)!
 task_HeavyRocketStaticFireTest█Static fire {0} Heavy Rocket(s)!
 task_GrasshopperTest█Test {0} Rocket Hopper(s)!
 
-task_RaptorVacEngineTest█Test {0} Spaceship Vacum Engine(s)!
-task_RaptorEngineTest█Test {0} Spaceship Engine(s)!
-task_SnHop_20m_Test█Complete {0} 20m Hop Test(s) for Spaceship Hopper!
-task_SnHop_150m_Test█Complete {0} 150m Hop Test(s) for Spaceship Prototype!
-task_SnHop_20km_Test█Complete {0} 20km Hop Test(s) for Spaceship Prototype!
+task_RaptorVacEngineTest█Fire {0} Spaceship Vacum Engine(s)!
+task_RaptorEngineTest█Fire {0} Spaceship Engine(s)!
+task_SnHop_20m_Test█Complete {0} 20m Hop(s) for Spaceship Hopper!
+task_SnHop_150m_Test█Complete {0} 150m Hop(s) for Spaceship Prototype!
+task_SnHop_20km_Test█Complete {0} 20km Hop(s) for Spaceship Prototype!
 
-task_LaunchMarsCamera█Launch Mars Camera!
-task_LaunchTinTin█Launch TinTin Test Satellites!
+task_LaunchMarsCamera█Complete Mars Camera Mission!
+task_LaunchTinTin█Complete TinTin Mission!
 
 task_LinkLinksTotal█Have {0} LinkLinks on Earth's Orbit!
 task_LinkLinkCustomers█Have {0} LinkLink Customers! 
