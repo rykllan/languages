@@ -18,7 +18,7 @@ Latin American Spanish: Daniel Yah
 
 Turkish: Mehmet Tandoğan from https://turkceoyunmerkezi.com/
 
-French: Paola Sanchez & Clovis Chateau & pawxilicious
+French: Clovis Chateau & pawxilicious
 
 Weldsh: Sbaeneg
 
