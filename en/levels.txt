@@ -73,6 +73,8 @@ progress_teslaRoadsterMission█Special Mission: <b><color=#64B5F6>Launch a car
 progress_catMission█Special Mission: <b><color=#64B5F6>Astronaut's Cat
 progress_technicianMission█Special Mission: <b><color=#64B5F6>Technician in a Suitcase
 progress_truthMission█Special Mission: <b><color=#64B5F6>The Truth
+progress_marsCameraMission█Special Mission: <b><color=#64B5F6>Mars Camera
+progress_tinTinMission█Special Mission: <b><color=#64B5F6>TinTin
 progress_mattMission█Special Mission: <b><color=#64B5F6>Matt
 progress_spateMission█Special Mission: <b><color=#64B5F6>Prologue EP
 
