@@ -85,4 +85,39 @@ progress_martians█[<color=#81C784>PRODUCE</color>] &%Martians
 progress_cybercar█[<color=#81C784>PRODUCE</color>] &%Cybercars
 progress_nuke█[<color=#81C784>PRODUCE</color>] &%Nukes
 
+vehicle_smallRocket█Small Rocket
+vehicle_smallRocketDesc█
+
+vehicle_mediumRocket█Medium Rocket
+vehicle_mediumRocketDesc█
+
+vehicle_largeRocket█Large Rocket
+vehicle_largeRocketDesc█
+
+vehicle_heavyRocket█Heavy Rocket
+vehicle_heavyRocketDesc█
+
+vehicle_superheavyRocket█Superheavy Rocket
+vehicle_superheavyRocketDesc█
+
+vehicle_cargoCapsule█Cargo Capsule
+vehicle_cargoCapsuleDesc█
+
+vehicle_crewCapsule█Crew Capsule
+vehicle_crewCapsuleDesc█
+
+vehicle_cargoSpaceship█Cargo Spaceship
+vehicle_cargoSpaceshipDesc█
+
+vehicle_crewSpaceship█Crew Spaceship
+vehicle_crewSpaceshipDesc█
+
+vehicle_tankerSpaceship█Tanker Spaceship
+vehicle_tankerSpaceshipDesc█
+
+upgrade_basic█
+
+
+
+
 
