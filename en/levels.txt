@@ -101,19 +101,19 @@ vehicle_superheavyRocket█Superheavy Rocket
 vehicle_superheavyRocketDesc█Superheavy Rockets are fully Reusable and you don't have to Refurbish them after every flight. It requires a Spaceship.
 
 vehicle_cargoCapsule█Cargo Capsule
-vehicle_cargoCapsuleDesc█
+vehicle_cargoCapsuleDesc█Get NASA's contract for CRS missions and supply the International Space Station every 2 years.
 
 vehicle_crewCapsule█Crew Capsule
-vehicle_crewCapsuleDesc█
+vehicle_crewCapsuleDesc█Get NASA's contract for CCP missions and send new Crew to the International Space Station every 2 years. In Crew Capsule, you can launch normal Cargo as well.
 
 vehicle_cargoSpaceship█Cargo Spaceship
-vehicle_cargoSpaceshipDesc█
+vehicle_cargoSpaceshipDesc█Send more Payloads to Earth's orbits, as well as to Mars! In order to Land on Mars, you will need Tanker Spaceship.
 
 vehicle_crewSpaceship█Crew Spaceship
-vehicle_crewSpaceshipDesc█
+vehicle_crewSpaceshipDesc█Send humans to the International Space Station or Mars Surface. 
 
 vehicle_tankerSpaceship█Tanker Spaceship
-vehicle_tankerSpaceshipDesc█
+vehicle_tankerSpaceshipDesc█It's required to Refuel Spaceships on Earth's Orbit.
 
 upgrade_basic█
 
