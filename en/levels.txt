@@ -78,11 +78,11 @@ progress_tinTinMission█Special Mission: <b><color=#64B5F6>TinTin
 progress_mattMission█Special Mission: <b><color=#64B5F6>Matt
 progress_spateMission█Special Mission: <b><color=#64B5F6>Prologue EP
 
-progress_linkLink30█[<color=#81C784>PRODUCE</color>] &%LinkLink (60)
-progress_materials20█[<color=#81C784>PRODUCE</color>] &%Materials (35)
-progress_oxygen40█[<color=#81C784>PRODUCE</color>] &%Oxygen (40)
-progress_martians15█[<color=#81C784>PRODUCE</color>] &%Martians (15)
-progress_cybercar3█[<color=#81C784>PRODUCE</color>] &%Cybercar (3)
-progress_nuke3█[<color=#81C784>PRODUCE</color>] &%Nuke (3) 
+progress_linkLink█[<color=#81C784>PRODUCE</color>] &%LinkLinks
+progress_materials█[<color=#81C784>PRODUCE</color>] &%Materials
+progress_oxygen█[<color=#81C784>PRODUCE</color>] &%Oxygen
+progress_martians█[<color=#81C784>PRODUCE</color>] &%Martians
+progress_cybercar█[<color=#81C784>PRODUCE</color>] &%Cybercars
+progress_nuke█[<color=#81C784>PRODUCE</color>] &%Nukes
 
 
