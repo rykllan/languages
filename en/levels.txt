@@ -57,33 +57,33 @@ task_BuildMediumWaterStorage█Build {0} Medium Water Storage(s) on Mars!
 task_BuildSmallFuelStorage█Build {0} Small Fuel Storage(s) on Mars!
 task_BuildMediumFuelStorage█Build {0} Medium Fuel Storage(s) on Mars!
 
-progress_fundraiserHats█[<color=#FF9F43>FUNDRAISER</color>] &%Sell hats!
-progress_fundraiserBricks█[<color=#FF9F43>FUNDRAISER</color>] &%Sell bricks!
-progress_fundraiserNAF█[<color=#FF9F43>FUNDRAISER</color>] &%Sell (not) flamethrowers!
-progress_fundraiserRocketquilla█[<color=#FF9F43>FUNDRAISER</color>] &%Sell rocketquillas!
-progress_fundraiserShorts█[<color=#FF9F43>FUNDRAISER</color>] &%Sell short shorts!
+progress_fundraiserHats█[<color=#FF9F43>FUNDRAISER</color>] Sell hats!
+progress_fundraiserBricks█[<color=#FF9F43>FUNDRAISER</color>] Sell bricks!
+progress_fundraiserNAF█[<color=#FF9F43>FUNDRAISER</color>] Sell (not) flamethrowers!
+progress_fundraiserRocketquilla█[<color=#FF9F43>FUNDRAISER</color>] Sell rocketquillas!
+progress_fundraiserShorts█[<color=#FF9F43>FUNDRAISER</color>] Sell short shorts!
 progress_fundraiserDesc█Use your fundraisers in the Company Window.
 
 progress_droneshipName█Droneship
 progress_droneshipDesc█If a Rocket Fairing is 4+ points full, you will need to Land with it on a Droneship. Manage Droneships in the Vehicle Window.
 
-progress_issSupplierMission█Special Mission: <b><color=#64B5F6>ISS Supplier
-progress_issCrewMission█Special Mission: <b><color=#64B5F6>ISS Commercial Crew
-progress_teslaRoadsterMission█Special Mission: <b><color=#64B5F6>Launch a car
-progress_catMission█Special Mission: <b><color=#64B5F6>Astronaut's Cat
-progress_technicianMission█Special Mission: <b><color=#64B5F6>Technician in a Suitcase
-progress_truthMission█Special Mission: <b><color=#64B5F6>The Truth
-progress_marsCameraMission█Special Mission: <b><color=#64B5F6>Mars Camera
-progress_tinTinMission█Special Mission: <b><color=#64B5F6>TinTin
-progress_mattMission█Special Mission: <b><color=#64B5F6>Matt
-progress_spateMission█Special Mission: <b><color=#64B5F6>Prologue EP
+progress_issSupplierMission█[<color=#d95eff>MISSION</color>] Commercial Resupply Service
+progress_issCrewMission█[<color=#d95eff>MISSION</color>] Commercial Crew Program
+progress_teslaRoadsterMission█[<color=#d95eff>MISSION</color>] Roadster
+progress_catMission█[<color=#d95eff>MISSION</color>] Cat
+progress_technicianMission█[<color=#d95eff>MISSION</color>] Technician in a Suitcase
+progress_truthMission█[<color=#d95eff>MISSION</color>] The Truth
+progress_marsCameraMission█[<color=#d95eff>MISSION</color>] Mars Camera
+progress_tinTinMission█[<color=#d95eff>MISSION</color>] TinTin
+progress_mattMission█[<color=#d95eff>MISSION</color>] Matt
+progress_spateMission█[<color=#d95eff>MISSION</color>] Prologue EP
 
-progress_linkLink█[<color=#81C784>PRODUCE</color>] &%LinkLinks
-progress_materials█[<color=#81C784>PRODUCE</color>] &%Materials
-progress_oxygen█[<color=#81C784>PRODUCE</color>] &%Oxygen
-progress_martians█[<color=#81C784>PRODUCE</color>] &%Martians
-progress_cybercar█[<color=#81C784>PRODUCE</color>] &%Cybercars
-progress_nuke█[<color=#81C784>PRODUCE</color>] &%Nukes
+progress_linkLink█[<color=#81C784>PRODUCE</color>] LinkLinks
+progress_materials█[<color=#81C784>PRODUCE</color>] Materials
+progress_oxygen█[<color=#81C784>PRODUCE</color>] Oxygen
+progress_martians█[<color=#81C784>PRODUCE</color>] Martians
+progress_cybercar█[<color=#81C784>PRODUCE</color>] Cybercars
+progress_nuke█[<color=#81C784>PRODUCE</color>] Nukes
 
 vehicle_smallRocket█Small Rocket
 vehicle_smallRocketDesc█Small rocket can launch only Small Payloads to Earth Low Orbit.
