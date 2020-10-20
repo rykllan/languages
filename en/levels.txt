@@ -86,19 +86,19 @@ progress_cybercar█[<color=#81C784>PRODUCE</color>] &%Cybercars
 progress_nuke█[<color=#81C784>PRODUCE</color>] &%Nukes
 
 vehicle_smallRocket█Small Rocket
-vehicle_smallRocketDesc█
+vehicle_smallRocketDesc█Small rocket can launch only Small Payloads to Earth Low Orbit.
 
 vehicle_mediumRocket█Medium Rocket
-vehicle_mediumRocketDesc█
+vehicle_mediumRocketDesc█Medium rocket, after some Upgrades, can Land and send Cargo Capsules to the ISS. It can launch Medium Payloads to Earth Medium Orbit.
 
 vehicle_largeRocket█Large Rocket
-vehicle_largeRocketDesc█
+vehicle_largeRocketDesc█After Upgrades, it can automatically Land, send Crew Capsules to the ISS, Catch & reuse Fairings, and more. It can launch Medium Payloads to Earth Geostationary Orbit.
 
 vehicle_heavyRocket█Heavy Rocket
-vehicle_heavyRocketDesc█
+vehicle_heavyRocketDesc█"3 Large Rockets glued together". It can launch Large Payloads to Earth Geostationary Orbit and even Mars Orbit.
 
 vehicle_superheavyRocket█Superheavy Rocket
-vehicle_superheavyRocketDesc█
+vehicle_superheavyRocketDesc█Superheavy Rockets are fully Reusable and you don't have to Refurbish them after every flight. It requires a Spaceship.
 
 vehicle_cargoCapsule█Cargo Capsule
 vehicle_cargoCapsuleDesc█
