@@ -162,7 +162,28 @@ prototype_spaceshipPrototype█Spaceship Prototype
 prototype_spaceshipPrototypeDesc█Series of improved Spaceship prototypes will allow you to master the Production and Reliability of the Spaceships.
 
 
+test_engineShortFire█Short Fire
+test_engineShortFireDesc█To see if the Engine fires up properly.
 
+test_engineFullLenghtFire█Full-Lenght Fire
+test_engineFullLenghtFireDesc█To see if the Engine will work for the Flight Duration.
 
+test_tanking█Tanking Test
+test_tankingDesc█To see if the Tank leaks.
+
+test_pressure█Pressure Test
+test_pressureDesc█To see if the Tank can handle required Pressure.
+
+test_staticFire█Static Fire
+test_staticFireDesc█To see if the Engines are working properly with the Fuel Tank.
+
+test_hop20m█20m Hop
+test_hop20mDesc█To see if the Engine is stable during short 20m Flight.
+
+test_hop150m█150m Hop
+test_hop150mDesc█To see if the Vehicle is stable during a longer Flight.
+
+test_hop20km█20km Hop
+test_hop20kmDesc█To see if the vehicle can Land after re-entering the Orbit.
 
 
