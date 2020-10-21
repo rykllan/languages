@@ -143,4 +143,26 @@ upgrade_rideshare█Rideshare
 upgrade_rideshareDesc█Rideshare allows you to Launch More Payloads with one Rocket at once!
 
 
+prototype_merlinEngine█Rocket Engine
+prototype_merlinEngineDesc█Rocket Engine is used in your normal rockets. This prototype will allow you to develop it even further!
+
+prototype_grasshopper█Rocket Hopper
+prototype_grasshopperDesc█This prototype will allow you to Practice the Landings of your Rockets.
+
+prototype_raptorEngine█Spaceship Engine
+prototype_raptorEngineDesc█Spaceship Engine will be used in your Spaceships and Superheavy Rockets. 
+
+prototype_starhopper█Spaceship Hopper
+prototype_starhopperDesc█This prototype will be able to tell you if the idea of building a plane-sized Spaceships is stupid or not.
+
+prototype_raptorVacEngine█Spaceship Vacum Engine
+prototype_raptorVacEngineDesc█Spaceship Vacum Engine will be used in your Spaceships when they are in Space.
+
+prototype_spaceshipPrototype█Spaceship Prototype
+prototype_spaceshipPrototypeDesc█Series of improved Spaceship prototypes will allow you to master the Production and Reliability of the Spaceships.
+
+
+
+
+
 
