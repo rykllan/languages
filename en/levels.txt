@@ -116,8 +116,31 @@ vehicle_tankerSpaceship█Tanker Spaceship
 vehicle_tankerSpaceshipDesc█It's required to Refuel Spaceships on Earth's Orbit.
 
 upgrade_basic█
+upgrade_basicDesc█
 
+upgrade_telemetry█
+upgrade_telemetryDesc█
 
+upgrade_webcast█
+upgrade_webcastDesc█
+
+upgrade_cargoCapsuleSupport█
+upgrade_cargoCapsuleSupportDesc█
+
+upgrade_crewCapsuleSupport█
+upgrade_crewCapsuleSupportDesc█
+
+upgrade_manualLanding█
+upgrade_manualLandingDesc█
+
+upgrade_automaticLanding█
+upgrade_automaticLandingDesc█
+
+upgrade_fairingCatching█
+upgrade_fairingCatchingDesc█
+
+upgrade_rideshare█
+upgrade_rideshareDesc█
 
 
 
