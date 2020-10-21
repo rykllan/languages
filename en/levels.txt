@@ -115,32 +115,32 @@ vehicle_crewSpaceshipDesc█Send humans to the International Space Station or Ma
 vehicle_tankerSpaceship█Tanker Spaceship
 vehicle_tankerSpaceshipDesc█It's required to Refuel Spaceships on Earth's Orbit.
 
-upgrade_basic█
-upgrade_basicDesc█
+upgrade_basic█Basic
+upgrade_basicDesc█Build Costs & Explosions Rate reduction.
 
-upgrade_telemetry█
-upgrade_telemetryDesc█
+upgrade_telemetry█Telemetry
+upgrade_telemetryDesc█Allows you to see how Fast and High the rockets are.
 
-upgrade_webcast█
-upgrade_webcastDesc█
+upgrade_webcast█Webcasts
+upgrade_webcastDesc█Allows you to see what the Rocket sees.
 
-upgrade_cargoCapsuleSupport█
-upgrade_cargoCapsuleSupportDesc█
+upgrade_cargoCapsuleSupport█Cargo Capsule Support
+upgrade_cargoCapsuleSupportDesc█Allows you to launch Cargo Capsules with this Rocket.
 
-upgrade_crewCapsuleSupport█
-upgrade_crewCapsuleSupportDesc█
+upgrade_crewCapsuleSupport█Crew Capsule Support
+upgrade_crewCapsuleSupportDesc█Allows you to launch Cargo and Crew Capsules with this Rocket.
 
-upgrade_manualLanding█
-upgrade_manualLandingDesc█
+upgrade_manualLanding█Manual Landing
+upgrade_manualLandingDesc█Allows you to Manually Land with this rocket after its mission. Don't forget, that manually landing rockets require you to click the "Click to Land" button!
 
-upgrade_automaticLanding█
-upgrade_automaticLandingDesc█
+upgrade_automaticLanding█Automatic Landing
+upgrade_automaticLandingDesc█This rocket will Land Automatically after its mission.
 
-upgrade_fairingCatching█
-upgrade_fairingCatchingDesc█
+upgrade_fairingCatching█Fairing Catching
+upgrade_fairingCatchingDesc█You will be able to try to Catch the Fairings after rocket's mission.
 
-upgrade_rideshare█
-upgrade_rideshareDesc█
+upgrade_rideshare█Rideshare
+upgrade_rideshareDesc█Rideshare allows you to Launch More Payloads with one Rocket at once!
 
 
 
