@@ -57,6 +57,9 @@ task_BuildMediumWaterStorage█Build {0} Medium Water Storage(s) on Mars!
 task_BuildSmallFuelStorage█Build {0} Small Fuel Storage(s) on Mars!
 task_BuildMediumFuelStorage█Build {0} Medium Fuel Storage(s) on Mars!
 
+task_BuildFactory█Build {0} Factory(ies)!
+task_BuildOffice█Build {0} Office(s)!
+
 progress_fundraiserHats█[<color=#FF9F43>FUNDRAISER</color>] Sell hats!
 progress_fundraiserBricks█[<color=#FF9F43>FUNDRAISER</color>] Sell bricks!
 progress_fundraiserNAF█[<color=#FF9F43>FUNDRAISER</color>] Sell (not) flamethrowers!
@@ -165,7 +168,7 @@ prototype_spaceshipPrototypeDesc█Series of improved Spaceship prototypes will 
 test_engineShortFire█Short Fire
 test_engineShortFireDesc█To see if the Engine fires up properly.
 
-test_engineFullLenghtFire█Full-Lenght Fire
+test_engineFullLenghtFire█Full-Length Fire
 test_engineFullLenghtFireDesc█To see if the Engine will work for the Flight Duration.
 
 test_tanking█Tanking Test
