@@ -4,7 +4,7 @@ ex_interface█<m>HELP ME WITH THE INTERFACE!</m> &%&%I will now show you what t
 
 ex_research█<m>HOW TO RESEARCH?</m> &%&%Select a Vehicle in the <m>RESEARCH WINDOW</m>, then click on it to see the details. &%To Unlock or Upgrade chosen Vehicle, simply complete the appropriate Tasks. &%&%Almost every Task has a Question Mark icon; <m>CLICK ON IT</m> to call me at any time.
 
-ex_prototypes█<m>HOW TO PROTOTYPE?</m> &%&%In the <m>RESEARCH WINDOW</m>, you will see 3 tabs. &%&%<m>FIRST TAB</m>: See the whole tree, plan for the next years! &%&%<m>SECOND TAB</m>: Test Engines and Spaceships prototypes. &%&%<m>THIRD TAB</m>: Available in the "Third Tab DLC", only for $1099.99, coming in 2045!
+ex_prototypes█<m>HOW TO PROTOTYPE?</m> &%&%In the <m>RESEARCH WINDOW</m>, you will see 3 tabs. &%&%<m>FIRST TAB</m>: See the whole tree, plan for the next years! &%&%<m>SECOND TAB</m>: Test Engines and Spaceships prototypes.
 
 ex_contracts█<m>WHAT ARE CONTRACTS?</m> &%&%Try to <m>OFFER</m> as much as others or even less. You may not always win - even if you have the lowest price. &%&%<m>HIRING OFFICE EMPLOYEES</m> will allow you to offer more money. Do not negotiate for contracts which you cannot complete!
 
@@ -22,7 +22,7 @@ ex_staticfire█<m>WHAT IS A STATIC FIRE?</m> &%&%It's a Test in which the Rocke
 
 ex_rocketLand█<m>HOW DO I LAND?</m> &%&%Rockets are divided into 2 types: Auto & Manual Landing. (and those which don't land at all lol) &%&%Manual Landing Rockets <m>REQUIRE YOU TO CLICK</m> on the button next to the rocket when it lands. You will also hear fast "clicking" sound. &%&%Automatic Landing Rockets will Land by themselves! &%&%Before a Rocket can Land, you have to Upgrade it. You'll do it in the <m>RESEARCH WINDOW</m>.
 
-ex_droneships█<m>WHAT ARE DRONESHIPS?</m> &%&%They are required if you want to Land with a Rocket that flies to <m>Geostationary Orbit (GEO)</m>, or if the Rocket fairing is <m>85% FULL (has 5 or more slots)</m>. &%&%You will be able to Buy, Name, and Move them around the world in the <m>VEHICLES WINDOW</m>.
+ex_droneships█<m>WHAT ARE DRONESHIPS?</m> &%&%They are required if you want to Land with a Rocket that flies to <m>Geostationary Orbit (GEO)</m>, or if the Rocket fairing is <m>85% FULL (has 4 or more slots)</m>. &%&%You will be able to Buy, Name, and Move them around the world in the <m>VEHICLES WINDOW</m>.
 
 ex_linklink█<m>WHAT IS LINKLINK?</m> &%&%It's a huge constellation of many thousands of small satellites in the <m>LOW EARTH'S ORBIT</m>. LinkLink will allow you to provide an internet connection in literally any place on the Earth. &%&%Build them in the <m>PRODUCTION WINDOW</m> and then send them with a Rocket just like a normal payload. &%Don't forget to <m>BUILD TERMINALS</m> on the ground!
 
