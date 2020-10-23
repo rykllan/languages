@@ -45,8 +45,8 @@ task_BuildLandingZone█Build {0} Landing Zone(s) on Mars!
 task_BuildFuelFactory█Build {0} Fuel Factory(ies) on Mars!
 
 task_MarsOxygen█Transport {0} Oxygen to Mars with a Spaceship!
-task_MarsMartians█Transport {0} Martians to Mars with a Crew Spaceship!
-task_MarsTerraform█Terraform Mars with Nukes!
+task_MarsMartians█Have {0} Martians on Mars!
+task_MarsTerraform█Terraform Mars to {0}% using Nukes!
 
 task_BuildWaterFactory█Build {0} Water Factory(ies) on Mars!
 task_BuildMediumGreenhouse█Build {0} Greenhouse(s) on Mars!
