@@ -225,7 +225,7 @@ test_hop150m█150m Hop
 test_hop150mDesc█To see if the Vehicle is stable during a longer Flight.
 
 test_hop20km█20km Hop
-test_hop20kmDesc█To see if the vehicle can Land after re-entering the Orbit.
+test_hop20kmDesc█To see if the vehicle can Land after the flight.
 
 
 
