@@ -27,7 +27,13 @@ research_totalIncome█Total Income
 research_totalLoss█Total Loss
 research_profit█Profit
 
-reseach_vehicleName█Enter vehicle name...
+research_vehicleName█Enter vehicle name...
+
+research_milestones█Milestones
+research_availableTests█Available Tests
+
+research_test█Test
+research_testCompleted█Completed
 
 task_SkillPoints█Have {0} Skill Points! 
 task_LaunchPayloads█Launch {0} Payloads into Space! 
