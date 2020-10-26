@@ -126,106 +126,106 @@ progress_martians█[<color=#81C784>PRODUKUJ</color>] Marsjanie
 progress_cybercar█[<color=#81C784>PRODUKUJ</color>] Cyberauta
 progress_nuke█[<color=#81C784>PRODUKUJ</color>] Atomówki
 
-vehicle_smallRocket█Small Rocket
-vehicle_smallRocketDesc█Small rocket can launch only Small Payloads to Earth Low Orbit.
+vehicle_smallRocket█Mała Rakieta
+vehicle_smallRocketDesc█Mała rakieta może wystrzelić tylko małe ładunki na niską orbitę ziemską.
 
-vehicle_mediumRocket█Medium Rocket
-vehicle_mediumRocketDesc█Medium rocket, after some Upgrades, can Land and send Cargo Capsules to the ISS. It can launch Medium Payloads to Earth Medium Orbit.
+vehicle_mediumRocket█Średnia Rakieta
+vehicle_mediumRocketDesc█Średnia Rakieta, po kilku ulepszeniach, może lądować i wysyłać Kapsuły Towarowe do MSK. Może wystrzelić średnie ładuneki na średnią orbitę.
 
-vehicle_largeRocket█Large Rocket
-vehicle_largeRocketDesc█After Upgrades, it can automatically Land, send Crew Capsules to the ISS, Catch & reuse Fairings, and more. It can launch Medium Payloads to Earth Geostationary Orbit.
+vehicle_largeRocket█Duża Rakieta
+vehicle_largeRocketDesc█Po ulepszeniach może automatycznie lądować, wysyłać Kapsuły Załogowe do MSK, łapać i ponownie wykorzystywać owiewki i wiele innych. Może wysyłać średnie ładunki na orbitę geostacjonarną.
 
-vehicle_heavyRocket█Heavy Rocket
-vehicle_heavyRocketDesc█"3 Large Rockets glued together". It can launch Large Payloads to Earth Geostationary Orbit and even Mars Orbit.
+vehicle_heavyRocket█Ciężka Rakieta
+vehicle_heavyRocketDesc█"3 Duże Rakiety sklejone w jedną". Może wysyłać duże ładunki na orbitę geostacjonarną oraz orbitę Marsa.
 
-vehicle_superheavyRocket█Superheavy Rocket
-vehicle_superheavyRocketDesc█Superheavy Rockets are fully Reusable and you don't have to Refurbish them after every flight. It requires a Spaceship.
+vehicle_superheavyRocket█Rakieta Superheavy
+vehicle_superheavyRocketDesc█Rakiety Superheavy są w pełni wielokrotnego użytku i nie musisz ich odnawiać po każdym locie. Wymagają statku kosmicznego.
 
-vehicle_cargoCapsule█Cargo Capsule
-vehicle_cargoCapsuleDesc█Get NASA's contract for CRS missions and supply the International Space Station every 2 years.
+vehicle_cargoCapsule█Kapsuła Towarowa
+vehicle_cargoCapsuleDesc█Zdobądź kontrakt NASA na misje CRS i zaopatruj Międzynarodową Stację Kosmiczną co 2 lata.
 
-vehicle_crewCapsule█Crew Capsule
-vehicle_crewCapsuleDesc█Get NASA's contract for CCP missions and send new Crew to the International Space Station every 2 years. In Crew Capsule, you can launch normal Cargo as well.
+vehicle_crewCapsule█Kapsuła Załogowa
+vehicle_crewCapsuleDesc█Zdobądź kontrakt NASA na misje CCP i wysyłaj nowe załogi do Międzynarodowej Stacji Kosmicznej co 2 lata. W kapsule załogowej można również wystrzelić normalny ładunek.
 
-vehicle_cargoSpaceship█Cargo Spaceship
-vehicle_cargoSpaceshipDesc█Send more Payloads to Earth's orbits, as well as to Mars! In order to Land on Mars, you will need Tanker Spaceship.
+vehicle_cargoSpaceship█Towarowy Statek Kosmiczny
+vehicle_cargoSpaceshipDesc█Wyślij więcej ładunków na orbity Ziemi, jak i również na Marsa! Aby wylądować na Marsie, potrzebny będzie statek kosmiczny typu Cysterna.
 
-vehicle_crewSpaceship█Crew Spaceship
-vehicle_crewSpaceshipDesc█Send humans to the International Space Station or Mars Surface. 
+vehicle_crewSpaceship█Załogowy Statek Kosmiczny
+vehicle_crewSpaceshipDesc█Wyślij ludzi na Międzynarodową Stację Kosmiczną lub Powierzchnię Marsa. 
 
-vehicle_tankerSpaceship█Tanker Spaceship
-vehicle_tankerSpaceshipDesc█It's required to Refuel Spaceships on Earth's Orbit.
+vehicle_tankerSpaceship█Cysterna
+vehicle_tankerSpaceshipDesc█Jest ona wymagana do tankowania statków kosmicznych na orbicie ziemskiej przed odlotem na Marsa.
 
-upgrade_basic█Basic
-upgrade_basicDesc█Build Costs & Explosions Rate reduction.
+upgrade_basic█Podstawowe
+upgrade_basicDesc█Redukcja kosztów budowy i szans na wybuch.
 
-upgrade_telemetry█Telemetry
-upgrade_telemetryDesc█Allows you to see how Fast and High the rockets are.
+upgrade_telemetry█Telemetria
+upgrade_telemetryDesc█Pozwala zobaczyć, jak szybkie i wysoko są aktualnie rakiety.
 
-upgrade_webcast█Webcasts
-upgrade_webcastDesc█Allows you to see what the Rocket sees.
+upgrade_webcast█Webcasty
+upgrade_webcastDesc█Pozwala zobaczyć to, co widzi rakieta.
 
-upgrade_cargoCapsuleSupport█Cargo Capsule Support
-upgrade_cargoCapsuleSupportDesc█Allows you to launch Cargo Capsules with this Rocket.
+upgrade_cargoCapsuleSupport█Wsparcie Kapsuł Towarowych
+upgrade_cargoCapsuleSupportDesc█Pozwala na wystrzelenie Kapsuł Towarowych za pomocą tej rakiety.
 
-upgrade_crewCapsuleSupport█Crew Capsule Support
-upgrade_crewCapsuleSupportDesc█Allows you to launch Cargo and Crew Capsules with this Rocket.
+upgrade_crewCapsuleSupport█Wsparcie Kapsuł Załogowych
+upgrade_crewCapsuleSupportDesc█Pozwala na wystrzelenie Kapsuł Towarowych i Załogowych za pomocą tej rakiety.
 
-upgrade_manualLanding█Manual Landing
-upgrade_manualLandingDesc█Allows you to Manually Land with this rocket after its mission. Don't forget, that manually landing rockets require you to click the "Click to Land" button!
+upgrade_manualLanding█Ręczne Lądowanie
+upgrade_manualLandingDesc█Pozwala na ręczne wylądowanie tą rakietą po zakończeniu misji. Nie zapomnij, że ręczne lądowanie rakiet wymaga kliknięcia przycisku "Wyląduj"!
 
-upgrade_automaticLanding█Automatic Landing
-upgrade_automaticLandingDesc█This rocket will Land Automatically after its mission.
+upgrade_automaticLanding█Automatyczne Lądowanie
+upgrade_automaticLandingDesc█Ta rakieta wyląduje automatycznie po swojej misji.
 
-upgrade_fairingCatching█Fairing Catching
-upgrade_fairingCatchingDesc█You will be able to try to Catch the Fairings after rocket's mission.
+upgrade_fairingCatching█Łapanie Owiewek
+upgrade_fairingCatchingDesc█Będziesz mógł spróbować złapać Owiewki podczas misji.
 
 upgrade_rideshare█Rideshare
-upgrade_rideshareDesc█Rideshare allows you to Launch More Payloads with one Rocket at once!
+upgrade_rideshareDesc█Rideshare pozwala wystrzelić więcej ładunków za pomocą jednej rakiety jednocześnie!
 
 
-prototype_merlinEngine█Rocket Engine
-prototype_merlinEngineDesc█Rocket Engine is used in your normal rockets. This prototype will allow you to develop it even further!
+prototype_merlinEngine█Silnik Rakietowy
+prototype_merlinEngineDesc█Silnik Rakietowy jest używany w normalnych rakietach. Ten prototyp pozwoli Ci go jeszcze bardziej rozwinąć!
 
-prototype_grasshopper█Rocket Hopper
-prototype_grasshopperDesc█This prototype will allow you to Practice the Landings of your Rockets.
+prototype_grasshopper█Prototyp Rakiety
+prototype_grasshopperDesc█Ten prototyp pozwoli Ci ćwiczyć lądowanie Twoich rakiet.
 
-prototype_raptorEngine█Spaceship Engine
-prototype_raptorEngineDesc█Spaceship Engine will be used in your Spaceships and Superheavy Rockets. 
+prototype_raptorEngine█Silnik Statku Kosmicznego
+prototype_raptorEngineDesc█Silnik ten będzie używany w Twoich statkach kosmicznych i rakietach Superheavy. 
 
-prototype_starhopper█Spaceship Hopper
-prototype_starhopperDesc█This prototype will be able to tell you if the idea of building a plane-sized Spaceships is stupid or not.
+prototype_starhopper█Skoczek Statku Kosmicznego
+prototype_starhopperDesc█Ten prototyp będzie w stanie powiedzieć, czy pomysł zbudowania statku kosmicznego wielkości samolotu jest głupi, czy nie.
 
-prototype_raptorVacEngine█Spaceship Vacum Engine
-prototype_raptorVacEngineDesc█Spaceship Vacum Engine will be used in your Spaceships when they are in Space.
+prototype_raptorVacEngine█Silnik Próżniowy Statku Kosmicznego
+prototype_raptorVacEngineDesc█Silnik ten będzie używany w twoich statkach kosmicznych, gdy znajdą się one w przestrzeni kosmicznej.
 
-prototype_spaceshipPrototype█Spaceship Prototype
-prototype_spaceshipPrototypeDesc█Series of improved Spaceship prototypes will allow you to master the Production and Reliability of the Spaceships.
+prototype_spaceshipPrototype█Prototyp Statku Kosmicznego
+prototype_spaceshipPrototypeDesc█Seria ulepszonych prototypów statków kosmicznych pozwoli Ci opanować ich produkcję i niezawodność.
 
 
-test_engineShortFire█Short Fire
-test_engineShortFireDesc█To see if the Engine fires up properly.
+test_engineShortFire█Krótki Zapłon
+test_engineShortFireDesc█Aby sprawdzić, czy silnik odpala się prawidłowo.
 
-test_engineFullLenghtFire█Full-Length Fire
-test_engineFullLenghtFireDesc█To see if the Engine will work for the Flight Duration.
+test_engineFullLenghtFire█Pełny Zapłon
+test_engineFullLenghtFireDesc█Aby sprawdzić, czy silnik będzie działał w czasie trwania pełnego lotu.
 
-test_tanking█Tanking Test
-test_tankingDesc█To see if the Tank leaks.
+test_tanking█Test Tankowania
+test_tankingDesc█Żeby sprawdzić, czy zbiornik paliwa przecieka.
 
-test_pressure█Pressure Test
-test_pressureDesc█To see if the Tank can handle required Pressure.
+test_pressure█Test Ciśnienia
+test_pressureDesc█Aby sprawdzić, czy zbiornik poradzi sobie z wymaganym ciśnieniem.
 
-test_staticFire█Static Fire
-test_staticFireDesc█To see if the Engines are working properly with the Fuel Tank.
+test_staticFire█Test Statyczny
+test_staticFireDesc█Aby sprawdzić, czy silniki współpracują poprawnie ze zbiornikiem paliwa.
 
-test_hop20m█20m Hop
-test_hop20mDesc█To see if the Engine is stable during short 20m Flight.
+test_hop20m█Skok na 20m
+test_hop20mDesc█Aby sprawdzić, czy silnik jest stabilny podczas krótkiego lotu na 20m.
 
-test_hop150m█150m Hop
-test_hop150mDesc█To see if the Vehicle is stable during a longer Flight.
+test_hop150m█Skok na 150m
+test_hop150mDesc█Aby sprawdzić, czy pojazd jest stabilny podczas dłuższego lotu.
 
-test_hop20km█20km Hop
-test_hop20kmDesc█To see if the vehicle can Land after re-entering the Orbit.
+test_hop20km█Skok na 20km
+test_hop20kmDesc█Aby sprawdzić, czy pojazd może wylądować.
 
 
 
