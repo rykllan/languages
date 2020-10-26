@@ -48,6 +48,7 @@ menu_vsync█V-Sync?
 menu_audio█Audio
 menu_music█Music?
 menu_sounds█Sounds?
+menu_tutorialVoice█Tutorial Voice?
 
 menu_language█Language
 
