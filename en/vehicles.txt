@@ -35,10 +35,20 @@ launchCosts█Launch costs
 inQueue█In queue&%<size=14><b><color=#64B5F6>Module will be built in a moment
 
 build█Build
+staticFire█Static Fire
 built█Built
 launch█Launch
-repair█Repair
-turnExpendable█Turn Expendable
+repair█Refurbish
+turnExpendable█Last Flight
+
+detailedCosts█Detailed costs
+leftFairing█Left Fairing
+rightFairing█Right Fairing
+secondStage█Second Stage
+firstStage█First Stage
+generalRefurbishmentPrice█General refurbishment price
+
+xLeft█{0} left
 
 earthPO█Parked on <color=#64B5F6>Earth's</color> Parking Orbit (Leaving in <b>{0}</b>)
 marsPO█Parked on <color=#E17055>Mars'</color> Parking Orbit (Leaving in <b>{0}</b>)
@@ -134,8 +144,9 @@ missionReportSecondVehicleLanding█Second vehicle landing
 missionReportMissionIncome█Mission income
 missionReportDamageCompensation█Damage compensation
 missionReportLandedRocket█Landed rocket
-profit█profit
-loss█loss
+profit█Profit
+loss█Loss
+income█Income
 
 creator_header█New project
 creator_vehicleName█Vehicle name...
