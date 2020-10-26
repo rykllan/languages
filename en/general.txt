@@ -68,7 +68,8 @@ marsProductionHeader█<b>Production</b> <size=50%>/quarter</size>
 marsUsageHeader█<b>Usage</b> <size=50%>/quarter</size>
 marsStorageHeader█<b>Storage</b>
 
-
+actionCamera█Action Camera
+switchView█Switch View
 
 
 
