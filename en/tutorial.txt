@@ -1,3 +1,23 @@
+
+
+tutorial█Tutorial
+
+tutorial_welcome█Welcome
+tutorial_introduction█Introduction
+tutorial_research█Research
+tutorial_prototypes█Prototypes
+tutorial_contracts█Contracts
+tutorial_payloads█Payloads
+tutorial_production█Production
+tutorial_rocketLaunch█Rocket Launch
+tutorial_capsuleLaunch█Capsule Launch
+tutorial_spaceshipLaunch█Spaceship Orbit Launch
+tutorial_marsLaunch█Mars Launch
+tutorial_staticFire█Static Fire
+tutorial_rocketLanding█Rocket Landing
+tutorial_droneships█Droneships
+tutorial_LinkLink█LinkLink
+
 ex_welcome█<m>HELLO, {0}! &%&%HERE ARE YOUR GOALS. </m>&%&%Execute them and we will be Fine! &%&%-> Don't go bankrupt, plz. &%-> Develop new Technologies! &%-> Build a Colony on Mars. &%-> Run LinkLink Internet Service! &%-> Terraform Mars!
 
 ex_interface█<m>HELP ME WITH THE INTERFACE!</m> &%&%I will now show you what the EarthX interface is being used for. Please <m>LISTEN</m> carefully. 
@@ -31,3 +51,4 @@ ex_production█<m>PRODUCTION?</m> &%&%YES! You can Produce your <m>OWN</m> Payl
 ex_mars█<m>MARS :o</m> &%&%Build an Infrastructure on Mars, then to transport the first people from Earth. (Once you have a lot of people on Mars they will start doing s... <m>human-reproduction-thing (~aka DNA sharing)</m>!) &%&%You can use <m>NUKES</m> to warm up the Mars and <m>TERRAFORM</m> it.
 
 ex_endgame█<m>NUCLEAR BOMB GOES BRRR</m> &%&%I wanted to Congratulate you on your enormous Success. You have done something that others have found impossible. You have terraformed Mars! &%&%Please listen what I have to say and remember to respect <m>OUR</m> beautiful, colorful Earth and the nature. &%&%Thank you!
+
