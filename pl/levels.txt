@@ -1,60 +1,60 @@
 
 
-research_header█Research
-research_technology█Technology
-research_prototypes█Prototypes
+research_header█Badania
+research_technology█Technologia
+research_prototypes█Prototypy
 
-research_back█Back
-research_view█View
+research_back█Wróć
+research_view█Pokaż
 
-research_upgrades█Upgrades
-research_extras█Extras
+research_upgrades█Ulepszenia
+research_extras█Dodatki
 research_info█Info
 
-research_locked█Locked
-research_unlocked█Unlocked
+research_locked█Zablokowane
+research_unlocked█Odblokowane
 
-research_unlock█Unlock
-research_upgrade█Upgrade
+research_unlock█Odblokuj
+research_upgrade█Ulepsz
 
-research_flights█Flights
-research_successes█Successes
-research_failures█Failures
-research_cost█Cost
-research_buildPrice█Build Price
-research_launchPrice█Launch Price
-research_totalIncome█Total Income
-research_totalLoss█Total Loss
-research_profit█Profit
+research_flights█Loty
+research_successes█Sukcesy
+research_failures█Wybuchy
+research_cost█Koszt
+research_buildPrice█Koszt Budowy
+research_launchPrice█Koszt Startu
+research_totalIncome█Przychód (całość)
+research_totalLoss█Strata (całość)
+research_profit█Zysk
 
-research_vehicleName█Enter vehicle name...
+research_vehicleName█Wpisz nazwę pojazdu...
 
-research_milestones█Milestones
-research_availableTests█Available Tests
+research_milestones█Osiągnięcia
+research_availableTests█Dostępne Testy
 
-research_test█Test
-research_testCompleted█Completed
+research_test█Testuj
+research_testCompleted█Zakończono
 
-research_prototypeBuilt█{0} has been built.
+research_prototypeBuilt█{0} został zbudowany.
 
-task_SkillPoints█Have {0} Skill Points! 
-task_LaunchPayloads█Launch {0} Payloads into Space! 
-task_Money█Have {0} <color=#16A085>$</color>! 
+task_SkillPoints█Miej {0} Punktów Doświadczenia! 
+task_LaunchPayloads█Wystrzel {0} Ładunków w kosmos! 
+task_Money█Miej {0} <color=#16A085>$</color>! 
 
-task_LaunchSmallRocket█Launch {0} Small Rocket(s)!
-task_LaunchMediumRocket█Launch {0} Medium Rocket(s)!
-task_LaunchLargeRocket█Launch {0} Large Rocket(s)!
-task_LaunchHeavyRocket█Launch {0} Heavy Rocket(s)!
+task_LaunchSmallRocket█Wystrzel {0} Małych Rakiet!
+task_LaunchMediumRocket█Wystrzel {0} Średnich Rakiet!
+task_LaunchLargeRocket█Wystrzel {0} Dużych Rakiet!
+task_LaunchHeavyRocket█Wystrzel {0} Ciężkich Rakiet!
 
-task_LaunchSpaceshipOrbit█Launch {0} Spaceship(s) to Earth's Orbit!
-task_LaunchSpaceshipMars█Launch {0} Spaceship(s) to Mars!
+task_LaunchSpaceshipOrbit█Wystrzel {0} Statków Kosmicznych na orbitę Ziemi!
+task_LaunchSpaceshipMars█Wystrzel {0} Statków Kosmicznych na Marsa!
 
-task_LaunchCargoCapsule█Launch {0} Cargo Capsule(s) to the ISS!
-task_LaunchCrewCapsule█Launch {0} Crew Capsule(s) to the ISS!
+task_LaunchCargoCapsule█Wystrzel {0} Kapsuł Towarowych do MSK!
+task_LaunchCrewCapsule█Wystrzel {0} Kapsuł Załogowych do MSK!
 
-task_LandManually█Manually Land with {0} Rocket(s)!
-task_LandAutomatically█Automatically Land with {0} Rocket(s)!
-task_ReuseRockets█Reuse {0} Rocket(s)!
+task_LandManually█Ręcznie wyląduj {0} Rakietami!
+task_LandAutomatically█Automatycznie wyląduj {0} Rakietami!
+task_ReuseRockets█Użyj {0} Rakiet ponownie!
 task_LandOnMars█Land with {0} Spaceship(s) on Mars!
 task_CatchFairings█Catch {0} Fairings!
 
