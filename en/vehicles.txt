@@ -160,6 +160,7 @@ missionReportSecondVehicleLanding█Second vehicle landing
 missionReportMissionIncome█Mission income
 missionReportDamageCompensation█Damage compensation
 missionReportLandedRocket█Landed rocket
+missionReportSkillPoints█Skill points
 profit█Profit
 loss█Loss
 income█Income
