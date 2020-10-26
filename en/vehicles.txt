@@ -16,8 +16,6 @@ rocketRequiresSpaceship█Rocket (Requires Spaceship)
 
 vehicles█Vehicles
 droneships█Droneships
-vehicles_newProjectHeader█Create new project
-vehicles_newProjectButton█New project
 vehicles_newVehicleHeader█Create new vehicle
 vehicles_newVehicleButton█New vehicle
 
@@ -28,12 +26,9 @@ vehicles_view█View
 
 land█Land
 
-reusedVehicle█Reused vehicle:
 buildCosts█Build costs
-buildTime█Build time
 originalBuildCosts█Original build costs
 optimizedBuildCosts█Optimized build costs
-launchCosts█Launch costs
 
 inQueue█In queue&%<size=14><b><color=#64B5F6>Module will be built in a moment
 
@@ -91,11 +86,6 @@ superheavy█Superheavy
 spaceshipsOnly█Spaceships only
 capsulesOnly█Capsules only
 fairingRecovery█Fairing recovery
-
-landingNotSupported█Landing not supported!&%You need:<size=12><b>&%-Grid Fins & Landing Legs&%-Battery&%-GPS (for automatic reusability)&%-4 or 9 Advanced Engines</b></size>&%
-capsulesNotSupported█Capsules not supported!&%You need:<size=12><b>&%-Battery&%-GPS&%-4 or 9 Advanced Engines</b></size>&%
-heavyNotSupported█Heavy rocket not supported!&%You need:<size=12><b>&%-Rocket with automatic reusability</b></size>&%
-fairingCatchingNotSupported█Fairing catching not supported!&%You need:<size=12><b>&%-Rocket with automatic reusability</b></size>&%
 
 payload█Payload
 crew█Crew
@@ -175,14 +165,6 @@ loss█Loss
 income█Income
 potentialLoss█Potential Loss
 potentialProfit█Potential Profit
-
-creator_header█New project
-creator_vehicleName█Vehicle name...
-creator_createProject█Create project
-creator_vehicleCanGoAnywhere█This vehicle can go to any place you want.
-creator_capsuleRocket█This rocket can only carry the capsules.
-creator_spaceshipRocket█This rocket can only carry the spaceships.
-no_module_unlocked█No module is unlocked.
 
 
 
