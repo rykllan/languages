@@ -58,7 +58,9 @@ menu_collaboration█Collaboration
 menu_specialThanks█Special Thanks
 menu_icons█Icons From Flaticon.com
 
-
+translated█<b>{0}</b>&%Translated: {1}%&%{2}
+dubbing█Dubbing: {0}
+noDubbing█No Dubbing
 
 
 
