@@ -36,7 +36,7 @@ linkLink_system█Système
 linkLink_production█Production
 linkLink_statistics█Statistiques
 
-linkLink_100_required█Vous devez avoir au moins <color=#64B5F6><b>100</b></color> satellites LinkLinks pour faire fonctionner ce service.
+linkLink_100_required█You need at least <color=#64B5F6><b>420</b></color> LinkLinks in order to run the service.
 
 linkLink_run█Lancer LinkLink
 linkLink_customerPrice█Prix de l'abonnement client (par mois)
@@ -62,6 +62,7 @@ linkLink_welcome_content█Plus tard dans EarthX, vous pourrez créer votre prop
 
 buildLinkLinkInGiga█Construisez des LinkLink depuis n'importe quelle Giga Usine.
 openGigaFactory█Ouvrez une Giga Usine
+
 
 
 

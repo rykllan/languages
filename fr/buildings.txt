@@ -36,6 +36,9 @@ buildingSetup_negotiationPower█Pouvoir de négociation
 
 buildingSetup_vehicleStored█Véhicules stockés
 
+noGigaFound█[No giga factories found.]
+unitsToBuild█Units to build...
+
 buildingSetup_employees█<size=14>{0} employés</size>&%{1} <color=#16A085>$</color> / year&%<size=14>{2} <color=#16A085>$</color> / chaque
 buildingSetup_manageEmployees█Gérer les employés
 
@@ -76,6 +79,7 @@ megaLP_desc█Vous pouvez y lancer des navettes spatiales.
 
 smallTerminal█Petit terminal LinkLink
 smallTerminal_desc█Les terminaux permettent de connecter plus de personnes sur Terre via LinkLink. Un plus grand nombre de terminaux octroie une plus grosse capacité d'utilisateurs.
+
 largeTerminal█Grand terminal LinkLink
 largeTerminal_desc█Les terminaux permettent de connecter plus de personnes sur Terre via LinkLink. Un plus grand nombre de terminaux octroie une plus grosse capacité d'utilisateurs.
 
@@ -141,6 +145,7 @@ lp_xichang█Xichang
 lp_rocketComplex█Port spatial privé
 lp_australia█Woomera
 lp_india█Satish Dhawan
+
 
 
 

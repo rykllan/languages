@@ -36,7 +36,7 @@ linkLink_system█Система
 linkLink_production█Производство
 linkLink_statistics█Статистика
 
-linkLink_100_required█Вам нужно по крайней мере <color=#64B5F6><b>100</b></color> спутников LinkLink, чтобы
+linkLink_100_required█You need at least <color=#64B5F6><b>420</b></color> LinkLinks in order to run the service.
 
 linkLink_run█Запустить LinkLink
 linkLink_customerPrice█Цена для клиентов (в месяц)
@@ -62,6 +62,7 @@ linkLink_welcome_content█Позже в EarthX вы сможете создат
 
 buildLinkLinkInGiga█Произведите LinkLink на любой из Гигафабрик
 openGigaFactory█Открыть Гигафабрику
+
 
 
 

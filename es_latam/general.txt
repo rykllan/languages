@@ -11,6 +11,7 @@ confirm_turnExpendable█¿Realmente quieres remover el equipo de aterrizaje? El
 confirm_exitGame█Me abandonas, ¿eh? :(
 confirm_exitMainMenu█Otros juegos te dirían aqui, que tu progreso sin guardar se perdera.
 confirm_deleteSave█Quizá la próxima vez no caerás en bancarrota.
+confirm_staticFire█Do you really want to skip the static fire for this booster? It will have a higher chance of an explosion!
 
 yes█Si
 no█No
@@ -41,6 +42,7 @@ map_settings_header█Ajustes Rápidos
 map_settings_trackers_visible█Rastreadores Visibles
 map_settings_satellites_visible█Satélites Visibles
 map_settings_linklink_outline█Linea de LinkLink
+map_settings_mouseLight█Mouselight
 
 earth█Tierra
 mars█Marte
@@ -68,8 +70,10 @@ marsProductionHeader█<b>Producción</b> <size=50%>/cuatrimestre</size>
 marsUsageHeader█<b>Uso</b> <size=50%>/cuatrimestre</size>
 marsStorageHeader█<b>Almacenamiento</b>
 
+actionCamera█Action Camera
+switchView█Switch View
 
-
+sandbox█Sandbox
 
 
 

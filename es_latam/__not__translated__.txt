@@ -3,11 +3,26 @@
 --- NOT TRANSLATED ---
 
 
-File: general.txt (11)
-Original Translation: no█No
+File: general.txt (10)
+Original Translation: confirm_staticFire█Do you really want to skip the static fire for this booster? It will have a higher chance of an explosion!
 
 File: general.txt (12)
+Original Translation: no█No
+
+File: general.txt (13)
 Original Translation: ok█Ok
+
+File: general.txt (35)
+Original Translation: map_settings_mouseLight█Mouselight
+
+File: general.txt (55)
+Original Translation: actionCamera█Action Camera
+
+File: general.txt (56)
+Original Translation: switchView█Switch View
+
+File: general.txt (57)
+Original Translation: sandbox█Sandbox
 
 File: buildings.txt (4)
 Original Translation: building_hangar█Hangar
@@ -15,22 +30,28 @@ Original Translation: building_hangar█Hangar
 File: buildings.txt (9)
 Original Translation: building_category_production█Production
 
-File: buildings.txt (92)
+File: buildings.txt (28)
+Original Translation: noGigaFound█[No giga factories found.]
+
+File: buildings.txt (29)
+Original Translation: unitsToBuild█Units to build...
+
+File: buildings.txt (94)
 Original Translation: lp_vandenberg█Vandenberg
 
-File: buildings.txt (96)
+File: buildings.txt (98)
 Original Translation: lp_balkonur█Baikonur
 
-File: buildings.txt (97)
+File: buildings.txt (99)
 Original Translation: lp_plesetsk█Plesetsk
 
-File: buildings.txt (98)
+File: buildings.txt (100)
 Original Translation: lp_xichang█Xichang
 
-File: buildings.txt (100)
+File: buildings.txt (102)
 Original Translation: lp_australia█Woomera
 
-File: buildings.txt (101)
+File: buildings.txt (103)
 Original Translation: lp_india█Satish Dhawan
 
 File: company.txt (21)
@@ -48,11 +69,500 @@ Original Translation: payload_tesla█Tesla Roadster
 File: fails.txt (20)
 Original Translation: fail22█What goes up, musk crash down.
 
+File: levels.txt (0)
+Original Translation: research_header█Research
+
+File: levels.txt (1)
+Original Translation: research_technology█Technology
+
+File: levels.txt (2)
+Original Translation: research_prototypes█Prototypes
+
+File: levels.txt (3)
+Original Translation: research_back█Back
+
+File: levels.txt (4)
+Original Translation: research_view█View
+
+File: levels.txt (5)
+Original Translation: research_upgrades█Upgrades
+
+File: levels.txt (6)
+Original Translation: research_extras█Extras
+
+File: levels.txt (7)
+Original Translation: research_info█Info
+
+File: levels.txt (8)
+Original Translation: research_locked█Locked
+
+File: levels.txt (9)
+Original Translation: research_unlocked█Unlocked
+
+File: levels.txt (10)
+Original Translation: research_unlock█Unlock
+
+File: levels.txt (11)
+Original Translation: research_upgrade█Upgrade
+
+File: levels.txt (12)
+Original Translation: research_flights█Flights
+
+File: levels.txt (13)
+Original Translation: research_successes█Successes
+
+File: levels.txt (14)
+Original Translation: research_failures█Failures
+
+File: levels.txt (15)
+Original Translation: research_cost█Cost
+
+File: levels.txt (16)
+Original Translation: research_buildPrice█Build Price
+
+File: levels.txt (17)
+Original Translation: research_launchPrice█Launch Price
+
+File: levels.txt (18)
+Original Translation: research_totalIncome█Total Income
+
+File: levels.txt (19)
+Original Translation: research_totalLoss█Total Loss
+
+File: levels.txt (20)
+Original Translation: research_profit█Profit
+
+File: levels.txt (21)
+Original Translation: research_vehicleName█Enter vehicle name...
+
+File: levels.txt (22)
+Original Translation: research_milestones█Milestones
+
+File: levels.txt (23)
+Original Translation: research_availableTests█Available Tests
+
+File: levels.txt (24)
+Original Translation: research_test█Test
+
+File: levels.txt (25)
+Original Translation: research_testCompleted█Completed
+
+File: levels.txt (26)
+Original Translation: research_prototypeBuilt█{0} has been built.
+
+File: levels.txt (27)
+Original Translation: task_SkillPoints█Have {0} Skill Points! 
+
+File: levels.txt (28)
+Original Translation: task_LaunchPayloads█Launch {0} Payloads into Space! 
+
+File: levels.txt (29)
+Original Translation: task_Money█Have {0} <color=#16A085>$</color>! 
+
+File: levels.txt (30)
+Original Translation: task_LaunchSmallRocket█Launch {0} Small Rocket(s)!
+
+File: levels.txt (31)
+Original Translation: task_LaunchMediumRocket█Launch {0} Medium Rocket(s)!
+
 File: levels.txt (32)
-Original Translation: levelTitle32█https://youtu.be/CfqCQQe2E2s
+Original Translation: task_LaunchLargeRocket█Launch {0} Large Rocket(s)!
+
+File: levels.txt (33)
+Original Translation: task_LaunchHeavyRocket█Launch {0} Heavy Rocket(s)!
+
+File: levels.txt (34)
+Original Translation: task_LaunchSpaceshipOrbit█Launch {0} Spaceship(s) to Earth's Orbit!
+
+File: levels.txt (35)
+Original Translation: task_LaunchSpaceshipMars█Launch {0} Spaceship(s) to Mars!
+
+File: levels.txt (36)
+Original Translation: task_LaunchCargoCapsule█Launch {0} Cargo Capsule(s) to the ISS!
+
+File: levels.txt (37)
+Original Translation: task_LaunchCrewCapsule█Launch {0} Crew Capsule(s) to the ISS!
+
+File: levels.txt (38)
+Original Translation: task_LandManually█Manually Land with {0} Rocket(s)!
+
+File: levels.txt (39)
+Original Translation: task_LandAutomatically█Automatically Land with {0} Rocket(s)!
+
+File: levels.txt (40)
+Original Translation: task_ReuseRockets█Reuse {0} Rocket(s)!
+
+File: levels.txt (41)
+Original Translation: task_LandOnMars█Land with {0} Spaceship(s) on Mars!
 
 File: levels.txt (42)
-Original Translation: progress_landOnMars█Land on Mars {0} spaceship(s)
+Original Translation: task_CatchFairings█Catch {0} Fairings!
+
+File: levels.txt (43)
+Original Translation: task_MerlinEngineTest█Test {0} Rocket Engine(s)!
+
+File: levels.txt (44)
+Original Translation: task_MediumRocketStaticFireTest█Static fire {0} Medium Rocket(s)!
+
+File: levels.txt (45)
+Original Translation: task_LargeRocketStaticFireTest█Static fire {0} Large Rocket(s)!
+
+File: levels.txt (46)
+Original Translation: task_HeavyRocketStaticFireTest█Static fire {0} Heavy Rocket(s)!
+
+File: levels.txt (47)
+Original Translation: task_GrasshopperTest█Test {0} Rocket Hopper(s)!
+
+File: levels.txt (48)
+Original Translation: task_RaptorVacEngineTest█Fire {0} Spaceship Vacum Engine(s)!
+
+File: levels.txt (49)
+Original Translation: task_RaptorEngineTest█Fire {0} Spaceship Engine(s)!
+
+File: levels.txt (50)
+Original Translation: task_SnHop_20m_Test█Complete {0} 20m Hop(s) for Spaceship Hopper!
+
+File: levels.txt (51)
+Original Translation: task_SnHop_150m_Test█Complete {0} 150m Hop(s) for Spaceship Prototype!
+
+File: levels.txt (52)
+Original Translation: task_SnHop_20km_Test█Complete {0} 20km Hop(s) for Spaceship Prototype!
+
+File: levels.txt (53)
+Original Translation: task_LaunchMarsCamera█Complete Mars Camera Mission!
+
+File: levels.txt (54)
+Original Translation: task_LaunchTinTin█Complete TinTin Mission!
+
+File: levels.txt (55)
+Original Translation: task_LinkLinksTotal█Have {0} LinkLinks on Earth's Orbit!
+
+File: levels.txt (56)
+Original Translation: task_LinkLinkCustomers█Have {0} LinkLink Customers! 
+
+File: levels.txt (57)
+Original Translation: task_BuildSmallTerminals█Build {0} Small LinkLink Terminal(s)!
+
+File: levels.txt (58)
+Original Translation: task_BuildLargeTerminals█Build {0} Large LinkLink Terminal(s)!
+
+File: levels.txt (59)
+Original Translation: task_BuildMegaLaunchPad█Build {0} Mega Launch Pad(s)!
+
+File: levels.txt (60)
+Original Translation: task_BuildLandingZone█Build {0} Landing Zone(s) on Mars!
+
+File: levels.txt (61)
+Original Translation: task_BuildFuelFactory█Build {0} Fuel Factory(ies) on Mars!
+
+File: levels.txt (62)
+Original Translation: task_MarsOxygen█Transport {0} Oxygen to Mars with a Spaceship!
+
+File: levels.txt (63)
+Original Translation: task_MarsMartians█Have {0} Martians on Mars!
+
+File: levels.txt (64)
+Original Translation: task_MarsTerraform█Terraform Mars to {0}% using Nukes!
+
+File: levels.txt (65)
+Original Translation: task_BuildWaterFactory█Build {0} Water Factory(ies) on Mars!
+
+File: levels.txt (66)
+Original Translation: task_BuildMediumGreenhouse█Build {0} Greenhouse(s) on Mars!
+
+File: levels.txt (67)
+Original Translation: task_BuildSmallHotel█Build {0} Small Hotel(s) on Mars!
+
+File: levels.txt (68)
+Original Translation: task_BuildMediumHotel█Build {0} Medium Hotel(s) on Mars!
+
+File: levels.txt (69)
+Original Translation: task_BuildSmallWaterStorage█Build {0} Small Water Storage(s) on Mars!
+
+File: levels.txt (70)
+Original Translation: task_BuildMediumWaterStorage█Build {0} Medium Water Storage(s) on Mars!
+
+File: levels.txt (71)
+Original Translation: task_BuildSmallFuelStorage█Build {0} Small Fuel Storage(s) on Mars!
+
+File: levels.txt (72)
+Original Translation: task_BuildMediumFuelStorage█Build {0} Medium Fuel Storage(s) on Mars!
+
+File: levels.txt (73)
+Original Translation: task_BuildFactory█Build {0} Factory(ies)!
+
+File: levels.txt (74)
+Original Translation: task_BuildOffice█Build {0} Office(s)!
+
+File: levels.txt (75)
+Original Translation: progress_fundraiserHats█[<color=#FF9F43>FUNDRAISER</color>] Sell hats!
+
+File: levels.txt (76)
+Original Translation: progress_fundraiserBricks█[<color=#FF9F43>FUNDRAISER</color>] Sell bricks!
+
+File: levels.txt (77)
+Original Translation: progress_fundraiserNAF█[<color=#FF9F43>FUNDRAISER</color>] Sell (not) flamethrowers!
+
+File: levels.txt (78)
+Original Translation: progress_fundraiserRocketquilla█[<color=#FF9F43>FUNDRAISER</color>] Sell rocketquillas!
+
+File: levels.txt (79)
+Original Translation: progress_fundraiserShorts█[<color=#FF9F43>FUNDRAISER</color>] Sell short shorts!
+
+File: levels.txt (80)
+Original Translation: progress_fundraiserDesc█Use your fundraisers in the Company Window.
+
+File: levels.txt (81)
+Original Translation: progress_droneshipName█Droneship
+
+File: levels.txt (82)
+Original Translation: progress_droneshipDesc█If a Rocket Fairing is 4+ points full, you will need to Land with it on a Droneship. Manage Droneships in the Vehicle Window.
+
+File: levels.txt (83)
+Original Translation: progress_issSupplierMission█[<color=#d95eff>MISSION</color>] Commercial Resupply Service
+
+File: levels.txt (84)
+Original Translation: progress_issCrewMission█[<color=#d95eff>MISSION</color>] Commercial Crew Program
+
+File: levels.txt (85)
+Original Translation: progress_teslaRoadsterMission█[<color=#d95eff>MISSION</color>] Roadster
+
+File: levels.txt (86)
+Original Translation: progress_catMission█[<color=#d95eff>MISSION</color>] Cat
+
+File: levels.txt (87)
+Original Translation: progress_technicianMission█[<color=#d95eff>MISSION</color>] Technician in a Suitcase
+
+File: levels.txt (88)
+Original Translation: progress_truthMission█[<color=#d95eff>MISSION</color>] The Truth
+
+File: levels.txt (89)
+Original Translation: progress_marsCameraMission█[<color=#d95eff>MISSION</color>] Mars Camera
+
+File: levels.txt (90)
+Original Translation: progress_tinTinMission█[<color=#d95eff>MISSION</color>] TinTin
+
+File: levels.txt (91)
+Original Translation: progress_mattMission█[<color=#d95eff>MISSION</color>] Matt
+
+File: levels.txt (92)
+Original Translation: progress_spateMission█[<color=#d95eff>MISSION</color>] Prologue EP
+
+File: levels.txt (93)
+Original Translation: progress_linkLink█[<color=#81C784>PRODUCE</color>] LinkLinks
+
+File: levels.txt (94)
+Original Translation: progress_materials█[<color=#81C784>PRODUCE</color>] Materials
+
+File: levels.txt (95)
+Original Translation: progress_oxygen█[<color=#81C784>PRODUCE</color>] Oxygen
+
+File: levels.txt (96)
+Original Translation: progress_martians█[<color=#81C784>PRODUCE</color>] Martians
+
+File: levels.txt (97)
+Original Translation: progress_cybercar█[<color=#81C784>PRODUCE</color>] Cybercars
+
+File: levels.txt (98)
+Original Translation: progress_nuke█[<color=#81C784>PRODUCE</color>] Nukes
+
+File: levels.txt (99)
+Original Translation: vehicle_smallRocket█Small Rocket
+
+File: levels.txt (100)
+Original Translation: vehicle_smallRocketDesc█Small rocket can launch only Small Payloads to Earth Low Orbit.
+
+File: levels.txt (101)
+Original Translation: vehicle_mediumRocket█Medium Rocket
+
+File: levels.txt (102)
+Original Translation: vehicle_mediumRocketDesc█Medium rocket, after some Upgrades, can Land and send Cargo Capsules to the ISS. It can launch Medium Payloads to Earth Medium Orbit.
+
+File: levels.txt (103)
+Original Translation: vehicle_largeRocket█Large Rocket
+
+File: levels.txt (104)
+Original Translation: vehicle_largeRocketDesc█After Upgrades, it can automatically Land, send Crew Capsules to the ISS, Catch & reuse Fairings, and more. It can launch Medium Payloads to Earth Geostationary Orbit.
+
+File: levels.txt (105)
+Original Translation: vehicle_heavyRocket█Heavy Rocket
+
+File: levels.txt (106)
+Original Translation: vehicle_heavyRocketDesc█"3 Large Rockets glued together". It can launch Large Payloads to Earth Geostationary Orbit and even Mars Orbit.
+
+File: levels.txt (107)
+Original Translation: vehicle_superheavyRocket█Superheavy Rocket
+
+File: levels.txt (108)
+Original Translation: vehicle_superheavyRocketDesc█Superheavy Rockets are fully Reusable and you don't have to Refurbish them after every flight. It requires a Spaceship.
+
+File: levels.txt (109)
+Original Translation: vehicle_cargoCapsule█Cargo Capsule
+
+File: levels.txt (110)
+Original Translation: vehicle_cargoCapsuleDesc█Get NASA's contract for CRS missions and supply the International Space Station every 2 years.
+
+File: levels.txt (111)
+Original Translation: vehicle_crewCapsule█Crew Capsule
+
+File: levels.txt (112)
+Original Translation: vehicle_crewCapsuleDesc█Get NASA's contract for CCP missions and send new Crew to the International Space Station every 2 years. In Crew Capsule, you can launch normal Cargo as well.
+
+File: levels.txt (113)
+Original Translation: vehicle_cargoSpaceship█Cargo Spaceship
+
+File: levels.txt (114)
+Original Translation: vehicle_cargoSpaceshipDesc█Send more Payloads to Earth's orbits, as well as to Mars! In order to Land on Mars, you will need Tanker Spaceship.
+
+File: levels.txt (115)
+Original Translation: vehicle_crewSpaceship█Crew Spaceship
+
+File: levels.txt (116)
+Original Translation: vehicle_crewSpaceshipDesc█Send humans to the International Space Station or Mars Surface. 
+
+File: levels.txt (117)
+Original Translation: vehicle_tankerSpaceship█Tanker Spaceship
+
+File: levels.txt (118)
+Original Translation: vehicle_tankerSpaceshipDesc█It's required to Refuel Spaceships on Earth's Orbit.
+
+File: levels.txt (119)
+Original Translation: upgrade_basic█Basic
+
+File: levels.txt (120)
+Original Translation: upgrade_basicDesc█Build Costs & Explosions Rate reduction.
+
+File: levels.txt (121)
+Original Translation: upgrade_telemetry█Telemetry
+
+File: levels.txt (122)
+Original Translation: upgrade_telemetryDesc█Allows you to see how Fast and High the rockets are.
+
+File: levels.txt (123)
+Original Translation: upgrade_webcast█Webcasts
+
+File: levels.txt (124)
+Original Translation: upgrade_webcastDesc█Allows you to see what the Rocket sees.
+
+File: levels.txt (125)
+Original Translation: upgrade_cargoCapsuleSupport█Cargo Capsule Support
+
+File: levels.txt (126)
+Original Translation: upgrade_cargoCapsuleSupportDesc█Allows you to launch Cargo Capsules with this Rocket.
+
+File: levels.txt (127)
+Original Translation: upgrade_crewCapsuleSupport█Crew Capsule Support
+
+File: levels.txt (128)
+Original Translation: upgrade_crewCapsuleSupportDesc█Allows you to launch Cargo and Crew Capsules with this Rocket.
+
+File: levels.txt (129)
+Original Translation: upgrade_manualLanding█Manual Landing
+
+File: levels.txt (130)
+Original Translation: upgrade_manualLandingDesc█Allows you to Manually Land with this rocket after its mission. Don't forget, that manually landing rockets require you to click the "Click to Land" button!
+
+File: levels.txt (131)
+Original Translation: upgrade_automaticLanding█Automatic Landing
+
+File: levels.txt (132)
+Original Translation: upgrade_automaticLandingDesc█This rocket will Land Automatically after its mission.
+
+File: levels.txt (133)
+Original Translation: upgrade_fairingCatching█Fairing Catching
+
+File: levels.txt (134)
+Original Translation: upgrade_fairingCatchingDesc█You will be able to try to Catch the Fairings after rocket's mission.
+
+File: levels.txt (135)
+Original Translation: upgrade_rideshare█Rideshare
+
+File: levels.txt (136)
+Original Translation: upgrade_rideshareDesc█Rideshare allows you to Launch More Payloads with one Rocket at once!
+
+File: levels.txt (137)
+Original Translation: prototype_merlinEngine█Rocket Engine
+
+File: levels.txt (138)
+Original Translation: prototype_merlinEngineDesc█Rocket Engine is used in your normal rockets. This prototype will allow you to develop it even further!
+
+File: levels.txt (139)
+Original Translation: prototype_grasshopper█Rocket Hopper
+
+File: levels.txt (140)
+Original Translation: prototype_grasshopperDesc█This prototype will allow you to Practice the Landings of your Rockets.
+
+File: levels.txt (141)
+Original Translation: prototype_raptorEngine█Spaceship Engine
+
+File: levels.txt (142)
+Original Translation: prototype_raptorEngineDesc█Spaceship Engine will be used in your Spaceships and Superheavy Rockets. 
+
+File: levels.txt (143)
+Original Translation: prototype_starhopper█Spaceship Hopper
+
+File: levels.txt (144)
+Original Translation: prototype_starhopperDesc█This prototype will be able to tell you if the idea of building a plane-sized Spaceships is stupid or not.
+
+File: levels.txt (145)
+Original Translation: prototype_raptorVacEngine█Spaceship Vacum Engine
+
+File: levels.txt (146)
+Original Translation: prototype_raptorVacEngineDesc█Spaceship Vacum Engine will be used in your Spaceships when they are in Space.
+
+File: levels.txt (147)
+Original Translation: prototype_spaceshipPrototype█Spaceship Prototype
+
+File: levels.txt (148)
+Original Translation: prototype_spaceshipPrototypeDesc█Series of improved Spaceship prototypes will allow you to master the Production and Reliability of the Spaceships.
+
+File: levels.txt (149)
+Original Translation: test_engineShortFire█Short Fire
+
+File: levels.txt (150)
+Original Translation: test_engineShortFireDesc█To see if the Engine fires up properly.
+
+File: levels.txt (151)
+Original Translation: test_engineFullLenghtFire█Full-Length Fire
+
+File: levels.txt (152)
+Original Translation: test_engineFullLenghtFireDesc█To see if the Engine will work for the Flight Duration.
+
+File: levels.txt (153)
+Original Translation: test_tanking█Tanking Test
+
+File: levels.txt (154)
+Original Translation: test_tankingDesc█To see if the Tank leaks.
+
+File: levels.txt (155)
+Original Translation: test_pressure█Pressure Test
+
+File: levels.txt (156)
+Original Translation: test_pressureDesc█To see if the Tank can handle required Pressure.
+
+File: levels.txt (157)
+Original Translation: test_staticFire█Static Fire
+
+File: levels.txt (158)
+Original Translation: test_staticFireDesc█To see if the Engines are working properly with the Fuel Tank.
+
+File: levels.txt (159)
+Original Translation: test_hop20m█20m Hop
+
+File: levels.txt (160)
+Original Translation: test_hop20mDesc█To see if the Engine is stable during short 20m Flight.
+
+File: levels.txt (161)
+Original Translation: test_hop150m█150m Hop
+
+File: levels.txt (162)
+Original Translation: test_hop150mDesc█To see if the Vehicle is stable during a longer Flight.
+
+File: levels.txt (163)
+Original Translation: test_hop20km█20km Hop
+
+File: levels.txt (164)
+Original Translation: test_hop20kmDesc█To see if the vehicle can Land after re-entering the Orbit.
 
 File: linklink.txt (2)
 Original Translation: linkLink_tintin_header█First LinkLink satellites in orbit!
@@ -82,7 +592,7 @@ File: linklink.txt (19)
 Original Translation: linkLink_statistics█Statistics
 
 File: linklink.txt (20)
-Original Translation: linkLink_100_required█You need at least <color=#64B5F6><b>100</b></color> LinkLinks in order to run the service.
+Original Translation: linkLink_100_required█You need at least <color=#64B5F6><b>420</b></color> LinkLinks in order to run the service.
 
 File: linklink.txt (21)
 Original Translation: linkLink_run█Run LinkLink
@@ -135,14 +645,164 @@ Original Translation: menu_loadGame█Load Game
 File: mainMenu.txt (7)
 Original Translation: menu_gameOver█GAMEOVER! :(
 
+File: mainMenu.txt (15)
+Original Translation: menu_hard█<b>Hard</b>&%<size=75%>Higher probability you go bankrupt.
+
 File: mainMenu.txt (28)
 Original Translation: menu_gameOverSetting█Gameover?
 
 File: mainMenu.txt (29)
-Original Translation: menu_video█Video
+Original Translation: menu_tutorial█Tutorial?
+
+File: mainMenu.txt (30)
+Original Translation: menu_cameraSensitivity█Camera Sensitivity
+
+File: mainMenu.txt (31)
+Original Translation: menu_buildSensitivity█Build Sensitivity
 
 File: mainMenu.txt (32)
+Original Translation: menu_video█Video
+
+File: mainMenu.txt (35)
 Original Translation: menu_audio█Audio
+
+File: mainMenu.txt (38)
+Original Translation: menu_tutorialVoice█Tutorial Voice?
+
+File: mainMenu.txt (44)
+Original Translation: translated█<b>{0}</b>&%Translated: {1}%&%{2}
+
+File: mainMenu.txt (45)
+Original Translation: dubbing█Dubbing: {0}
+
+File: mainMenu.txt (46)
+Original Translation: noDubbing█No Dubbing
+
+File: modules.txt (5)
+Original Translation: mdl_s_engine█Simple Engine
+
+File: modules.txt (6)
+Original Translation: mdl_a_engine█Advanced Engine
+
+File: modules.txt (7)
+Original Translation: mdl_a4_engine█4 Advanced Engines
+
+File: modules.txt (8)
+Original Translation: mdl_a9_engine█9 Advanced Engines
+
+File: modules.txt (9)
+Original Translation: mdl_m27_engine█37 Methane Engines
+
+File: modules.txt (11)
+Original Translation: mdl_s_fueltank█Small Fuel Tank
+
+File: modules.txt (12)
+Original Translation: mdl_m_fueltank█Medium Fuel Tank
+
+File: modules.txt (13)
+Original Translation: mdl_l_fueltank█Large Fuel Tank
+
+File: modules.txt (14)
+Original Translation: mdl_vl_fueltank█Super Fuel Tank
+
+File: modules.txt (16)
+Original Translation: mdl_s_computer█Simple Computer
+
+File: modules.txt (17)
+Original Translation: mdl_a_computer█Advanced Computer
+
+File: modules.txt (18)
+Original Translation: mdl_chip_computer█Computer Chip
+
+File: modules.txt (19)
+Original Translation: mdl_sn_computer█Skynet Computer
+
+File: modules.txt (20)
+Original Translation: mdl_booster_connector█Booster Connector
+
+File: modules.txt (21)
+Original Translation: mdl_camera█Camera
+
+File: modules.txt (22)
+Original Translation: mdl_s_altitude█Altitude Sensor
+
+File: modules.txt (23)
+Original Translation: mdl_s_heat█Heat Sensor
+
+File: modules.txt (24)
+Original Translation: mdl_s_battery█Small Battery
+
+File: modules.txt (25)
+Original Translation: mdl_a_battery█Large Battery
+
+File: modules.txt (26)
+Original Translation: mdl_a_antenna█Advanced Antenna
+
+File: modules.txt (27)
+Original Translation: mdl_s_antenna█Simple Antenna
+
+File: modules.txt (28)
+Original Translation: mdl_gps█GPS
+
+File: modules.txt (30)
+Original Translation: mdl_s_fairings█Small Fairing
+
+File: modules.txt (31)
+Original Translation: mdl_m_fairings█Medium Fairing
+
+File: modules.txt (32)
+Original Translation: mdl_l_fairings█Large Fairing
+
+File: modules.txt (33)
+Original Translation: mdl_vc_fairings█Vehicle Connector
+
+File: modules.txt (34)
+Original Translation: mdl_fairingParachutes█Fairing Parachutes
+
+File: modules.txt (36)
+Original Translation: mdl_a_gridfins█Aluminium Grid Fins
+
+File: modules.txt (37)
+Original Translation: mdl_t_gridfins█Titanium Grid Fins
+
+File: modules.txt (38)
+Original Translation: mdl_m_landingLegs█Manual Landing Legs
+
+File: modules.txt (39)
+Original Translation: mdl_a_landingLegs█Automatic Landing Legs
+
+File: modules.txt (41)
+Original Translation: mdl_light_structure█Light Body
+
+File: modules.txt (42)
+Original Translation: mdl_heavy_structure█Heavy Body
+
+File: modules.txt (43)
+Original Translation: mdl_a_escape_engines█Escape Engines
+
+File: modules.txt (44)
+Original Translation: mdl_a_parachutes█Advanced Parachutes
+
+File: modules.txt (45)
+Original Translation: mdl_s_parachutes█Simple Parachutes
+
+File: modules.txt (47)
+Original Translation: mdl_methane_fueltank█Methane Fuel Tank
+
+File: modules.txt (48)
+Original Translation: mdl_methane_engine█6 Methane Engines
+
+File: modules.txt (49)
+Original Translation: mdl_stainlesssteel_structure█Stainless Steel Body
+
+File: modules.txt (50)
+Original Translation: mdl_cargoUtility█Cargo Utility
+
+File: modules.txt (51)
+Original Translation: mdl_crewUtility█Crew Utility
+
+File: modules.txt (52)
+Original Translation: mdl_fuelUtility█Fuel Utility
 
 File: news.txt (74)
 Original Translation: news_FundraisingNotFlamethrowers_header█The shipping companies have said that...
@@ -276,20 +936,158 @@ Original Translation: matt_failure_header█The {1}'s rescue mission will not ha
 File: news.txt (125)
 Original Translation: matt_failure_content█Today we witnessed dramatic events that took place in the atmosphere. Specially prepared, unmanned ship, which was supposed to reach Mars with a rescue mission, burned down in the atmosphere. &%&%It was the last attempt to save Matt waiting for help in the destroyed Martian base. {1} and NASA no longer have the right rockets. &%&%Rest in peace, Matt.
 
+File: tooltips.txt (0)
+Original Translation: tooltip_companyProgress█Research
+
+File: tooltips.txt (2)
+Original Translation: tooltip_contracts█Contracts
+
+File: tooltips.txt (9)
+Original Translation: tooltip_production█Production
+
+File: tooltips.txt (10)
+Original Translation: tooltip_thxKarolina█Thank you, Karolina! I got it!
+
+File: vehicles.txt (10)
+Original Translation: droneships█Droneships
+
+File: vehicles.txt (13)
+Original Translation: nicknameInput█Enter nickname...
+
+File: vehicles.txt (22)
+Original Translation: move█Move
+
+File: vehicles.txt (23)
+Original Translation: staticFire█Static Fire
+
+File: vehicles.txt (26)
+Original Translation: repair█Refurbish
+
+File: vehicles.txt (27)
+Original Translation: turnExpendable█Last Flight
+
+File: vehicles.txt (28)
+Original Translation: skip█Skip
+
+File: vehicles.txt (29)
+Original Translation: detailedCosts█Detailed costs
+
+File: vehicles.txt (30)
+Original Translation: leftFairing█Left Fairing
+
+File: vehicles.txt (31)
+Original Translation: rightFairing█Right Fairing
+
+File: vehicles.txt (32)
+Original Translation: secondStage█Second Stage
+
+File: vehicles.txt (33)
+Original Translation: firstStage█First Stage
+
+File: vehicles.txt (34)
+Original Translation: generalRefurbishmentPrice█General refurbishment price
+
 File: vehicles.txt (35)
-Original Translation: marsTryingLand█Trying to Land on <color=#E17055>Mars</color>
+Original Translation: xLeft█{0} left
 
 File: vehicles.txt (36)
-Original Translation: earthTryingLand█Trying to Land on <color=#64B5F6>Earth</color>
+Original Translation: isRocketProfitable█Is this rocket profitable?
+
+File: vehicles.txt (37)
+Original Translation: rocketFinance█Finance
+
+File: vehicles.txt (38)
+Original Translation: droneship█Droneship
+
+File: vehicles.txt (39)
+Original Translation: droneship_moveCosts█Move costs
+
+File: vehicles.txt (40)
+Original Translation: droneship_buildCosts█Build costs
+
+File: vehicles.txt (47)
+Original Translation: marsTryingLand█Trying to Land on <color=#E17055>Mars</color>
 
 File: vehicles.txt (48)
+Original Translation: earthTryingLand█Trying to Land on <color=#64B5F6>Earth</color>
+
+File: vehicles.txt (50)
+Original Translation: onDroneship█On a Droneship. Coming back soon!
+
+File: vehicles.txt (52)
+Original Translation: readyToFly█Ready to Fly
+
+File: vehicles.txt (53)
+Original Translation: failureChance█&%Failure Chance: {0}%
+
+File: vehicles.txt (54)
+Original Translation: actionRequired█Action Required
+
+File: vehicles.txt (57)
+Original Translation: repairing█Refurbishing...
+
+File: vehicles.txt (61)
 Original Translation: manual█Manual
 
+File: vehicles.txt (75)
+Original Translation: launchSetup_noRocketsFound█[No rockets found.]&%
+
 File: vehicles.txt (76)
+Original Translation: launchSetup_noSpaceshipsFound█[No spaceships found.]&%
+
+File: vehicles.txt (77)
+Original Translation: launchSetup_noCapsulesFound█[No capsules found.]
+
+File: vehicles.txt (78)
+Original Translation: launchSetup_noTankersFound█[No tankers found.]
+
+File: vehicles.txt (83)
+Original Translation: launchSetup_spaceshipRequired█[Spaceship Required]
+
+File: vehicles.txt (84)
+Original Translation: launchSetup_rocketRequired█[Rocket Required]
+
+File: vehicles.txt (85)
+Original Translation: launchSetup_superheavyRequired█[Superheavy Required]
+
+File: vehicles.txt (86)
+Original Translation: noPayloadsSelected█No Payloads selected!
+
+File: vehicles.txt (87)
+Original Translation: noLaunchPadSelected█No LaunchPad selected!
+
+File: vehicles.txt (88)
+Original Translation: noISSDocks█No space in the ISS!
+
+File: vehicles.txt (89)
+Original Translation: noTankerSelected█No Tanker selected!
+
+File: vehicles.txt (90)
+Original Translation: noSpaceInParkingOrbit█No space in Parking Orbit! 25/25
+
+File: vehicles.txt (97)
 Original Translation: launchSetup_pizza█Pizza
 
-File: vehicles.txt (92)
+File: vehicles.txt (113)
 Original Translation: launchPanel_speedMetric█km/h
 
-File: vehicles.txt (93)
+File: vehicles.txt (114)
 Original Translation: launchPanel_altitudeMetric█km
+
+File: vehicles.txt (128)
+Original Translation: missionReportSkillPoints█Skill points
+
+File: vehicles.txt (129)
+Original Translation: profit█Profit
+
+File: vehicles.txt (130)
+Original Translation: loss█Loss
+
+File: vehicles.txt (131)
+Original Translation: income█Income
+
+File: vehicles.txt (132)
+Original Translation: potentialLoss█Potential Loss
+
+File: vehicles.txt (133)
+Original Translation: potentialProfit█Potential Profit

@@ -15,30 +15,47 @@ rocketRequiresCapsule█Fusée (Requiert capsule)
 rocketRequiresSpaceship█Fusée (Requiert navette spatiale)
 
 vehicles█Véhicules
-vehicles_newProjectHeader█Créer un nouveau projet
-vehicles_newProjectButton█Nouveau projet
+droneships█Droneships
 vehicles_newVehicleHeader█Créer un nouveau véhicule
 vehicles_newVehicleButton█Nouveau véhicule
+
+nicknameInput█Enter nickname...
 
 vehicles_projects█Projets
 vehicles_view█Voir
 
 land█Atterrir
 
-reusedVehicle█Véhicule réutilisé :
 buildCosts█Coûts de production
-buildTime█Temps de production
 originalBuildCosts█Coûts de production originaux
 optimizedBuildCosts█Coûts de production optimisés
-launchCosts█Côuts de lancement
 
 inQueue█En file d'attente&%<size=14><b><color=#64B5F6>Le module sera construit dans un petit moment
 
 build█Construire		
+move█Move
+staticFire█Static Fire
 built█Construit
 launch█Lancer
-repair█Réparer
-turnExpendable█Dernier vol
+repair█Refurbish
+turnExpendable█Last Flight
+skip█Skip
+
+detailedCosts█Detailed costs
+leftFairing█Left Fairing
+rightFairing█Right Fairing
+secondStage█Second Stage
+firstStage█First Stage
+generalRefurbishmentPrice█General refurbishment price
+
+xLeft█{0} left
+
+isRocketProfitable█Is this rocket profitable?
+rocketFinance█Finance
+
+droneship█Droneship
+droneship_moveCosts█Move costs
+droneship_buildCosts█Build costs
 
 earthPO█Garé sur le Parking Orbital de la <color=#64B5F6>Terre</color> (Quitte en <b>{0}</b>)
 marsPO█Garé sur le Parking Orbital de <color=#E17055>Mars</color> (Quitte en <b>{0}</b>)
@@ -49,16 +66,16 @@ earthLanding█En train d'atterir sur <color=#64B5F6>Earth</color>
 marsTryingLand█Essaie d'atterir sur <color=#E17055>Mars</color>
 earthTryingLand█Essaie d'atterir sur <color=#64B5F6>Earth</color>
 marsLanded█Atteri sur <color=#E17055>Mars</color>
+onDroneship█On a Droneship. Coming back soon!
 
 readyToLaunch█<b><color=#64B5F6>{0} des {1}</b></color>&%<size=70%>sont prêts au lancement!
-
-capabilities█Capacités
-reliability█Fiabilité
-condition█Etat
+readyToFly█Ready to Fly
+failureChance█&%Failure Chance: {0}%
+actionRequired█Action Required
 
 notBuiltYet█Pas encore construit
 constructing█En construction...
-repairing█En réparation...
+repairing█Refurbishing...
 flying█En vol
 dockedToISS█Atterri à la SSI (Reviendra bientôt.)
 
@@ -70,11 +87,6 @@ spaceshipsOnly█Réservé aux navettes spatiales
 capsulesOnly█Réservé aux capsules
 fairingRecovery█Récupération de la coiffe
 
-landingNotSupported█Atterrissage impossible !&%Tu as besoin de :<size=12><b>&%- ailettes en grille & pieds d'atterrissage&%-Batterie&%-GPS (pour réutilisation automatique)&%-4 ou 9 moteurs avancés</b></size>&%
-capsulesNotSupported█Capsules impossible !&%Tu as besoin de :<size=12><b>&%-Batterie&%-GPS&%-4 ou 9 moteurs avancés</b></size>&%
-heavyNotSupported█Fusée lourde non supportée !&%Tu as besoin de :<size=12><b>&%-fusée à réutilisation automatique</b></size>&%
-fairingCatchingNotSupported█Récupération des coiffes impossible !&%Tu as besoin de :<size=12><b>&%- fusée à réutilisation automatique</b></size>&%
-
 payload█Charge utile
 crew█Equipage
 cargo█Cargaison
@@ -85,10 +97,24 @@ launchSetup_header█Préparation du lancement
 launchSetup_missionName█Titre de la mission...
 launchSetup_mission█Mission
 launchSetup_noVehiclesFound█[Aucun véhicule trouvé.]
+launchSetup_noRocketsFound█[No rockets found.]&%
+launchSetup_noSpaceshipsFound█[No spaceships found.]&%
+launchSetup_noCapsulesFound█[No capsules found.]
+launchSetup_noTankersFound█[No tankers found.]
 launchSetup_noPayloadsFound█[Aucune charge en capacité trouvée.]
 launchSetup_selectVehicle█Sélectionner un véhicule
 launchSetup_selectLaunchPad█Sélectionner une rampe
 launchSetup_selectTanker█Vaisseau de ravitaillement en orbite
+
+launchSetup_spaceshipRequired█[Spaceship Required]
+launchSetup_rocketRequired█[Rocket Required]
+launchSetup_superheavyRequired█[Superheavy Required]
+
+noPayloadsSelected█No Payloads selected!
+noLaunchPadSelected█No LaunchPad selected!
+noISSDocks█No space in the ISS!
+noTankerSelected█No Tanker selected!
+noSpaceInParkingOrbit█No space in Parking Orbit! 25/25
 
 launchSetup_barge█Barge
 launchSetup_lz1█LZ-1
@@ -134,16 +160,13 @@ missionReportSecondVehicleLanding█Atterrissage du second véhicule
 missionReportMissionIncome█Revenus de la mission
 missionReportDamageCompensation█Compensation des dégâts
 missionReportLandedRocket█Fusée atterrie
-profit█Profits
-loss█Pertes
+missionReportSkillPoints█Skill points
+profit█Profit
+loss█Loss
+income█Income
+potentialLoss█Potential Loss
+potentialProfit█Potential Profit
 
-creator_header█Nouveau projet
-creator_vehicleName█Nom du véhicule...
-creator_createProject█Créer projet
-creator_vehicleCanGoAnywhere█Ce véhicule peut aller partout où tu voudras.
-creator_capsuleRocket█Cette fusée peut seulement transporter des capsules.
-creator_spaceshipRocket█Cette fusée peut seulement transporter des navettes spatiales.
-no_module_unlocked█Aucun module n'est déverrouillé.
 
 
 

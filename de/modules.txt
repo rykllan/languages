@@ -1,19 +1,5 @@
 
 
-type_fairings█Verkleidung
-type_fuelTank█Treibstofftank
-type_engine█Triebwerk
-type_computer█Computer
-type_gridFins█Grid Fins
-type_landingLegs█Landebeine
-type_battery█Batterie
-type_other█Anderes
-type_body█Körper
-type_parachutes█Fallschirme
-type_sensors█Sensoren
-type_antenna█Antenne
-type_utility█Utility
-
 module_factory_small█Klein
 module_factory_medium█Mittel
 module_factory_large█Groß
@@ -21,72 +7,74 @@ module_factory_giga█Giga
 
 ---Engines---█---Engines---
 
-mdl_s_engine█Einfaches Triebwerk,Erforderlich für kleine Raketen.
-mdl_a_engine█Fortgeschrittenes Triebwerk,Erforderlich für mittlere Raketen.
-mdl_a4_engine█4 Fortgeschrittene Triebwerke,Erforderlich für Raketen mit manueller Landung.
-mdl_a9_engine█9 Fortschrittliche Triebwerke,erforderlich für große/automatische Landungsraketen.
-mdl_m27_engine█37 Methan-Triebwerke,Erforderlich für sehr große Raketen. (Superheavy Boi)
+mdl_s_engine█Simple Engine
+mdl_a_engine█Advanced Engine
+mdl_a4_engine█4 Advanced Engines
+mdl_a9_engine█9 Advanced Engines
+mdl_m27_engine█37 Methane Engines
 
 
 ---FuelTanks---█---FuelTanks---
 
-mdl_s_fueltank█Kleiner Treibstofftank,Erforderlich für kleine Raketen.
-mdl_m_fueltank█Mittlerer Treibstofftank,Erforderlich für mittelere-/Kapselraketen.
-mdl_l_fueltank█Großer Treibstofftank,Erforderlich für große/landende Raketen.
-mdl_vl_fueltank█Supertreibstofftank,Erforderlich für sehr große Raketen/Raumschiff. (Superheavy Boi)
+mdl_s_fueltank█Small Fuel Tank
+mdl_m_fueltank█Medium Fuel Tank
+mdl_l_fueltank█Large Fuel Tank
+mdl_vl_fueltank█Super Fuel Tank
 
 
 ---Computers---█---Computers---
 
-mdl_s_computer█Einfacher Computer,Erforderlich für kleine und mittlere Raketen.
-mdl_a_computer█Fortgeschrittener Computer,Erforderlich für Groß-/Kapsel-/Landungsraketen.
-mdl_sn_computer█Skynet-Computer,Erforderlich für sehr große Raketen/Raumschiff.
-mdl_s_battery█Kleine Batterie,Erforderlich für manuelle Landung/Kapselraketen.
-mdl_a_battery█Erweiterte Batterie,Erforderlich für automatische Lande-/Kapselraketen/Raumschiff.
-mdl_gps█GPS,Erforderlich für Kapsel/Landungsraketen.
+mdl_s_computer█Simple Computer
+mdl_a_computer█Advanced Computer
+mdl_chip_computer█Computer Chip
+mdl_sn_computer█Skynet Computer
+mdl_booster_connector█Booster Connector
+mdl_camera█Camera
+mdl_s_altitude█Altitude Sensor
+mdl_s_heat█Heat Sensor
+mdl_s_battery█Small Battery
+mdl_a_battery█Large Battery
+mdl_a_antenna█Advanced Antenna
+mdl_s_antenna█Simple Antenna
+mdl_gps█GPS
 
 
 ---Fairings---█---Fairings---
 
-mdl_s_fairings█Kleine Verkleidung,Erforderlich für kleine Raketen.
-mdl_m_fairings█Mittlere Verkleidung,Erforderlich für mittlere Raketen.
-mdl_l_fairings█Große Verkleidung,Erforderlich für große Raketen.
-mdl_vc_fairings█Fahrzeug-Steckverbinder,Erforderlich für Kapselraketen/Raumschiff.
-mdl_fairingParachutes█Verkleidungsfallschirme, wiederverwendbare Rakete ist erforderlich, um die Verkleidungen zu bergen.
+mdl_s_fairings█Small Fairing
+mdl_m_fairings█Medium Fairing
+mdl_l_fairings█Large Fairing
+mdl_vc_fairings█Vehicle Connector
+mdl_fairingParachutes█Fairing Parachutes
 
 
 ---Landing Stuff---█---Landing Stuff---
 
-mdl_a_gridfins█Aluminium Grid Fins,Erforderlich für manuell landende Raketen.
-mdl_t_gridfins█Titanium Grid Fins,Erforderlich für automatisch landende Raketen.
-mdl_m_landingLegs█Manuelle Landebeine,Erforderlich für manuell landende Raketen.
-mdl_a_landingLegs█Automatische Landebeine,Erforderlich für automatisch landende Raketen.
-mdl_booster_connector█Booster Connector,Required for sidebooster rockets. (Falcon Heavy Boi)
+mdl_a_gridfins█Aluminium Grid Fins
+mdl_t_gridfins█Titanium Grid Fins
+mdl_m_landingLegs█Manual Landing Legs
+mdl_a_landingLegs█Automatic Landing Legs
 
 
 ---Capsule Stuff---█---Capsule Stuff---
 
-mdl_light_structure█Leichter Körper,Erforderlich für Frachtkapseln.
-mdl_heavy_structure█Schwerer Körper,Erforderlich für Besatzungskapseln.
-mdl_chip_computer█Computerchip,Erforderlich für Kapseln.
-mdl_a_antenna█Erweiterte Antenne,Erforderlich für Besatzungskapseln.
-mdl_s_antenna█Einfache Antenne,Erforderlich für Frachtkapseln.
-mdl_a_escape_engines█Fortschrittliche Notfalltriebwerke,Erforderlich für Besatzungskapseln.
-mdl_s_escape_engines█Einfache Rettungstriebwerke,Erforderlich für Besatzungskapseln.
-mdl_a_parachutes█Fortgeschrittene Fallschirme,Erforderlich für Besatzungskapseln.
-mdl_s_parachutes█Einfache Fallschirme,Erforderlich für Frachtkapseln.
-mdl_camera█Kamera,Kamera ermöglicht dir zu sehen was die Raketen sehen (Webcast).
-mdl_s_altitude(capsule)█Höhensensor,Erforderlich für Besatzungskapseln.
-mdl_s_altitude(rocket)█Höhensensor,Dieser Sensor liefert mehr Telemetriedaten zum Start. Sieh wie schnell deine Rakete ist!
-mdl_s_heat█Wärmesensor,Erforderlich für Besatzungskapseln.
----Spaceship Stuff---█---Spaceship Stuff---
-mdl_methane_fueltank█Methan-Treibstofftank,erforderlich für Raumschiffe.
-mdl_methane_engine█6 Methantriebwerke,erforderlich für Raumschiffe.
-mdl_stainlesssteel_structure█Gehäuse aus Edelstahl, erforderlich für Raumschiffe.
+mdl_light_structure█Light Body
+mdl_heavy_structure█Heavy Body
+mdl_a_escape_engines█Escape Engines
+mdl_a_parachutes█Advanced Parachutes
+mdl_s_parachutes█Simple Parachutes
 
-mdl_cargoUtility█Cargo Utility,Cargo Spaceship Module
-mdl_crewUtility█Crew Utility,Crew Spaceship Module
-mdl_fuelUtility█Fuel Utility,Tanker Spaceship
+
+---Spaceship Stuff---█---Spaceship Stuff---
+
+mdl_methane_fueltank█Methane Fuel Tank
+mdl_methane_engine█6 Methane Engines
+mdl_stainlesssteel_structure█Stainless Steel Body
+
+mdl_cargoUtility█Cargo Utility
+mdl_crewUtility█Crew Utility
+mdl_fuelUtility█Fuel Utility
+
 
 
 

@@ -1,19 +1,5 @@
 
 
-type_fairings█Carenado
-type_fuelTank█Tanque de combustible
-type_engine█Motor
-type_computer█Computadora
-type_gridFins█Aletas de rejilla
-type_landingLegs█Patas de aterrizaje
-type_battery█Batería
-type_other█Otros
-type_body█Cuerpo
-type_parachutes█Paracaídas
-type_sensors█Sensores
-type_antenna█Antena
-type_utility█Utility
-
 module_factory_small█Small
 module_factory_medium█Medium
 module_factory_large█Large
@@ -21,72 +7,74 @@ module_factory_giga█Giga
 
 ---Engines---█---Motores---
 
-mdl_s_engine█Motor simple, Requerido para cohetes pequeños.
-mdl_a_engine█Motor avanzado, Requerido para cohetes medianos.
-mdl_a4_engine█4 Motores avanzados, Requerido para cohetes de aterrizaje manual.
-mdl_a9_engine█9 Motores avanzados, Requerido para cohetes grandes o de aterrizaje automático.
-mdl_m27_engine█27 Motores de metano, Requerido para cohetes muy grandes. (Superheavy Boi)
+mdl_s_engine█Simple Engine
+mdl_a_engine█Advanced Engine
+mdl_a4_engine█4 Advanced Engines
+mdl_a9_engine█9 Advanced Engines
+mdl_m27_engine█37 Methane Engines
 
 
 ---FuelTanks---█---Tanques de combustible---
 
-mdl_s_fueltank█Tanque de combustible pequeño, Requerido para cohetes pequeños.
-mdl_m_fueltank█Tanque de combustible mediano, Requerido para cohetes medianos o cápsulas.
-mdl_l_fueltank█Tanque de combustible grande, Requerido para cohetes grandes o aterrizaje.
-mdl_vl_fueltank█Super tanque de combustible, Requerido para cohetes muy grandes o naves espaciales. (Superheavy Boi)
+mdl_s_fueltank█Small Fuel Tank
+mdl_m_fueltank█Medium Fuel Tank
+mdl_l_fueltank█Large Fuel Tank
+mdl_vl_fueltank█Super Fuel Tank
 
 
 ---Computers---█---Computadoras---
 
-mdl_s_computer█Computadora simple, Requerida para cohetes pequeños y medianos.
-mdl_a_computer█Computadora avanzada, Requerida para cohetes grandes, de aterrizaje o cápsulas.
-mdl_sn_computer█Computadora de Skynet, Requerida para cohetes muy grandes o naves espaciales.
-mdl_s_battery█Batería pequeña, Requerida para cohetes de aterrizaje manual o cápsulas.
-mdl_a_battery█Batería avanzada, Requerida para cohetes, cápsulas y naves espaciales de aterrizaje automático.
-mdl_gps█GPS, Requerido para cohetes de aterrizaje y cápsulas.
+mdl_s_computer█Simple Computer
+mdl_a_computer█Advanced Computer
+mdl_chip_computer█Computer Chip
+mdl_sn_computer█Skynet Computer
+mdl_booster_connector█Booster Connector
+mdl_camera█Camera
+mdl_s_altitude█Altitude Sensor
+mdl_s_heat█Heat Sensor
+mdl_s_battery█Small Battery
+mdl_a_battery█Large Battery
+mdl_a_antenna█Advanced Antenna
+mdl_s_antenna█Simple Antenna
+mdl_gps█GPS
 
 
 ---Fairings---█---Carenados---
 
-mdl_s_fairings█Carenado pequeño, Requerido para cohetes pequeños.
-mdl_m_fairings█Carenado mediano, Requerido para cohetes medianos.
-mdl_l_fairings█Carenado grande, Requerido para cohetes grandes.
-mdl_vc_fairings█Conector de vehículo, Requerido para cohetes de cápsula o naves espaciales.
-mdl_fairingParachutes█Fairing Parachutes,Reusable rocket is required to recover the fairings.
+mdl_s_fairings█Small Fairing
+mdl_m_fairings█Medium Fairing
+mdl_l_fairings█Large Fairing
+mdl_vc_fairings█Vehicle Connector
+mdl_fairingParachutes█Fairing Parachutes
 
 
 ---Landing Stuff---█---Material de aterrizaje---
 
-mdl_a_gridfins█Aletas de rejilla de aluminio, Requeridas para cohetes de aterrizaje manual.
-mdl_t_gridfins█Aletas de rejilla de titanio, Requeridas para cohetes de aterrizaje automático.
-mdl_m_landingLegs█Patas de aterrizaje manual, Requeridas para cohetes de aterrizaje manual. 
-mdl_a_landingLegs█Patas de aterrizaje automático, Requeridas para cohetes de aterrizaje automático.
-mdl_booster_connector█Booster Connector,Required for sidebooster rockets. (Falcon Heavy Boi)
+mdl_a_gridfins█Aluminium Grid Fins
+mdl_t_gridfins█Titanium Grid Fins
+mdl_m_landingLegs█Manual Landing Legs
+mdl_a_landingLegs█Automatic Landing Legs
 
 
 ---Capsule Stuff---█---Material para cápsulas---
 
-mdl_light_structure█Cuerpo ligero, Requerido para cápsulas de cargamento.
-mdl_heavy_structure█Cuerpo pesado, Requerido para cápsulas tripuladas.
-mdl_chip_computer█Chip de computadora, Requerido para cápsulas.
-mdl_a_antenna█Antena avanzada, Requerida para cápsulas tripuladas.
-mdl_s_antenna█Antena simple, Requerida para cápsulas de cargamento.
-mdl_a_escape_engines█Motores avanzados de escape, Requeridos para cápsulas tripuladas.
-mdl_s_escape_engines█Motores simples de escape, Requeridos para cápsulas tripuladas.
-mdl_a_parachutes█Paracaídas avanzados, Requeridos para cápsulas tripuladas.
-mdl_s_parachutes█Paracaídas simples, Requeridos para cápsulas de cargamento.
-mdl_camera█Cámara, La cámara te permite ver lo que los cohetes ven (Webcast). Asigna este módulo y enfoca tu cámara en el lanzamiento del cohete.
-mdl_s_altitude(capsule)█Sensor de altitud, Requerido para cápsulas tripuladas.
-mdl_s_altitude(rocket)█Sensor de altitud, Este sensor te da mas datos de telemetría en tu lanzamiento, ¡Mira que tan rápido es tu cohete!
-mdl_s_heat█Sensor de calor, Requerido para cápsulas tripuladas.
----Spaceship Stuff---█---Material de nave espacial---
-mdl_methane_fueltank█Tanque de combustible de metano, Requerido para naves espaciales.
-mdl_methane_engine█6 Motores de metano, Requerido para naves espaciales.
-mdl_stainlesssteel_structure█Cuerpo de acero inoxidable, Requerido para naves espaciales.
+mdl_light_structure█Light Body
+mdl_heavy_structure█Heavy Body
+mdl_a_escape_engines█Escape Engines
+mdl_a_parachutes█Advanced Parachutes
+mdl_s_parachutes█Simple Parachutes
 
-mdl_cargoUtility█Cargo Utility,Cargo Spaceship Module
-mdl_crewUtility█Crew Utility,Crew Spaceship Module
-mdl_fuelUtility█Fuel Utility,Tanker Spaceship
+
+---Spaceship Stuff---█---Material de nave espacial---
+
+mdl_methane_fueltank█Methane Fuel Tank
+mdl_methane_engine█6 Methane Engines
+mdl_stainlesssteel_structure█Stainless Steel Body
+
+mdl_cargoUtility█Cargo Utility
+mdl_crewUtility█Crew Utility
+mdl_fuelUtility█Fuel Utility
+
 
 
 

@@ -11,6 +11,7 @@ confirm_turnExpendable█Вы точно хотите убрать посадо�
 confirm_exitGame█Вы покидаете меня, да? :(
 confirm_exitMainMenu█Другие игры скажут вам здесь, что ваш несохраненный прогресс будет потерян.
 confirm_deleteSave█Возможно в следующий раз вы не станете банкротом.
+confirm_staticFire█Do you really want to skip the static fire for this booster? It will have a higher chance of an explosion!
 
 yes█Да
 no█Нет
@@ -41,6 +42,7 @@ map_settings_header█Быстрые настройки
 map_settings_trackers_visible█Видимость иконок
 map_settings_satellites_visible█Видимость спутников
 map_settings_linklink_outline█Контур LinkLink
+map_settings_mouseLight█Mouselight
 
 earth█Земля
 mars█Марс
@@ -68,8 +70,10 @@ marsProductionHeader█<b>Производство</b> <size=50%>за кварт
 marsUsageHeader█<b>Потребление</b> <size=50%>за квартал</size>
 marsStorageHeader█<b>Хранение</b>
 
+actionCamera█Action Camera
+switchView█Switch View
 
-
+sandbox█Sandbox
 
 
 

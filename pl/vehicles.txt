@@ -15,30 +15,47 @@ rocketRequiresCapsule█Rakieta (Wymaga kapsuły)
 rocketRequiresSpaceship█Rakieta (Wymaga statku kosmicznego)
 
 vehicles█Pojazdy
-vehicles_newProjectHeader█Stwórz nowy projekt
-vehicles_newProjectButton█Nowy projekt
+droneships█Droneships
 vehicles_newVehicleHeader█Stwórz nowy pojazd
 vehicles_newVehicleButton█Nowy pojazd
+
+nicknameInput█Enter nickname...
 
 vehicles_projects█Projekty
 vehicles_view█Szczegóły
 
 land█Wyląduj
 
-reusedVehicle█Ponowne użycie:
 buildCosts█Koszty budowy
-buildTime█Czas budowy
 originalBuildCosts█Oryginalne koszty
 optimizedBuildCosts█Zoptymalizowane koszty
-launchCosts█Koszty wystrzelenia
 
 inQueue█W kolejce&%<size=14><b><color=#64B5F6>Moduł zostanie zbudowany za moment
 
 build█Zbuduj
+move█Move
+staticFire█Static Fire
 built█Zbudowano
 launch█Wystrzel
-repair█Napraw
-turnExpendable█Przemień w jednorazową
+repair█Refurbish
+turnExpendable█Last Flight
+skip█Skip
+
+detailedCosts█Detailed costs
+leftFairing█Left Fairing
+rightFairing█Right Fairing
+secondStage█Second Stage
+firstStage█First Stage
+generalRefurbishmentPrice█General refurbishment price
+
+xLeft█{0} left
+
+isRocketProfitable█Is this rocket profitable?
+rocketFinance█Finance
+
+droneship█Droneship
+droneship_moveCosts█Move costs
+droneship_buildCosts█Build costs
 
 earthPO█Zaparkowany na orbicie <color=#64B5F6>Ziemskiej</color> (Opuszcza w <b>{0}</b>)
 marsPO█Zaparkowany na orbicie <color=#E17055>Marsjańskiej</color> (Opuszcza w <b>{0}</b>)
@@ -49,16 +66,16 @@ earthLanding█Ląduje na <color=#64B5F6>Ziemi</color>
 marsTryingLand█Trying to Land on <color=#E17055>Mars</color>
 earthTryingLand█Trying to Land on <color=#64B5F6>Earth</color>
 marsLanded█Wylądował na <color=#E17055>Mars</color>
+onDroneship█On a Droneship. Coming back soon!
 
 readyToLaunch█<b><color=#64B5F6>{0} z {1}</b></color>&%<size=70%>są gotowe do startu!
-
-capabilities█Możliwości
-reliability█Niezawodność
-condition█Wytrzymałość
+readyToFly█Ready to Fly
+failureChance█&%Failure Chance: {0}%
+actionRequired█Action Required
 
 notBuiltYet█Jeszcze niezbudowana
 constructing█Budowanie...
-repairing█Naprawianie...
+repairing█Refurbishing...
 flying█W locie
 dockedToISS█Zadokowany do ISS (Niedługo powróci na ziemię.)
 
@@ -70,11 +87,6 @@ spaceshipsOnly█Tylko statki kosmiczne
 capsulesOnly█Tylko kapsuły
 fairingRecovery█Odzyskiwalne owiewki
 
-landingNotSupported█Rakieta nie wyląduje!&%Potrzebujesz:<size=12><b>&%-Lotki & Podwozie&%-Bateria&%-GPS (do automatycznego lądowania)&%-4 lub 9 Zaawansowane Silniki</b></size>&%
-capsulesNotSupported█Kapsuły niewspierane!&%Potrzebujesz:<size=12><b>&%-Bateria&%-GPS&%-4 Zaawansowane Silniki</b></size>&%
-heavyNotSupported█Rakieta z bocznymi boosterami niewspierana!&%Potrzebujesz:<size=12><b>&%-Rakietę z automatycznym lądowaniem</b></size>&%
-fairingCatchingNotSupported█Odzyskiwanie owiewek niewspierane!&%Potrzebujesz:<size=12><b>&%-Rakietę z automatycznym lądowaniem</b></size>&%
-
 payload█Ładunek
 crew█Załoga
 cargo█Towar
@@ -85,10 +97,24 @@ launchSetup_header█Ustawienia lotu
 launchSetup_missionName█Nazwa misji...
 launchSetup_mission█Misja
 launchSetup_noVehiclesFound█[Nie znaleziono pojazdów.]
+launchSetup_noRocketsFound█[No rockets found.]&%
+launchSetup_noSpaceshipsFound█[No spaceships found.]&%
+launchSetup_noCapsulesFound█[No capsules found.]
+launchSetup_noTankersFound█[No tankers found.]
 launchSetup_noPayloadsFound█[Nie znaleziono odpowiednich ładunków.]
 launchSetup_selectVehicle█Wybierz pojazd
 launchSetup_selectLaunchPad█Stanowisko
 launchSetup_selectTanker█Cysterna
+
+launchSetup_spaceshipRequired█[Spaceship Required]
+launchSetup_rocketRequired█[Rocket Required]
+launchSetup_superheavyRequired█[Superheavy Required]
+
+noPayloadsSelected█No Payloads selected!
+noLaunchPadSelected█No LaunchPad selected!
+noISSDocks█No space in the ISS!
+noTankerSelected█No Tanker selected!
+noSpaceInParkingOrbit█No space in Parking Orbit! 25/25
 
 launchSetup_barge█Barka
 launchSetup_lz1█Strefa 1
@@ -134,16 +160,13 @@ missionReportSecondVehicleLanding█Lądowanie dodatkowego pojazdu
 missionReportMissionIncome█Przychód z misji
 missionReportDamageCompensation█Odszkodowanie do zapłacenia
 missionReportLandedRocket█Odzyskana rakieta
-profit█zysk
-loss█strata
+missionReportSkillPoints█Skill points
+profit█Profit
+loss█Loss
+income█Income
+potentialLoss█Potential Loss
+potentialProfit█Potential Profit
 
-creator_header█Nowy projekt
-creator_vehicleName█Nazwa projektu...
-creator_createProject█Stwórz projekt
-creator_vehicleCanGoAnywhere█Ten pojazd może lecieć wszędzie, gdzie tylko chcesz.
-creator_capsuleRocket█Ta rakieta może wystartować tylko kapsuły.
-creator_spaceshipRocket█Ta rakieta może wystartować tylko statki kosmiczne.
-no_module_unlocked█Żaden moduł nie jest odblokowany.
 
 
 

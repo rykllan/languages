@@ -15,30 +15,47 @@ rocketRequiresCapsule█Cohete (Requiere Cápsula)
 rocketRequiresSpaceship█Cohete (Requiere Nave espacial)
 
 vehicles█Vehículos
-vehicles_newProjectHeader█Crear nuevo proyecto
-vehicles_newProjectButton█Nuevo proyecto
+droneships█Droneships
 vehicles_newVehicleHeader█Crear nuevo vehículo
 vehicles_newVehicleButton█Nuevo vehículo
+
+nicknameInput█Enter nickname...
 
 vehicles_projects█Projects
 vehicles_view█View
 
 land█Aterrizaje
 
-reusedVehicle█Vehículo reutilizado:
 buildCosts█Costos de construcción
-buildTime█Tiempo de construcción
 originalBuildCosts█Costos de construcción originales
 optimizedBuildCosts█Costos de construcción optimizados
-launchCosts█Costos de lanzamiento
 
 inQueue█In queue&%<size=14><b><color=#64B5F6>Module will be built in a moment
 
 build█Construir
+move█Move
+staticFire█Static Fire
 built█Construido
 launch█Lanzar
-repair█Reparar
-turnExpendable█Hacer Desechable
+repair█Refurbish
+turnExpendable█Last Flight
+skip█Skip
+
+detailedCosts█Detailed costs
+leftFairing█Left Fairing
+rightFairing█Right Fairing
+secondStage█Second Stage
+firstStage█First Stage
+generalRefurbishmentPrice█General refurbishment price
+
+xLeft█{0} left
+
+isRocketProfitable█Is this rocket profitable?
+rocketFinance█Finance
+
+droneship█Droneship
+droneship_moveCosts█Move costs
+droneship_buildCosts█Build costs
 
 earthPO█Parked on <color=#64B5F6>Earth's</color> Parking Orbit (Leaving in <b>{0}</b>)
 marsPO█Parked on <color=#E17055>Mars'</color> Parking Orbit (Leaving in <b>{0}</b>)
@@ -49,16 +66,16 @@ earthLanding█Landing on <color=#64B5F6>Earth</color>
 marsTryingLand█Trying to Land on <color=#E17055>Mars</color>
 earthTryingLand█Trying to Land on <color=#64B5F6>Earth</color>
 marsLanded█Landed on <color=#E17055>Mars</color>
+onDroneship█On a Droneship. Coming back soon!
 
 readyToLaunch█<b><color=#64B5F6>{0} of {1}</b></color>&%<size=70%>are ready to launch!
-
-capabilities█Capacidades
-reliability█Fiabilidad
-condition█Condición
+readyToFly█Ready to Fly
+failureChance█&%Failure Chance: {0}%
+actionRequired█Action Required
 
 notBuiltYet█Aun no construido
 constructing█Construyendo...
-repairing█Reparando...
+repairing█Refurbishing...
 flying█Volando...
 dockedToISS█Acoplado a la EEI (Volverá pronto.)
 
@@ -70,11 +87,6 @@ spaceshipsOnly█Naves espaciales únicamente
 capsulesOnly█Cápsulas únicamente
 fairingRecovery█Recuperacion de Carenado
 
-landingNotSupported█Aterrizaje no permitido!&%Necesitas:<size=12><b>&%-Aletas Tejilla y Piernas de Aterrizaje&%-Batería&%-GPS (para Reusabilidad Automática)&%-4 o 9 Propulsores Avanzados</b></size>&%
-capsulesNotSupported█Capsulas no permitidas!&%Necesitas:<size=12><b>&%-Batería&%-GPS&%-4 o 9 Propulsores Avanzados</b></size>&%
-heavyNotSupported█Cohetes pesados no permitidos!&%Necesitas:<size=12><b>&%-Cohete con Reusabilidad Automática</b></size>&%
-fairingCatchingNotSupported█Recuperacion de carenado no permitida!&%Necesitas:<size=12><b>&%-Cohete con Reusabilidad Automática</b></size>&%
-
 payload█Carga
 crew█Tripulación
 cargo█Cargamento
@@ -85,10 +97,24 @@ launchSetup_header█Configuración del lanzamiento
 launchSetup_missionName█Nombre de la misión...
 launchSetup_mission█Misión
 launchSetup_noVehiclesFound█[No se encontraron vehículos.]
+launchSetup_noRocketsFound█[No rockets found.]&%
+launchSetup_noSpaceshipsFound█[No spaceships found.]&%
+launchSetup_noCapsulesFound█[No capsules found.]
+launchSetup_noTankersFound█[No tankers found.]
 launchSetup_noPayloadsFound█[No se encontraron cargas útiles capaces.]
 launchSetup_selectVehicle█Seleccionar vehículo
 launchSetup_selectLaunchPad█Seleccionar plataforma de lanzamiento
 launchSetup_selectTanker█Orbital Tanker
+
+launchSetup_spaceshipRequired█[Spaceship Required]
+launchSetup_rocketRequired█[Rocket Required]
+launchSetup_superheavyRequired█[Superheavy Required]
+
+noPayloadsSelected█No Payloads selected!
+noLaunchPadSelected█No LaunchPad selected!
+noISSDocks█No space in the ISS!
+noTankerSelected█No Tanker selected!
+noSpaceInParkingOrbit█No space in Parking Orbit! 25/25
 
 launchSetup_barge█Barcaza
 launchSetup_lz1█LZ-1
@@ -134,16 +160,13 @@ missionReportSecondVehicleLanding█Aterrizaje del segundo vehículo
 missionReportMissionIncome█Ingresos de la misión
 missionReportDamageCompensation█Compensación de daños
 missionReportLandedRocket█Cohete aterrizado
-profit█Ganancias
-loss█Pérdidas
+missionReportSkillPoints█Skill points
+profit█Profit
+loss█Loss
+income█Income
+potentialLoss█Potential Loss
+potentialProfit█Potential Profit
 
-creator_header█Nuevo proyecto
-creator_vehicleName█Nombre del vehículo...
-creator_createProject█Crear proyecto
-creator_vehicleCanGoAnywhere█Éste vehículo puede ir a donde quieras.
-creator_capsuleRocket█This rocket can only carry the capsules.
-creator_spaceshipRocket█This rocket can only carry the spaceships.
-no_module_unlocked█Ningún módulo está desbloqueado.
 
 
 

@@ -1,19 +1,5 @@
 
 
-type_fairings█Coiffe
-type_fuelTank█Réservoir
-type_engine█Moteur
-type_computer█Ordinateur
-type_gridFins█Ailettes en grille
-type_landingLegs█Pieds d'atterrissage
-type_battery█Batterie
-type_other█Autre
-type_body█Corps
-type_parachutes█Parachutes
-type_sensors█Capteurs
-type_antenna█Antenne
-type_utility█Utilitaires
-
 module_factory_small█Petit
 module_factory_medium█Moyen
 module_factory_large█Grand
@@ -21,70 +7,77 @@ module_factory_giga█Giga
 
 ---Engines---█---Moteurs---
 
-mdl_s_engine█Moteur simple, nécessaire pour les petites fusées.
-mdl_a_engine█Moteur avancé, nécessaire pour les fusées moyennes.
-mdl_a4_engine█4 moteurs avancés, nécessaires pour les fusées à atterrissage manuel.
-mdl_a9_engine█9 moteurs avancés, nécessaires pour les fusées de grande taille et d'atterrissage automatiques.
-mdl_m27_engine█37 moteurs au méthane, nécessaires pour les très grosses fusées. (Superheavy Boi)
+mdl_s_engine█Simple Engine
+mdl_a_engine█Advanced Engine
+mdl_a4_engine█4 Advanced Engines
+mdl_a9_engine█9 Advanced Engines
+mdl_m27_engine█37 Methane Engines
 
 
 ---FuelTanks---█---Réservoirs à carburant---
 
-mdl_s_fueltank█Petit réservoir, nécessaire pour les petites fusées.
-mdl_m_fueltank█Réservoir moyen, nécessaire pour les fusées à capsule moyenne.
-mdl_l_fueltank█Grand réservoir, nécessaire pour les fusées de grande taille/atterrantes.
-mdl_vl_fueltank█Super réservoir, nécessaire pour les très grandes fusées ou les navettes spatiales. (Superheavy Boi)
+mdl_s_fueltank█Small Fuel Tank
+mdl_m_fueltank█Medium Fuel Tank
+mdl_l_fueltank█Large Fuel Tank
+mdl_vl_fueltank█Super Fuel Tank
 
 
 ---Computers---█---Ordinateurs---
 
-mdl_s_computer█Ordinateur simple, nécessaire pour les petites et moyennes fusées.
-mdl_a_computer█Ordinateur avancé, nécessaire pour les fusées de grande taille/à capsule/à atterrissage.
-mdl_sn_computer█Ordinateur Skynet, nécessaire pour les fusées de très grande taille ou les fusées spatiales.
-mdl_s_battery█Petite batterie, nécessaire pour l'atterrissage manuel/les fusées-capsules.
-mdl_a_battery█Batterie avancée, nécessaire pour les fusées automatiques d'atterrissage/capsules/navettes spatiales.
-mdl_gps█GPS, nécessaire pour les capsules et les fusées d'atterrissage.
+mdl_s_computer█Simple Computer
+mdl_a_computer█Advanced Computer
+mdl_chip_computer█Computer Chip
+mdl_sn_computer█Skynet Computer
+mdl_booster_connector█Booster Connector
+mdl_camera█Camera
+mdl_s_altitude█Altitude Sensor
+mdl_s_heat█Heat Sensor
+mdl_s_battery█Small Battery
+mdl_a_battery█Large Battery
+mdl_a_antenna█Advanced Antenna
+mdl_s_antenna█Simple Antenna
+mdl_gps█GPS
 
 
 ---Fairings---█---Coiffes---
 
-mdl_s_fairings█Petite coiffe, nécessaire pour les petites fusées.
-mdl_m_fairings█Coiffe moyenne, nécessaire pour les fusées moyennes.
-mdl_l_fairings█Grande coiffe, nécessaire pour les grosses fusées.
-mdl_vc_fairings█Connecteur de véhicule, nécessaire pour les fusées à capsule/navettes spatiales.
-mdl_fairingParachutes█Parachutes de la coiffe, une fusée réutilisable est nécessaire pour récupérer les coiffes.
+mdl_s_fairings█Small Fairing
+mdl_m_fairings█Medium Fairing
+mdl_l_fairings█Large Fairing
+mdl_vc_fairings█Vehicle Connector
+mdl_fairingParachutes█Fairing Parachutes
 
 
 ---Landing Stuff---█---Modules d'atterrissage---
 
-mdl_a_gridfins█Ailettes en grille en aluminium, nécessaires pour les fusées à atterrissage manuel.
-mdl_t_gridfins█Ailettes en grille en titane, nécessaires pour les fusées à atterrissage automatique.
-mdl_m_landingLegs█Pieds d'atterrissage manuel, requis pour les fusées d'atterrissage manuel.
-mdl_a_landingLegs█Pieds d'atterrissage automatique, requis pour les fusées à atterrissage automatique.
-mdl_booster_connector█Connecteur de boosters, requis pour les fusées à boosters latéraux. (Falcon Heavy Boi)
+mdl_a_gridfins█Aluminium Grid Fins
+mdl_t_gridfins█Titanium Grid Fins
+mdl_m_landingLegs█Manual Landing Legs
+mdl_a_landingLegs█Automatic Landing Legs
 
 
 ---Capsule Stuff---█--Modules de capsule---
 
-mdl_light_structure█Corps léger, nécessaire pour les capsules de cargaison.
-mdl_heavy_structure█Corps lourd, nécessaire pour les capsules d'équipage.
-mdl_chip_computer█Puce d'ordinateur, nécessaire pour les capsules.
-mdl_a_antenna█Antenne avancée, nécessaire pour les capsules d'équipage.
-mdl_s_antenna█Antenne simple, nécessaire pour les capsules de cargaison.
-mdl_a_escape_engines█Moteurs d'évacuation avancés, nécessaires pour les capsules d'équipage.
-mdl_s_escape_engines█Moteurs d'évasion simples, nécessaires pour les capsules d'équipage.
-mdl_a_parachutes█Parachutes avancés, nécessaires pour les capsules d'équipage.
-mdl_s_parachutes█Parachutes simples, nécessaires pour les capsules de cargaison.
-mdl_camera█Caméra, la caméra permet de voir ce que les fusées voient (diffusion web). Ajoute-la et regardez-la lors du lancement de la fusée.
-mdl_s_altitude(capsule)█Capteur d'altitude, nécessaire pour les capsules d'équipage.
-mdl_s_altitude(rocket)█Capteur d'altitude, ce capteur donne plus de données télémétriques au lancement. Regarde la vitesse de ta fusée !
-mdl_s_heat█Capteur de chaleur, nécessaire pour les capsules d'équipage.
+mdl_light_structure█Light Body
+mdl_heavy_structure█Heavy Body
+mdl_a_escape_engines█Escape Engines
+mdl_a_parachutes█Advanced Parachutes
+mdl_s_parachutes█Simple Parachutes
+
 
 ---Spaceship Stuff---█---Modules de navette spatiale---
-mdl_methane_fueltank█Réservoir en méthane, nécessaire pour les navettes spatiales.
-mdl_methane_engine█6 moteurs en méthane, nécessaires pour les navettes spatiales.
-mdl_stainlesssteel_structure█Corps en acier inoxydable, nécessaire pour les navettes spatiales.
 
-mdl_cargoUtility█Utilitaire de cargaison, module de fusée de cargaison.
-mdl_crewUtility█Utilitaire d'équipage, module de fusée d'équipage.
-mdl_fuelUtility█Utilitaire de carburant, pour vaisseau de ravitaillement (Tanker).
+mdl_methane_fueltank█Methane Fuel Tank
+mdl_methane_engine█6 Methane Engines
+mdl_stainlesssteel_structure█Stainless Steel Body
+
+mdl_cargoUtility█Cargo Utility
+mdl_crewUtility█Crew Utility
+mdl_fuelUtility█Fuel Utility
+
+
+
+
+
+
+

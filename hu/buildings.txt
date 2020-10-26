@@ -36,6 +36,9 @@ buildingSetup_negotiationPower█Tárgyalási erő
 
 buildingSetup_vehicleStored█Eltárolt járművek
 
+noGigaFound█[No giga factories found.]
+unitsToBuild█Units to build...
+
 buildingSetup_employees█<size=14>{0} alkalmazott</size>&%{1} <color=#16A085>$</color> / év&%<size=14>{2} <color=#16A085>$</color> / fejenként
 buildingSetup_manageEmployees█Alkalmazottak kezelése
 
@@ -142,6 +145,7 @@ lp_xichang█Xichang
 lp_rocketComplex█Private Spaceport
 lp_australia█Woomera
 lp_india█Satish Dhawan
+
 
 
 

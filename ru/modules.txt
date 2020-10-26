@@ -1,19 +1,5 @@
 
 
-type_fairings█Обтекатель
-type_fuelTank█Топливный бак
-type_engine█Двигатель
-type_computer█Бортовой компьютер
-type_gridFins█Решётчатые рули
-type_landingLegs█Посадочные опоры
-type_battery█Аккумулятор
-type_other█Другое
-type_body█Каркас
-type_parachutes█Парашюты
-type_sensors█Сенсоры
-type_antenna█Антенна
-type_utility█Комплектация
-
 module_factory_small█малых
 module_factory_medium█средних
 module_factory_large█больших
@@ -21,72 +7,74 @@ module_factory_giga█Гига
 
 ---Engines---█---Engines---
 
-mdl_s_engine█Простой двигатель,Требуется для лёгких ракет.
-mdl_a_engine█Продвинутый двигатель,Требуется для средних ракет.
-mdl_a4_engine█4 продвинутых двигателя,Требуются для ракет с ручной посадкой.
-mdl_a9_engine█9 продвинутых двигателей,Требуются для тяжёлых ракет и ракет с автоматической посадкой.
-mdl_m27_engine█37 метановых двигателей,Требуются для сверхтяжёлых ракет. (Superheavy boi)
+mdl_s_engine█Simple Engine
+mdl_a_engine█Advanced Engine
+mdl_a4_engine█4 Advanced Engines
+mdl_a9_engine█9 Advanced Engines
+mdl_m27_engine█37 Methane Engines
 
 
 ---FuelTanks---█---FuelTanks---
 
-mdl_s_fueltank█Мал. топливный бак,Требуется для лёгких ракет.
-mdl_m_fueltank█Сред. топливный бак,Требуется для средних и грузовых/пилотируемых ракет.
-mdl_l_fueltank█Больш. топливный бак,Требуется для тяжёлых ракет и ракет с возможностью посадки.
-mdl_vl_fueltank█Улучшенный топливный бак,Требуется для сверхтяжёлых ракет и Spaceship. (Superheavy boi)
+mdl_s_fueltank█Small Fuel Tank
+mdl_m_fueltank█Medium Fuel Tank
+mdl_l_fueltank█Large Fuel Tank
+mdl_vl_fueltank█Super Fuel Tank
 
 
 ---Computers---█---Computers---
 
-mdl_s_computer█Простой борт. комп.,Требуется для лёгких и средних ракет.
-mdl_a_computer█Продвинутый борт. комп.,Требуется для тяжёлых; грузовых/пилотируемых ракет и ракет с возможностью посадки.
-mdl_sn_computer█Компьютер Скайнета,Требуется для сверхтяжёлых ракет и Spaceship.
-mdl_s_battery█Простой аккумулятор,Требуется для грузовых/пилотируемых ракет и ракет с ручной посадкой.
-mdl_a_battery█Продвинутый аккумулятор,Требуется для грузовых/пилотируемых ракет; ракет с автоматической посадкой и Spaceship.
-mdl_gps█GPS,Требуется для грузовых/пилотируемых ракет и ракет с возможностью посадки.
+mdl_s_computer█Simple Computer
+mdl_a_computer█Advanced Computer
+mdl_chip_computer█Computer Chip
+mdl_sn_computer█Skynet Computer
+mdl_booster_connector█Booster Connector
+mdl_camera█Camera
+mdl_s_altitude█Altitude Sensor
+mdl_s_heat█Heat Sensor
+mdl_s_battery█Small Battery
+mdl_a_battery█Large Battery
+mdl_a_antenna█Advanced Antenna
+mdl_s_antenna█Simple Antenna
+mdl_gps█GPS
 
 
 ---Fairings---█---Fairings---
 
-mdl_s_fairings█Мал. обтекатель,Требуется для лёгких ракет.
-mdl_m_fairings█Сред. обтекатель,Требуется для средних ракет.
-mdl_l_fairings█Больш. обтекатель,Требуется для тяжёлых ракет.
-mdl_vc_fairings█Адаптер кораблей,Требуется для грузовых/пилотируемых ракет и Spaceship.
-mdl_fairingParachutes█Парафойл парашюта,Многоразовая ракета требует восстановления обтекателей.
+mdl_s_fairings█Small Fairing
+mdl_m_fairings█Medium Fairing
+mdl_l_fairings█Large Fairing
+mdl_vc_fairings█Vehicle Connector
+mdl_fairingParachutes█Fairing Parachutes
 
 
 ---Landing Stuff---█---Landing Stuff---
 
-mdl_a_gridfins█Алюминиевые решётчатые рули,Требуются для ракеты с ручной посадкой.
-mdl_t_gridfins█Титановые решётчатые рули,Требуются для ракеты с автоматической посадкой.
-mdl_m_landingLegs█Ручные посадочные опоры,Требуются для ракеты с ручной посадкой.
-mdl_a_landingLegs█Автоматические посадочные опоры,Требуются для ракеты с автоматической посадкой.
-mdl_booster_connector█Коннектор ускорителей,Требуется для боковых ускорителей. (Falcon Heavy boi)
+mdl_a_gridfins█Aluminium Grid Fins
+mdl_t_gridfins█Titanium Grid Fins
+mdl_m_landingLegs█Manual Landing Legs
+mdl_a_landingLegs█Automatic Landing Legs
 
 
 ---Capsule Stuff---█---Capsule Stuff---
 
-mdl_light_structure█Лёгкий каркас,Требуется для грузовых кораблей.
-mdl_heavy_structure█Тяжёлый каркас,Требуется для пилотируемых кораблей.
-mdl_chip_computer█Компьютерный чип,Требуется для кораблей.
-mdl_a_antenna█Продвинутая антенна,Требуется для пилотируемых кораблей.
-mdl_s_antenna█Простая антенна,Требуется для грузовых кораблей.
-mdl_a_escape_engines█Продвинутая САС,Требуется для пилотируемых кораблей.
-mdl_s_escape_engines█Простая САС,Требуется для пилотируемых кораблей.
-mdl_a_parachutes█Продвинутые парашюты,Требуются для пилотируемых кораблей.
-mdl_s_parachutes█Простые парашюты,Требуются для грузовых кораблей.
-mdl_camera█Камера,Камера позволяет видеть то, что видит ракета (Веб-трансляция).
-mdl_s_altitude(capsule)█Высотный датчик,Требуются для пилотируемых кораблей.
-mdl_s_altitude(rocket)█Высотный датчик,Этот датчик дает вам больше данных телеметрии при запуске. Посмотрите насколько быстра ваша ракета!
-mdl_s_heat█Датчик температуры,Требуется для пилотируемых кораблей.
----Spaceship Stuff---█---Spaceship Stuff---
-mdl_methane_fueltank█Метановый топливный бак,Требуется для Spaceship.
-mdl_methane_engine█6 метановых двигателей,Требуется для Spaceship.
-mdl_stainlesssteel_structure█Каркас из нержавеющей стали,Требуется для Spaceship.
+mdl_light_structure█Light Body
+mdl_heavy_structure█Heavy Body
+mdl_a_escape_engines█Escape Engines
+mdl_a_parachutes█Advanced Parachutes
+mdl_s_parachutes█Simple Parachutes
 
-mdl_cargoUtility█Грузовой отсек,Грузовой модуль Spaceship
-mdl_crewUtility█Пилотируемый отсек,Пилотируемый модуль Spaceship
-mdl_fuelUtility█Топливный отсек,Танкерный модуль Spaceship
+
+---Spaceship Stuff---█---Spaceship Stuff---
+
+mdl_methane_fueltank█Methane Fuel Tank
+mdl_methane_engine█6 Methane Engines
+mdl_stainlesssteel_structure█Stainless Steel Body
+
+mdl_cargoUtility█Cargo Utility
+mdl_crewUtility█Crew Utility
+mdl_fuelUtility█Fuel Utility
+
 
 
 

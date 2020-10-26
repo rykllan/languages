@@ -36,6 +36,9 @@ buildingSetup_negotiationPower█Сила переговоров
 
 buildingSetup_vehicleStored█Ракеты на складе
 
+noGigaFound█[No giga factories found.]
+unitsToBuild█Units to build...
+
 buildingSetup_employees█<size=14>{0} сотрудников</size>&%{1} <color=#16A085>$</color> в год&%<size=14>{2} <color=#16A085>$</color> каждый
 buildingSetup_manageEmployees█Управление сотрудниками
 
@@ -142,6 +145,7 @@ lp_xichang█Сичан
 lp_rocketComplex█Приватный космодром
 lp_australia█Вумера
 lp_india█Космический центр им. Сатиша Дхавана
+
 
 
 
