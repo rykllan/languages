@@ -107,10 +107,24 @@ launchSetup_header█Launch Setup
 launchSetup_missionName█Mission name...
 launchSetup_mission█Mission
 launchSetup_noVehiclesFound█[No vehicles found.]
+launchSetup_noRocketsFound█[No rockets found.]&%
+launchSetup_noSpaceshipsFound█[No spaceships found.]&%
+launchSetup_noCapsulesFound█[No capsules found.]
+launchSetup_noTankersFound█[No tankers found.]
 launchSetup_noPayloadsFound█[No capable payloads found.]
 launchSetup_selectVehicle█Select vehicle
 launchSetup_selectLaunchPad█Launch Pad
 launchSetup_selectTanker█Orbital Tanker
+
+launchSetup_spaceshipRequired█[Spaceship Required]
+launchSetup_rocketRequired█[Rocket Required]
+launchSetup_superheavyRequired█[Superheavy Required]
+
+noPayloadsSelected█No Payloads selected!
+noLaunchPadSelected█No LaunchPad selected!
+noISSDocks█No space in the ISS!
+noTankerSelected█No Tanker selected!
+noSpaceInParkingOrbit█No space in Parking Orbit! 25/25
 
 launchSetup_barge█Barge
 launchSetup_lz1█LZ-1
@@ -159,6 +173,8 @@ missionReportLandedRocket█Landed rocket
 profit█Profit
 loss█Loss
 income█Income
+potentialLoss█Potential Loss
+potentialProfit█Potential Profit
 
 creator_header█New project
 creator_vehicleName█Vehicle name...
