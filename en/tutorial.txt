@@ -18,6 +18,9 @@ tutorial_rocketLanding█Rocket Landing
 tutorial_droneships█Droneships
 tutorial_LinkLink█LinkLink
 
+tutorial_orbits█<b><color=#64B5F6>ORBITS</color></b>&%<b>LEO</b> - Low Earth Orbit&%<b>MEO</b> - Medium Earth Orbit&%<b>GEO</b> - Geostationary Orbit&%&%<b>ISS</b> - International Space Station
+tutorial_sizes█<b><color=#64B5F6>SIZES</color></b>&%<b>Very Small</b> - 1 Slot&%<b>Small</b> - 2 Slots&%<b>Medium</b> - 4 Slots&%<b>Large</b> - 8 Slots&%<b>Very Large</b> - 16 Slots
+
 ex_welcome█<m>HELLO, {0}! &%&%HERE ARE YOUR GOALS. </m>&%&%Execute them and we will be Fine! &%&%-> Don't go bankrupt, plz. &%-> Develop new Technologies! &%-> Build a Colony on Mars. &%-> Run LinkLink Internet Service! &%-> Terraform Mars!
 
 ex_interface█<m>HELP ME WITH THE INTERFACE!</m> &%&%I will now show you what the EarthX interface is being used for. Please <m>LISTEN</m> carefully. 
