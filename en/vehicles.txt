@@ -71,12 +71,12 @@ earthLanding█Landing on <color=#64B5F6>Earth</color>
 marsTryingLand█Trying to Land on <color=#E17055>Mars</color>
 earthTryingLand█Trying to Land on <color=#64B5F6>Earth</color>
 marsLanded█Landed on <color=#E17055>Mars</color>
+onDroneship█On a Droneship. Coming back soon!
 
 readyToLaunch█<b><color=#64B5F6>{0} of {1}</b></color>&%<size=70%>are ready to launch!
-
-capabilities█Capabilities
-reliability█Reliability
-condition█Condition
+readyToFly█Ready to Fly
+failureChance█&%Failure Chance: {0}%
+actionRequired█Action Required
 
 notBuiltYet█Not built yet
 constructing█Constructing...
