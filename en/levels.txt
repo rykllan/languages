@@ -14,6 +14,21 @@ research_info█Info
 research_locked█Locked
 research_unlocked█Unlocked
 
+research_unlock█Unlock
+research_upgrade█Upgrade
+
+research_flights█Flights
+research_successes█Successes
+research_failures█Failures
+research_cost█Cost
+research_buildPrice█Build Price
+research_launchPrice█Launch Price
+research_totalIncome█Total Income
+research_totalLoss█Total Loss
+research_profit█Profit
+
+reseach_vehicleName█Enter vehicle name...
+
 task_SkillPoints█Have {0} Skill Points! 
 task_LaunchPayloads█Launch {0} Payloads into Space! 
 task_Money█Have {0} <color=#16A085>$</color>! 
