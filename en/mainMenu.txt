@@ -19,7 +19,7 @@ menu_sandbox█<b>Sandbox</b>&%<size=75%>In sandbox mode everything is unlocked 
 
 menu_difficulty█Game Difficulty
 menu_easy█<b>Easy</b>&%<size=75%>Play easy if you want to play easy. Just launch those big rockets.
-menu_hard█<b>Hard</b>&%<size=75%>Coming soon!
+menu_hard█<b>Hard</b>&%<size=75%>Higher probability you go bankrupt.
 
 menu_apply█Apply
 
