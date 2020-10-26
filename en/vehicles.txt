@@ -15,10 +15,13 @@ rocketRequiresCapsule█Rocket (Requires Capsule)
 rocketRequiresSpaceship█Rocket (Requires Spaceship)
 
 vehicles█Vehicles
+droneships█Droneships
 vehicles_newProjectHeader█Create new project
 vehicles_newProjectButton█New project
 vehicles_newVehicleHeader█Create new vehicle
 vehicles_newVehicleButton█New vehicle
+
+nicknameInput█Enter nickname...
 
 vehicles_projects█Projects
 vehicles_view█View
@@ -35,11 +38,13 @@ launchCosts█Launch costs
 inQueue█In queue&%<size=14><b><color=#64B5F6>Module will be built in a moment
 
 build█Build
+move█Move
 staticFire█Static Fire
 built█Built
 launch█Launch
 repair█Refurbish
 turnExpendable█Last Flight
+skip█Skip
 
 detailedCosts█Detailed costs
 leftFairing█Left Fairing
@@ -49,6 +54,13 @@ firstStage█First Stage
 generalRefurbishmentPrice█General refurbishment price
 
 xLeft█{0} left
+
+isRocketProfitable█Is this rocket profitable?
+rocketFinance█Finance
+
+droneship█Droneship
+droneship_moveCosts█Move costs
+droneship_buildCosts█Build costs
 
 earthPO█Parked on <color=#64B5F6>Earth's</color> Parking Orbit (Leaving in <b>{0}</b>)
 marsPO█Parked on <color=#E17055>Mars'</color> Parking Orbit (Leaving in <b>{0}</b>)
