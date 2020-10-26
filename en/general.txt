@@ -42,6 +42,7 @@ map_settings_header█Quick Settings
 map_settings_trackers_visible█Trackers Visible
 map_settings_satellites_visible█Satellites Visible
 map_settings_linklink_outline█LinkLink Outline
+map_settings_mouseLight█Mouselight
 
 earth█Earth
 mars█Mars
