@@ -36,8 +36,8 @@ buildingSetup_negotiationPower█Siła negocjacji
 
 buildingSetup_vehicleStored█Przechowywane pojazdy
 
-noGigaFound█[No giga factories found.]
-unitsToBuild█Units to build...
+noGigaFound█[Nieznaleziono Giga Fabryk]
+unitsToBuild█Sztuki do wyprodukowania...
 
 buildingSetup_employees█<size=14>{0} pracowników</size>&%{1} <color=#16A085>$</color> za rok&%<size=14>{2} <color=#16A085>$</color> za każdy
 buildingSetup_manageEmployees█Zatrudnij pracowników
@@ -145,8 +145,6 @@ lp_xichang█Xichang
 lp_rocketComplex█Port Prywatny
 lp_australia█Woomera
 lp_india█Satish Dhawan
-
-
 
 
 

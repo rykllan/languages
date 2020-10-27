@@ -15,11 +15,11 @@ rocketRequiresCapsule█Rakieta (Wymaga kapsuły)
 rocketRequiresSpaceship█Rakieta (Wymaga statku kosmicznego)
 
 vehicles█Pojazdy
-droneships█Droneships
+droneships█Barki
 vehicles_newVehicleHeader█Stwórz nowy pojazd
 vehicles_newVehicleButton█Nowy pojazd
 
-nicknameInput█Enter nickname...
+nicknameInput█Wpisz nick...
 
 vehicles_projects█Projekty
 vehicles_view█Szczegóły
@@ -34,28 +34,28 @@ inQueue█W kolejce&%<size=14><b><color=#64B5F6>Moduł zostanie zbudowany za mom
 
 build█Zbuduj
 move█Move
-staticFire█Static Fire
+staticFire█Test Statyczny
 built█Zbudowano
 launch█Wystrzel
-repair█Refurbish
-turnExpendable█Last Flight
-skip█Skip
+repair█Odnów
+turnExpendable█Ostatni Lot
+skip█Pomiń
 
-detailedCosts█Detailed costs
-leftFairing█Left Fairing
-rightFairing█Right Fairing
-secondStage█Second Stage
-firstStage█First Stage
-generalRefurbishmentPrice█General refurbishment price
+detailedCosts█Koszt
+leftFairing█Lewa Owiewka
+rightFairing█Prawa Owiewka
+secondStage█Drugi Stopień
+firstStage█Pierwszy Stopień
+generalRefurbishmentPrice█Ogólny koszt odnowienia
 
-xLeft█{0} left
+xLeft█Pozostało: {0}
 
-isRocketProfitable█Is this rocket profitable?
-rocketFinance█Finance
+isRocketProfitable█Czy ta rakieta na siebie zarabia?
+rocketFinance█Finanse
 
-droneship█Droneship
-droneship_moveCosts█Move costs
-droneship_buildCosts█Build costs
+droneship█Barka
+droneship_moveCosts█Koszt przemieszczenia
+droneship_buildCosts█Koszt budowy
 
 earthPO█Zaparkowany na orbicie <color=#64B5F6>Ziemskiej</color> (Opuszcza w <b>{0}</b>)
 marsPO█Zaparkowany na orbicie <color=#E17055>Marsjańskiej</color> (Opuszcza w <b>{0}</b>)
@@ -66,16 +66,16 @@ earthLanding█Ląduje na <color=#64B5F6>Ziemi</color>
 marsTryingLand█Próbuje wylądować na <color=#E17055>Marsi</color>
 earthTryingLand█Próbuje wylądować na <color=#64B5F6>Ziemi</color>
 marsLanded█Wylądował na <color=#E17055>Marsie</color>
-onDroneship█On a Droneship. Coming back soon!
+onDroneship█Na Barce. Niedługo będzie dostępny!
 
 readyToLaunch█<b><color=#64B5F6>{0} z {1}</b></color>&%<size=70%>są gotowe do startu!
-readyToFly█Ready to Fly
-failureChance█&%Failure Chance: {0}%
-actionRequired█Action Required
+readyToFly█Gotowy do Lotu!
+failureChance█&%Szansa na wybuch: {0}%
+actionRequired█Wymanaga akcja
 
 notBuiltYet█Jeszcze niezbudowana
 constructing█Budowanie...
-repairing█Refurbishing...
+repairing█Odnawianie...
 flying█W locie
 dockedToISS█Zadokowany do ISS (Niedługo powróci na ziemię.)
 
@@ -97,24 +97,24 @@ launchSetup_header█Ustawienia lotu
 launchSetup_missionName█Nazwa misji...
 launchSetup_mission█Misja
 launchSetup_noVehiclesFound█[Nie znaleziono pojazdów.]
-launchSetup_noRocketsFound█[No rockets found.]&%
-launchSetup_noSpaceshipsFound█[No spaceships found.]&%
-launchSetup_noCapsulesFound█[No capsules found.]
-launchSetup_noTankersFound█[No tankers found.]
+launchSetup_noRocketsFound█[Nie znaleziono rakiet.]&%
+launchSetup_noSpaceshipsFound█[Nie znaleziono statków kosmicznych.]&%
+launchSetup_noCapsulesFound█[Nie znaleziono kapsuł.]
+launchSetup_noTankersFound█[Nie znaleziono cystern.]
 launchSetup_noPayloadsFound█[Nie znaleziono odpowiednich ładunków.]
 launchSetup_selectVehicle█Wybierz pojazd
 launchSetup_selectLaunchPad█Stanowisko
 launchSetup_selectTanker█Cysterna
 
-launchSetup_spaceshipRequired█[Spaceship Required]
-launchSetup_rocketRequired█[Rocket Required]
-launchSetup_superheavyRequired█[Superheavy Required]
+launchSetup_spaceshipRequired█[Wymagany Statek Kosmiczny]
+launchSetup_rocketRequired█[Wymagana Rakieta]
+launchSetup_superheavyRequired█[Wymagana Rakieta Superheavy]
 
-noPayloadsSelected█No Payloads selected!
-noLaunchPadSelected█No LaunchPad selected!
-noISSDocks█No space in the ISS!
-noTankerSelected█No Tanker selected!
-noSpaceInParkingOrbit█No space in Parking Orbit! 25/25
+noPayloadsSelected█Nie wybrano ładunków!
+noLaunchPadSelected█Nie wybrano stanowiska!
+noISSDocks█Brak miejsca na ISS!
+noTankerSelected█Nie wybrano cysterny!
+noSpaceInParkingOrbit█Brak miejsca na orbicie parkingowej! 25/25
 
 launchSetup_barge█Barka
 launchSetup_lz1█Strefa 1
@@ -160,14 +160,12 @@ missionReportSecondVehicleLanding█Lądowanie dodatkowego pojazdu
 missionReportMissionIncome█Przychód z misji
 missionReportDamageCompensation█Odszkodowanie do zapłacenia
 missionReportLandedRocket█Odzyskana rakieta
-missionReportSkillPoints█Skill points
-profit█Profit
-loss█Loss
-income█Income
-potentialLoss█Potential Loss
-potentialProfit█Potential Profit
-
-
+missionReportSkillPoints█Punkty doświadczenia
+profit█Zysk
+loss█Strata
+income█Wpływ
+potentialLoss█Potencjalna Strata
+potentialProfit█Potencjalny Zysk
 
 
 

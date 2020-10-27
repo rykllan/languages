@@ -11,7 +11,7 @@ confirm_turnExpendable█Czy napewno chcesz zdjąć przyrządy do lądowania? Ra
 confirm_exitGame█Już mnie zostawiasz, prawda? :(
 confirm_exitMainMenu█Inne gry powiedziałby Ci teraz, że niezapisany postęp zostanie usunięty.
 confirm_deleteSave█Może następnym razem nie zbankrutujesz. 
-confirm_staticFire█Do you really want to skip the static fire for this booster? It will have a higher chance of an explosion!
+confirm_staticFire█Czy napewno chcesz pominąć test statyczny dla tego boostera? Będzie on miał większe szanse na wybuch!
 
 yes█Tak
 no█Nie
@@ -42,7 +42,7 @@ map_settings_header█Szybkie ustawienia
 map_settings_trackers_visible█Trackery widoczne?
 map_settings_satellites_visible█Satelity widoczne?
 map_settings_linklink_outline█Obramówka LinkLink?
-map_settings_mouseLight█Mouselight
+map_settings_mouseLight█Podświetlenie Kursora
 
 earth█Ziemia
 mars█Mars
@@ -70,12 +70,10 @@ marsProductionHeader█<b>Produkcja</b> <size=50%>/kwartał</size>
 marsUsageHeader█<b>Użycie</b> <size=50%>/kwartał</size>
 marsStorageHeader█<b>Magazynowanie</b>
 
-actionCamera█Action Camera
-switchView█Switch View
+actionCamera█Kamera Akcji
+switchView█Przełącz Widok
 
-sandbox█Sandbox
-
-
+sandbox█Piaskownica
 
 
 
