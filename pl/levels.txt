@@ -130,7 +130,7 @@ vehicle_smallRocket█Mała Rakieta
 vehicle_smallRocketDesc█Mała rakieta może wystrzelić tylko małe ładunki na niską orbitę ziemską.
 
 vehicle_mediumRocket█Średnia Rakieta
-vehicle_mediumRocketDesc█Średnia Rakieta, po kilku ulepszeniach, może lądować i wysyłać Kapsuły Towarowe do ISS. Może wystrzelić średnie ładuneki na średnią orbitę.
+vehicle_mediumRocketDesc█Średnia Rakieta, po kilku ulepszeniach, może lądować i wysyłać Kapsuły Towarowe do ISS. Może wystrzelić średnie ładunki na średnią orbitę.
 
 vehicle_largeRocket█Duża Rakieta
 vehicle_largeRocketDesc█Po ulepszeniach może automatycznie lądować, wysyłać Kapsuły Załogowe do ISS, łapać i ponownie wykorzystywać owiewki i wiele innych. Może wysyłać średnie ładunki na orbitę geostacjonarną.
