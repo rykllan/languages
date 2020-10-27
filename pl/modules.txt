@@ -7,73 +7,73 @@ module_factory_giga█Giga
 
 ---Engines---█---Engines---
 
-mdl_s_engine█Simple Engine
-mdl_a_engine█Advanced Engine
-mdl_a4_engine█4 Advanced Engines
-mdl_a9_engine█9 Advanced Engines
-mdl_m27_engine█37 Methane Engines
+mdl_s_engine█Prosty Silnik
+mdl_a_engine█Zaawansowany Silnik
+mdl_a4_engine█4 Zaawansowane Silniki
+mdl_a9_engine█9 Zaawansowanych Silników
+mdl_m27_engine█37 Metanowych Silników
 
 
 ---FuelTanks---█---FuelTanks---
 
-mdl_s_fueltank█Small Fuel Tank
-mdl_m_fueltank█Medium Fuel Tank
-mdl_l_fueltank█Large Fuel Tank
-mdl_vl_fueltank█Super Fuel Tank
+mdl_s_fueltank█Mały Zbiornik Paliwa
+mdl_m_fueltank█Średni Zbiornik Paliwa
+mdl_l_fueltank█Duży Zbiornik Paliwa
+mdl_vl_fueltank█Ogromny Zbiornik Paliwa
 
 
 ---Computers---█---Computers---
 
-mdl_s_computer█Simple Computer
-mdl_a_computer█Advanced Computer
-mdl_chip_computer█Computer Chip
-mdl_sn_computer█Skynet Computer
+mdl_s_computer█Prosty Komputer
+mdl_a_computer█Zaawansowany Komputer
+mdl_chip_computer█Czip Komputerowy
+mdl_sn_computer█Komputer Skynet
 mdl_booster_connector█Booster Connector
-mdl_camera█Camera
-mdl_s_altitude█Altitude Sensor
-mdl_s_heat█Heat Sensor
-mdl_s_battery█Small Battery
-mdl_a_battery█Large Battery
-mdl_a_antenna█Advanced Antenna
-mdl_s_antenna█Simple Antenna
+mdl_camera█Kamera
+mdl_s_altitude█Sensor Wysokości
+mdl_s_heat█Sensor Ciepła
+mdl_s_battery█Mała Bateria
+mdl_a_battery█Zaawansowana Bateria
+mdl_a_antenna█Zaawansowana Antena
+mdl_s_antenna█Prosta Antena
 mdl_gps█GPS
 
 
 ---Fairings---█---Fairings---
 
-mdl_s_fairings█Small Fairing
-mdl_m_fairings█Medium Fairing
-mdl_l_fairings█Large Fairing
-mdl_vc_fairings█Vehicle Connector
-mdl_fairingParachutes█Fairing Parachutes
+mdl_s_fairings█Małe Owiewki
+mdl_m_fairings█Średnie Owiewki
+mdl_l_fairings█Duże Owiewki
+mdl_vc_fairings█Złącze Boosterów
+mdl_fairingParachutes█Spadochron do Owiewek
 
 
 ---Landing Stuff---█---Landing Stuff---
 
-mdl_a_gridfins█Aluminium Grid Fins
-mdl_t_gridfins█Titanium Grid Fins
-mdl_m_landingLegs█Manual Landing Legs
-mdl_a_landingLegs█Automatic Landing Legs
+mdl_a_gridfins█Aluminiowe Lotki
+mdl_t_gridfins█Tytanowe Lotki
+mdl_m_landingLegs█Ręczne Nogi
+mdl_a_landingLegs█Automatyczne Nogi
 
 
 ---Capsule Stuff---█---Capsule Stuff---
 
-mdl_light_structure█Light Body
-mdl_heavy_structure█Heavy Body
-mdl_a_escape_engines█Escape Engines
-mdl_a_parachutes█Advanced Parachutes
-mdl_s_parachutes█Simple Parachutes
+mdl_light_structure█Lekka Konstrukcja
+mdl_heavy_structure█Ciężka Konstrukcja
+mdl_a_escape_engines█Zaawansowane Silniczki
+mdl_a_parachutes█Zaawansowany Spadochron
+mdl_s_parachutes█Prosty Spadochron
 
 
 ---Spaceship Stuff---█---Spaceship Stuff---
 
-mdl_methane_fueltank█Methane Fuel Tank
-mdl_methane_engine█6 Methane Engines
-mdl_stainlesssteel_structure█Stainless Steel Body
+mdl_methane_fueltank█Zbiornik Metanu
+mdl_methane_engine█6 Metanowych Silników
+mdl_stainlesssteel_structure█Stalowa Konstrukcja
 
-mdl_cargoUtility█Cargo Utility
-mdl_crewUtility█Crew Utility
-mdl_fuelUtility█Fuel Utility
+mdl_cargoUtility█Typ Towarowy
+mdl_crewUtility█Typ Załogowy
+mdl_fuelUtility█Typ Cysterny
 
 
 
