@@ -19,7 +19,7 @@ menu_sandbox█<b>Piaskownica</b>&%<size=75%>W piaskownicy wszystko jest odbloko
 
 menu_difficulty█Trudność Gry
 menu_easy█<b>Łatwy</b>&%<size=75%>Graj łatwo jeśli jesteś łatwy. Po prostu wystrzel swoje duuuże rakiety.
-menu_hard█<b>Hard</b>&%<size=75%>Higher probability you go bankrupt.
+menu_hard█<b>Trudny</b>&%<size=75%>Większe prawdopodobieństwo na bankrupctwo.
 
 menu_apply█Zatwierdź
 
@@ -35,11 +35,11 @@ menu_autoSave█Auto zapis?
 menu_autoPause█Auto pauza?
 menu_alwaysDay█Zawsze Dzień?
 menu_hangarsVisual█Lepsze Hangary?
-menu_gameOverSetting█Gameover?
+menu_gameOverSetting█Bankrupctwo?
 menu_tutorial█Tutorial?
 
-menu_cameraSensitivity█Camera Sensitivity
-menu_buildSensitivity█Build Sensitivity
+menu_cameraSensitivity█Czułość Kamery
+menu_buildSensitivity█Czułość Budowania
 
 menu_video█Wyświetlanie
 menu_fullscreen█Pełny ekran?
@@ -48,7 +48,7 @@ menu_vsync█V-Sync?
 menu_audio█Dźwięk
 menu_music█Muzyka?
 menu_sounds█Dźwięki?
-menu_tutorialVoice█Tutorial Voice?
+menu_tutorialVoice█Dźwięk Tutoriala?
 
 menu_language█Język
 
@@ -58,9 +58,9 @@ menu_collaboration█Współpraca
 menu_specialThanks█Specjalne Podziękowania
 menu_icons█Ikony pochodzą z Flaticon.com
 
-translated█<b>{0}</b>&%Translated: {1}%&%{2}
+translated█<b>{0}</b>&%Przetłumaczono: {1}%&%{2}
 dubbing█Dubbing: {0}
-noDubbing█No Dubbing
+noDubbing█Bez Dubbingu
 
 
 
