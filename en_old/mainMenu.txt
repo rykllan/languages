@@ -19,7 +19,7 @@ menu_sandbox█<b>Sandbox</b>&%<size=75%>In sandbox mode everything is unlocked 
 
 menu_difficulty█Game Difficulty
 menu_easy█<b>Easy</b>&%<size=75%>Play easy if you want to play easy. Just launch those big rockets.
-menu_hard█<b>Hard</b>&%<size=75%>Coming soon!
+menu_hard█<b>Hard</b>&%<size=75%>Higher probability you go bankrupt.
 
 menu_apply█Apply
 
@@ -36,6 +36,10 @@ menu_autoPause█Auto Pause?
 menu_alwaysDay█Always Day?
 menu_hangarsVisual█Hangars Visual?
 menu_gameOverSetting█Gameover?
+menu_tutorial█Tutorial?
+
+menu_cameraSensitivity█Camera Sensitivity
+menu_buildSensitivity█Build Sensitivity
 
 menu_video█Video
 menu_fullscreen█Fullscreen?
@@ -44,6 +48,7 @@ menu_vsync█V-Sync?
 menu_audio█Audio
 menu_music█Music?
 menu_sounds█Sounds?
+menu_tutorialVoice█Tutorial Voice?
 
 menu_language█Language
 
@@ -52,6 +57,10 @@ menu_creators█Creators
 menu_collaboration█Collaboration
 menu_specialThanks█Special Thanks
 menu_icons█Icons From Flaticon.com
+
+translated█<b>{0}</b>&%Translated: {1}%&%{2}
+dubbing█Dubbing: {0}
+noDubbing█No Dubbing
 
 
 
