@@ -38,7 +38,7 @@ research_testCompleted█Zakończono
 research_prototypeBuilt█{0} został zbudowany.
 
 task_SkillPoints█Miej {0} Punktów Doświadczenia! 
-task_LaunchPayloads█Wystrzel {0} Ładunków w kosmos! 
+task_LaunchPayloads█Wystrzel {0} ładunków w kosmos! 
 task_Money█Miej {0} <color=#16A085>$</color>! 
 
 task_LaunchSmallRocket█Wystrzel {0} Małych Rakiet!
@@ -49,8 +49,8 @@ task_LaunchHeavyRocket█Wystrzel {0} Ciężkich Rakiet!
 task_LaunchSpaceshipOrbit█Wystrzel {0} Statków Kosmicznych na orbitę Ziemi!
 task_LaunchSpaceshipMars█Wystrzel {0} Statków Kosmicznych na Marsa!
 
-task_LaunchCargoCapsule█Wystrzel {0} Kapsuł Towarowych do MSK!
-task_LaunchCrewCapsule█Wystrzel {0} Kapsuł Załogowych do MSK!
+task_LaunchCargoCapsule█Wystrzel {0} Kapsuł Towarowych do ISS!
+task_LaunchCrewCapsule█Wystrzel {0} Kapsuł Załogowych do ISS!
 
 task_LandManually█Ręcznie wyląduj {0} Rakietami!
 task_LandAutomatically█Automatycznie wyląduj {0} Rakietami!
@@ -108,8 +108,8 @@ progress_fundraiserDesc█Użyj Zbiórek Pieniedzy w okienku Firmy.
 progress_droneshipName█Barka
 progress_droneshipDesc█Kiedy Owiewka Rakiety jest prawie pełna (4+ sloty), będziesz musiał wylądować na Barce. Zarządzaj Barkiami w okienku z Pojazdami.
 
-progress_issSupplierMission█[<color=#d95eff>MISJA</color>] Program Zaopatrywania MSK
-progress_issCrewMission█[<color=#d95eff>MISJA</color>] Program Załogowy na MSK
+progress_issSupplierMission█[<color=#d95eff>MISJA</color>] Program Zaopatrywania ISS
+progress_issCrewMission█[<color=#d95eff>MISJA</color>] Program Załogowy na ISS
 progress_teslaRoadsterMission█[<color=#d95eff>MISJA</color>] Czerwone Auto
 progress_catMission█[<color=#d95eff>MISJA</color>] Kot
 progress_technicianMission█[<color=#d95eff>MISJA</color>] Technik w Walizce
@@ -130,10 +130,10 @@ vehicle_smallRocket█Mała Rakieta
 vehicle_smallRocketDesc█Mała rakieta może wystrzelić tylko małe ładunki na niską orbitę ziemską.
 
 vehicle_mediumRocket█Średnia Rakieta
-vehicle_mediumRocketDesc█Średnia Rakieta, po kilku ulepszeniach, może lądować i wysyłać Kapsuły Towarowe do MSK. Może wystrzelić średnie ładuneki na średnią orbitę.
+vehicle_mediumRocketDesc█Średnia Rakieta, po kilku ulepszeniach, może lądować i wysyłać Kapsuły Towarowe do ISS. Może wystrzelić średnie ładuneki na średnią orbitę.
 
 vehicle_largeRocket█Duża Rakieta
-vehicle_largeRocketDesc█Po ulepszeniach może automatycznie lądować, wysyłać Kapsuły Załogowe do MSK, łapać i ponownie wykorzystywać owiewki i wiele innych. Może wysyłać średnie ładunki na orbitę geostacjonarną.
+vehicle_largeRocketDesc█Po ulepszeniach może automatycznie lądować, wysyłać Kapsuły Załogowe do ISS, łapać i ponownie wykorzystywać owiewki i wiele innych. Może wysyłać średnie ładunki na orbitę geostacjonarną.
 
 vehicle_heavyRocket█Ciężka Rakieta
 vehicle_heavyRocketDesc█"3 Duże Rakiety sklejone w jedną". Może wysyłać duże ładunki na orbitę geostacjonarną oraz orbitę Marsa.
@@ -148,19 +148,19 @@ vehicle_crewCapsule█Kapsuła Załogowa
 vehicle_crewCapsuleDesc█Zdobądź kontrakt NASA na misje CCP i wysyłaj nowe załogi do Międzynarodowej Stacji Kosmicznej co 2 lata. W kapsule załogowej można również wystrzelić normalny ładunek.
 
 vehicle_cargoSpaceship█Towarowy Statek Kosmiczny
-vehicle_cargoSpaceshipDesc█Wyślij więcej ładunków na orbity Ziemi, jak i również na Marsa! Aby wylądować na Marsie, potrzebny będzie statek kosmiczny typu Cysterna.
+vehicle_cargoSpaceshipDesc█Wyślij więcej ładunków na orbity Ziemi, jak i na Marsa! Aby wylądować na Marsie, potrzebny będzie statek kosmiczny typu Cysterna.
 
 vehicle_crewSpaceship█Załogowy Statek Kosmiczny
 vehicle_crewSpaceshipDesc█Wyślij ludzi na Międzynarodową Stację Kosmiczną lub Powierzchnię Marsa. 
 
 vehicle_tankerSpaceship█Cysterna
-vehicle_tankerSpaceshipDesc█Jest ona wymagana do tankowania statków kosmicznych na orbicie ziemskiej przed odlotem na Marsa.
+vehicle_tankerSpaceshipDesc█Jest wymagana do tankowania statków kosmicznych na orbicie ziemskiej przed odlotem na Marsa.
 
 upgrade_basic█Podstawowe
 upgrade_basicDesc█Redukcja kosztów budowy i szans na wybuch.
 
 upgrade_telemetry█Telemetria
-upgrade_telemetryDesc█Pozwala zobaczyć, jak szybkie i wysoko są aktualnie rakiety.
+upgrade_telemetryDesc█Pozwala zobaczyć prędkość i wysokość aktualnie wystrzelonej rakiety.
 
 upgrade_webcast█Webcasty
 upgrade_webcastDesc█Pozwala zobaczyć to, co widzi rakieta.
