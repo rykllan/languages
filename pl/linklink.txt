@@ -36,7 +36,7 @@ linkLink_system█System
 linkLink_production█Produkcja
 linkLink_statistics█Statystyki
 
-linkLink_100_required█You need at least <color=#64B5F6><b>420</b></color> LinkLinks in order to run the service.
+linkLink_100_required█Potrzebujesz przynajmniej <color=#64B5F6><b>420</b></color> LinkLinków aby uruchomić tę usługę.
 
 linkLink_run█Uruchom LinkLink
 linkLink_customerPrice█Cena za usługę (za miesiąc)
