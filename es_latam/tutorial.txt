@@ -1,23 +1,58 @@
-ex_welcome█<m>YOUR GOALS</m>: &%-Don't go bankrupt, plz. &%-Work on new technologies and save money! Build landing rockets! &%-Build a colony on Mars. &%-Run LinkLink Internet service! &%-Terraform Mars :o
 
-ex_interface█I will now show you what the EarthX interface is being used for. Please <m>LISTEN</m> carefully. 
 
-ex_research█
-ex_prototypes█
-ex_contracts█
-ex_payloads█
+tutorial█Tutorial
 
-ex_rocketLaunch█<m>HOW TO LAUNCH ROCKETS?</m> &%&%Option A: Go to the <m>VEHICLES WINDOW</m> and click on the project of your choice. Then build a new rocket and just launch it once it's ready. &%&%Go to the <m>CONTRACTS WINDOW</m>, then select a payload in the payloads tab and launch it.
-ex_capsuleLaunch█
-ex_spaceshipLaunch█
-ex_marsLaunch█
-ex_staticfire█
+tutorial_welcome█Welcome
+tutorial_introduction█Introduction
+tutorial_research█Research
+tutorial_prototypes█Prototypes
+tutorial_contracts█Contracts
+tutorial_payloads█Payloads
+tutorial_production█Production
+tutorial_rocketLaunch█Rocket Launch
+tutorial_capsuleLaunch█Capsule Launch
+tutorial_spaceshipLaunch█Spaceship Orbit Launch
+tutorial_marsLaunch█Mars Launch
+tutorial_staticFire█Static Fire
+tutorial_rocketLanding█Rocket Landing
+tutorial_droneships█Droneships
+tutorial_LinkLink█LinkLink
 
-ex_rocketLand█
-ex_droneship█
+tutorial_orbits█<b><color=#64B5F6>ORBITS</color></b>&%<b>LEO</b> - Low Earth Orbit&%<b>MEO</b> - Medium Earth Orbit&%<b>GEO</b> - Geostationary Orbit&%&%<b>ISS</b> - International Space Station
+tutorial_sizes█<b><color=#64B5F6>SIZES</color></b>&%<b>Very Small</b> - 1 Slot&%<b>Small</b> - 2 Slots&%<b>Medium</b> - 4 Slots&%<b>Large</b> - 8 Slots&%<b>Very Large</b> - 16 Slots
 
-ex_linklink█
-ex_production█
+ex_welcome█<m>HELLO, {0}! &%&%HERE ARE YOUR GOALS. </m>&%&%Execute them and we will be Fine! &%&%-> Don't go bankrupt, plz. &%-> Develop new Technologies! &%-> Build a Colony on Mars. &%-> Run LinkLink Internet Service! &%-> Terraform Mars!
 
-ex_mars█
-ex_endgame█
+ex_interface█<m>HELP ME WITH THE INTERFACE!</m> &%&%I will now show you what the EarthX interface is being used for. Please <m>LISTEN</m> carefully. 
+
+ex_research█<m>HOW TO RESEARCH?</m> &%&%Select a Vehicle in the <m>RESEARCH WINDOW</m>, then click on it to see the details. &%To Unlock or Upgrade chosen Vehicle, simply complete the appropriate Tasks. &%&%Almost every Task has a Question Mark icon; <m>CLICK ON IT</m> to call me at any time.
+
+ex_prototypes█<m>HOW TO PROTOTYPE?</m> &%&%In the <m>RESEARCH WINDOW</m>, you will see 2 tabs. &%&%<m>FIRST TAB</m>: See the whole tree, plan for the next years! &%&%<m>SECOND TAB</m>: Test Engines and Spaceships prototypes.
+
+ex_contracts█<m>WHAT ARE CONTRACTS?</m> &%&%Try to <m>OFFER</m> as much as others or even less. You may not always win - even if you have the lowest price. &%&%<m>HIRING OFFICE EMPLOYEES</m> will allow you to offer more money. Do not negotiate for contracts which you cannot complete!
+
+ex_payloads█<m>WHAT ARE PAYLOADS?</m> &%&%Pay big attention to Payload's <m>DEADLINE</m>, <m>SIZE/ORBIT</m>, and <m>TYPE</m> of it. &%&%You can’t launch a Payload to <m>MEO</m> using a Rocket that can only reach <m>LEO</m>. You can't put a <m>LARGE PAYLOAD</m> into a <m>MEDIUM FAIRING</m>.
+
+ex_rocketLaunch█<m>HOW TO LAUNCH ROCKETS?</m> &%&%Option A: Go to the <m>VEHICLES WINDOW</m> and click on the project of your choice. Then build a new rocket and just launch it once it's ready. &%&%Option B: Go to the <m>CONTRACTS WINDOW</m>, then select a payload in the payloads tab and launch it. &%&%Payloads to the ISS can fly in any capsule, but Crew Missions <m>MUST</m> take place in Crew Capsules.
+
+ex_capsuleLaunch█<m>HOW TO LAUNCH CAPSULES?</m> &%&%Make sure you have a Capsule and a Rocket that can launch it. Check it by going into the <m>RESEARCH WINDOW</m>, then selecting a Rocket and checking if the <m>CAPSULE SUPPORT UPGRADE</m> is unlocked. &%&%Crew Capsules require <m>CREW CAPSULE SUPPORT</m>!
+
+ex_spaceshipLaunch█<m>HOW TO LAUNCH SPACESHIPS?</m> &%&%Launching Spaceships works exact the same as launching Capsules! You just need a <m>SPACESHIP</m>, <m>SUPERHEAVY ROCKET</m>, and <m>MEGA LAUNCHPAD</m>.
+
+ex_marsLaunch█<m>HOW TO LAUNCH TO MARS?</m> &%&%Make sure you have: &%-Spaceship (Crew or Cargo) &%-Tanker Spaceship (to refuel on orbit) &%-Superheavy Rocket &%-Some payloads you want to bring to Mars. &%&%Build the payloads in the <m>PRODUCTION WINDOW</m>. &%&%Once you have these, just launch the Spaceship like you would normally do, then select Mars payloads and a Tanker. &%Flight to Mars takes around 2-3 years. Spaceships will be waiting on the <m>PARKING ORBIT</m> before they leave.
+
+ex_staticfire█<m>WHAT IS A STATIC FIRE?</m> &%&%It's a Test in which the Rocket fires its Engines for a few seconds without leaving. &%&%To test a particular Rocket, select it in the <m>VEHICLE WINDOW</m> and then click on the Static Fire button. &%&%It is not required but highly <m>RECOMMENDED</m>, as the rocket has a much better chance of succeeding in a mission.
+
+ex_rocketLand█<m>HOW DO I LAND?</m> &%&%Rockets are divided into 2 types: Auto & Manual Landing. (and those which don't land at all lol) &%&%Manual Landing Rockets <m>REQUIRE YOU TO CLICK</m> on the button next to the rocket when it lands. You will also hear fast "clicking" sound. &%&%Automatic Landing Rockets will Land by themselves! &%&%Before a Rocket can Land, you have to Upgrade it. You'll do it in the <m>RESEARCH WINDOW</m>.
+
+ex_droneships█<m>WHAT ARE DRONESHIPS?</m> &%&%They are required if you want to Land with a Rocket that flies to <m>Geostationary Orbit (GEO)</m>, or if the Rocket fairing is <m>85% FULL (has 4 or more slots)</m>. &%&%You will be able to Buy, Name, and Move them around the world in the <m>VEHICLES WINDOW</m>.
+
+ex_linklink█<m>WHAT IS LINKLINK?</m> &%&%It's a huge constellation of many thousands of small satellites in the <m>LOW EARTH'S ORBIT</m>. LinkLink will allow you to provide an internet connection in literally any place on the Earth. &%&%Build them in the <m>PRODUCTION WINDOW</m> and then send them with a Rocket just like a normal payload. &%Don't forget to <m>BUILD TERMINALS</m> on the ground!
+
+ex_production█<m>PRODUCTION?</m> &%&%YES! You can Produce your <m>OWN</m> Payloads! &%Build a Giga factory first; then in the <m>PRODUCTION WINDOW</m>, you can choose what kind of Payload you want to Produce.
+
+ex_mars█<m>MARS :o</m> &%&%Build an Infrastructure on Mars, then to transport the first people from Earth. (Once you have a lot of people on Mars they will start doing s... <m>human-reproduction-thing (~aka DNA sharing)</m>!) &%&%You can use <m>NUKES</m> to warm up the Mars and <m>TERRAFORM</m> it.
+
+ex_endgame█<m>NUCLEAR BOMB GOES BRRR</m> &%&%I wanted to Congratulate you on your enormous Success. You have done something that others have found impossible. You have terraformed Mars! &%&%Please listen what I have to say and remember to respect <m>OUR</m> beautiful, colorful Earth and the nature. &%&%Thank you!
+
+

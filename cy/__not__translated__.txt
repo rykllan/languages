@@ -177,6 +177,111 @@ Original Translation: switchView█Switch View
 File: general.txt (57)
 Original Translation: sandbox█Sandbox
 
+File: tutorial.txt (0)
+Original Translation: tutorial█Tutorial
+
+File: tutorial.txt (1)
+Original Translation: tutorial_welcome█Welcome
+
+File: tutorial.txt (2)
+Original Translation: tutorial_introduction█Introduction
+
+File: tutorial.txt (3)
+Original Translation: tutorial_research█Research
+
+File: tutorial.txt (4)
+Original Translation: tutorial_prototypes█Prototypes
+
+File: tutorial.txt (5)
+Original Translation: tutorial_contracts█Contracts
+
+File: tutorial.txt (6)
+Original Translation: tutorial_payloads█Payloads
+
+File: tutorial.txt (7)
+Original Translation: tutorial_production█Production
+
+File: tutorial.txt (8)
+Original Translation: tutorial_rocketLaunch█Rocket Launch
+
+File: tutorial.txt (9)
+Original Translation: tutorial_capsuleLaunch█Capsule Launch
+
+File: tutorial.txt (10)
+Original Translation: tutorial_spaceshipLaunch█Spaceship Orbit Launch
+
+File: tutorial.txt (11)
+Original Translation: tutorial_marsLaunch█Mars Launch
+
+File: tutorial.txt (12)
+Original Translation: tutorial_staticFire█Static Fire
+
+File: tutorial.txt (13)
+Original Translation: tutorial_rocketLanding█Rocket Landing
+
+File: tutorial.txt (14)
+Original Translation: tutorial_droneships█Droneships
+
+File: tutorial.txt (15)
+Original Translation: tutorial_LinkLink█LinkLink
+
+File: tutorial.txt (16)
+Original Translation: tutorial_orbits█<b><color=#64B5F6>ORBITS</color></b>&%<b>LEO</b> - Low Earth Orbit&%<b>MEO</b> - Medium Earth Orbit&%<b>GEO</b> - Geostationary Orbit&%&%<b>ISS</b> - International Space Station
+
+File: tutorial.txt (17)
+Original Translation: tutorial_sizes█<b><color=#64B5F6>SIZES</color></b>&%<b>Very Small</b> - 1 Slot&%<b>Small</b> - 2 Slots&%<b>Medium</b> - 4 Slots&%<b>Large</b> - 8 Slots&%<b>Very Large</b> - 16 Slots
+
+File: tutorial.txt (18)
+Original Translation: ex_welcome█<m>HELLO, {0}! &%&%HERE ARE YOUR GOALS. </m>&%&%Execute them and we will be Fine! &%&%-> Don't go bankrupt, plz. &%-> Develop new Technologies! &%-> Build a Colony on Mars. &%-> Run LinkLink Internet Service! &%-> Terraform Mars!
+
+File: tutorial.txt (19)
+Original Translation: ex_interface█<m>HELP ME WITH THE INTERFACE!</m> &%&%I will now show you what the EarthX interface is being used for. Please <m>LISTEN</m> carefully. 
+
+File: tutorial.txt (20)
+Original Translation: ex_research█<m>HOW TO RESEARCH?</m> &%&%Select a Vehicle in the <m>RESEARCH WINDOW</m>, then click on it to see the details. &%To Unlock or Upgrade chosen Vehicle, simply complete the appropriate Tasks. &%&%Almost every Task has a Question Mark icon; <m>CLICK ON IT</m> to call me at any time.
+
+File: tutorial.txt (21)
+Original Translation: ex_prototypes█<m>HOW TO PROTOTYPE?</m> &%&%In the <m>RESEARCH WINDOW</m>, you will see 2 tabs. &%&%<m>FIRST TAB</m>: See the whole tree, plan for the next years! &%&%<m>SECOND TAB</m>: Test Engines and Spaceships prototypes.
+
+File: tutorial.txt (22)
+Original Translation: ex_contracts█<m>WHAT ARE CONTRACTS?</m> &%&%Try to <m>OFFER</m> as much as others or even less. You may not always win - even if you have the lowest price. &%&%<m>HIRING OFFICE EMPLOYEES</m> will allow you to offer more money. Do not negotiate for contracts which you cannot complete!
+
+File: tutorial.txt (23)
+Original Translation: ex_payloads█<m>WHAT ARE PAYLOADS?</m> &%&%Pay big attention to Payload's <m>DEADLINE</m>, <m>SIZE/ORBIT</m>, and <m>TYPE</m> of it. &%&%You can’t launch a Payload to <m>MEO</m> using a Rocket that can only reach <m>LEO</m>. You can't put a <m>LARGE PAYLOAD</m> into a <m>MEDIUM FAIRING</m>.
+
+File: tutorial.txt (24)
+Original Translation: ex_rocketLaunch█<m>HOW TO LAUNCH ROCKETS?</m> &%&%Option A: Go to the <m>VEHICLES WINDOW</m> and click on the project of your choice. Then build a new rocket and just launch it once it's ready. &%&%Option B: Go to the <m>CONTRACTS WINDOW</m>, then select a payload in the payloads tab and launch it. &%&%Payloads to the ISS can fly in any capsule, but Crew Missions <m>MUST</m> take place in Crew Capsules.
+
+File: tutorial.txt (25)
+Original Translation: ex_capsuleLaunch█<m>HOW TO LAUNCH CAPSULES?</m> &%&%Make sure you have a Capsule and a Rocket that can launch it. Check it by going into the <m>RESEARCH WINDOW</m>, then selecting a Rocket and checking if the <m>CAPSULE SUPPORT UPGRADE</m> is unlocked. &%&%Crew Capsules require <m>CREW CAPSULE SUPPORT</m>!
+
+File: tutorial.txt (26)
+Original Translation: ex_spaceshipLaunch█<m>HOW TO LAUNCH SPACESHIPS?</m> &%&%Launching Spaceships works exact the same as launching Capsules! You just need a <m>SPACESHIP</m>, <m>SUPERHEAVY ROCKET</m>, and <m>MEGA LAUNCHPAD</m>.
+
+File: tutorial.txt (27)
+Original Translation: ex_marsLaunch█<m>HOW TO LAUNCH TO MARS?</m> &%&%Make sure you have: &%-Spaceship (Crew or Cargo) &%-Tanker Spaceship (to refuel on orbit) &%-Superheavy Rocket &%-Some payloads you want to bring to Mars. &%&%Build the payloads in the <m>PRODUCTION WINDOW</m>. &%&%Once you have these, just launch the Spaceship like you would normally do, then select Mars payloads and a Tanker. &%Flight to Mars takes around 2-3 years. Spaceships will be waiting on the <m>PARKING ORBIT</m> before they leave.
+
+File: tutorial.txt (28)
+Original Translation: ex_staticfire█<m>WHAT IS A STATIC FIRE?</m> &%&%It's a Test in which the Rocket fires its Engines for a few seconds without leaving. &%&%To test a particular Rocket, select it in the <m>VEHICLE WINDOW</m> and then click on the Static Fire button. &%&%It is not required but highly <m>RECOMMENDED</m>, as the rocket has a much better chance of succeeding in a mission.
+
+File: tutorial.txt (29)
+Original Translation: ex_rocketLand█<m>HOW DO I LAND?</m> &%&%Rockets are divided into 2 types: Auto & Manual Landing. (and those which don't land at all lol) &%&%Manual Landing Rockets <m>REQUIRE YOU TO CLICK</m> on the button next to the rocket when it lands. You will also hear fast "clicking" sound. &%&%Automatic Landing Rockets will Land by themselves! &%&%Before a Rocket can Land, you have to Upgrade it. You'll do it in the <m>RESEARCH WINDOW</m>.
+
+File: tutorial.txt (30)
+Original Translation: ex_droneships█<m>WHAT ARE DRONESHIPS?</m> &%&%They are required if you want to Land with a Rocket that flies to <m>Geostationary Orbit (GEO)</m>, or if the Rocket fairing is <m>85% FULL (has 4 or more slots)</m>. &%&%You will be able to Buy, Name, and Move them around the world in the <m>VEHICLES WINDOW</m>.
+
+File: tutorial.txt (31)
+Original Translation: ex_linklink█<m>WHAT IS LINKLINK?</m> &%&%It's a huge constellation of many thousands of small satellites in the <m>LOW EARTH'S ORBIT</m>. LinkLink will allow you to provide an internet connection in literally any place on the Earth. &%&%Build them in the <m>PRODUCTION WINDOW</m> and then send them with a Rocket just like a normal payload. &%Don't forget to <m>BUILD TERMINALS</m> on the ground!
+
+File: tutorial.txt (32)
+Original Translation: ex_production█<m>PRODUCTION?</m> &%&%YES! You can Produce your <m>OWN</m> Payloads! &%Build a Giga factory first; then in the <m>PRODUCTION WINDOW</m>, you can choose what kind of Payload you want to Produce.
+
+File: tutorial.txt (33)
+Original Translation: ex_mars█<m>MARS :o</m> &%&%Build an Infrastructure on Mars, then to transport the first people from Earth. (Once you have a lot of people on Mars they will start doing s... <m>human-reproduction-thing (~aka DNA sharing)</m>!) &%&%You can use <m>NUKES</m> to warm up the Mars and <m>TERRAFORM</m> it.
+
+File: tutorial.txt (34)
+Original Translation: ex_endgame█<m>NUCLEAR BOMB GOES BRRR</m> &%&%I wanted to Congratulate you on your enormous Success. You have done something that others have found impossible. You have terraformed Mars! &%&%Please listen what I have to say and remember to respect <m>OUR</m> beautiful, colorful Earth and the nature. &%&%Thank you!
+
 File: buildings.txt (4)
 Original Translation: building_hangar█Hangar
 
@@ -371,111 +476,6 @@ Original Translation: payload_matt█Matt Rescue Mission
 
 File: contracts.txt (51)
 Original Translation: content_matt█There's a new offer from NASA. The purpose of the mission is to send a spaceship to Mars to return Matt to Earth.
-
-File: fails.txt (0)
-Original Translation: fail1█Well, technically it DID land... just not in one piece.
-
-File: fails.txt (1)
-Original Translation: fail2█Basically we don't know what happened ok
-
-File: fails.txt (2)
-Original Translation: fail3█Error 404: Rocket not Found
-
-File: fails.txt (3)
-Original Translation: fail4█Short Circuit: Uninsulated cables caused fire
-
-File: fails.txt (4)
-Original Translation: fail5█Rocket not responding, press any key to continue
-
-File: fails.txt (5)
-Original Translation: fail6█System update caused the rocket to reboot during the flight.......
-
-File: fails.txt (6)
-Original Translation: fail7█Rocket quitted in order to pursue its dream to become a world famous firework.
-
-File: fails.txt (7)
-Original Translation: fail8█Battery overheated (result: boom)
-
-File: fails.txt (8)
-Original Translation: fail9█Who knew THAT can break
-
-File: fails.txt (9)
-Original Translation: fail11█Sensor Failure: It just didn't work properly (Press F to pay respect).
-
-File: fails.txt (10)
-Original Translation: fail12█Who forgot to install the landing legs?
-
-File: fails.txt (11)
-Original Translation: fail13█The vehicle lost connection with the launch center, it didn't know what to do.
-
-File: fails.txt (12)
-Original Translation: fail14█That's why you shouldn't ignite your engines with a flamethrower
-
-File: fails.txt (13)
-Original Translation: fail15█Antenna Failure: On-Board Computer didn't get enough informations from the launch center.
-
-File: fails.txt (14)
-Original Translation: fail16█Why the hell is the payload inside the fuel tank?!?!
-
-File: fails.txt (15)
-Original Translation: fail17█Free candy here: https://discord.gg/sbXwwMs
-
-File: fails.txt (16)
-Original Translation: fail18█Not enough duct tape
-
-File: fails.txt (17)
-Original Translation: fail19█Overpressure: Engine's combustion chamber exploded.
-
-File: fails.txt (18)
-Original Translation: fail20█Looks the like rocket blew up due to aliens... don't worry, we will keep it a secret.
-
-File: fails.txt (19)
-Original Translation: fail21█Leakage: The fuel found its way out of the fuel tank.
-
-File: fails.txt (20)
-Original Translation: fail22█What goes up, musk crash down.
-
-File: fails.txt (21)
-Original Translation: fail23█Leakage: A small hole between engine and fuel tank caused boom boom
-
-File: fails.txt (22)
-Original Translation: fail24█Your rocket defied physics... that is why it crashed
-
-File: fails.txt (23)
-Original Translation: fail25█Hydraulic Failure: An important rocket part couldn't move.
-
-File: fails.txt (24)
-Original Translation: fail26█Wait, that's not the ignition button
-
-File: fails.txt (25)
-Original Translation: fail27█Overpressure: Payload just... exploded during the flight. The rocket was not guilty!
-
-File: fails.txt (26)
-Original Translation: fail28█Oh deer, we forgot to open the parachutes...
-
-File: fails.txt (27)
-Original Translation: fail29█Stupid Employee: He left his work tool inside a pipe, which got blocked by it.
-
-File: fails.txt (28)
-Original Translation: fail30█Greta sniped your rocket because it's bad for the environment
-
-File: fails.txt (29)
-Original Translation: fail31█Hydraulic Failure: The fairings couldn't open
-
-File: fails.txt (30)
-Original Translation: fail32█Don't worry, it's just a scratch
-
-File: fails.txt (31)
-Original Translation: fail33█Compression: The fuel was compressed a little bit too much.
-
-File: fails.txt (32)
-Original Translation: fail34█The payload wasn't in Rocket-mode
-
-File: fails.txt (33)
-Original Translation: fail35█The fuel was too hot inside the fuel tank.
-
-File: fails.txt (34)
-Original Translation: fail36█Note to self, don't stick stages together with Blu Tac
 
 File: levels.txt (0)
 Original Translation: research_header█Research
@@ -970,7 +970,7 @@ File: levels.txt (163)
 Original Translation: test_hop20km█20km Hop
 
 File: levels.txt (164)
-Original Translation: test_hop20kmDesc█To see if the vehicle can Land after re-entering the Orbit.
+Original Translation: test_hop20kmDesc█To see if the vehicle can Land after the flight.
 
 File: linklink.txt (0)
 Original Translation: linkLink_announcement_header█LinkLink - the future of the Internet?

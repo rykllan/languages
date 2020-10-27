@@ -9,9 +9,6 @@ Original Translation: confirm_staticFire█Do you really want to skip the static
 File: general.txt (25)
 Original Translation: orbit_iss█ISS
 
-File: general.txt (27)
-Original Translation: orbit_marsSurface█Mars Surface
-
 File: general.txt (35)
 Original Translation: map_settings_mouseLight█Mouselight
 
@@ -23,6 +20,12 @@ Original Translation: switchView█Switch View
 
 File: general.txt (57)
 Original Translation: sandbox█Sandbox
+
+File: tutorial.txt (0)
+Original Translation: tutorial█Tutorial
+
+File: tutorial.txt (15)
+Original Translation: tutorial_LinkLink█LinkLink
 
 File: buildings.txt (28)
 Original Translation: noGigaFound█[No giga factories found.]
@@ -526,7 +529,7 @@ File: levels.txt (163)
 Original Translation: test_hop20km█20km Hop
 
 File: levels.txt (164)
-Original Translation: test_hop20kmDesc█To see if the vehicle can Land after re-entering the Orbit.
+Original Translation: test_hop20kmDesc█To see if the vehicle can Land after the flight.
 
 File: linklink.txt (17)
 Original Translation: linkLink_system█System
@@ -536,9 +539,6 @@ Original Translation: linkLink_100_required█You need at least <color=#64B5F6><
 
 File: mainMenu.txt (15)
 Original Translation: menu_hard█<b>Hard</b>&%<size=75%>Higher probability you go bankrupt.
-
-File: mainMenu.txt (28)
-Original Translation: menu_gameOverSetting█Gameover?
 
 File: mainMenu.txt (29)
 Original Translation: menu_tutorial█Tutorial?
@@ -758,12 +758,6 @@ Original Translation: droneship_moveCosts█Move costs
 
 File: vehicles.txt (40)
 Original Translation: droneship_buildCosts█Build costs
-
-File: vehicles.txt (47)
-Original Translation: marsTryingLand█Trying to Land on <color=#E17055>Mars</color>
-
-File: vehicles.txt (48)
-Original Translation: earthTryingLand█Trying to Land on <color=#64B5F6>Earth</color>
 
 File: vehicles.txt (50)
 Original Translation: onDroneship█On a Droneship. Coming back soon!

@@ -1,231 +1,232 @@
 
 
-research_header█Badania
-research_technology█Technologia
-research_prototypes█Prototypy
+research_header█Research
+research_technology█Technology
+research_prototypes█Prototypes
 
-research_back█Wróć
-research_view█Pokaż
+research_back█Back
+research_view█View
 
-research_upgrades█Ulepszenia
-research_extras█Dodatki
+research_upgrades█Upgrades
+research_extras█Extras
 research_info█Info
 
-research_locked█Zablokowane
-research_unlocked█Odblokowane
+research_locked█Locked
+research_unlocked█Unlocked
 
-research_unlock█Odblokuj
-research_upgrade█Ulepsz
+research_unlock█Unlock
+research_upgrade█Upgrade
 
-research_flights█Loty
-research_successes█Sukcesy
-research_failures█Wybuchy
-research_cost█Koszt
-research_buildPrice█Koszt Budowy
-research_launchPrice█Koszt Startu
-research_totalIncome█Przychód (całość)
-research_totalLoss█Strata (całość)
-research_profit█Zysk
+research_flights█Flights
+research_successes█Successes
+research_failures█Failures
+research_cost█Cost
+research_buildPrice█Build Price
+research_launchPrice█Launch Price
+research_totalIncome█Total Income
+research_totalLoss█Total Loss
+research_profit█Profit
 
-research_vehicleName█Wpisz nazwę pojazdu...
+research_vehicleName█Enter vehicle name...
 
-research_milestones█Osiągnięcia
-research_availableTests█Dostępne Testy
+research_milestones█Milestones
+research_availableTests█Available Tests
 
-research_test█Testuj
-research_testCompleted█Zakończono
+research_test█Test
+research_testCompleted█Completed
 
-research_prototypeBuilt█{0} został zbudowany.
+research_prototypeBuilt█{0} has been built.
 
-task_SkillPoints█Miej {0} Punktów Doświadczenia! 
-task_LaunchPayloads█Wystrzel {0} ładunków w kosmos! 
-task_Money█Miej {0} <color=#16A085>$</color>! 
+task_SkillPoints█Have {0} Skill Points! 
+task_LaunchPayloads█Launch {0} Payloads into Space! 
+task_Money█Have {0} <color=#16A085>$</color>! 
 
-task_LaunchSmallRocket█Wystrzel {0} Małych Rakiet!
-task_LaunchMediumRocket█Wystrzel {0} Średnich Rakiet!
-task_LaunchLargeRocket█Wystrzel {0} Dużych Rakiet!
-task_LaunchHeavyRocket█Wystrzel {0} Ciężkich Rakiet!
+task_LaunchSmallRocket█Launch {0} Small Rocket(s)!
+task_LaunchMediumRocket█Launch {0} Medium Rocket(s)!
+task_LaunchLargeRocket█Launch {0} Large Rocket(s)!
+task_LaunchHeavyRocket█Launch {0} Heavy Rocket(s)!
 
-task_LaunchSpaceshipOrbit█Wystrzel {0} Statków Kosmicznych na orbitę Ziemi!
-task_LaunchSpaceshipMars█Wystrzel {0} Statków Kosmicznych na Marsa!
+task_LaunchSpaceshipOrbit█Launch {0} Spaceship(s) to Earth's Orbit!
+task_LaunchSpaceshipMars█Launch {0} Spaceship(s) to Mars!
 
-task_LaunchCargoCapsule█Wystrzel {0} Kapsuł Towarowych do ISS!
-task_LaunchCrewCapsule█Wystrzel {0} Kapsuł Załogowych do ISS!
+task_LaunchCargoCapsule█Launch {0} Cargo Capsule(s) to the ISS!
+task_LaunchCrewCapsule█Launch {0} Crew Capsule(s) to the ISS!
 
-task_LandManually█Ręcznie wyląduj {0} Rakietami!
-task_LandAutomatically█Automatycznie wyląduj {0} Rakietami!
-task_ReuseRockets█Użyj {0} Rakiet ponownie!
-task_LandOnMars█Wyląduj {0} Statków Kosmicznych na Marsie!
-task_CatchFairings█Złap {0} Owiewek!
+task_LandManually█Manually Land with {0} Rocket(s)!
+task_LandAutomatically█Automatically Land with {0} Rocket(s)!
+task_ReuseRockets█Reuse {0} Rocket(s)!
+task_LandOnMars█Land with {0} Spaceship(s) on Mars!
+task_CatchFairings█Catch {0} Fairings!
 
-task_MerlinEngineTest█Przetestuj {0} Silników Rakietowych!
-task_MediumRocketStaticFireTest█Wykonaj {0} Testów Statycznych dla Średnich Rakiet!
-task_LargeRocketStaticFireTest█Wykonaj {0} Testów Statycznych dla Dużych Rakiet!
-task_HeavyRocketStaticFireTest█Wykonaj {0} Testów Statycznych dla Ciężkich Rakiet!
-task_GrasshopperTest█Przetestuj {0} Prototypów Rakiet!
+task_MerlinEngineTest█Test {0} Rocket Engine(s)!
+task_MediumRocketStaticFireTest█Static fire {0} Medium Rocket(s)!
+task_LargeRocketStaticFireTest█Static fire {0} Large Rocket(s)!
+task_HeavyRocketStaticFireTest█Static fire {0} Heavy Rocket(s)!
+task_GrasshopperTest█Test {0} Rocket Hopper(s)!
 
-task_RaptorVacEngineTest█Odpal {0} Silników Próżniowych dla Statków Kosmicznych!
-task_RaptorEngineTest█Odpal {0} Silników dla Statków Kosmicznych!
-task_SnHop_20m_Test█Ukończ {0} 20m Skoków dla Skoczka Statku Kosmicznego!
-task_SnHop_150m_Test█Ukończ {0} 150m Skoków dla Prototypu Statku Kosmicznego!
-task_SnHop_20km_Test█Ukończ {0} 20km Skoków dla Prototypu Statku Kosmicznego!
+task_RaptorVacEngineTest█Fire {0} Spaceship Vacum Engine(s)!
+task_RaptorEngineTest█Fire {0} Spaceship Engine(s)!
+task_SnHop_20m_Test█Complete {0} 20m Hop(s) for Spaceship Hopper!
+task_SnHop_150m_Test█Complete {0} 150m Hop(s) for Spaceship Prototype!
+task_SnHop_20km_Test█Complete {0} 20km Hop(s) for Spaceship Prototype!
 
-task_LaunchMarsCamera█Ukończ misję Marsjańskiej Kamery!
-task_LaunchTinTin█Ukończ misję TinTin!
+task_LaunchMarsCamera█Complete Mars Camera Mission!
+task_LaunchTinTin█Complete TinTin Mission!
 
-task_LinkLinksTotal█Wystrzel {0} LinkLinków na Ziemską Orbitę!
-task_LinkLinkCustomers█Miej {0} Użytkowników LinkLink! 
+task_LinkLinksTotal█Have {0} LinkLinks on Earth's Orbit!
+task_LinkLinkCustomers█Have {0} LinkLink Customers! 
 
-task_BuildSmallTerminals█Zbuduj {0} Małe Terminale LinkLink!
-task_BuildLargeTerminals█Zbuduj {0} Duże Terminale LinkLink!
-task_BuildMegaLaunchPad█Zbuduj {0} Mega Stanowiska!
-task_BuildLandingZone█Zbuduj {0} Lądowiska na Marsie!
-task_BuildFuelFactory█Zbuduj {0} Fabryki Paliwa na Marsie!
+task_BuildSmallTerminals█Build {0} Small LinkLink Terminal(s)!
+task_BuildLargeTerminals█Build {0} Large LinkLink Terminal(s)!
+task_BuildMegaLaunchPad█Build {0} Mega Launch Pad(s)!
+task_BuildLandingZone█Build {0} Landing Zone(s) on Mars!
+task_BuildFuelFactory█Build {0} Fuel Factory(ies) on Mars!
 
-task_MarsOxygen█Przetransportuj {0} Powietrza na Marsa!
-task_MarsMartians█Miej {0} Ludzi na Marsie!
-task_MarsTerraform█Terraformuj Marsa do {0}% używając Atomówek!
+task_MarsOxygen█Transport {0} Oxygen to Mars with a Spaceship!
+task_MarsMartians█Have {0} Martians on Mars!
+task_MarsTerraform█Terraform Mars to {0}% using Nukes!
 
-task_BuildWaterFactory█Zbuduj {0} Fabryki Wody na Marsie!
-task_BuildMediumGreenhouse█Zbuduj {0} Szklarnie na Marsie!
-task_BuildSmallHotel█Zbuduj {0} Małe Hotele na Marsie!
-task_BuildMediumHotel█Zbuduj {0} Średnie Hotele na Marsie!
-task_BuildSmallWaterStorage█Zbuduj {0} Małe Zbiorniki Wody na Marsie!
-task_BuildMediumWaterStorage█Zbuduj {0} Średnie Zbiorniki Wody na Marsie!
-task_BuildSmallFuelStorage█Zbuduj {0} Małe Zbiorniki Paliwa na Marsie!
-task_BuildMediumFuelStorage█Zbuduj {0} Średnie Zbiorniki Paliwa na Marsie!
+task_BuildWaterFactory█Build {0} Water Factory(ies) on Mars!
+task_BuildMediumGreenhouse█Build {0} Greenhouse(s) on Mars!
+task_BuildSmallHotel█Build {0} Small Hotel(s) on Mars!
+task_BuildMediumHotel█Build {0} Medium Hotel(s) on Mars!
+task_BuildSmallWaterStorage█Build {0} Small Water Storage(s) on Mars!
+task_BuildMediumWaterStorage█Build {0} Medium Water Storage(s) on Mars!
+task_BuildSmallFuelStorage█Build {0} Small Fuel Storage(s) on Mars!
+task_BuildMediumFuelStorage█Build {0} Medium Fuel Storage(s) on Mars!
 
-task_BuildFactory█Zbuduj {0} Fabryk!
-task_BuildOffice█Zbuduj {0} Biur!
+task_BuildFactory█Build {0} Factory(ies)!
+task_BuildOffice█Build {0} Office(s)!
 
-progress_fundraiserHats█[<color=#FF9F43>ZBIÓRKA PIENIĘDZY</color>] Sprzedaj Czapki!
-progress_fundraiserBricks█[<color=#FF9F43>ZBIÓRKA PIENIĘDZY</color>] Sprzedaj Cegły!
-progress_fundraiserNAF█[<color=#FF9F43>ZBIÓRKA PIENIĘDZY</color>] Sprzedaj (nie)Miotacze Ognia!
-progress_fundraiserRocketquilla█[<color=#FF9F43>ZBIÓRKA PIENIĘDZY</color>] Sprzedaj Rakietoquille!
-progress_fundraiserShorts█[<color=#FF9F43>ZBIÓRKA PIENIĘDZY</color>] Sprzedaj Krótkie Szorty!
-progress_fundraiserDesc█Użyj Zbiórek Pieniedzy w okienku Firmy.
+progress_fundraiserHats█[<color=#FF9F43>FUNDRAISER</color>] Sell hats!
+progress_fundraiserBricks█[<color=#FF9F43>FUNDRAISER</color>] Sell bricks!
+progress_fundraiserNAF█[<color=#FF9F43>FUNDRAISER</color>] Sell (not) flamethrowers!
+progress_fundraiserRocketquilla█[<color=#FF9F43>FUNDRAISER</color>] Sell rocketquillas!
+progress_fundraiserShorts█[<color=#FF9F43>FUNDRAISER</color>] Sell short shorts!
+progress_fundraiserDesc█Use your fundraisers in the Company Window.
 
-progress_droneshipName█Barka
-progress_droneshipDesc█Kiedy Owiewka Rakiety jest prawie pełna (4+ sloty), będziesz musiał wylądować na Barce. Zarządzaj Barkiami w okienku z Pojazdami.
+progress_droneshipName█Droneship
+progress_droneshipDesc█If a Rocket Fairing is 4+ points full, you will need to Land with it on a Droneship. Manage Droneships in the Vehicle Window.
 
-progress_issSupplierMission█[<color=#d95eff>MISJA</color>] Program Zaopatrywania ISS
-progress_issCrewMission█[<color=#d95eff>MISJA</color>] Program Załogowy na ISS
-progress_teslaRoadsterMission█[<color=#d95eff>MISJA</color>] Czerwone Auto
-progress_catMission█[<color=#d95eff>MISJA</color>] Kot
-progress_technicianMission█[<color=#d95eff>MISJA</color>] Technik w Walizce
-progress_truthMission█[<color=#d95eff>MISJA</color>] Prawda
-progress_marsCameraMission█[<color=#d95eff>MISJA</color>] Marsjańska Kamera
-progress_tinTinMission█[<color=#d95eff>MISJA</color>] TinTin
-progress_mattMission█[<color=#d95eff>MISJA</color>] Matt
-progress_spateMission█[<color=#d95eff>MISJA</color>] Prologue EP
+progress_issSupplierMission█[<color=#d95eff>MISSION</color>] Commercial Resupply Service
+progress_issCrewMission█[<color=#d95eff>MISSION</color>] Commercial Crew Program
+progress_teslaRoadsterMission█[<color=#d95eff>MISSION</color>] Roadster
+progress_catMission█[<color=#d95eff>MISSION</color>] Cat
+progress_technicianMission█[<color=#d95eff>MISSION</color>] Technician in a Suitcase
+progress_truthMission█[<color=#d95eff>MISSION</color>] The Truth
+progress_marsCameraMission█[<color=#d95eff>MISSION</color>] Mars Camera
+progress_tinTinMission█[<color=#d95eff>MISSION</color>] TinTin
+progress_mattMission█[<color=#d95eff>MISSION</color>] Matt
+progress_spateMission█[<color=#d95eff>MISSION</color>] Prologue EP
 
-progress_linkLink█[<color=#81C784>PRODUKUJ</color>] LinkLinki
-progress_materials█[<color=#81C784>PRODUKUJ</color>] Materiały
-progress_oxygen█[<color=#81C784>PRODUKUJ</color>] Powietrze
-progress_martians█[<color=#81C784>PRODUKUJ</color>] Marsjanie
-progress_cybercar█[<color=#81C784>PRODUKUJ</color>] Cyberauta
-progress_nuke█[<color=#81C784>PRODUKUJ</color>] Atomówki
+progress_linkLink█[<color=#81C784>PRODUCE</color>] LinkLinks
+progress_materials█[<color=#81C784>PRODUCE</color>] Materials
+progress_oxygen█[<color=#81C784>PRODUCE</color>] Oxygen
+progress_martians█[<color=#81C784>PRODUCE</color>] Martians
+progress_cybercar█[<color=#81C784>PRODUCE</color>] Cybercars
+progress_nuke█[<color=#81C784>PRODUCE</color>] Nukes
 
-vehicle_smallRocket█Mała Rakieta
-vehicle_smallRocketDesc█Mała rakieta może wystrzelić tylko małe ładunki na niską orbitę ziemską.
+vehicle_smallRocket█Small Rocket
+vehicle_smallRocketDesc█Small rocket can launch only Small Payloads to Earth Low Orbit.
 
-vehicle_mediumRocket█Średnia Rakieta
-vehicle_mediumRocketDesc█Średnia Rakieta, po kilku ulepszeniach, może lądować i wysyłać Kapsuły Towarowe do ISS. Może wystrzelić średnie ładunki na średnią orbitę.
+vehicle_mediumRocket█Medium Rocket
+vehicle_mediumRocketDesc█Medium rocket, after some Upgrades, can Land and send Cargo Capsules to the ISS. It can launch Medium Payloads to Earth Medium Orbit.
 
-vehicle_largeRocket█Duża Rakieta
-vehicle_largeRocketDesc█Po ulepszeniach może automatycznie lądować, wysyłać Kapsuły Załogowe do ISS, łapać i ponownie wykorzystywać owiewki i wiele innych. Może wysyłać średnie ładunki na orbitę geostacjonarną.
+vehicle_largeRocket█Large Rocket
+vehicle_largeRocketDesc█After Upgrades, it can automatically Land, send Crew Capsules to the ISS, Catch & reuse Fairings, and more. It can launch Medium Payloads to Earth Geostationary Orbit.
 
-vehicle_heavyRocket█Ciężka Rakieta
-vehicle_heavyRocketDesc█"3 Duże Rakiety sklejone w jedną". Może wysyłać duże ładunki na orbitę geostacjonarną oraz orbitę Marsa.
+vehicle_heavyRocket█Heavy Rocket
+vehicle_heavyRocketDesc█"3 Large Rockets glued together". It can launch Large Payloads to Earth Geostationary Orbit and even Mars Orbit.
 
-vehicle_superheavyRocket█Rakieta Superheavy
-vehicle_superheavyRocketDesc█Rakiety Superheavy są w pełni wielokrotnego użytku i nie musisz ich odnawiać po każdym locie. Wymagają statku kosmicznego.
+vehicle_superheavyRocket█Superheavy Rocket
+vehicle_superheavyRocketDesc█Superheavy Rockets are fully Reusable and you don't have to Refurbish them after every flight. It requires a Spaceship.
 
-vehicle_cargoCapsule█Kapsuła Towarowa
-vehicle_cargoCapsuleDesc█Zdobądź kontrakt NASA na misje CRS i zaopatruj Międzynarodową Stację Kosmiczną co 2 lata.
+vehicle_cargoCapsule█Cargo Capsule
+vehicle_cargoCapsuleDesc█Get NASA's contract for CRS missions and supply the International Space Station every 2 years.
 
-vehicle_crewCapsule█Kapsuła Załogowa
-vehicle_crewCapsuleDesc█Zdobądź kontrakt NASA na misje CCP i wysyłaj nowe załogi do Międzynarodowej Stacji Kosmicznej co 2 lata. W kapsule załogowej można również wystrzelić normalny ładunek.
+vehicle_crewCapsule█Crew Capsule
+vehicle_crewCapsuleDesc█Get NASA's contract for CCP missions and send new Crew to the International Space Station every 2 years. In Crew Capsule, you can launch normal Cargo as well.
 
-vehicle_cargoSpaceship█Towarowy Statek Kosmiczny
-vehicle_cargoSpaceshipDesc█Wyślij więcej ładunków na orbity Ziemi, jak i na Marsa! Aby wylądować na Marsie, potrzebny będzie statek kosmiczny typu Cysterna.
+vehicle_cargoSpaceship█Cargo Spaceship
+vehicle_cargoSpaceshipDesc█Send more Payloads to Earth's orbits, as well as to Mars! In order to Land on Mars, you will need Tanker Spaceship.
 
-vehicle_crewSpaceship█Załogowy Statek Kosmiczny
-vehicle_crewSpaceshipDesc█Wyślij ludzi na Międzynarodową Stację Kosmiczną lub Powierzchnię Marsa. 
+vehicle_crewSpaceship█Crew Spaceship
+vehicle_crewSpaceshipDesc█Send humans to the International Space Station or Mars Surface. 
 
-vehicle_tankerSpaceship█Cysterna
-vehicle_tankerSpaceshipDesc█Jest wymagana do tankowania statków kosmicznych na orbicie ziemskiej przed odlotem na Marsa.
+vehicle_tankerSpaceship█Tanker Spaceship
+vehicle_tankerSpaceshipDesc█It's required to Refuel Spaceships on Earth's Orbit.
 
-upgrade_basic█Podstawowe
-upgrade_basicDesc█Redukcja kosztów budowy i szans na wybuch.
+upgrade_basic█Basic
+upgrade_basicDesc█Build Costs & Explosions Rate reduction.
 
-upgrade_telemetry█Telemetria
-upgrade_telemetryDesc█Pozwala zobaczyć prędkość i wysokość aktualnie wystrzelonej rakiety.
+upgrade_telemetry█Telemetry
+upgrade_telemetryDesc█Allows you to see how Fast and High the rockets are.
 
-upgrade_webcast█Webcasty
-upgrade_webcastDesc█Pozwala zobaczyć to, co widzi rakieta.
+upgrade_webcast█Webcasts
+upgrade_webcastDesc█Allows you to see what the Rocket sees.
 
-upgrade_cargoCapsuleSupport█Wsparcie Kapsuł Towarowych
-upgrade_cargoCapsuleSupportDesc█Pozwala na wystrzelenie Kapsuł Towarowych za pomocą tej rakiety.
+upgrade_cargoCapsuleSupport█Cargo Capsule Support
+upgrade_cargoCapsuleSupportDesc█Allows you to launch Cargo Capsules with this Rocket.
 
-upgrade_crewCapsuleSupport█Wsparcie Kapsuł Załogowych
-upgrade_crewCapsuleSupportDesc█Pozwala na wystrzelenie Kapsuł Towarowych i Załogowych za pomocą tej rakiety.
+upgrade_crewCapsuleSupport█Crew Capsule Support
+upgrade_crewCapsuleSupportDesc█Allows you to launch Cargo and Crew Capsules with this Rocket.
 
-upgrade_manualLanding█Ręczne Lądowanie
-upgrade_manualLandingDesc█Pozwala na ręczne wylądowanie tą rakietą po zakończeniu misji. Nie zapomnij, że ręczne lądowanie rakiet wymaga kliknięcia przycisku "Wyląduj"!
+upgrade_manualLanding█Manual Landing
+upgrade_manualLandingDesc█Allows you to Manually Land with this rocket after its mission. Don't forget, that manually landing rockets require you to click the "Click to Land" button!
 
-upgrade_automaticLanding█Automatyczne Lądowanie
-upgrade_automaticLandingDesc█Ta rakieta wyląduje automatycznie po swojej misji.
+upgrade_automaticLanding█Automatic Landing
+upgrade_automaticLandingDesc█This rocket will Land Automatically after its mission.
 
-upgrade_fairingCatching█Łapanie Owiewek
-upgrade_fairingCatchingDesc█Będziesz mógł spróbować złapać Owiewki podczas misji.
+upgrade_fairingCatching█Fairing Catching
+upgrade_fairingCatchingDesc█You will be able to try to Catch the Fairings after rocket's mission.
 
 upgrade_rideshare█Rideshare
-upgrade_rideshareDesc█Rideshare pozwala wystrzelić więcej ładunków za pomocą jednej rakiety jednocześnie!
+upgrade_rideshareDesc█Rideshare allows you to Launch More Payloads with one Rocket at once!
 
 
-prototype_merlinEngine█Silnik Rakietowy
-prototype_merlinEngineDesc█Silnik Rakietowy jest używany w normalnych rakietach. Ten prototyp pozwoli Ci go jeszcze bardziej rozwinąć!
+prototype_merlinEngine█Rocket Engine
+prototype_merlinEngineDesc█Rocket Engine is used in your normal rockets. This prototype will allow you to develop it even further!
 
-prototype_grasshopper█Prototyp Rakiety
-prototype_grasshopperDesc█Ten prototyp pozwoli Ci ćwiczyć lądowanie Twoich rakiet.
+prototype_grasshopper█Rocket Hopper
+prototype_grasshopperDesc█This prototype will allow you to Practice the Landings of your Rockets.
 
-prototype_raptorEngine█Silnik Statku Kosmicznego
-prototype_raptorEngineDesc█Silnik ten będzie używany w Twoich statkach kosmicznych i rakietach Superheavy. 
+prototype_raptorEngine█Spaceship Engine
+prototype_raptorEngineDesc█Spaceship Engine will be used in your Spaceships and Superheavy Rockets. 
 
-prototype_starhopper█Skoczek Statku Kosmicznego
-prototype_starhopperDesc█Ten prototyp będzie w stanie powiedzieć, czy pomysł zbudowania statku kosmicznego wielkości samolotu jest głupi, czy nie.
+prototype_starhopper█Spaceship Hopper
+prototype_starhopperDesc█This prototype will be able to tell you if the idea of building a plane-sized Spaceships is stupid or not.
 
-prototype_raptorVacEngine█Silnik Próżniowy Statku Kosmicznego
-prototype_raptorVacEngineDesc█Silnik ten będzie używany w twoich statkach kosmicznych, gdy znajdą się one w przestrzeni kosmicznej.
+prototype_raptorVacEngine█Spaceship Vacum Engine
+prototype_raptorVacEngineDesc█Spaceship Vacum Engine will be used in your Spaceships when they are in Space.
 
-prototype_spaceshipPrototype█Prototyp Statku Kosmicznego
-prototype_spaceshipPrototypeDesc█Seria ulepszonych prototypów statków kosmicznych pozwoli Ci opanować ich produkcję i niezawodność.
+prototype_spaceshipPrototype█Spaceship Prototype
+prototype_spaceshipPrototypeDesc█Series of improved Spaceship prototypes will allow you to master the Production and Reliability of the Spaceships.
 
 
-test_engineShortFire█Krótki Zapłon
-test_engineShortFireDesc█Aby sprawdzić, czy silnik odpala się prawidłowo.
+test_engineShortFire█Short Fire
+test_engineShortFireDesc█To see if the Engine fires up properly.
 
-test_engineFullLenghtFire█Pełny Zapłon
-test_engineFullLenghtFireDesc█Aby sprawdzić, czy silnik będzie działał w czasie trwania pełnego lotu.
+test_engineFullLenghtFire█Full-Length Fire
+test_engineFullLenghtFireDesc█To see if the Engine will work for the Flight Duration.
 
-test_tanking█Test Tankowania
-test_tankingDesc█Żeby sprawdzić, czy zbiornik paliwa przecieka.
+test_tanking█Tanking Test
+test_tankingDesc█To see if the Tank leaks.
 
-test_pressure█Test Ciśnienia
-test_pressureDesc█Aby sprawdzić, czy zbiornik poradzi sobie z wymaganym ciśnieniem.
+test_pressure█Pressure Test
+test_pressureDesc█To see if the Tank can handle required Pressure.
 
-test_staticFire█Test Statyczny
-test_staticFireDesc█Aby sprawdzić, czy silniki współpracują poprawnie ze zbiornikiem paliwa.
+test_staticFire█Static Fire
+test_staticFireDesc█To see if the Engines are working properly with the Fuel Tank.
 
-test_hop20m█Skok na 20m
-test_hop20mDesc█Aby sprawdzić, czy silnik jest stabilny podczas krótkiego lotu na 20m.
+test_hop20m█20m Hop
+test_hop20mDesc█To see if the Engine is stable during short 20m Flight.
 
-test_hop150m█Skok na 150m
-test_hop150mDesc█Aby sprawdzić, czy pojazd jest stabilny podczas dłuższego lotu.
+test_hop150m█150m Hop
+test_hop150mDesc█To see if the Vehicle is stable during a longer Flight.
 
-test_hop20km█Skok na 20km
-test_hop20kmDesc█Aby sprawdzić, czy pojazd może wylądować.
+test_hop20km█20km Hop
+test_hop20kmDesc█To see if the vehicle can Land after the flight.
+
 
 
 

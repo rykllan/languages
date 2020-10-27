@@ -54,3 +54,5 @@ ex_production█<m>PRODUKCJA?</m> &%&%TAK! W EarthX możesz także produkować w
 ex_mars█<m>MARS :o</m> &%&%Najpierw zbuduj podstawową infrastrukturę na Marsie, a następnie przetransportuj trochę tlenu i ludzi z Ziemi. (Kiedy już będziesz miał trochę ludzi na Marsie, zaczną oni ro... <m>dzielić się swoim DNA</m>!) &%&%Użyj <m>atomówek</m> aby ocieplić Marsa i go <m>terraformować</m>.
 
 ex_endgame█<m>ATOMÓWKI ROBIĄ BRRR</m> &%&%Chciałam Ci bardzo serdecznie pogratulować Twojego ogromnego sukcesu. Zrobiłeś coś, co inni uznali za niemożliwe. Terraformowałeś Marsa. &%&%Odejdźmy jednak na chwilę od EarthX, bo mam dla Ciebie ważną wiadomość. &%&%Pamiętaj, aby szanować <m>naszą</m> piękną, kolorową Ziemię oraz naturę. &%&%Dziękuję!
+
+
