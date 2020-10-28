@@ -15,11 +15,11 @@ rocketRequiresCapsule█Ракета (требует корабль)
 rocketRequiresSpaceship█Ракета (требует корабль Spaceship)
 
 vehicles█Ракеты
-droneships█Droneships
+droneships█Баржи
 vehicles_newVehicleHeader█Создать новую ракету
 vehicles_newVehicleButton█Новая ракета
 
-nicknameInput█Enter nickname...
+nicknameInput█Введите имя...
 
 vehicles_projects█Проекты
 vehicles_view█Просмотр
@@ -34,12 +34,12 @@ inQueue█В очереди&%<size=14><b><color=#64B5F6>Модуль скоро 
 
 build█Произвести
 move█Move
-staticFire█Static Fire
+staticFire█Прожиг
 built█Произведено
 launch█Запустить
 repair█Refurbish
-turnExpendable█Last Flight
-skip█Skip
+turnExpendable█Последний полёт
+skip█Пропустить
 
 detailedCosts█Detailed costs
 leftFairing█Left Fairing
@@ -50,12 +50,12 @@ generalRefurbishmentPrice█General refurbishment price
 
 xLeft█{0} left
 
-isRocketProfitable█Is this rocket profitable?
-rocketFinance█Finance
+isRocketProfitable█Прибыльна ли эта ракета?
+rocketFinance█Финансы
 
-droneship█Droneship
-droneship_moveCosts█Move costs
-droneship_buildCosts█Build costs
+droneship█Баржа
+droneship_moveCosts█Стоимость перемещения
+droneship_buildCosts█Стоимость произв.
 
 earthPO█Находится на Парковочной орбите <color=#64B5F6>Земли</color> (Отправление в <b>{0}</b>)
 marsPO█Находится на Парковочной орбите <color=#E17055>Марса</color> (Отправление в <b>{0}</b>)
@@ -66,12 +66,12 @@ earthLanding█Садится на <color=#64B5F6>Землю</color>
 marsTryingLand█Пытается сесть на <color=#E17055>Марс</color>
 earthTryingLand█Пытается сесть на <color=#64B5F6>Землю</color>
 marsLanded█На поверхности <color=#E17055>Марса</color>
-onDroneship█On a Droneship. Coming back soon!
+onDroneship█На барже. Скоро вернётся назад!
 
 readyToLaunch█<b><color=#64B5F6>{0} из {1}</b></color>&%<size=70%>готовы к запуску!
-readyToFly█Ready to Fly
-failureChance█&%Failure Chance: {0}%
-actionRequired█Action Required
+readyToFly█Готов к полёту
+failureChance█&%Шанс неудачи: {0}%
+actionRequired█Требуется действие
 
 notBuiltYet█Ещё не произведено
 constructing█Производство...
@@ -97,18 +97,18 @@ launchSetup_header█Настройка запуска
 launchSetup_missionName█Название миссии...
 launchSetup_mission█Миссия
 launchSetup_noVehiclesFound█[Не найдено ракет.]
-launchSetup_noRocketsFound█[No rockets found.]&%
-launchSetup_noSpaceshipsFound█[No spaceships found.]&%
-launchSetup_noCapsulesFound█[No capsules found.]
-launchSetup_noTankersFound█[No tankers found.]
+launchSetup_noRocketsFound█[Ракета не найдена.]&%
+launchSetup_noSpaceshipsFound█[Spaceship не найден.]&%
+launchSetup_noCapsulesFound█[Корабль не найден.]
+launchSetup_noTankersFound█[Танкер не найден.]
 launchSetup_noPayloadsFound█[Не найдено нагрузки.]
 launchSetup_selectVehicle█Выберите ракету
 launchSetup_selectLaunchPad█Выберите площадку
 launchSetup_selectTanker█Орбитальный танкер
 
-launchSetup_spaceshipRequired█[Spaceship Required]
-launchSetup_rocketRequired█[Rocket Required]
-launchSetup_superheavyRequired█[Superheavy Required]
+launchSetup_spaceshipRequired█[Требуется Spaceship]
+launchSetup_rocketRequired█[Требуется ракета]
+launchSetup_superheavyRequired█[Требуется сверхтяжёлая ракета]
 
 noPayloadsSelected█No Payloads selected!
 noLaunchPadSelected█No LaunchPad selected!
@@ -160,12 +160,12 @@ missionReportSecondVehicleLanding█Посадка корабля
 missionReportMissionIncome█Доход с миссии
 missionReportDamageCompensation█Компенсация урона
 missionReportLandedRocket█Севшая первая ступень
-missionReportSkillPoints█Skill points
-profit█Profit
-loss█Loss
-income█Income
-potentialLoss█Potential Loss
-potentialProfit█Potential Profit
+missionReportSkillPoints█Очки исследоаний
+profit█Прибыль
+loss█Убыток
+income█Выручка
+potentialLoss█Потенциальный убыток
+potentialProfit█Потенциальная прибыль
 
 
 
