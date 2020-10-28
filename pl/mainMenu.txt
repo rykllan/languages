@@ -33,13 +33,13 @@ menu_postprocessings█Efekty?
 menu_gameplay█Rozgrywka
 menu_autoSave█Auto zapis?
 menu_autoPause█Auto pauza?
-menu_alwaysDay█Zawsze Dzień?
-menu_hangarsVisual█Lepsze Hangary?
+menu_alwaysDay█Zawsze dzień?
+menu_hangarsVisual█Lepsze hangary?
 menu_gameOverSetting█Bankrupctwo?
 menu_tutorial█Tutorial?
 
-menu_cameraSensitivity█Czułość Kamery
-menu_buildSensitivity█Czułość Budowania
+menu_cameraSensitivity█Czułość trybu kamery
+menu_buildSensitivity█Czułość trybu budowania
 
 menu_video█Wyświetlanie
 menu_fullscreen█Pełny ekran?
@@ -48,7 +48,7 @@ menu_vsync█V-Sync?
 menu_audio█Dźwięk
 menu_music█Muzyka?
 menu_sounds█Dźwięki?
-menu_tutorialVoice█Dźwięk Tutoriala?
+menu_tutorialVoice█Dźwięk tutoriala?
 
 menu_language█Język
 
