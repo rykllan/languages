@@ -82,7 +82,7 @@ task_BuildMegaLaunchPad█Zbuduj {0} Mega Stanowiska!
 task_BuildLandingZone█Zbuduj {0} Lądowiska na Marsie!
 task_BuildFuelFactory█Zbuduj {0} Fabryki Paliwa na Marsie!
 
-task_MarsOxygen█Przetransportuj {0} Powietrza na Marsa!
+task_MarsOxygen█Przetransportuj {0} jednostek powietrza na Marsa!
 task_MarsMartians█Miej {0} Ludzi na Marsie!
 task_MarsTerraform█Terraformuj Marsa do {0}% używając Atomówek!
 
