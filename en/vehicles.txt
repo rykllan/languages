@@ -26,6 +26,7 @@ vehicles_view█View
 
 land█Land
 
+launchCosts█Launch costs
 buildCosts█Build costs
 originalBuildCosts█Original build costs
 optimizedBuildCosts█Optimized build costs
