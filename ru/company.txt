@@ -12,7 +12,7 @@ company_financeHistory█Финансовая история
 company_flightHistory█История запусков
 company_competitionHistory█История конкуренции
 
-fundraising_productionCost█Стоимость производства:
+fundraising_productionCost█Стоимость произв.:
 fundraising_sales█Прибыль:
 hats█Кепки
 bricks█Кирпичи
