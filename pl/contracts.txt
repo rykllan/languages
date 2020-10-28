@@ -12,8 +12,8 @@ contracts_noRockets█Brak odpowiednich rakiet!
 contracts_negotiators█Negocjatorzy
 contracts_approx█Około
 contracts_selectLaunchPrice█Wybierz cenę za start
-contracts_avgRocketPrice█Śr. cena rakiety:
-contracts_avgProfit█Śr. zysk:
+contracts_avgRocketPrice█Średnia cena rakiety:
+contracts_avgProfit█Średni zysk:
 
 contracts_submitOffer█Wystaw ofertę
 contracts_negotiate█Negocjuj
@@ -58,7 +58,7 @@ payload_tesla█Tesla Roadster
 contract_potato█Testowy ładunek
 payload_potato█Orbital Potato
 
-contract_balwina█miał... Miał... MIAŁ!!!
+contract_balwina█Miau... Miau... MIAU!!!
 
 contract_technician█Nagły wypadek
 payload_technician█Technik
@@ -74,9 +74,9 @@ contract_spate█SPATE: Prologue EP
 payload_spate█Prologue EP
 content_spate█Młody producent muzyczny z Finlandii wydaje nową płytę z kosmicznymi utworami. W ramach akcji promocyjnej, chciałby wysłać fizyczny egzemplarz swojego CD z kolejnym transportem zaopatrzeniowym na ISS.
 
-contract_matt█Uratuj Matt'a
-payload_matt█Misja Ratunkowa dla Matt'a
-content_matt█Pojawiła się nowa oferta od NASA. Celem misji jest wysłanie statku kosmicznego na Marsa, którą będzie mógł wrócić na Ziemię Matt.
+contract_matt█Uratuj Matta
+payload_matt█Misja Ratunkowa dla Matta
+content_matt█Pojawiła się nowa oferta od NASA. Celem misji jest wysłanie statku kosmicznego na Marsa, którą Matt będzie mógł wrócić na Ziemię.
 
 
 
