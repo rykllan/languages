@@ -11,7 +11,7 @@ confirm_turnExpendable█Voulez-vous vraiment retirer l'équipement d'atterrissa
 confirm_exitGame█Vous nous quittez maintenant, huh? :(
 confirm_exitMainMenu█Les autres jeux vous diriez ici que votre progression non sauvegardée sera perdue.
 confirm_deleteSave█Vous ne ferez peut-être pas faillite la prochaine fois.
-confirm_staticFire█Do you really want to skip the static fire for this booster? It will have a higher chance of an explosion!
+confirm_staticFire█Voulez-vous vraiment passer l'essai de tir statique pour cette fusée? Ceci engendrera un plus grand risque d'explosion!
 
 yes█Oui
 no█Non
@@ -21,16 +21,16 @@ enterText█Taper texte...
 
 notification█Notification
 
-payload_size_verySmall█Très petit(e)
-payload_size_small█Petit(e)		
-payload_size_medium█Moyen(ne)
-payload_size_large█Grand(e)
-payload_size_veryLarge█Très grand(e)
+payload_size_verySmall█Très petite
+payload_size_small█Petite	
+payload_size_medium█Moyenne
+payload_size_large█Grande
+payload_size_veryLarge█Très grande
 orbit_so█Sur orbite
-orbit_leo█OTB
+orbit_leo█LEO
 orbit_meo█MEO
 orbit_geo█GEO
-orbit_iss█SSI
+orbit_iss█ISS
 orbit_marsOrbit█Orbite de Mars
 orbit_marsSurface█Surface de Mars
 
@@ -71,9 +71,9 @@ marsUsageHeader█<b>Usage</b> <size=50%>/trimestre</size>
 marsStorageHeader█<b>Stockage</b>
 
 actionCamera█Action Camera
-switchView█Switch View
+switchView█Changer de vue
 
-sandbox█Sandbox
+sandbox█Bac à sable
 
 
 
