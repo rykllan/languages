@@ -1,21 +1,21 @@
 
 
-tutorial█Tutorial
+tutorial█Туториал
 
-tutorial_welcome█Welcome
-tutorial_introduction█Introduction
-tutorial_research█Research
-tutorial_prototypes█Prototypes
-tutorial_contracts█Contracts
-tutorial_payloads█Payloads
-tutorial_production█Production
-tutorial_rocketLaunch█Rocket Launch
-tutorial_capsuleLaunch█Capsule Launch
-tutorial_spaceshipLaunch█Spaceship Orbit Launch
-tutorial_marsLaunch█Mars Launch
-tutorial_staticFire█Static Fire
-tutorial_rocketLanding█Rocket Landing
-tutorial_droneships█Droneships
+tutorial_welcome█Добро пожаловать
+tutorial_introduction█Вступление
+tutorial_research█Исследования
+tutorial_prototypes█Прототипы
+tutorial_contracts█Контракты
+tutorial_payloads█Нагрузки
+tutorial_production█Производство
+tutorial_rocketLaunch█Запуск ракеты
+tutorial_capsuleLaunch█Запуск корабля
+tutorial_spaceshipLaunch█Запуск Spaceship на орбиту
+tutorial_marsLaunch█Запуск к Марсу
+tutorial_staticFire█Прожиг
+tutorial_rocketLanding█Возвращение ступеней
+tutorial_droneships█Баржи
 tutorial_LinkLink█LinkLink
 
 tutorial_orbits█<b><color=#64B5F6>ORBITS</color></b>&%<b>LEO</b> - Low Earth Orbit&%<b>MEO</b> - Medium Earth Orbit&%<b>GEO</b> - Geostationary Orbit&%&%<b>ISS</b> - International Space Station
