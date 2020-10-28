@@ -36,8 +36,8 @@ buildingSetup_negotiationPower█Сила переговоров
 
 buildingSetup_vehicleStored█Ракеты на складе
 
-noGigaFound█[No giga factories found.]
-unitsToBuild█Units to build...
+noGigaFound█[Не найдено ни одной Гигафабрики.]
+unitsToBuild█Кол-во для производства...
 
 buildingSetup_employees█<size=14>{0} сотрудников</size>&%{1} <color=#16A085>$</color> в год&%<size=14>{2} <color=#16A085>$</color> каждый
 buildingSetup_manageEmployees█Управление сотрудниками
