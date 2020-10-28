@@ -1,45 +1,45 @@
 
 
-tutorial█Tutorial
+tutorial█Tutoriel
 
-tutorial_welcome█Welcome
+tutorial_welcome█Bienvenue
 tutorial_introduction█Introduction
-tutorial_research█Research
+tutorial_research█Recherches
 tutorial_prototypes█Prototypes
-tutorial_contracts█Contracts
-tutorial_payloads█Payloads
+tutorial_contracts█Contrats
+tutorial_payloads█Charges utiles
 tutorial_production█Production
-tutorial_rocketLaunch█Rocket Launch
-tutorial_capsuleLaunch█Capsule Launch
-tutorial_spaceshipLaunch█Spaceship Orbit Launch
-tutorial_marsLaunch█Mars Launch
-tutorial_staticFire█Static Fire
-tutorial_rocketLanding█Rocket Landing
-tutorial_droneships█Droneships
+tutorial_rocketLaunch█Lancement de fusée
+tutorial_capsuleLaunch█Lancement de capsule
+tutorial_spaceshipLaunch█Lancement en orbite des navettes spatiales
+tutorial_marsLaunch█Décollage vers Mars
+tutorial_staticFire█Essai de tir statique
+tutorial_rocketLanding█Atterrissage des fusées
+tutorial_droneships█Barges de récupération
 tutorial_LinkLink█LinkLink
 
-tutorial_orbits█<b><color=#64B5F6>ORBITS</color></b>&%<b>LEO</b> - Low Earth Orbit&%<b>MEO</b> - Medium Earth Orbit&%<b>GEO</b> - Geostationary Orbit&%&%<b>ISS</b> - International Space Station
-tutorial_sizes█<b><color=#64B5F6>SIZES</color></b>&%<b>Very Small</b> - 1 Slot&%<b>Small</b> - 2 Slots&%<b>Medium</b> - 4 Slots&%<b>Large</b> - 8 Slots&%<b>Very Large</b> - 16 Slots
+tutorial_orbits█<b><color=#64B5F6>LES ORBITES</color></b>&%<b>LEO</b> - Orbite Terre Basse&%<b>MEO</b> - Orbite Terre Mpyenne&%<b>GEO</b> - Orbite Geostationnaire &%&%<b>ISS</b> - Station Spatiale Internationale
+tutorial_sizes█<b><color=#64B5F6>TAILLES</color></b>&%<b>Très Petite</b> - 1 Emplacement&%<b>Petite</b> - 2 Emplacements&%<b>Moyenne</b> - 4 Emplacements&%<b>Grande</b> - 8 Emplacements&%<b>Très Grande</b> - 16 Emplacements
 
-ex_welcome█<m>HELLO, {0}! &%&%HERE ARE YOUR GOALS. </m>&%&%Execute them and we will be Fine! &%&%-> Don't go bankrupt, plz. &%-> Develop new Technologies! &%-> Build a Colony on Mars. &%-> Run LinkLink Internet Service! &%-> Terraform Mars!
+ex_welcome█<m>SALUT, {0}! &%&%VOICI VOS OBJECTIFS. </m>&%&%Remplissez les et tout ira bien! &%&%-> Ne faites pas faillite, svp. &%-> Développez de nouvelles technologies! &%-> Construisez une colonie sur Mars. &%-> Gérer un service internet LinkLink! &%-> Terraformez Mars!
 
-ex_interface█<m>HELP ME WITH THE INTERFACE!</m> &%&%I will now show you what the EarthX interface is being used for. Please <m>LISTEN</m> carefully. 
+ex_interface█<m>AIDEZ MOI AVEC L'INTERFACE!</m> &%&%Je vais maintenant vous montrer comment l'interface d'EarthX s'utilise. S'il vous plaît <m>ECOUTEZ</m> attentivement. 
 
-ex_research█<m>HOW TO RESEARCH?</m> &%&%Select a Vehicle in the <m>RESEARCH WINDOW</m>, then click on it to see the details. &%To Unlock or Upgrade chosen Vehicle, simply complete the appropriate Tasks. &%&%Almost every Task has a Question Mark icon; <m>CLICK ON IT</m> to call me at any time.
+ex_research█<m>COMMENT RECHERCHER?</m> &%&%Selectionnez un véhicule dans la <m>FENETRE DE RECHERCHES</m>, cliquez ensuite dessus pour voir les détails. &%Pour débloquer ou améliorer le véhicule choisit, complétez tout simplement les tâches appropriées. &%&%Presque toutes les tâches ont une icône de point d'interrogation; <m>CLIQUEZ DESSUS</m> pour m'appeler à n'importe quel moment.
 
-ex_prototypes█<m>HOW TO PROTOTYPE?</m> &%&%In the <m>RESEARCH WINDOW</m>, you will see 2 tabs. &%&%<m>FIRST TAB</m>: See the whole tree, plan for the next years! &%&%<m>SECOND TAB</m>: Test Engines and Spaceships prototypes.
+ex_prototypes█<m>COMMENT FAIRE DES PROTOTYPES?</m> &%&%Dans la <m>FENETRE DE RECHERCHES</m>, vous verrez 2 onglets. &%&%<m>PREMIER ONGLET</m>: Observez l'arbre en entier, ce qui est prévu pour les années à venir! &%&%<m>SECOND ONGLET</m>: Testez des prototypes de Moteurs et de Vaisseaux.
 
-ex_contracts█<m>WHAT ARE CONTRACTS?</m> &%&%Try to <m>OFFER</m> as much as others or even less. You may not always win - even if you have the lowest price. &%&%<m>HIRING OFFICE EMPLOYEES</m> will allow you to offer more money. Do not negotiate for contracts which you cannot complete!
+ex_contracts█<m>QU'EST-CE QUE LES CONTRATS?</m> &%&%Essayez de proposer une <m>OFFRE</m> équivalente ou moindre que les autres. Vous ne gagnerez pas toujours - même si vous avez le prix le plus bas. &%&%<m>EMBAUCHER DES EMPLOYES DE BUREAUX</m> va vous permettre d'enchérir de plus gros montants. Ne négociez pas des contrats que vous ne pourriez pas honorer!
 
-ex_payloads█<m>WHAT ARE PAYLOADS?</m> &%&%Pay big attention to Payload's <m>DEADLINE</m>, <m>SIZE/ORBIT</m>, and <m>TYPE</m> of it. &%&%You can’t launch a Payload to <m>MEO</m> using a Rocket that can only reach <m>LEO</m>. You can't put a <m>LARGE PAYLOAD</m> into a <m>MEDIUM FAIRING</m>.
+ex_payloads█<m>QU'EST-CE QUE LES CHARGES UTILES?</m> &%&%Portez une grande attention aux <m>DATES BUTOIRS</m>, <m>TAILLES/ORBITES</m> des charges utiles, ainsi que leur <m>TYPE</m>. &%&%Vous ne pourrez pas lancer une charge utile en <m>MEO (Orbite Terre Moyenne)</m> en utilisant une fusée qui ne peut qu'atteindre le <m>LEO (Orbite Terre Basse)</m>. Vous ne pouvez pas mettre une <m>GRANDE CHARGE UTILE</m> dans une <m>COIFFE MOYENNE</m>.
 
-ex_rocketLaunch█<m>HOW TO LAUNCH ROCKETS?</m> &%&%Option A: Go to the <m>VEHICLES WINDOW</m> and click on the project of your choice. Then build a new rocket and just launch it once it's ready. &%&%Option B: Go to the <m>CONTRACTS WINDOW</m>, then select a payload in the payloads tab and launch it. &%&%Payloads to the ISS can fly in any capsule, but Crew Missions <m>MUST</m> take place in Crew Capsules.
+ex_rocketLaunch█<m>COMMENT LANCER LES FUSEES?</m> &%&%Option A: Allez à la <m>FENETRE DES VEHICULES</m> et cliquez sur le projet de votre choix. Construisez ensuite une nouvelle fusée et lancez la une fois qu'elle est prête. &%&%Option B: Allez à la <m>FENETRE DES CONTRATS</m>, sélectionnez ensuite une charge utile dans l'onglet des charges utiles et lancez la. &%&%Les charges utiles vers l'ISS peuvent voler dans n'importe quelle capsule, mais les missions d'équipage <m>DOIVENT</m> se faire dans une capsule d'équipage.
 
-ex_capsuleLaunch█<m>HOW TO LAUNCH CAPSULES?</m> &%&%Make sure you have a Capsule and a Rocket that can launch it. Check it by going into the <m>RESEARCH WINDOW</m>, then selecting a Rocket and checking if the <m>CAPSULE SUPPORT UPGRADE</m> is unlocked. &%&%Crew Capsules require <m>CREW CAPSULE SUPPORT</m>!
+ex_capsuleLaunch█<m>COMMENT LANCER LES CAPSULES?</m> &%&%Assurez vous d'avoir une capsule et une fusée qui puisse les lancer. Vérifiez celà en allant sur la <m>FENETRE DE RECHERCHES</m>, sélectionnez ensuite une fusée et vérifiez si l'<m>AMELIORATION DE SUPPORT DE CAPSULE</m> est débloquée. &%&%Les capsules d'équipage nécessitent <m>LE SUPPORT  DE CAPSULE D'EQUIPAGE</m>!
 
-ex_spaceshipLaunch█<m>HOW TO LAUNCH SPACESHIPS?</m> &%&%Launching Spaceships works exact the same as launching Capsules! You just need a <m>SPACESHIP</m>, <m>SUPERHEAVY ROCKET</m>, and <m>MEGA LAUNCHPAD</m>.
+ex_spaceshipLaunch█<m>COMMENT LANCER LES NAVETTES SPATIALES?</m> &%&%Lancer des Navettes Spatiales fonctionne exactement pareil que de lancer des capsules! Vous avez juste besoin d'une <m>NAVETTE SPATIALE</m>, <m>FUSEE SUPERLOURDE</m>, et d'une <m>MEGA RAMPE DE LANCEMENT</m>.
 
-ex_marsLaunch█<m>HOW TO LAUNCH TO MARS?</m> &%&%Make sure you have: &%-Spaceship (Crew or Cargo) &%-Tanker Spaceship (to refuel on orbit) &%-Superheavy Rocket &%-Some payloads you want to bring to Mars. &%&%Build the payloads in the <m>PRODUCTION WINDOW</m>. &%&%Once you have these, just launch the Spaceship like you would normally do, then select Mars payloads and a Tanker. &%Flight to Mars takes around 2-3 years. Spaceships will be waiting on the <m>PARKING ORBIT</m> before they leave.
+ex_marsLaunch█<m>COMMENT S'ENVOLER VERS MARS?</m> &%&%Make sure you have: &%-Spaceship (Crew or Cargo) &%-Tanker Spaceship (to refuel on orbit) &%-Superheavy Rocket &%-Some payloads you want to bring to Mars. &%&%Build the payloads in the <m>PRODUCTION WINDOW</m>. &%&%Once you have these, just launch the Spaceship like you would normally do, then select Mars payloads and a Tanker. &%Flight to Mars takes around 2-3 years. Spaceships will be waiting on the <m>PARKING ORBIT</m> before they leave.
 
 ex_staticfire█<m>WHAT IS A STATIC FIRE?</m> &%&%It's a Test in which the Rocket fires its Engines for a few seconds without leaving. &%&%To test a particular Rocket, select it in the <m>VEHICLE WINDOW</m> and then click on the Static Fire button. &%&%It is not required but highly <m>RECOMMENDED</m>, as the rocket has a much better chance of succeeding in a mission.
 
