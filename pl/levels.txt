@@ -157,7 +157,7 @@ vehicle_tankerSpaceship█Cysterna
 vehicle_tankerSpaceshipDesc█Jest wymagana do tankowania statków kosmicznych na orbicie ziemskiej przed odlotem na Marsa.
 
 upgrade_basic█Podstawowe
-upgrade_basicDesc█Redukcja kosztów budowy i szans na wybuch.
+upgrade_basicDesc█Redukcja kosztów budowy i prawdopodobieństwa wybuchu.
 
 upgrade_telemetry█Telemetria
 upgrade_telemetryDesc█Pozwala zobaczyć prędkość i wysokość aktualnie wystrzelonej rakiety.
