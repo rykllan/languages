@@ -7,73 +7,73 @@ module_factory_giga█Гига
 
 ---Engines---█---Engines---
 
-mdl_s_engine█Simple Engine
-mdl_a_engine█Advanced Engine
-mdl_a4_engine█4 Advanced Engines
-mdl_a9_engine█9 Advanced Engines
-mdl_m27_engine█37 Methane Engines
+mdl_s_engine█Простой двигатель
+mdl_a_engine█Улучшенный двигатель
+mdl_a4_engine█4 улучшенных двигателя
+mdl_a9_engine█9 улучшенных двигателя
+mdl_m27_engine█37 метановых двигателей
 
 
 ---FuelTanks---█---FuelTanks---
 
-mdl_s_fueltank█Small Fuel Tank
-mdl_m_fueltank█Medium Fuel Tank
-mdl_l_fueltank█Large Fuel Tank
-mdl_vl_fueltank█Super Fuel Tank
+mdl_s_fueltank█Малый топливный бак
+mdl_m_fueltank█Средний топливный бак
+mdl_l_fueltank█Большой топливный бак
+mdl_vl_fueltank█Улучшенный большой топливный танк
 
 
 ---Computers---█---Computers---
 
-mdl_s_computer█Simple Computer
-mdl_a_computer█Advanced Computer
-mdl_chip_computer█Computer Chip
-mdl_sn_computer█Skynet Computer
-mdl_booster_connector█Booster Connector
-mdl_camera█Camera
-mdl_s_altitude█Altitude Sensor
-mdl_s_heat█Heat Sensor
-mdl_s_battery█Small Battery
-mdl_a_battery█Large Battery
-mdl_a_antenna█Advanced Antenna
-mdl_s_antenna█Simple Antenna
+mdl_s_computer█Простой борт. компьютер
+mdl_a_computer█Улучшенный борт. компьютер
+mdl_chip_computer█Чип борт. компьютера
+mdl_sn_computer█Скайнет
+mdl_booster_connector█Коннектор ускорителей
+mdl_camera█Камера
+mdl_s_altitude█Высотомер
+mdl_s_heat█Температурный датчик
+mdl_s_battery█Малый аккумулятор
+mdl_a_battery█Большой аккумулятор
+mdl_a_antenna█Улучшенный аккумулятор
+mdl_s_antenna█Простая антенна
 mdl_gps█GPS
 
 
 ---Fairings---█---Fairings---
 
-mdl_s_fairings█Small Fairing
-mdl_m_fairings█Medium Fairing
-mdl_l_fairings█Large Fairing
-mdl_vc_fairings█Vehicle Connector
-mdl_fairingParachutes█Fairing Parachutes
+mdl_s_fairings█Малый обтекатель
+mdl_m_fairings█Средний обтекатель
+mdl_l_fairings█Большой обтекатель
+mdl_vc_fairings█Адаптер корабля
+mdl_fairingParachutes█Парафойл обтекателя
 
 
 ---Landing Stuff---█---Landing Stuff---
 
-mdl_a_gridfins█Aluminium Grid Fins
-mdl_t_gridfins█Titanium Grid Fins
-mdl_m_landingLegs█Manual Landing Legs
-mdl_a_landingLegs█Automatic Landing Legs
+mdl_a_gridfins█Алюминиевые решётчатые рули
+mdl_t_gridfins█Титановые решётчатые рули
+mdl_m_landingLegs█Ручные посадочные опоры
+mdl_a_landingLegs█Автоматические посадочные опоры
 
 
 ---Capsule Stuff---█---Capsule Stuff---
 
-mdl_light_structure█Light Body
-mdl_heavy_structure█Heavy Body
-mdl_a_escape_engines█Escape Engines
-mdl_a_parachutes█Advanced Parachutes
-mdl_s_parachutes█Simple Parachutes
+mdl_light_structure█Лёгкий корпус
+mdl_heavy_structure█Тяжёлый корпус
+mdl_a_escape_engines█Двигатели САС
+mdl_a_parachutes█Улучшенные парашюты
+mdl_s_parachutes█Простые парашюты
 
 
 ---Spaceship Stuff---█---Spaceship Stuff---
 
-mdl_methane_fueltank█Methane Fuel Tank
-mdl_methane_engine█6 Methane Engines
-mdl_stainlesssteel_structure█Stainless Steel Body
+mdl_methane_fueltank█Метановый бак
+mdl_methane_engine█6 метановых двигателей
+mdl_stainlesssteel_structure█Корпус из нержавейки
 
-mdl_cargoUtility█Cargo Utility
-mdl_crewUtility█Crew Utility
-mdl_fuelUtility█Fuel Utility
+mdl_cargoUtility█Грузовой модуль
+mdl_crewUtility█Пилотируемый модуль
+mdl_fuelUtility█Топливный модуль
 
 
 
