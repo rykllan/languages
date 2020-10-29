@@ -53,7 +53,7 @@ menu_tutorialVoice█Voix du tutoriel ?
 menu_language█Langue
 
 
-menu_creators█Createurs
+menu_creators█Créateurs
 menu_collaboration█Collaboration
 menu_specialThanks█Remerciement spécial
 menu_icons█Icons From Flaticon.com
