@@ -21,7 +21,7 @@ tutorial_LinkLink█LinkLink
 tutorial_orbits█<b><color=#64B5F6>ORBITY</color></b>&%<b>LEO</b> - Niska Orbita&%<b>MEO</b> - Średnia Orbita&%<b>GEO</b> - Geostacjonarna Orbita&%&%<b>ISS</b> - Międzynarodowa Stacja Kosmiczna
 tutorial_sizes█<b><color=#64B5F6>WIELKOŚCI</color></b>&%<b>Bardzo Mały</b> - 1 Slot&%<b>Mały</b> - 2 Sloty&%<b>Średni</b> - 4 Sloty&%<b>Duży</b> - 8 Sloty&%<b>Bardzo Duży</b> - 16 Sloty
 
-ex_welcome█<m>HEJ, {0}! &%&%OTO TWOJE CELE.</m> &%&%Wykonaj je, a będzie dobrze! &%&%-> Nie możesz zbankrutować. &%-> Rozwiń nowe technologie! &%-> Zbuduj kolonię na Marsie. &%-> Uruchom usługę LinkLink! &%-> Terraformuj Marsa!
+ex_welcome█<m>HEJ, {0}! &%&%OTO TWOJE CELE.</m> &%&%Wykonaj je, a będzie dobrze! &%&%-> Nie możesz zbankrutować. &%-> Rozwijaj nowe technologie! &%-> Zbuduj kolonię na Marsie. &%-> Uruchom usługę LinkLink! &%-> Terraformuj Marsa!
 
 ex_interface█<m>JAK OBSŁUGIWAĆ EARTHX?</m> &%&%Pokażę Ci, do czego służą te dziwne ikonki na dole. Proszę <m>POSŁUCHAJ MNIE</m> uważnie. 
 
