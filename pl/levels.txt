@@ -38,66 +38,66 @@ research_testCompleted█Zakończono
 
 research_prototypeBuilt█{0} został zbudowany.
 
-task_SkillPoints█Miej {0} Punktów Doświadczenia! 
-task_LaunchPayloads█Ładunki do wystrzelenia w kosmos: {0}  
-task_Money█Miej {0} <color=#16A085>$</color>! 
+task_SkillPoints█Wymagane punkty doświadczenia: {0} 
+task_LaunchPayloads█Ładunki do wystrzelenia w kosmos: {0} 
+task_Money█Wymagany budżet: {0} <color=#16A085>$</color>  
 
-task_LaunchSmallRocket█Wystrzel {0} Małych Rakiet!
-task_LaunchMediumRocket█Wystrzel {0} Średnich Rakiet!
-task_LaunchLargeRocket█Wystrzel {0} Dużych Rakiet!
-task_LaunchHeavyRocket█Wystrzel {0} Ciężkich Rakiet!
+task_LaunchSmallRocket█Małe rakiety do wystrzelenia: {0} 
+task_LaunchMediumRocket█Średnie rakiety do wystrzelenia: {0} 
+task_LaunchLargeRocket█Duże rakiety do wystrzelenia: {0} 
+task_LaunchHeavyRocket█Ciężkie rakiety do wystrzelenia: {0} 
 
-task_LaunchSpaceshipOrbit█Wystrzel {0} Statków Kosmicznych na orbitę Ziemi!
-task_LaunchSpaceshipMars█Wystrzel {0} Statków Kosmicznych na Marsa!
+task_LaunchSpaceshipOrbit█Wystrzelone Statki Kosmiczne na orbitę Ziemi: {0} 
+task_LaunchSpaceshipMars█Wystrzelone Statki Kosmiczne na orbitę Marsa: {0} 
 
-task_LaunchCargoCapsule█Wystrzel {0} Kapsuł Towarowych do ISS!
-task_LaunchCrewCapsule█Wystrzel {0} Kapsuł Załogowych do ISS!
+task_LaunchCargoCapsule█Wystrzelone Kapsuły Towarowe do ISS: {0} 
+task_LaunchCrewCapsule█Wystrzelone Kapsuły Załogowe do ISS: {0} 
 
-task_LandManually█Ręcznie wyląduj {0} Rakietami!
-task_LandAutomatically█Automatycznie wyląduj {0} Rakietami!
-task_ReuseRockets█Użyj {0} Rakiet ponownie!
-task_LandOnMars█Wyląduj {0} Statków Kosmicznych na Marsie!
-task_CatchFairings█Złap {0} Owiewek!
+task_LandManually█Ręczne lądowania rakiet: {0} 
+task_LandAutomatically█Automatycznie lądowania rakiet: {0} 
+task_ReuseRockets█Ponownie wykorzystane rakiety: {0} 
+task_LandOnMars█Lądowania Statków Kosmicznych na Marsie: {0} 
+task_CatchFairings█Owiewki do złapania: {0} 
 
-task_MerlinEngineTest█Przetestuj {0} Silników Rakietowych!
-task_MediumRocketStaticFireTest█Wykonaj {0} Testów Statycznych dla Średnich Rakiet!
-task_LargeRocketStaticFireTest█Wykonaj {0} Testów Statycznych dla Dużych Rakiet!
-task_HeavyRocketStaticFireTest█Wykonaj {0} Testów Statycznych dla Ciężkich Rakiet!
-task_GrasshopperTest█Przetestuj {0} Prototypów Rakiet!
+task_MerlinEngineTest█Silniki rakietowe do przetestowania: {0} 
+task_MediumRocketStaticFireTest█Testy Statyczne dla Średnich Rakiet: {0} 
+task_LargeRocketStaticFireTest█Testy Statyczne dla Dużych Rakiet: {0} 
+task_HeavyRocketStaticFireTest█Testy Statyczne dla Ciężkich Rakiet: {0} 
+task_GrasshopperTest█Prototypy rakiet do przetestowania: {0} 
 
-task_RaptorVacEngineTest█Odpal {0} Silników Próżniowych dla Statków Kosmicznych!
-task_RaptorEngineTest█Odpal {0} Silników dla Statków Kosmicznych!
-task_SnHop_20m_Test█Ukończ {0} 20m Skoków dla Skoczka Statku Kosmicznego!
-task_SnHop_150m_Test█Ukończ {0} 150m Skoków dla Prototypu Statku Kosmicznego!
-task_SnHop_20km_Test█Ukończ {0} 20km Skoków dla Prototypu Statku Kosmicznego!
+task_RaptorVacEngineTest█Odpalone Silniki Próżniowe dla Statków Kosmicznych: {0} 
+task_RaptorEngineTest█Odpalone silniki dla Statków Kosmicznych: {0} 
+task_SnHop_20m_Test█Ukończone skoki na 20m dla Skoczka Statku Kosmicznego: {0} 
+task_SnHop_150m_Test█Ukończone skoki na 150m dla Prototypu Statku Kosmicznego: {0} 
+task_SnHop_20km_Test█Ukończone skoki na 20km dla Prototypu Statku Kosmicznego: {0} 
 
 task_LaunchMarsCamera█Ukończ misję Marsjańskiej Kamery!
 task_LaunchTinTin█Ukończ misję TinTin!
 
-task_LinkLinksTotal█Wystrzel {0} LinkLinków na Ziemską Orbitę!
-task_LinkLinkCustomers█Miej {0} Użytkowników LinkLink! 
+task_LinkLinksTotal█LinkLinki do wystrzelenia: {0} 
+task_LinkLinkCustomers█Wymagani użytkownicy LinkLink: {0} 
 
-task_BuildSmallTerminals█Zbuduj {0} Małe Terminale LinkLink!
-task_BuildLargeTerminals█Zbuduj {0} Duże Terminale LinkLink!
-task_BuildMegaLaunchPad█Zbuduj {0} Mega Stanowiska!
-task_BuildLandingZone█Zbuduj {0} Lądowiska na Marsie!
-task_BuildFuelFactory█Zbuduj {0} Fabryki Paliwa na Marsie!
+task_BuildSmallTerminals█Małe Terminale LinkLink do wybudowania: {0} 
+task_BuildLargeTerminals█Duże Terminale LinkLink do wybudowania: {0} 
+task_BuildMegaLaunchPad█Mega Stanowiska do wybudowania: {0} 
+task_BuildLandingZone█Lądowiska na Marsie: {0} 
+task_BuildFuelFactory█Fabryki paliwa na Marsie: {0} 
 
-task_MarsOxygen█Przetransportuj {0} jednostek powietrza na Marsa!
-task_MarsMartians█Miej {0} Ludzi na Marsie!
-task_MarsTerraform█Terraformuj Marsa do {0}% używając Atomówek!
+task_MarsOxygen█Przetransportowane jednostki powietrza na Marsa: {0} 
+task_MarsMartians█Mieszkańcy Marsa: {0} 
+task_MarsTerraform█Poziom terraformacji Marsa: {0}% 
 
-task_BuildWaterFactory█Zbuduj {0} Fabryki Wody na Marsie!
-task_BuildMediumGreenhouse█Zbuduj {0} Szklarnie na Marsie!
-task_BuildSmallHotel█Zbuduj {0} Małe Hotele na Marsie!
-task_BuildMediumHotel█Zbuduj {0} Średnie Hotele na Marsie!
-task_BuildSmallWaterStorage█Zbuduj {0} Małe Zbiorniki Wody na Marsie!
-task_BuildMediumWaterStorage█Zbuduj {0} Średnie Zbiorniki Wody na Marsie!
-task_BuildSmallFuelStorage█Zbuduj {0} Małe Zbiorniki Paliwa na Marsie!
-task_BuildMediumFuelStorage█Zbuduj {0} Średnie Zbiorniki Paliwa na Marsie!
+task_BuildWaterFactory█Posiadane marsjańskie fabryki wody: {0} 
+task_BuildMediumGreenhouse█Posiadane marsjańskie szklarnie: {0} 
+task_BuildSmallHotel█Posiadane marsjańskie Małe Hotele: {0} 
+task_BuildMediumHotel█Posiadane marsjańskie Średnie Hotele: {0} 
+task_BuildSmallWaterStorage█Posiadane marsjańskie małe Zbiorniki Wody: {0} 
+task_BuildMediumWaterStorage█Posiadane marsjańskie średnie Zbiorniki Wody: {0} 
+task_BuildSmallFuelStorage█Posiadane marsjańskie małe Zbiorniki Paliwa: {0} 
+task_BuildMediumFuelStorage█Posiadane marsjańskie średnie Zbiorniki Paliwa: {0} 
 
-task_BuildFactory█Zbuduj {0} Fabryk!
-task_BuildOffice█Zbuduj {0} Biur!
+task_BuildFactory█Fabryki do zbudowania: {0} 
+task_BuildOffice█Biura do zbudowania: {0} 
 
 progress_fundraiserHats█[<color=#FF9F43>ZBIÓRKA PIENIĘDZY</color>] Sprzedaj Czapki!
 progress_fundraiserBricks█[<color=#FF9F43>ZBIÓRKA PIENIĘDZY</color>] Sprzedaj Cegły!
