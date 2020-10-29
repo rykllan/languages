@@ -60,7 +60,7 @@ menu_icons█Иконки из Flaticon.com
 
 translated█<b>{0}</b>&%Переведено: {1}%&%{2}
 dubbing█Озвучено: {0}
-noDubbing█Не озвучено
+noDubbing█Английская озвучка
 
 
 
