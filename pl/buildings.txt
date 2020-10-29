@@ -101,7 +101,7 @@ waterFactory_desc█Produkuje Wodę i Tlen.
 fuelFactory█Fabryka Paliwa
 fuelFactory_desc█Produkuje Paliwo.
 
-steelFactory█Fabryka Zelaza
+steelFactory█Fabryka Żelaza
 steelFactory_desc█Produkuje Materiały i Cyberauta.
 
 mediumGreenhouse█Średnia Szklarnia

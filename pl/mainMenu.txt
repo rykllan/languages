@@ -17,9 +17,9 @@ menu_gameMode█Tryb Gry
 menu_classic█<b>Klasyczny</b>&%<size=75%>Zagraj w tryb klasyczny, gdzie musisz stworzyć swoją firmę od zera.
 menu_sandbox█<b>Piaskownica</b>&%<size=75%>W piaskownicy wszystko jest odblokowane i nieskończone. Trochę nudne. 
 
-menu_difficulty█Trudność Gry
-menu_easy█<b>Łatwy</b>&%<size=75%>Graj łatwo jeśli jesteś łatwy. Po prostu wystrzel swoje duuuże rakiety.
-menu_hard█<b>Trudny</b>&%<size=75%>Większe prawdopodobieństwo na bankrupctwo.
+menu_difficulty█Poziom trudności
+menu_easy█<b>Łatwy</b>&%<size=75%>Po prostu wystrzel swoje duuuże rakiety.
+menu_hard█<b>Trudny</b>&%<size=75%>Większe prawdopodobieństwo, że zbankrutujesz.
 
 menu_apply█Zatwierdź
 
@@ -35,7 +35,7 @@ menu_autoSave█Auto zapis?
 menu_autoPause█Auto pauza?
 menu_alwaysDay█Zawsze dzień?
 menu_hangarsVisual█Lepsze hangary?
-menu_gameOverSetting█Bankrupctwo?
+menu_gameOverSetting█Bankructwo?
 menu_tutorial█Tutorial?
 
 menu_cameraSensitivity█Czułość trybu kamery

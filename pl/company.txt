@@ -25,7 +25,7 @@ company_menu_finance█Finanse
 company_menu_flights█Loty
 company_menu_competition█Konkurencja
 
-company_summary█Last 10 Years
+company_summary█Ostatnie 10 lat
 
 company_income█Przychód
 company_expenses█Wydatki

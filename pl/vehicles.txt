@@ -34,7 +34,7 @@ optimizedBuildCosts█Zoptymalizowane koszty
 inQueue█W kolejce&%<size=14><b><color=#64B5F6>Moduł zostanie zbudowany za moment
 
 build█Zbuduj
-move█Move
+move█Przenieś
 staticFire█Test Statyczny
 built█Zbudowano
 launch█Wystrzel
@@ -74,7 +74,7 @@ readyToFly█Gotowy do Lotu!
 failureChance█&%Szansa na wybuch: {0}%
 actionRequired█Wymanaga akcja
 
-notBuiltYet█Jeszcze niezbudowana
+notBuiltYet█Jeszcze nie zbudowana
 constructing█Budowanie...
 repairing█Odnawianie...
 flying█W locie

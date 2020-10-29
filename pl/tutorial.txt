@@ -21,9 +21,9 @@ tutorial_LinkLink█LinkLink
 tutorial_orbits█<b><color=#64B5F6>ORBITY</color></b>&%<b>LEO</b> - Niska Orbita&%<b>MEO</b> - Średnia Orbita&%<b>GEO</b> - Geostacjonarna Orbita&%&%<b>ISS</b> - Międzynarodowa Stacja Kosmiczna
 tutorial_sizes█<b><color=#64B5F6>WIELKOŚCI</color></b>&%<b>Bardzo Mały</b> - 1 Slot&%<b>Mały</b> - 2 Sloty&%<b>Średni</b> - 4 Sloty&%<b>Duży</b> - 8 Sloty&%<b>Bardzo Duży</b> - 16 Sloty
 
-ex_welcome█<m>HEJ, {0}! &%&%OTO TWOJE CELE.</m> &%&%Wykonaj je, a będzie dobrze! &%&%-> Nie możesz zbankrutować, plz. &%-> Rozwij nowe technologie! &%-> Zbuduj kolonię na Marsie. &%-> Uruchom usługę LinkLink! &%-> Terraformuj Marsa!
+ex_welcome█<m>HEJ, {0}! &%&%OTO TWOJE CELE.</m> &%&%Wykonaj je, a będzie dobrze! &%&%-> Nie możesz zbankrutować. &%-> Rozwiń nowe technologie! &%-> Zbuduj kolonię na Marsie. &%-> Uruchom usługę LinkLink! &%-> Terraformuj Marsa!
 
-ex_interface█<m>JAK OBSŁUGIWAĆ TĘ GRĘ?</m> &%&%Pokażę Ci, do czego służą te dziwne ikonki na dole. Proszę <m>SŁUCHAJ</m> uważnie. 
+ex_interface█<m>JAK OBSŁUGIWAĆ EARTHX?</m> &%&%Pokażę Ci, do czego służą te dziwne ikonki na dole. Proszę <m>POSŁUCHAJ MNIE</m> uważnie. 
 
 ex_research█<m>JAK BADAĆ NOWE TECHNOLOGIE?</m> &%&%W <m>OKIENKU BADAŃ</m> wybierz interesujący Cię pojazd, następnie na niego kliknij, aby zobaczyć jego szczegóły. &%Aby odblokować lub ulepszyć wybrany pojazd, po prostu wykonaj odpowiednie zadania. &%&%Prawie każde zadanie ma ikonkę ze znakiem zapytania, <m>KLIKNIJ</m> w nią aby mnie wywołać w każdej chwili.
 
@@ -39,19 +39,19 @@ ex_capsuleLaunch█<m>JAK WYSTRZELIĆ KAPSUŁĘ?</m> &%&%Najpierw upewnij się, 
 
 ex_spaceshipLaunch█<m>JAK WYSTRZELIĆ STATEK KOSMICZNY?</m> &%&%Wystrzelenie statku kosmicznego na orbitę ziemską działa dokładnie tak samo jak wystrzelenie kapsuły. Potrzebujesz jedynie <m>statku kosmicznego</m>, rakiety typu <m>Superheavy</m> oraz <m>Mega stanowisko startowe</m>.
 
-ex_marsLaunch█<m>JAK DOLECIEĆ NA MARSA?</m> &%&%Upewnij się, że posiadasz wymienione rzeczy: &%-Statek Kosmiczny (Załogowy lub Towarowy) &%-Cysterna (aby zatankować na orbicie) &%-Rakieta Superheavy &%-Trochę ładunków, które chcesz dostarczyć na Marsa &%&%Ładunki na Marsa zbudujesz w <m>okienku z produkcją</m>. &%&%Teraz po prostu wystrzel statek kosmiczny na Marsa! &%Lot na Marsa trwa od 2 do 3 lat. Statki Kosmiczne będą czekać na <m>orbicie parkującej</m> do czasu odlotu.
+ex_marsLaunch█<m>JAK DOLECIEĆ NA MARSA?</m> &%&%Upewnij się, że posiadasz wymienione rzeczy: &%-Statek Kosmiczny (Załogowy lub Towarowy) &%-Cysterna (aby zatankować na orbicie) &%-Rakieta Superheavy &%-Trochę ładunków, które chcesz dostarczyć na Marsa &%&%Ładunki na Marsa zbudujesz w <m>okienku z produkcją</m>. &%&%Teraz wystrzel statek kosmiczny na Marsa! &%Lot na Marsa trwa od 2 do 3 lat. Statki Kosmiczne będą czekać na <m>orbicie parkującej</m> do czasu odlotu.
 
-ex_staticfire█<m>A CO TO JEST TEST STATYCZNY?</m> &%&%Test statyczny to test, w którym rakieta na kilka sekund włącza swoje silniki, nie odlatując przy tym &%&%Aby wykonać taki test dla poszczególnej rakiety, wybierz ją w <m>okienku pojazdów</m>, a następnie kliknij w opcję testu statycznego.  &%&%Test statyczny nie jest wymagany, lecz <m>niezwykle zalecany</m>, gdyż rakieta ma wtedy o wiele większe szanse na udaną misję.
+ex_staticfire█<m>A CO TO JEST TEST STATYCZNY?</m> &%&%Test statyczny to test, w którym rakieta na kilka sekund włącza swoje silniki, nie odlatując przy tym &%&%Aby wykonać ten test dla poszczególnej rakiety, wybierz ją w <m>okienku pojazdów</m>, a następnie kliknij w opcję testu statycznego.  &%&%Test statyczny nie jest wymagany, lecz <m>niezwykle zalecany</m>, gdyż rakieta ma wtedy o wiele większe szanse na udaną misję.
 
-ex_rocketLand█<m>LĄDOWAĆ?</m> &%&%Rakiety dzielą się na 2 typy: Te które lądują ręcznie i te, które lądują automatycznie. (I oczywiście te, które nie lądują wcale) &%&%Ręcznie lądujące rakiety wymagają <m>kliknięcia w przycisk</m> przy rakiecie, podczas jej lądowania. &%&%Automatycznie lądujące rakiety będą lądowały same. &%&%Zanim rakieta będzie miała możliwość lądowania, musisz ją ulepszyć. Zrobisz to w <m>okienku badań</m>.
+ex_rocketLand█<m>JAK LĄDOWAĆ?</m> &%&%Rakiety dzielą się na 2 typy: Te które lądują ręcznie i te, które lądują automatycznie. (I oczywiście te, które nie lądują wcale) &%&%Ręcznie lądujące rakiety wymagają <m>kliknięcia w przycisk</m> przy rakiecie, podczas jej lądowania. &%&%Automatycznie lądujące rakiety będą lądowały same. &%&%Zanim rakieta będzie miała możliwość lądowania, musisz ją ulepszyć. Zrobisz to w <m>okienku badań</m>.
 
 ex_droneships█<m>CO TO SĄ BARKI?</m> &%&%Barki są wymagane, jeśli chcesz wylądować rakietą, która musi wynieść ładunek na <m>GEO</m> lub jeśli owiewka rakiety jest w <m>85% pełna (4 lub więcej slotów)</m>.  &%&%W <m>okienku z pojazdami</m> będziesz mógł je kupić, nazwać i poruszać się nimi po świecie.
 
-ex_linklink█<m>HAHA LINKLINK!</m> &%&%to ogromna konstelacja wielu tysięcy małych satelitów na <m>niskiej orbicie okołoziemskiej</m>. LinkLink pozwoli Ci na dostarczenie połączenia internetowego w dosłownie każdy zakątek na ziemi. &%&%Możesz je zbudować w <m>okienku z produkcją</m>, a następnie wysłać rakietą tak samo jak normalny ładunek. &%Nie zapomnij o <m>zbudowaniu terminali</m> na ziemi, bo wielu graczy zapomina i dziwią się, że nie mają klientów xD
+ex_linklink█<m>LINKLINK!</m> &%&%to ogromna konstelacja wielu tysięcy małych satelitów na <m>niskiej orbicie okołoziemskiej</m>. LinkLink pozwoli Ci na dostarczenie połączenia internetowego w dosłownie każdy zakątek Ziemi. &%&%Możesz je zbudować w <m>okienku z produkcją</m>, a następnie wysłać rakietą tak samo jak normalny ładunek. &%Nie zapomnij o <m>zbudowaniu terminali</m> na ziemi, bo wielu graczy zapomina i dziwią się, że nie mają klientów!
 
 ex_production█<m>PRODUKCJA?</m> &%&%TAK! W EarthX możesz także produkować własne ładunki. Aby to zrobić musisz zbudować <m>Giga fabrykę</m>. Następnie w <m>okienku produkcji</m> możesz wybrać jaki ładunek ma zostać wyprodukowany.
 
-ex_mars█<m>MARS :o</m> &%&%Najpierw zbuduj podstawową infrastrukturę na Marsie, a następnie przetransportuj trochę tlenu i ludzi z Ziemi. (Kiedy już będziesz miał trochę ludzi na Marsie, zaczną oni ro... <m>dzielić się swoim DNA</m>!) &%&%Użyj <m>atomówek</m> aby ocieplić Marsa i go <m>terraformować</m>.
+ex_mars█<m>MARS</m> &%&%Najpierw zbuduj podstawową infrastrukturę na Marsie, a następnie przetransportuj trochę tlenu i ludzi z Ziemi. (Kiedy już będziesz miał trochę ludzi na Marsie, zaczną <m>dzielić się swoim DNA z innymi mieszkańcami planety</m>!) &%&%Użyj <m>atomówek</m> aby ocieplić Marsa i go <m>terraformować</m>.
 
 ex_endgame█<m>ATOMÓWKI ROBIĄ BRRR</m> &%&%Chciałam Ci bardzo serdecznie pogratulować Twojego ogromnego sukcesu. Zrobiłeś coś, co inni uznali za niemożliwe. Terraformowałeś Marsa. &%&%Odejdźmy jednak na chwilę od EarthX, bo mam dla Ciebie ważną wiadomość. &%&%Pamiętaj, aby szanować <m>naszą</m> piękną, kolorową Ziemię oraz naturę. &%&%Dziękuję!
 

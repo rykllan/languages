@@ -11,7 +11,7 @@ tooltip_skillPoints█Punkty doświadczenia
 tooltip_linkLink█LinkLink
 tooltip_production█Produkcja
 
-tooltip_thxKarolina█Dzięki, Karolina! Już rozumiem :3
+tooltip_thxKarolina█Dzięki, Karolina! Już rozumiem!
 
 
 
