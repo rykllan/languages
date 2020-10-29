@@ -26,6 +26,7 @@ vehicles_view█Szczegóły
 
 land█Wyląduj
 
+launchCosts█Launch costs
 buildCosts█Koszty budowy
 originalBuildCosts█Oryginalne koszty
 optimizedBuildCosts█Zoptymalizowane koszty
@@ -119,6 +120,7 @@ noSpaceInParkingOrbit█Brak miejsca na orbicie parkingowej! 25/25
 launchSetup_barge█Barka
 launchSetup_lz1█Strefa 1
 launchSetup_lz2█Strefa 2
+noLaumchPad█No LaunchPad
 
 launchSetup_testFlight█Lot testowy
 launchSetup_concrete█Beton
@@ -166,6 +168,9 @@ loss█Strata
 income█Wpływ
 potentialLoss█Potencjalna Strata
 potentialProfit█Potencjalny Zysk
+
+
+
 
 
 

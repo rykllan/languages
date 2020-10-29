@@ -26,6 +26,7 @@ vehicles_view█Görüntüle
 
 land█Arazi
 
+launchCosts█Launch costs
 buildCosts█Maliyet oluştur
 originalBuildCosts█Orijinal yapım maliyetleri
 optimizedBuildCosts█Optimize edilmiş inşaat maliyetleri
@@ -119,6 +120,7 @@ noSpaceInParkingOrbit█No space in Parking Orbit! 25/25
 launchSetup_barge█Mavna
 launchSetup_lz1█LZ-1
 launchSetup_lz2█LZ-2
+noLaumchPad█No LaunchPad
 
 launchSetup_testFlight█Test uçuşu
 launchSetup_concrete█Beton
@@ -166,6 +168,7 @@ loss█Loss
 income█Income
 potentialLoss█Potential Loss
 potentialProfit█Potential Profit
+
 
 
 

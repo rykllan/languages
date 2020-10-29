@@ -26,6 +26,7 @@ vehicles_view█Просмотр
 
 land█Посадить
 
+launchCosts█Launch costs
 buildCosts█Стоимость производства
 originalBuildCosts█Ориг. стоимость произв.
 optimizedBuildCosts█Оптимальная стоимость произв.
@@ -119,6 +120,7 @@ noSpaceInParkingOrbit█No space in Parking Orbit! 25/25
 launchSetup_barge█Баржа
 launchSetup_lz1█LZ-1
 launchSetup_lz2█LZ-2
+noLaumchPad█No LaunchPad
 
 launchSetup_testFlight█Тестовый полёт
 launchSetup_concrete█Бетон
@@ -166,6 +168,7 @@ loss█Убыток
 income█Выручка
 potentialLoss█Потенциальный убыток
 potentialProfit█Потенциальная прибыль
+
 
 
 

@@ -26,6 +26,7 @@ vehicles_view█Voir
 
 land█Atterrir
 
+launchCosts█Launch costs
 buildCosts█Coûts de production
 originalBuildCosts█Coûts de production originaux
 optimizedBuildCosts█Coûts de production optimisés
@@ -119,6 +120,7 @@ noSpaceInParkingOrbit█No space in Parking Orbit! 25/25
 launchSetup_barge█Barge
 launchSetup_lz1█LZ-1
 launchSetup_lz2█LZ-2
+noLaumchPad█No LaunchPad
 
 launchSetup_testFlight█Vol test
 launchSetup_concrete█Béton
@@ -166,6 +168,7 @@ loss█Loss
 income█Income
 potentialLoss█Potential Loss
 potentialProfit█Potential Profit
+
 
 
 

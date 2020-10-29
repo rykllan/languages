@@ -21,42 +21,33 @@ rocketquillas█Quillasrocked
 shorts█Siorts byr
 use█Defnyddio
 
-company_progressHeader█Cynydd cwmni
-company_progressLevel█Lefel
-company_progressNewStuff█Pethau newydd
-company_progressCompleteChallenges█Cwblhau sialensiau <size=70%>(<color=#E74C3C>**</color> = dewisol)
-company_progressNextLevel█Lefel nesaf
-company_progressPreviousLevel█Lefel diwethaf
-locked█Dan glo
-unlock█Datgloi
-unlocked█Wedi datgloi
-upgrade█Uwchraddio
-XskillPoints█Bwyntiau sgil
-
-upgradeHeader█<b>UWCHRADDIO</b>&%<size=13><color=#64B5F6>15 Pwyntiau sgil
-upgrade_reliability█<b>Dibynadwyedd:</b> <color=#81C784>+10%
-upgrade_buildCost█<b>Pris adeiladu:</b> <color=#81C784>-10%
-upgrade_buildTime█<b>Amser adeiladu:</b> <color=#81C784>-10%
-
 company_menu_finance█Arian
 company_menu_flights█Hedfanau
 company_menu_competition█Cystadleaeth
 
-company_summary█Crynodeb arianol (Last 10 Years)&%<size=14>Ble ydych in gwario y fwyaf o eich arian?
+company_summary█Last 10 Years
+
+company_income█Incwm
+company_expenses█Expenses
+company_profitLoss█Profit/Loss
 
 company_successes█Llwyddianau
 company_failures█Fethuanau
 company_flights█Hedfanau
 company_income█Incwm
-company_outcome█Cost
+company_outcome█Expenses
 company_balance█Arian mewn banc
 
 company_launches█Lawnsiadau
 company_construction█Adeiladu
+company_research█Research
+company_buildings█Buildings
 company_employees█Gweithwyr
+company_linklink█LinkLink
 company_others█Arall
 company_lossPerYear█Cyfartaledd <mark=#E74C3C25>loss</mark> Y blwyddyn
 company_profitPerYear█Cyfartaledd <mark=#64B5F625>profit</mark> Y blwyddyn
+
 
 
 

@@ -21,42 +21,33 @@ rocketquillas█Рокеткила
 shorts█Короткие шорты
 use█Использовать
 
-company_progressHeader█Прогресс компании
-company_progressLevel█Уровень
-company_progressNewStuff█Новое
-company_progressCompleteChallenges█Завершите задания <size=70%>(<color=#E74C3C>**</color> = необязательные)
-company_progressNextLevel█Следующий уровень
-company_progressPreviousLevel█Предыдущий уровень
-locked█Заблокировано
-unlock█Разблокировать
-unlocked█Разблокировано
-upgrade█Улучшить
-XskillPoints█очков опыта
-
-upgradeHeader█<b>УЛУЧШЕНИЕ</b>&%<size=13><color=#64B5F6>15 очков опыта
-upgrade_reliability█<b>Надёжность:</b> <color=#81C784>+10%
-upgrade_buildCost█<b>Стоимость произв.:</b> <color=#81C784>-10%
-upgrade_buildTime█<b>Время производства:</b> <color=#81C784>-10%
-
 company_menu_finance█Финансы
 company_menu_flights█Запуски
 company_menu_competition█Конкуренция
 
-company_summary█Финансовая сводка (За последние 10 лет)&%<size=14>Где вы тратите больше всего денег?
+company_summary█Last 10 Years
+
+company_income█Доходы
+company_expenses█Expenses
+company_profitLoss█Profit/Loss
 
 company_successes█Успешные
 company_failures█Неуспешные
 company_flights█Запуски
 company_income█Доходы
-company_outcome█Затраты
+company_outcome█Expenses
 company_balance█Баланс
 
 company_launches█Запуски
 company_construction█Строительство
+company_research█Research
+company_buildings█Buildings
 company_employees█Сотрудники
+company_linklink█LinkLink
 company_others█Другое
 company_lossPerYear█Средние <mark=#E74C3C25>затраты</mark> за год
 company_profitPerYear█Средние <mark=#E74C3C25>доходы</mark> за год
+
 
 
 

@@ -26,6 +26,7 @@ vehicles_view█View
 
 land█Leszállás
 
+launchCosts█Launch costs
 buildCosts█Építési költségek
 originalBuildCosts█Eredeti építési költségek
 optimizedBuildCosts█Optimalizált építési költségek
@@ -119,6 +120,7 @@ noSpaceInParkingOrbit█No space in Parking Orbit! 25/25
 launchSetup_barge█Barge
 launchSetup_lz1█LZ-1
 launchSetup_lz2█LZ-2
+noLaumchPad█No LaunchPad
 
 launchSetup_testFlight█Repülés tesztelése
 launchSetup_concrete█Beton
@@ -166,6 +168,7 @@ loss█Loss
 income█Income
 potentialLoss█Potential Loss
 potentialProfit█Potential Profit
+
 
 
 

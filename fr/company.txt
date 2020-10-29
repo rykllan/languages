@@ -21,42 +21,33 @@ rocketquillas█Jet27
 shorts█Shorts court
 use█Utiliser
 
-company_progressHeader█Évolution de la compagnie
-company_progressLevel█Niveau
-company_progressNewStuff█Nouveautés
-company_progressCompleteChallenges█Challenges réussis <size=70%>(<color=#E74C3C>**</color> = optionnel)
-company_progressNextLevel█Niveau suivant
-company_progressPreviousLevel█Niveau précédent
-locked█Verrouillé
-unlock█Déverrouiller
-unlocked█Déverrouillé
-upgrade█Mettre à jour
-XskillPoints█Points de compétence
-
-upgradeHeader█<b>MISE A JOUR</b>&%<size=13><color=#64B5F6>15 points de compétence
-upgrade_reliability█<b>Fiabilité :</b> <color=#81C784>+10%
-upgrade_buildCost█<b>Coût de production :</b> <color=#81C784>-10%
-upgrade_buildTime█<b>Temps de production :</b> <color=#81C784>-10%
-
 company_menu_finance█Finances
 company_menu_flights█Vols
 company_menu_competition█Concurrents
 
-company_summary█Résumé des finances (10 dernières années)&%<size=14>Où dépensez vous le plus d'argent?
+company_summary█Last 10 Years
+
+company_income█Revenus
+company_expenses█Expenses
+company_profitLoss█Profit/Loss
 
 company_successes█Réussites
 company_failures█Echecs
 company_flights█Vols
 company_income█Revenus
-company_outcome█Pertes
+company_outcome█Expenses
 company_balance█Balance
 
 company_launches█Lancements
 company_construction█Construction
+company_research█Research
+company_buildings█Buildings
 company_employees█Employés
+company_linklink█LinkLink
 company_others█Autres
 company_lossPerYear█<mark=#E74C3C25>Perte</mark> moyenne par an
 company_profitPerYear█<mark=#E74C3C25>Perte</mark> moyenne par an
+
 
 
 

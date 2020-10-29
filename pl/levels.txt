@@ -24,6 +24,7 @@ research_cost█Koszt
 research_buildPrice█Koszt Budowy
 research_launchPrice█Koszt Startu
 research_totalIncome█Przychód (całość)
+research_totalExpenses█Total Expenses
 research_totalLoss█Strata (całość)
 research_profit█Zysk
 
@@ -226,5 +227,8 @@ test_hop150mDesc█Aby sprawdzić, czy pojazd jest stabilny podczas dłuższego 
 
 test_hop20km█Skok na 20km
 test_hop20kmDesc█Aby sprawdzić, czy pojazd może wylądować.
+
+
+
 
 

@@ -49,7 +49,10 @@ mars█Mars
 
 switchPlanet█Gezegeni Değiştir
 
-tanking█Depolanıyor...
+tanking█Fueling...
+pressurizing█Pressurizing...
+testing█Testing...
+completing█Completing...
 
 marsDetails█Mars Ayrıntıları
 earthLikePlanet█Dünya benzeri Gezegen
@@ -74,6 +77,7 @@ actionCamera█Action Camera
 switchView█Switch View
 
 sandbox█Sandbox
+
 
 
 

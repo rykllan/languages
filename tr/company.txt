@@ -21,42 +21,33 @@ rocketquillas█Rocketquillas
 shorts█Kısa Şortlar
 use█Kullan
 
-company_progressHeader█Şirket ilerlemesi
-company_progressLevel█Seviye
-company_progressNewStuff█Yeni Gelişmeler
-company_progressCompleteChallenges█Mücadeleleri Tamamla
-company_progressNextLevel█Sonraki Seviye
-company_progressPreviousLevel█Önceki Seviye
-locked█Kilitli
-unlock█Kilidini aç
-unlocked█Açık
-upgrade█Yükselt
-XskillPoints█Yetenek puanları
-
-upgradeHeader█<b>YÜKSELT</b>&%<size=13><color=#64B5F6>15 yetenek puanları
-upgrade_reliability█<b>Güvenilirlik:</b> <color=#81C784>+10%
-upgrade_buildCost█<b>Yapım Maliyeti:</b> <color=#81C784>-10%
-upgrade_buildTime█<b>Yapım Zamanı:</b> <color=#81C784>-10%
-
 company_menu_finance█Finans
 company_menu_flights█Uçuşlar
 company_menu_competition█Rekabet
 
-company_summary█Finans Özeti (Son 10 Yıl)&%<size=14>En çok nereye para harcıyorsunuz?
+company_summary█Last 10 Years
+
+company_income█Gelir
+company_expenses█Expenses
+company_profitLoss█Profit/Loss
 
 company_successes█Başarılar
 company_failures█Başarısızlıklar
 company_flights█Uçuşlar
 company_income█Gelir
-company_outcome█Gider
+company_outcome█Expenses
 company_balance█Denge
 
 company_launches█Roketler
 company_construction█İnşaat
+company_research█Research
+company_buildings█Buildings
 company_employees█Çalışanlar
+company_linklink█LinkLink
 company_others█Diğerleri
 company_lossPerYear█Ortalama <mark=#E74C3C25>loss</mark> yıl başına
 company_profitPerYear█Ortalama <mark=#64B5F625>profit</mark> yıl başına
+
 
 
 

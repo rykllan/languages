@@ -24,6 +24,7 @@ research_cost█Cost
 research_buildPrice█Build Price
 research_launchPrice█Launch Price
 research_totalIncome█Total Income
+research_totalExpenses█Total Expenses
 research_totalLoss█Total Loss
 research_profit█Profit
 
@@ -226,6 +227,7 @@ test_hop150mDesc█To see if the Vehicle is stable during a longer Flight.
 
 test_hop20km█20km Hop
 test_hop20kmDesc█To see if the vehicle can Land after the flight.
+
 
 
 

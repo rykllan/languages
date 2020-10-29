@@ -21,42 +21,33 @@ rocketquillas█Rakietoquillasy
 shorts█Krótkie Szorty
 use█Użyj
 
-company_progressHeader█Postęp firmy
-company_progressLevel█Poziom
-company_progressNewStuff█Nowe przedmioty
-company_progressCompleteChallenges█Ukończ Wyzwania <size=70%>(<color=#E74C3C>**</color> = opcjonalne)
-company_progressNextLevel█Następny Poziom
-company_progressPreviousLevel█Poprzedni Poziom
-locked█Zablokowane
-unlock█Odblokuj
-unlocked█Odblokowane
-upgrade█Ulepsz
-XskillPoints█punktów doświadczenia
-
-upgradeHeader█<b>ULEPSZ</b>&%<size=13><color=#64B5F6>15 punktów doświadczenia
-upgrade_reliability█<b>Niezawodność:</b> <color=#81C784>+10%
-upgrade_buildCost█<b>Koszt budowy:</b> <color=#81C784>-10%
-upgrade_buildTime█<b>Czas budowy:</b> <color=#81C784>-10%
-
 company_menu_finance█Finanse
 company_menu_flights█Loty
 company_menu_competition█Konkurencja
 
-company_summary█Podsumowanie wydatków (Ostatnie 10 lat)&%<size=14>Na co wydajesz pieniądze?
+company_summary█Last 10 Years
+
+company_income█Przychód
+company_expenses█Expenses
+company_profitLoss█Profit/Loss
 
 company_successes█Sukcesy
 company_failures█Porażki
 company_flights█Loty
 company_income█Przychód
-company_outcome█Wydatki
+company_outcome█Expenses
 company_balance█Bilans
 
 company_launches█Starty
 company_construction█Budowy
+company_research█Research
+company_buildings█Buildings
 company_employees█Pracownicy
+company_linklink█LinkLink
 company_others█Inne
 company_lossPerYear█Średnia <mark=#E74C3C25>strata</mark> na rok
 company_profitPerYear█Średni <mark=#E74C3C25>przychód</mark> na rok
+
 
 
 

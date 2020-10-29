@@ -26,6 +26,7 @@ vehicles_view█Zeige Fahrzeuge
 
 land█Landen
 
+launchCosts█Launch costs
 buildCosts█Baukosten
 originalBuildCosts█Original Baukosten
 optimizedBuildCosts█Optimierte Baukosten
@@ -119,6 +120,7 @@ noSpaceInParkingOrbit█No space in Parking Orbit! 25/25
 launchSetup_barge█Lastkahn
 launchSetup_lz1█LZ-1
 launchSetup_lz2█LZ-2
+noLaumchPad█No LaunchPad
 
 launchSetup_testFlight█Testflug
 launchSetup_concrete█Beton
@@ -166,6 +168,7 @@ loss█Loss
 income█Income
 potentialLoss█Potential Loss
 potentialProfit█Potential Profit
+
 
 
 
