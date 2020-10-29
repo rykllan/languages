@@ -24,19 +24,19 @@ research_cost█Стоимость
 research_buildPrice█Стоимость произв.
 research_launchPrice█Стоимость запуска
 research_totalIncome█Выручка
-research_totalExpenses█Total Expenses
-research_totalLoss█Затраты
+research_totalExpenses█Затраты
+research_totalLoss█Убыток
 research_profit█Прибыль
 
 research_vehicleName█Введите имя ракеты...
 
-research_milestones█Milestones
-research_availableTests█Available Tests
+research_milestones█Задачи
+research_availableTests█Доступные тесты
 
-research_test█Test
-research_testCompleted█Completed
+research_test█Протестировать
+research_testCompleted█Завершено
 
-research_prototypeBuilt█{0} has been built.
+research_prototypeBuilt█Произведёно: {0}
 
 task_SkillPoints█Иметь очков исследований: {0}
 task_LaunchPayloads█Запустить нагрузок: {0}
@@ -87,72 +87,72 @@ task_MarsOxygen█Transport {0} Oxygen to Mars with a Spaceship!
 task_MarsMartians█Иметь марсиан: {0}
 task_MarsTerraform█Терраформировать Марс с помощью атомных бомб: {0}%
 
-task_BuildWaterFactory█Build {0} Water Factory(ies) on Mars!
-task_BuildMediumGreenhouse█Build {0} Greenhouse(s) on Mars!
-task_BuildSmallHotel█Build {0} Small Hotel(s) on Mars!
-task_BuildMediumHotel█Build {0} Medium Hotel(s) on Mars!
-task_BuildSmallWaterStorage█Build {0} Small Water Storage(s) on Mars!
-task_BuildMediumWaterStorage█Build {0} Medium Water Storage(s) on Mars!
-task_BuildSmallFuelStorage█Build {0} Small Fuel Storage(s) on Mars!
-task_BuildMediumFuelStorage█Build {0} Medium Fuel Storage(s) on Mars!
+task_BuildWaterFactory█Построить фабрик по производству воды: {0}
+task_BuildMediumGreenhouse█Построить теплиц: {0}
+task_BuildSmallHotel█Построить малых отелей: {0}
+task_BuildMediumHotel█Построить средних отелей: {0}
+task_BuildSmallWaterStorage█Построить малых водных резервуаров: {0}
+task_BuildMediumWaterStorage█Построить средних водных резервуаров: {0}
+task_BuildSmallFuelStorage█Построить малых топливных резервуаров: {0}
+task_BuildMediumFuelStorage█Построить средних топливных резервуаров: {0}
 
 task_BuildFactory█Построить заводов: {0}
 task_BuildOffice█Построить офисов: {0}
 
-progress_fundraiserHats█[<color=#FF9F43>FUNDRAISER</color>] Sell hats!
-progress_fundraiserBricks█[<color=#FF9F43>FUNDRAISER</color>] Sell bricks!
-progress_fundraiserNAF█[<color=#FF9F43>FUNDRAISER</color>] Sell (not) flamethrowers!
-progress_fundraiserRocketquilla█[<color=#FF9F43>FUNDRAISER</color>] Sell rocketquillas!
-progress_fundraiserShorts█[<color=#FF9F43>FUNDRAISER</color>] Sell short shorts!
-progress_fundraiserDesc█Use your fundraisers in the Company Window.
+progress_fundraiserHats█[<color=#FF9F43>ФИНАНСИРОВАНИЕ</color>] Продажа кепок
+progress_fundraiserBricks█[<color=#FF9F43>ФИНАНСИРОВАНИЕ</color>] Продажа кирпичей
+progress_fundraiserNAF█[<color=#FF9F43>ФИНАНСИРОВАНИЕ</color>] Продажа (не) огнемётов
+progress_fundraiserRocketquilla█[<color=#FF9F43>ФИНАНСИРОВАНИЕ</color>] Продажа рокеткилы
+progress_fundraiserShorts█[<color=#FF9F43>ФИНАНСИРОВАНИЕ</color>] Продажа коротких шорт
+progress_fundraiserDesc█Воспользуйтесь финансированием в окне "Компания"
 
 progress_droneshipName█Баржа
-progress_droneshipDesc█If a Rocket Fairing is 4+ points full, you will need to Land with it on a Droneship. Manage Droneships in the Vehicle Window.
+progress_droneshipDesc█Если обтекатель заполнен на 4 или более единиц, то вам потребуется возвращать ступень на баржу. Баржи доступно в окне "Проекты"
 
-progress_issSupplierMission█[<color=#d95eff>MISSION</color>] Commercial Resupply Service
-progress_issCrewMission█[<color=#d95eff>MISSION</color>] Commercial Crew Program
-progress_teslaRoadsterMission█[<color=#d95eff>MISSION</color>] Roadster
-progress_catMission█[<color=#d95eff>MISSION</color>] Cat
-progress_technicianMission█[<color=#d95eff>MISSION</color>] Technician in a Suitcase
-progress_truthMission█[<color=#d95eff>MISSION</color>] The Truth
-progress_marsCameraMission█[<color=#d95eff>MISSION</color>] Mars Camera
-progress_tinTinMission█[<color=#d95eff>MISSION</color>] TinTin
-progress_mattMission█[<color=#d95eff>MISSION</color>] Matt
-progress_spateMission█[<color=#d95eff>MISSION</color>] Prologue EP
+progress_issSupplierMission█[<color=#d95eff>МИССИЯ</color>] Commercial Resupply Service
+progress_issCrewMission█[<color=#d95eff>МИССИЯ</color>] Commercial Crew Program
+progress_teslaRoadsterMission█[<color=#d95eff>МИССИЯ</color>] Roadster
+progress_catMission█[<color=#d95eff>МИССИЯ</color>] мяу... Мяу... МЯУ!!!
+progress_technicianMission█[<color=#d95eff>МИССИЯ</color>] Чрезвычайная ситуация
+progress_truthMission█[<color=#d95eff>МИССИЯ</color>] Вера
+progress_marsCameraMission█[<color=#d95eff>МИССИЯ</color>] Камера к Марсу
+progress_tinTinMission█[<color=#d95eff>МИССИЯ</color>] TinTin
+progress_mattMission█[<color=#d95eff>МИССИЯ</color>] Спасение Мэтта
+progress_spateMission█[<color=#d95eff>МИССИЯ</color>] Prologue EP
 
-progress_linkLink█[<color=#81C784>PRODUCE</color>] LinkLinks
-progress_materials█[<color=#81C784>PRODUCE</color>] Materials
-progress_oxygen█[<color=#81C784>PRODUCE</color>] Oxygen
-progress_martians█[<color=#81C784>PRODUCE</color>] Martians
-progress_cybercar█[<color=#81C784>PRODUCE</color>] Cybercars
-progress_nuke█[<color=#81C784>PRODUCE</color>] Nukes
+progress_linkLink█[<color=#81C784>ПРОИЗВОДСТВО</color>] Спутники LinkLink
+progress_materials█[<color=#81C784>ПРОИЗВОДСТВО</color>] Материалы
+progress_oxygen█[<color=#81C784>ПРОИЗВОДСТВО</color>] Кислород
+progress_martians█[<color=#81C784>ПРОИЗВОДСТВО</color>] Марсиане
+progress_cybercar█[<color=#81C784>ПРОИЗВОДСТВО</color>] Киберкары
+progress_nuke█[<color=#81C784>ПРОИЗВОДСТВО</color>] Атомные бомбы
 
 vehicle_smallRocket█Лёгкая ракета
 vehicle_smallRocketDesc█Лёгкие ракеты могут запускать только Мал. нагрузку на НОО.
 
 vehicle_mediumRocket█Средняя ракета
-vehicle_mediumRocketDesc█Medium rocket, after some Upgrades, can Land and send Cargo Capsules to the ISS. It can launch Medium Payloads to Earth Medium Orbit.
+vehicle_mediumRocketDesc█Средняя ракета после некоторых улучшений сможет возвращать ступени и отправлять грузовые корабли на МКС. Эта ракета может запускать Сред. нагрузку на MEO.
 
 vehicle_largeRocket█Большая ракета
-vehicle_largeRocketDesc█After Upgrades, it can automatically Land, send Crew Capsules to the ISS, Catch & reuse Fairings, and more. It can launch Medium Payloads to Earth Geostationary Orbit.
+vehicle_largeRocketDesc█После улучшений эта ракета сможет автоматически возвращать ступени, отправлять пилотируемые корабли на МКС, возвращать обтекатели для их повторного использования и многое другое. Эта ракета может запускать Сред. нагрузку на GEO.
 
 vehicle_heavyRocket█Тяжёлая ракета
-vehicle_heavyRocketDesc█"3 Large Rockets glued together". It can launch Large Payloads to Earth Geostationary Orbit and even Mars Orbit.
+vehicle_heavyRocketDesc█"3 ракеты, объединённые вместе". Эта ракета может запускать Бол. нагрузку на GEO и даже на орбиту Марса
 
 vehicle_superheavyRocket█Сверхтяжёлая ракета
-vehicle_superheavyRocketDesc█Superheavy Rockets are fully Reusable and you don't have to Refurbish them after every flight. It requires a Spaceship.
+vehicle_superheavyRocketDesc█Сверхтяжёлые ракеты полностью многоразовые и вам не потребуется обслуживать их после каждого полёта. Для запуска требуется Spaceship.
 
 vehicle_cargoCapsule█Грузовой корабль
-vehicle_cargoCapsuleDesc█Get NASA's contract for CRS missions and supply the International Space Station every 2 years.
+vehicle_cargoCapsuleDesc█Вы получите контракт от NASA по доставке груза на МКС и сможете снабжать её каждые 2 года.
 
 vehicle_crewCapsule█Пилотируемый корабль
-vehicle_crewCapsuleDesc█Get NASA's contract for CCP missions and send new Crew to the International Space Station every 2 years. In Crew Capsule, you can launch normal Cargo as well.
+vehicle_crewCapsuleDesc█Вы получите контракт от NASA по доставке астронавтов на МКС и сможете запускать их туда каждые 2 года. В пилотируемом корабле вы также можете перевозить груз.
 
 vehicle_cargoSpaceship█Грузовой Spaceship
-vehicle_cargoSpaceshipDesc█Send more Payloads to Earth's orbits, as well as to Mars! In order to Land on Mars, you will need Tanker Spaceship.
+vehicle_cargoSpaceshipDesc█Отправьляйте больше нагрузки на орбиту и даже к Марсу! Для отправки Spaceship на Марс вам потребуется танкер
 
 vehicle_crewSpaceship█Пилотируемый Spaceship
-vehicle_crewSpaceshipDesc█Send humans to the International Space Station or Mars Surface. 
+vehicle_crewSpaceshipDesc█Отправляйте людей на МКС или к Марсу
 
 vehicle_tankerSpaceship█Spaceship-танкер
 vehicle_tankerSpaceshipDesc█Требуется для дозаправки Spaceship на орбите
@@ -186,22 +186,22 @@ upgrade_rideshareDesc█Совместный запуск позволяет з�
 
 
 prototype_merlinEngine█Двигатель ракеты 
-prototype_merlinEngineDesc█Двигатель ракеты используется на обычных ракетах (очевидно). This prototype will allow you to develop it even further! Этот прототип позволит вам 
+prototype_merlinEngineDesc█Двигатель ракеты используется на обычных ракетах (очевидно). Этот прототип позволит вам улучшать его ещё дальше!
 
 prototype_grasshopper█Rockethopper
-prototype_grasshopperDesc█This prototype will allow you to Practice the Landings of your Rockets.
+prototype_grasshopperDesc█Этот прототип позволит вам практиковаться в посадке ступеней ваших ракет.
 
 prototype_raptorEngine█Двигатель Spaceship
-prototype_raptorEngineDesc█Spaceship Engine will be used in your Spaceships and Superheavy Rockets. 
+prototype_raptorEngineDesc█Этот двигатель будет использован на Spaceship и сверхтяжёлой ракете.
 
 prototype_starhopper█Spaceship Hopper
-prototype_starhopperDesc█This prototype will be able to tell you if the idea of building a plane-sized Spaceships is stupid or not.
+prototype_starhopperDesc█Этот прототип покажет, будет ли идея построить самолёто-подобный Spaceship удачной или нет.
 
 prototype_raptorVacEngine█Вакуумный двигатель Spaceship
-prototype_raptorVacEngineDesc█Spaceship Vacum Engine will be used in your Spaceships when they are in Space.
+prototype_raptorVacEngineDesc█Этот двигатель будет использован на Spaceship, когда он находится в вакууме.
 
 prototype_spaceshipPrototype█Прототип Spaceship
-prototype_spaceshipPrototypeDesc█Series of improved Spaceship prototypes will allow you to master the Production and Reliability of the Spaceships.
+prototype_spaceshipPrototypeDesc█Серия улучшенных прототипов Spaceship позволит вам отполировать производтсвенные процессы и надёжность Spaceship
 
 
 test_engineShortFire█Короткий прожиг
