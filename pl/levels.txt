@@ -39,7 +39,7 @@ research_testCompleted█Zakończono
 research_prototypeBuilt█{0} został zbudowany.
 
 task_SkillPoints█Miej {0} Punktów Doświadczenia! 
-task_LaunchPayloads█Wystrzel {0} ładunków w kosmos! 
+task_LaunchPayloads█Ładunki do wystrzelenia w kosmos: {0}  
 task_Money█Miej {0} <color=#16A085>$</color>! 
 
 task_LaunchSmallRocket█Wystrzel {0} Małych Rakiet!
