@@ -28,20 +28,20 @@ company_menu_competition█Konkurencja
 company_summary█Last 10 Years
 
 company_income█Przychód
-company_expenses█Expenses
-company_profitLoss█Profit/Loss
+company_expenses█Wydatki
+company_profitLoss█Zysk/Strata
 
 company_successes█Sukcesy
 company_failures█Porażki
 company_flights█Loty
 company_income█Przychód
-company_outcome█Expenses
+company_outcome█Wydatki
 company_balance█Bilans
 
 company_launches█Starty
 company_construction█Budowy
-company_research█Research
-company_buildings█Buildings
+company_research█Badania
+company_buildings█Budynki
 company_employees█Pracownicy
 company_linklink█LinkLink
 company_others█Inne
