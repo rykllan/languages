@@ -50,16 +50,16 @@ mdl_fairingParachutes█Spadochron owiewek
 
 ---Landing Stuff---█---Landing Stuff---
 
-mdl_a_gridfins█Aluminium Grid Fins
-mdl_t_gridfins█Titanium Grid Fins
+mdl_a_gridfins█Aluminiowe lotki
+mdl_t_gridfins█Tytanowe lotki
 mdl_m_landingLegs█Manualne nóżki
 mdl_a_landingLegs█Automatyczne nóżki
 
 
 ---Capsule Stuff---█---Capsule Stuff---
 
-mdl_light_structure█Light Body
-mdl_heavy_structure█Heavy Body
+mdl_light_structure█Lekkie poszycie
+mdl_heavy_structure█Ciężkie poszycie
 mdl_a_escape_engines█Silniki ucieczkowe
 mdl_a_parachutes█Zaawansowany spadochron
 mdl_s_parachutes█Prosty spadochron
@@ -69,7 +69,7 @@ mdl_s_parachutes█Prosty spadochron
 
 mdl_methane_fueltank█Zbiornik metanu
 mdl_methane_engine█6 silników metanowych
-mdl_stainlesssteel_structure█Stainless Steel Body
+mdl_stainlesssteel_structure█Kadłub ze stali nierdzewnej
 
 mdl_cargoUtility█Cargo Utility
 mdl_crewUtility█Crew Utility
