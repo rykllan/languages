@@ -67,14 +67,14 @@ task_GrasshopperTest█Testez {0} fusée(s) Hopper!
 
 task_RaptorVacEngineTest█Fire {0} Spaceship Vacum Engine(s)!
 task_RaptorEngineTest█Fire {0} Spaceship Engine(s)!
-task_SnHop_20m_Test█Réussissez {0} 20m de bond(s) avec des fusées Hopper!
-task_SnHop_150m_Test█Complete {0} 150m Hop(s) for Spaceship Prototype!
-task_SnHop_20km_Test█Complete {0} 20km Hop(s) for Spaceship Prototype!
+task_SnHop_20m_Test█Réussissez {0} bond(s) de 20m avec des fusées Hopper!
+task_SnHop_150m_Test█Réussissez {0} bond(s) de 150m pour le prototype de navette!
+task_SnHop_20km_Test█Réussissez {0} bond(s) de 20km pour le prototype de navette!
 
 task_LaunchMarsCamera█Réussissez la mission de caméra sur Mars!
 task_LaunchTinTin█Réussissez la mission TinTin!
 
-task_LinkLinksTotal█Ayez {0} LinkLinks en orbite de la Terre!
+task_LinkLinksTotal█Ayez {0} LinkLinks en orbite!
 task_LinkLinkCustomers█Ayez {0} utilisateurs de LinkLink! 
 
 task_BuildSmallTerminals█Construisez {0} petit(s) terminal(aux) LinkLink!
@@ -87,14 +87,14 @@ task_MarsOxygen█Transportez {0} d'oxygène vers Mars avec une navette!
 task_MarsMartians█Avoir {0} martiens sur Mars!
 task_MarsTerraform█Terraformez Mars à {0}% en utilisant des bombes nucléaires!
 
-task_BuildWaterFactory█Construisez {0} Water Factory(ies) on Mars!
-task_BuildMediumGreenhouse█Construisez {0} Greenhouse(s) on Mars!
-task_BuildSmallHotel█Construisez {0} Small Hotel(s) on Mars!
-task_BuildMediumHotel█Construisez {0} Medium Hotel(s) on Mars!
-task_BuildSmallWaterStorage█Construisez {0} Small Water Storage(s) on Mars!
-task_BuildMediumWaterStorage█Construisez {0} Medium Water Storage(s) on Mars!
-task_BuildSmallFuelStorage█Construisez {0} Small Fuel Storage(s) on Mars!
-task_BuildMediumFuelStorage█Construisez {0} Medium Fuel Storage(s) on Mars!
+task_BuildWaterFactory█Construisez {0} usine(s) d'eau sur Mars!
+task_BuildMediumGreenhouse█Construisez {0} serre(s) sur Mars!
+task_BuildSmallHotel█Construisez {0} petit(s) hôtel(s) sur Mars!
+task_BuildMediumHotel█Construisez {0} hôtel(s) moyen(s) sur Mars!
+task_BuildSmallWaterStorage█Construisez {0} petit(s) réservoir(s) d'eau sur Mars!
+task_BuildMediumWaterStorage█Construisez {0} réservoir(s) d'eau moyen(s) sur Mars!
+task_BuildSmallFuelStorage█Construisez {0} petit(s) réservoir(s) de carburant sur Mars!
+task_BuildMediumFuelStorage█Construisez {0} réservoir(s) de carburant moyen(s) sur Mars!
 
 task_BuildFactory█Construisez {0} usine(s)!
 task_BuildOffice█Construisez {0} bureau(x)!
@@ -109,26 +109,26 @@ progress_fundraiserDesc█Utilisez vos levées de fonds depuis la fenêtre Entre
 progress_droneshipName█Barge de récupération
 progress_droneshipDesc█Si la coiffe d'une fusée est remplies à 4+, vous aurez besoin d'atterrir avec sur une barge de récupération. Gérez vos barges de récupération depuis la fenêtre des Véhicules.
 
-progress_issSupplierMission█[<color=#d95eff>MISSION</color>] Commercial Resupply Service
-progress_issCrewMission█[<color=#d95eff>MISSION</color>] Commercial Crew Program
+progress_issSupplierMission█[<color=#d95eff>MISSION</color>] Service de ravitaillement commercial
+progress_issCrewMission█[<color=#d95eff>MISSION</color>] Programme d'équipage commercial
 progress_teslaRoadsterMission█[<color=#d95eff>MISSION</color>] Roadster
-progress_catMission█[<color=#d95eff>MISSION</color>] Cat
-progress_technicianMission█[<color=#d95eff>MISSION</color>] Technician in a Suitcase
-progress_truthMission█[<color=#d95eff>MISSION</color>] The Truth
-progress_marsCameraMission█[<color=#d95eff>MISSION</color>] Mars Camera
+progress_catMission█[<color=#d95eff>MISSION</color>] Le chat
+progress_technicianMission█[<color=#d95eff>MISSION</color>] Un technicien dans une valise
+progress_truthMission█[<color=#d95eff>MISSION</color>] La vérité
+progress_marsCameraMission█[<color=#d95eff>MISSION</color>] Caméra sur Mars
 progress_tinTinMission█[<color=#d95eff>MISSION</color>] TinTin
 progress_mattMission█[<color=#d95eff>MISSION</color>] Matt
 progress_spateMission█[<color=#d95eff>MISSION</color>] Prologue EP
 
-progress_linkLink█[<color=#81C784>PRODUCE</color>] LinkLinks
-progress_materials█[<color=#81C784>PRODUCE</color>] Materials
-progress_oxygen█[<color=#81C784>PRODUCE</color>] Oxygen
-progress_martians█[<color=#81C784>PRODUCE</color>] Martians
-progress_cybercar█[<color=#81C784>PRODUCE</color>] Cybercars
-progress_nuke█[<color=#81C784>PRODUCE</color>] Nukes
+progress_linkLink█[<color=#81C784>PRODUIRE</color>] LinkLinks
+progress_materials█[<color=#81C784>PRODUIRE</color>] Matériaux
+progress_oxygen█[<color=#81C784>PRODUIRE</color>] Oxygène
+progress_martians█[<color=#81C784>PRODUIRE</color>] Martiens
+progress_cybercar█[<color=#81C784>PRODUIRE</color>] Cybercars
+progress_nuke█[<color=#81C784>PRODUIRE</color>] Bombes nucléaires
 
-vehicle_smallRocket█Small Rocket
-vehicle_smallRocketDesc█Small rocket can launch only Small Payloads to Earth Low Orbit.
+vehicle_smallRocket█Petite fusée
+vehicle_smallRocketDesc█Une petite fusée peut seulement lancer des petites charges utiles en Orbite Terre Basse.
 
 vehicle_mediumRocket█Medium Rocket
 vehicle_mediumRocketDesc█Medium rocket, after some Upgrades, can Land and send Cargo Capsules to the ISS. It can launch Medium Payloads to Earth Medium Orbit.
@@ -194,21 +194,21 @@ prototype_grasshopperDesc█This prototype will allow you to Practice the Landin
 prototype_raptorEngine█Spaceship Engine
 prototype_raptorEngineDesc█Spaceship Engine will be used in your Spaceships and Superheavy Rockets. 
 
-prototype_starhopper█Spaceship Hopper
-prototype_starhopperDesc█This prototype will be able to tell you if the idea of building a plane-sized Spaceships is stupid or not.
+prototype_starhopper█Navette Hopper
+prototype_starhopperDesc█Ce prototype sera capable de vous dire si l'idée de construire un vaisseau de la taille d'un avion est stupide ou non.
 
-prototype_raptorVacEngine█Spaceship Vacum Engine
-prototype_raptorVacEngineDesc█Spaceship Vacum Engine will be used in your Spaceships when they are in Space.
+prototype_raptorVacEngine█Moteur de navette Vacuum
+prototype_raptorVacEngineDesc█Le moteur de navette Vacuum sera utilisé par vos navettes quand elles seront dans l'espace.
 
-prototype_spaceshipPrototype█Spaceship Prototype
-prototype_spaceshipPrototypeDesc█Series of improved Spaceship prototypes will allow you to master the Production and Reliability of the Spaceships.
+prototype_spaceshipPrototype█Prototypes de navette
+prototype_spaceshipPrototypeDesc█Cette série de navettes améliorées vous permettra de maîtriser la production et la fiabilité des navettes.Series of improved Spaceship prototypes will allow you to master the Production and Reliability of the Spaceships.
 
 
-test_engineShortFire█Short Fire
-test_engineShortFireDesc█To see if the Engine fires up properly.
+test_engineShortFire█Court allumage
+test_engineShortFireDesc█Pour voir si le moteur démarre correctement.
 
-test_engineFullLenghtFire█Full-Length Fire
-test_engineFullLenghtFireDesc█To see if the Engine will work for the Flight Duration.
+test_engineFullLenghtFire█Allumage complet
+test_engineFullLenghtFireDesc█Pour voir si le moteur fonctionnera pour la durée du vol.
 
 test_tanking█Test de ravitaillement
 test_tankingDesc█Pour voir si le réservoir à une fuite.
@@ -219,14 +219,14 @@ test_pressureDesc█Pour voir si le réservoir peut supporter la pression requis
 test_staticFire█Essai de tir statique
 test_staticFireDesc█Pour voir si les moteurs fonctionnent correctement avec le réservoir.
 
-test_hop20m█20m Hop
-test_hop20mDesc█To see if the Engine is stable during short 20m Flight.
+test_hop20m█Bond de 20m
+test_hop20mDesc█Pour voir si le moteur reste fiable durant un court envol de 20m.
 
-test_hop150m█150m Hop
-test_hop150mDesc█To see if the Vehicle is stable during a longer Flight.
+test_hop150m█Bond de 150m
+test_hop150mDesc█Pour voir si le moteur reste fiable durant un envol plus long.
 
-test_hop20km█20km Hop
-test_hop20kmDesc█To see if the vehicle can Land after the flight.
+test_hop20km█Bond de 20km
+test_hop20kmDesc█Pour voir si le véhicule peut atterrir après l'envol.
 
 
 
