@@ -25,28 +25,28 @@ company_menu_finance█Finances
 company_menu_flights█Vols
 company_menu_competition█Concurrents
 
-company_summary█Last 10 Years
+company_summary█10 dernières années
 
 company_income█Revenus
-company_expenses█Expenses
-company_profitLoss█Profit/Loss
+company_expenses█Dépenses
+company_profitLoss█Bénéfice/Perte
 
 company_successes█Réussites
 company_failures█Echecs
 company_flights█Vols
 company_income█Revenus
-company_outcome█Expenses
+company_outcome█Dépenses
 company_balance█Balance
 
 company_launches█Lancements
 company_construction█Construction
-company_research█Research
-company_buildings█Buildings
+company_research█Recherches
+company_buildings█Bâtiments
 company_employees█Employés
 company_linklink█LinkLink
 company_others█Autres
 company_lossPerYear█<mark=#E74C3C25>Perte</mark> moyenne par an
-company_profitPerYear█<mark=#E74C3C25>Perte</mark> moyenne par an
+company_profitPerYear█<mark=#E74C3C25>Bénéfice</mark> moyen par an
 
 
 
