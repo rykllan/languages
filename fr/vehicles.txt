@@ -49,7 +49,7 @@ secondStage█Deuxième étape
 firstStage█Première étape
 generalRefurbishmentPrice█Prix général de la remise à neuf
 
-xLeft█{0} restant
+xLeft█{0} restant(s)
 
 isRocketProfitable█Est-ce que cette fusée est rentable?
 rocketFinance█Finances
