@@ -1,6 +1,7 @@
 
 
 tutorial█Tutorial
+help█Help
 
 tutorial_welcome█Welcome
 tutorial_introduction█Introduction
