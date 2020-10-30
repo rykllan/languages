@@ -36,8 +36,8 @@ buildingSetup_negotiationPower█Pouvoir de négociation
 
 buildingSetup_vehicleStored█Véhicules stockés
 
-noGigaFound█[No giga factories found.]
-unitsToBuild█Units to build...
+noGigaFound█[Aucune Giga usine trouvée.]
+unitsToBuild█Unité(s) en construction...
 
 buildingSetup_employees█<size=14>{0} employés</size>&%{1} <color=#16A085>$</color> / year&%<size=14>{2} <color=#16A085>$</color> / chaque
 buildingSetup_manageEmployees█Gérer les employés
