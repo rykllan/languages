@@ -1,7 +1,7 @@
 
 
 tutorial█Туториал
-help█Help
+help█Помощь
 
 tutorial_welcome█Добро пожаловать
 tutorial_introduction█Вступление
