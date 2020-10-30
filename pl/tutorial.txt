@@ -24,17 +24,17 @@ tutorial_sizes█<b><color=#64B5F6>WIELKOŚCI</color></b>&%<b>Bardzo Mały</b> -
 
 ex_welcome█<m>HEJ, {0}! &%&%OTO TWOJE CELE.</m> &%&%Wykonaj je, a będzie dobrze! &%&%-> Nie możesz zbankrutować. &%-> Rozwijaj nowe technologie! &%-> Zbuduj kolonię na Marsie. &%-> Uruchom usługę LinkLink! &%-> Terraformuj Marsa!
 
-ex_interface█<m>JAK OBSŁUGIWAĆ EARTHX?</m> &%&%Pokażę Ci, do czego służą te dziwne ikonki na dole. Proszę <m>POSŁUCHAJ MNIE</m> uważnie. 
+ex_interface█<m>JAK OBSŁUGIWAĆ EARTHX?</m> &%&%Pokażę ci, do czego służą te dziwne ikonki na dole. Proszę <m>POSŁUCHAJ MNIE</m> uważnie. 
 
-ex_research█<m>JAK BADAĆ NOWE TECHNOLOGIE?</m> &%&%W <m>OKIENKU BADAŃ</m> wybierz interesujący Cię pojazd, następnie na niego kliknij, aby zobaczyć jego szczegóły. &%Aby odblokować lub ulepszyć wybrany pojazd, po prostu wykonaj odpowiednie zadania. &%&%Prawie każde zadanie ma ikonkę ze znakiem zapytania, <m>KLIKNIJ</m> w nią aby mnie wywołać w każdej chwili.
+ex_research█<m>JAK BADAĆ NOWE TECHNOLOGIE?</m> &%&%W <m>OKIENKU BADAŃ</m> wybierz interesujący cię pojazd, następnie na niego kliknij, aby zobaczyć jego szczegóły. &%Aby odblokować lub ulepszyć wybrany pojazd, po prostu wykonaj odpowiednie zadania. &%&%Prawie każde zadanie ma ikonkę ze znakiem zapytania, <m>KLIKNIJ</m> w nią aby mnie wywołać w każdej chwili.
 
-ex_prototypes█<m>JAK TESTOWAĆ?</m> &%&%W <m>OKIENKU BADAŃ</m>, zobaczysz 2 zakładki. &%&%<m>PIERWSZA ZAKŁADKA</m>: Pierwsza zakładka pozwoli Ci spojrzeć na całe drzewko postępu i ewentualnie zaplanować rozwój na kolejne lata. &%&%<m>DRUGA ZAKŁADKA</m>: Testuj Silniki i Prototypy Statków Kosmicznych.
+ex_prototypes█<m>JAK TESTOWAĆ?</m> &%&%W <m>OKIENKU BADAŃ</m>, zobaczysz 2 zakładki. &%&%<m>PIERWSZA ZAKŁADKA</m>: Pierwsza zakładka pozwoli ci spojrzeć na całe drzewko postępu i ewentualnie zaplanować rozwój na kolejne lata. &%&%<m>DRUGA ZAKŁADKA</m>: Testuj Silniki i Prototypy Statków Kosmicznych.
 
-ex_contracts█<m>CO TO SĄ KONTRAKTY?</m> &%&%Postaraj się <m>OFEROWAĆ</m> tyle co inni, lub nawet mniej. Nie zawsze wygrasz - nawet jeśli Twoja cena będzie tą najniższą. &%&%<m>ZATRUDNIANIE PRACOWNIKÓW BIUROWYCH</m> pozwoli Ci oferować trochę większe sumy. Nie negocjuj jednak kontraktów, których nie jesteś w stanie wykonać.
+ex_contracts█<m>CO TO SĄ KONTRAKTY?</m> &%&%Postaraj się <m>OFEROWAĆ</m> tyle co inni, lub nawet mniej. Nie zawsze wygrasz - nawet jeśli twoja cena będzie tą najniższą. &%&%<m>ZATRUDNIANIE PRACOWNIKÓW BIUROWYCH</m> pozwoli ci oferować trochę większe sumy. Nie negocjuj jednak kontraktów, których nie jesteś w stanie wykonać.
 
 ex_payloads█<m>CO TO SĄ ŁADUNKI?</m> &%&%Przy ładunkach musisz zwracać uwagę na kilka rzeczy: <m>termin zlecenia</m>, <m>wielkość</m> oraz <m>typ ładunku</m>. &%&%Nie wystrzelisz ładunku na Średnią orbitę okołoziemską <m>MEO</m> używając rakiety zdolnej aby dolecieć tylko do Niskiej orbity okołoziemskiej <m>LEO</m>. Tak samo nie wsadzisz <m>dużego ładunku</m> w <m>średnią owiewkę</m>.
 
-ex_rocketLaunch█<m>JAK WYSTRZELIĆ RAKIETY?</m> &%&%Opcja A: Przejdź do <m>okienka z pojazdami</m> i kliknij w wybrany przez Ciebie projekt. Następnie zbuduj nową rakietę na bazie aktualnego projektu. Gdy masz już ją zbudowaną, po prostu ją wystrzel. &%&%Opcja B: Przejdź do <m>okienka kontraktów</m>, następnie otwórz zakładkę z ładunkami. Wybierz interesujący Cię ładunek i go wystrzel. &%&%Ładunki na ISS mogą lecieć dowolną kapsułą, ale misje załogowe <m>muszą</m> używać kapsuły załogowej.
+ex_rocketLaunch█<m>JAK WYSTRZELIĆ RAKIETY?</m> &%&%Opcja A: Przejdź do <m>okienka z pojazdami</m> i kliknij w wybrany przez ciebie projekt. Następnie zbuduj nową rakietę na bazie aktualnego projektu. Gdy masz już ją zbudowaną, po prostu ją wystrzel. &%&%Opcja B: Przejdź do <m>okienka kontraktów</m>, następnie otwórz zakładkę z ładunkami. Wybierz interesujący cię ładunek i go wystrzel. &%&%Ładunki na ISS mogą lecieć dowolną kapsułą, ale misje załogowe <m>muszą</m> używać kapsuły załogowej.
 
 ex_capsuleLaunch█<m>JAK WYSTRZELIĆ KAPSUŁĘ?</m> &%&%Najpierw upewnij się, że posiadasz kapsułę oraz rakietę, która jest w stanie ją wystrzelić. Sprawdzisz to przechodząc w <m>okienko badań</m> i wybierając odpowiednią rakietę. Tutaj zobaczysz, czy odblokowano <m>ulepszenie do wsparcia kapsuł</m>. &%&%Kapsuły Załogowe wymagają <m>wsparcia pod wystrzelenie kapsuły załogowej</m> w rakiecie!
 
@@ -48,13 +48,13 @@ ex_rocketLand█<m>JAK LĄDOWAĆ?</m> &%&%Rakiety dzielą się na 2 typy: Te kt�
 
 ex_droneships█<m>CO TO SĄ BARKI?</m> &%&%Barki są wymagane, jeśli chcesz wylądować rakietą, która musi wynieść ładunek na <m>GEO</m> lub jeśli owiewka rakiety jest w <m>85% pełna (4 lub więcej slotów)</m>.  &%&%W <m>okienku z pojazdami</m> będziesz mógł je kupić, nazwać i poruszać się nimi po świecie.
 
-ex_linklink█<m>LINKLINK!</m> &%&%to ogromna konstelacja wielu tysięcy małych satelitów na <m>niskiej orbicie okołoziemskiej</m>. LinkLink pozwoli Ci na dostarczenie połączenia internetowego w dosłownie każdy zakątek Ziemi. &%&%Możesz je zbudować w <m>okienku z produkcją</m>, a następnie wysłać rakietą tak samo jak normalny ładunek. &%Nie zapomnij o <m>zbudowaniu terminali</m> na ziemi, bo wielu graczy zapomina i dziwią się, że nie mają klientów!
+ex_linklink█<m>LINKLINK!</m> &%&%to ogromna konstelacja wielu tysięcy małych satelitów na <m>niskiej orbicie okołoziemskiej</m>. LinkLink pozwoli ci na dostarczenie połączenia internetowego w dosłownie każdy zakątek Ziemi. &%&%Możesz je zbudować w <m>okienku z produkcją</m>, a następnie wysłać rakietą tak samo jak normalny ładunek. &%Nie zapomnij o <m>zbudowaniu terminali</m> na ziemi, bo wielu graczy zapomina i dziwią się, że nie mają klientów!
 
 ex_production█<m>PRODUKCJA?</m> &%&%TAK! W EarthX możesz także produkować własne ładunki. Aby to zrobić musisz zbudować <m>Giga fabrykę</m>. Następnie w <m>okienku produkcji</m> możesz wybrać jaki ładunek ma zostać wyprodukowany.
 
 ex_mars█<m>MARS</m> &%&%Najpierw zbuduj podstawową infrastrukturę na Marsie, a następnie przetransportuj trochę tlenu i ludzi z Ziemi. (Kiedy już będziesz miał trochę ludzi na Marsie, zaczną <m>dzielić się swoim DNA z innymi mieszkańcami planety</m>!) &%&%Użyj <m>atomówek</m> aby ocieplić Marsa i go <m>terraformować</m>.
 
-ex_endgame█<m>ATOMÓWKI ROBIĄ BRRR</m> &%&%Chciałam Ci bardzo serdecznie pogratulować Twojego ogromnego sukcesu. Zrobiłeś coś, co inni uznali za niemożliwe. Terraformowałeś Marsa. &%&%Odejdźmy jednak na chwilę od EarthX, bo mam dla Ciebie ważną wiadomość. &%&%Pamiętaj, aby szanować <m>naszą</m> piękną, kolorową Ziemię oraz naturę. &%&%Dziękuję!
+ex_endgame█<m>ATOMÓWKI ROBIĄ BRRR</m> &%&%Chciałam ci bardzo serdecznie pogratulować twojego ogromnego sukcesu. Zrobiłeś coś, co inni uznali za niemożliwe. Terraformowałeś Marsa. &%&%Odejdźmy jednak na chwilę od EarthX, bo mam dla Ciebie ważną wiadomość. &%&%Pamiętaj, aby szanować <m>naszą</m> piękną, kolorową Ziemię oraz naturę. &%&%Dziękuję!
 
 
 

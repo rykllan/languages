@@ -69,7 +69,7 @@ mega_hangar█Mega Hangar
 mega_hangar_desc█Możesz przechowywać tylko statki kosmiczne oraz Superheavy.
 
 office█Biuro
-office_desc█Pracownicy biurowi dają Ci większą siłę negocjacyjną (możesz zaoferować wyższą cenę przy negocjacjach).
+office_desc█Pracownicy biurowi dają ci większą siłę negocjacyjną (możesz zaoferować wyższą cenę przy negocjacjach).
 
 laboratory█Laboratorium
 laboratory_desc█Produkuje punkty doświadczenia.

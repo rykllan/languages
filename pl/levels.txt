@@ -186,13 +186,13 @@ upgrade_rideshareDesc█Rideshare pozwala wystrzelić więcej ładunków za pomo
 
 
 prototype_merlinEngine█Silnik Rakietowy
-prototype_merlinEngineDesc█Silnik Rakietowy jest używany w normalnych rakietach. Ten prototyp pozwoli Ci go jeszcze bardziej rozwinąć!
+prototype_merlinEngineDesc█Silnik Rakietowy jest używany w normalnych rakietach. Ten prototyp pozwoli ci go jeszcze bardziej rozwinąć!
 
 prototype_grasshopper█Prototyp Rakiety
-prototype_grasshopperDesc█Ten prototyp pozwoli Ci ćwiczyć lądowanie Twoich rakiet.
+prototype_grasshopperDesc█Ten prototyp pozwoli ci ćwiczyć lądowanie twoich rakiet.
 
 prototype_raptorEngine█Silnik Statku Kosmicznego
-prototype_raptorEngineDesc█Ten silnik będzie używany w Twoich statkach kosmicznych i rakietach Superheavy. 
+prototype_raptorEngineDesc█Ten silnik będzie używany w twoich statkach kosmicznych i rakietach Superheavy. 
 
 prototype_starhopper█Skoczek Statku Kosmicznego
 prototype_starhopperDesc█Ten prototyp będzie w stanie powiedzieć, czy pomysł zbudowania statku kosmicznego wielkości samolotu jest głupi, czy nie.
@@ -201,7 +201,7 @@ prototype_raptorVacEngine█Silnik Próżniowy Statku Kosmicznego
 prototype_raptorVacEngineDesc█Ten silnik będzie używany w twoich statkach kosmicznych, gdy znajdą się one w przestrzeni kosmicznej.
 
 prototype_spaceshipPrototype█Prototyp Statku Kosmicznego
-prototype_spaceshipPrototypeDesc█Seria ulepszonych prototypów statków kosmicznych pozwoli Ci opanować ich produkcję i niezawodność.
+prototype_spaceshipPrototypeDesc█Seria ulepszonych prototypów statków kosmicznych pozwoli ci opanować ich produkcję i niezawodność.
 
 
 test_engineShortFire█Krótki Zapłon
