@@ -7,73 +7,73 @@ module_factory_giga█Giga
 
 ---Engines---█---Moteurs---
 
-mdl_s_engine█Simple Engine
-mdl_a_engine█Advanced Engine
-mdl_a4_engine█4 Advanced Engines
-mdl_a9_engine█9 Advanced Engines
-mdl_m27_engine█37 Methane Engines
+mdl_s_engine█Moteur simple
+mdl_a_engine█Moteur avancé
+mdl_a4_engine█4 moteurs avancés
+mdl_a9_engine█9 moteurs avancés
+mdl_m27_engine█37 moteurs au méthane
 
 
 ---FuelTanks---█---Réservoirs à carburant---
 
-mdl_s_fueltank█Small Fuel Tank
-mdl_m_fueltank█Medium Fuel Tank
-mdl_l_fueltank█Large Fuel Tank
-mdl_vl_fueltank█Super Fuel Tank
+mdl_s_fueltank█Petit réservoir de carburant
+mdl_m_fueltank█Réservoir de carburant moyen
+mdl_l_fueltank█Grand réservoir de carburant
+mdl_vl_fueltank█Super réservoir de carburant
 
 
 ---Computers---█---Ordinateurs---
 
-mdl_s_computer█Simple Computer
-mdl_a_computer█Advanced Computer
-mdl_chip_computer█Computer Chip
-mdl_sn_computer█Skynet Computer
-mdl_booster_connector█Booster Connector
-mdl_camera█Camera
-mdl_s_altitude█Altitude Sensor
-mdl_s_heat█Heat Sensor
-mdl_s_battery█Small Battery
-mdl_a_battery█Large Battery
-mdl_a_antenna█Advanced Antenna
-mdl_s_antenna█Simple Antenna
+mdl_s_computer█Ordinateur simple
+mdl_a_computer█Ordinateur avancé
+mdl_chip_computer█Puce informatique
+mdl_sn_computer█Ordinateur Skynet 
+mdl_booster_connector█Connecteur de propulseurs
+mdl_camera█Caméra
+mdl_s_altitude█Altimètre
+mdl_s_heat█Capteur de chaleur
+mdl_s_battery█Petite batterie
+mdl_a_battery█Grande batterie
+mdl_a_antenna█Antenne avancée
+mdl_s_antenna█Antenne simple
 mdl_gps█GPS
 
 
 ---Fairings---█---Coiffes---
 
-mdl_s_fairings█Small Fairing
-mdl_m_fairings█Medium Fairing
-mdl_l_fairings█Large Fairing
-mdl_vc_fairings█Vehicle Connector
-mdl_fairingParachutes█Fairing Parachutes
+mdl_s_fairings█Petite coiffe
+mdl_m_fairings█Coiffe moyenne
+mdl_l_fairings█Grande coiffe
+mdl_vc_fairings█Connecteur de véhicules
+mdl_fairingParachutes█Parachutes des coiffes
 
 
 ---Landing Stuff---█---Modules d'atterrissage---
 
-mdl_a_gridfins█Aluminium Grid Fins
-mdl_t_gridfins█Titanium Grid Fins
-mdl_m_landingLegs█Manual Landing Legs
-mdl_a_landingLegs█Automatic Landing Legs
+mdl_a_gridfins█Ailettes en aluminium
+mdl_t_gridfins█Ailettes en titane
+mdl_m_landingLegs█Pieds d'atterrissage manuels
+mdl_a_landingLegs█Pieds d'atterrissage automatiques
 
 
 ---Capsule Stuff---█--Modules de capsule---
 
-mdl_light_structure█Light Body
-mdl_heavy_structure█Heavy Body
-mdl_a_escape_engines█Escape Engines
-mdl_a_parachutes█Advanced Parachutes
-mdl_s_parachutes█Simple Parachutes
+mdl_light_structure█Corps léger
+mdl_heavy_structure█Corps lourd
+mdl_a_escape_engines█Moteur d'évacuation
+mdl_a_parachutes█Parachutes avancés
+mdl_s_parachutes█Parachutes simples
 
 
 ---Spaceship Stuff---█---Modules de navette spatiale---
 
-mdl_methane_fueltank█Methane Fuel Tank
-mdl_methane_engine█6 Methane Engines
-mdl_stainlesssteel_structure█Stainless Steel Body
+mdl_methane_fueltank█Réservoir de méthane
+mdl_methane_engine█6 moteurs au méthane
+mdl_stainlesssteel_structure█Corps en acier inoxydable
 
-mdl_cargoUtility█Cargo Utility
-mdl_crewUtility█Crew Utility
-mdl_fuelUtility█Fuel Utility
+mdl_cargoUtility█Utilitaire de cargaison
+mdl_crewUtility█Utilitaire d'équipage
+mdl_fuelUtility█Utilitaire de carburant
 
 
 
