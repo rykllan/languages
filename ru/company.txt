@@ -19,17 +19,17 @@ bricks█Кирпичи
 not_a_flamethrowers█<color=#E74C3C><size=10>Не</size></color>&%Огнемёты
 rocketquillas█Рокеткила
 shorts█Короткие шорты
-use█Использовать
+use█Использ.
 
 company_menu_finance█Финансы
 company_menu_flights█Запуски
 company_menu_competition█Конкуренция
 
-company_summary█Last 10 Years
+company_summary█За последние 10 лет
 
 company_income█Доходы
-company_expenses█Expenses
-company_profitLoss█Profit/Loss
+company_expenses█Затраты
+company_profitLoss█Прибыль/Убыток
 
 company_successes█Успешные
 company_failures█Неуспешные
@@ -40,8 +40,8 @@ company_balance█Баланс
 
 company_launches█Запуски
 company_construction█Строительство
-company_research█Research
-company_buildings█Buildings
+company_research█Исследования
+company_buildings█Здания
 company_employees█Сотрудники
 company_linklink█LinkLink
 company_others█Другое
