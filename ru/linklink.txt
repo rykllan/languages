@@ -36,7 +36,7 @@ linkLink_system█Система
 linkLink_production█Производство
 linkLink_statistics█Статистика
 
-linkLink_100_required█You need at least <color=#64B5F6><b>420</b></color> LinkLinks in order to run the service.
+linkLink_100_required█Вам требуется минимум <color=#64B5F6><b>420</b></color> спутников LinkLink, чтобы запустить сервис.
 
 linkLink_run█Запустить LinkLink
 linkLink_customerPrice█Цена для клиентов (в месяц)

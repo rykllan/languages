@@ -35,7 +35,7 @@ company_successes█Успешные
 company_failures█Неуспешные
 company_flights█Запуски
 company_income█Доходы
-company_outcome█Expenses
+company_outcome█Затраты
 company_balance█Баланс
 
 company_launches█Запуски
