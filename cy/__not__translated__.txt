@@ -190,105 +190,108 @@ File: tutorial.txt (0)
 Original Translation: tutorial█Tutorial
 
 File: tutorial.txt (1)
-Original Translation: tutorial_welcome█Welcome
+Original Translation: help█Help
 
 File: tutorial.txt (2)
-Original Translation: tutorial_introduction█Introduction
+Original Translation: tutorial_welcome█Welcome
 
 File: tutorial.txt (3)
-Original Translation: tutorial_research█Research
+Original Translation: tutorial_introduction█Introduction
 
 File: tutorial.txt (4)
-Original Translation: tutorial_prototypes█Prototypes
+Original Translation: tutorial_research█Research
 
 File: tutorial.txt (5)
-Original Translation: tutorial_contracts█Contracts
+Original Translation: tutorial_prototypes█Prototypes
 
 File: tutorial.txt (6)
-Original Translation: tutorial_payloads█Payloads
+Original Translation: tutorial_contracts█Contracts
 
 File: tutorial.txt (7)
-Original Translation: tutorial_production█Production
+Original Translation: tutorial_payloads█Payloads
 
 File: tutorial.txt (8)
-Original Translation: tutorial_rocketLaunch█Rocket Launch
+Original Translation: tutorial_production█Production
 
 File: tutorial.txt (9)
-Original Translation: tutorial_capsuleLaunch█Capsule Launch
+Original Translation: tutorial_rocketLaunch█Rocket Launch
 
 File: tutorial.txt (10)
-Original Translation: tutorial_spaceshipLaunch█Spaceship Orbit Launch
+Original Translation: tutorial_capsuleLaunch█Capsule Launch
 
 File: tutorial.txt (11)
-Original Translation: tutorial_marsLaunch█Mars Launch
+Original Translation: tutorial_spaceshipLaunch█Spaceship Orbit Launch
 
 File: tutorial.txt (12)
-Original Translation: tutorial_staticFire█Static Fire
+Original Translation: tutorial_marsLaunch█Mars Launch
 
 File: tutorial.txt (13)
-Original Translation: tutorial_rocketLanding█Rocket Landing
+Original Translation: tutorial_staticFire█Static Fire
 
 File: tutorial.txt (14)
-Original Translation: tutorial_droneships█Droneships
+Original Translation: tutorial_rocketLanding█Rocket Landing
 
 File: tutorial.txt (15)
-Original Translation: tutorial_LinkLink█LinkLink
+Original Translation: tutorial_droneships█Droneships
 
 File: tutorial.txt (16)
-Original Translation: tutorial_orbits█<b><color=#64B5F6>ORBITS</color></b>&%<b>LEO</b> - Low Earth Orbit&%<b>MEO</b> - Medium Earth Orbit&%<b>GEO</b> - Geostationary Orbit&%&%<b>ISS</b> - International Space Station
+Original Translation: tutorial_LinkLink█LinkLink
 
 File: tutorial.txt (17)
-Original Translation: tutorial_sizes█<b><color=#64B5F6>SIZES</color></b>&%<b>Very Small</b> - 1 Slot&%<b>Small</b> - 2 Slots&%<b>Medium</b> - 4 Slots&%<b>Large</b> - 8 Slots&%<b>Very Large</b> - 16 Slots
+Original Translation: tutorial_orbits█<b><color=#64B5F6>ORBITS</color></b>&%<b>LEO</b> - Low Earth Orbit&%<b>MEO</b> - Medium Earth Orbit&%<b>GEO</b> - Geostationary Orbit&%&%<b>ISS</b> - International Space Station
 
 File: tutorial.txt (18)
-Original Translation: ex_welcome█<m>HELLO, {0}! &%&%HERE ARE YOUR GOALS. </m>&%&%Execute them and we will be Fine! &%&%-> Don't go bankrupt, plz. &%-> Develop new Technologies! &%-> Build a Colony on Mars. &%-> Run LinkLink Internet Service! &%-> Terraform Mars!
+Original Translation: tutorial_sizes█<b><color=#64B5F6>SIZES</color></b>&%<b>Very Small</b> - 1 Slot&%<b>Small</b> - 2 Slots&%<b>Medium</b> - 4 Slots&%<b>Large</b> - 8 Slots&%<b>Very Large</b> - 16 Slots
 
 File: tutorial.txt (19)
-Original Translation: ex_interface█<m>HELP ME WITH THE INTERFACE!</m> &%&%I will now show you what the EarthX interface is being used for. Please <m>LISTEN</m> carefully. 
+Original Translation: ex_welcome█<m>HELLO, {0}! &%&%HERE ARE YOUR GOALS. </m>&%&%Execute them and we will be Fine! &%&%-> Don't go bankrupt, plz. &%-> Develop new Technologies! &%-> Build a Colony on Mars. &%-> Run LinkLink Internet Service! &%-> Terraform Mars!
 
 File: tutorial.txt (20)
-Original Translation: ex_research█<m>HOW TO RESEARCH?</m> &%&%Select a Vehicle in the <m>RESEARCH WINDOW</m>, then click on it to see the details. &%To Unlock or Upgrade chosen Vehicle, simply complete the appropriate Tasks. &%&%Almost every Task has a Question Mark icon; <m>CLICK ON IT</m> to call me at any time.
+Original Translation: ex_interface█<m>HELP ME WITH THE INTERFACE!</m> &%&%I will now show you what the EarthX interface is being used for. Please <m>LISTEN</m> carefully. 
 
 File: tutorial.txt (21)
-Original Translation: ex_prototypes█<m>HOW TO PROTOTYPE?</m> &%&%In the <m>RESEARCH WINDOW</m>, you will see 2 tabs. &%&%<m>FIRST TAB</m>: See the whole tree, plan for the next years! &%&%<m>SECOND TAB</m>: Test Engines and Spaceships prototypes.
+Original Translation: ex_research█<m>HOW TO RESEARCH?</m> &%&%Select a Vehicle in the <m>RESEARCH WINDOW</m>, then click on it to see the details. &%To Unlock or Upgrade chosen Vehicle, simply complete the appropriate Tasks. &%&%Almost every Task has a Question Mark icon; <m>CLICK ON IT</m> to call me at any time.
 
 File: tutorial.txt (22)
-Original Translation: ex_contracts█<m>WHAT ARE CONTRACTS?</m> &%&%Try to <m>OFFER</m> as much as others or even less. You may not always win - even if you have the lowest price. &%&%<m>HIRING OFFICE EMPLOYEES</m> will allow you to offer more money. Do not negotiate for contracts which you cannot complete!
+Original Translation: ex_prototypes█<m>HOW TO PROTOTYPE?</m> &%&%In the <m>RESEARCH WINDOW</m>, you will see 2 tabs. &%&%<m>FIRST TAB</m>: See the whole tree, plan for the next years! &%&%<m>SECOND TAB</m>: Test Engines and Spaceships prototypes.
 
 File: tutorial.txt (23)
-Original Translation: ex_payloads█<m>WHAT ARE PAYLOADS?</m> &%&%Pay big attention to Payload's <m>DEADLINE</m>, <m>SIZE/ORBIT</m>, and <m>TYPE</m> of it. &%&%You can’t launch a Payload to <m>MEO</m> using a Rocket that can only reach <m>LEO</m>. You can't put a <m>LARGE PAYLOAD</m> into a <m>MEDIUM FAIRING</m>.
+Original Translation: ex_contracts█<m>WHAT ARE CONTRACTS?</m> &%&%Try to <m>OFFER</m> as much as others or even less. You may not always win - even if you have the lowest price. &%&%<m>HIRING OFFICE EMPLOYEES</m> will allow you to offer more money. Do not negotiate for contracts which you cannot complete!
 
 File: tutorial.txt (24)
-Original Translation: ex_rocketLaunch█<m>HOW TO LAUNCH ROCKETS?</m> &%&%Option A: Go to the <m>VEHICLES WINDOW</m> and click on the project of your choice. Then build a new rocket and just launch it once it's ready. &%&%Option B: Go to the <m>CONTRACTS WINDOW</m>, then select a payload in the payloads tab and launch it. &%&%Payloads to the ISS can fly in any capsule, but Crew Missions <m>MUST</m> take place in Crew Capsules.
+Original Translation: ex_payloads█<m>WHAT ARE PAYLOADS?</m> &%&%Pay big attention to Payload's <m>DEADLINE</m>, <m>SIZE/ORBIT</m>, and <m>TYPE</m> of it. &%&%You can’t launch a Payload to <m>MEO</m> using a Rocket that can only reach <m>LEO</m>. You can't put a <m>LARGE PAYLOAD</m> into a <m>MEDIUM FAIRING</m>.
 
 File: tutorial.txt (25)
-Original Translation: ex_capsuleLaunch█<m>HOW TO LAUNCH CAPSULES?</m> &%&%Make sure you have a Capsule and a Rocket that can launch it. Check it by going into the <m>RESEARCH WINDOW</m>, then selecting a Rocket and checking if the <m>CAPSULE SUPPORT UPGRADE</m> is unlocked. &%&%Crew Capsules require <m>CREW CAPSULE SUPPORT</m>!
+Original Translation: ex_rocketLaunch█<m>HOW TO LAUNCH ROCKETS?</m> &%&%Option A: Go to the <m>VEHICLES WINDOW</m> and click on the project of your choice. Then build a new rocket and just launch it once it's ready. &%&%Option B: Go to the <m>CONTRACTS WINDOW</m>, then select a payload in the payloads tab and launch it. &%&%Payloads to the ISS can fly in any capsule, but Crew Missions <m>MUST</m> take place in Crew Capsules.
 
 File: tutorial.txt (26)
-Original Translation: ex_spaceshipLaunch█<m>HOW TO LAUNCH SPACESHIPS?</m> &%&%Launching Spaceships works exact the same as launching Capsules! You just need a <m>SPACESHIP</m>, <m>SUPERHEAVY ROCKET</m>, and <m>MEGA LAUNCHPAD</m>.
+Original Translation: ex_capsuleLaunch█<m>HOW TO LAUNCH CAPSULES?</m> &%&%Make sure you have a Capsule and a Rocket that can launch it. Check it by going into the <m>RESEARCH WINDOW</m>, then selecting a Rocket and checking if the <m>CAPSULE SUPPORT UPGRADE</m> is unlocked. &%&%Crew Capsules require <m>CREW CAPSULE SUPPORT</m>!
 
 File: tutorial.txt (27)
-Original Translation: ex_marsLaunch█<m>HOW TO LAUNCH TO MARS?</m> &%&%Make sure you have: &%-Spaceship (Crew or Cargo) &%-Tanker Spaceship (to refuel on orbit) &%-Superheavy Rocket &%-Some payloads you want to bring to Mars. &%&%Build the payloads in the <m>PRODUCTION WINDOW</m>. &%&%Once you have these, just launch the Spaceship like you would normally do, then select Mars payloads and a Tanker. &%Flight to Mars takes around 2-3 years. Spaceships will be waiting on the <m>PARKING ORBIT</m> before they leave.
+Original Translation: ex_spaceshipLaunch█<m>HOW TO LAUNCH SPACESHIPS?</m> &%&%Launching Spaceships works exact the same as launching Capsules! You just need a <m>SPACESHIP</m>, <m>SUPERHEAVY ROCKET</m>, and <m>MEGA LAUNCHPAD</m>.
 
 File: tutorial.txt (28)
-Original Translation: ex_staticfire█<m>WHAT IS A STATIC FIRE?</m> &%&%It's a Test in which the Rocket fires its Engines for a few seconds without leaving. &%&%To test a particular Rocket, select it in the <m>VEHICLE WINDOW</m> and then click on the Static Fire button. &%&%It is not required but highly <m>RECOMMENDED</m>, as the rocket has a much better chance of succeeding in a mission.
+Original Translation: ex_marsLaunch█<m>HOW TO LAUNCH TO MARS?</m> &%&%Make sure you have: &%-Spaceship (Crew or Cargo) &%-Tanker Spaceship (to refuel on orbit) &%-Superheavy Rocket &%-Some payloads you want to bring to Mars. &%&%Build the payloads in the <m>PRODUCTION WINDOW</m>. &%&%Once you have these, just launch the Spaceship like you would normally do, then select Mars payloads and a Tanker. &%Flight to Mars takes around 2-3 years. Spaceships will be waiting on the <m>PARKING ORBIT</m> before they leave.
 
 File: tutorial.txt (29)
-Original Translation: ex_rocketLand█<m>HOW DO I LAND?</m> &%&%Rockets are divided into 2 types: Auto & Manual Landing. (and those which don't land at all lol) &%&%Manual Landing Rockets <m>REQUIRE YOU TO CLICK</m> on the button next to the rocket when it lands. You will also hear fast "clicking" sound. &%&%Automatic Landing Rockets will Land by themselves! &%&%Before a Rocket can Land, you have to Upgrade it. You'll do it in the <m>RESEARCH WINDOW</m>.
+Original Translation: ex_staticfire█<m>WHAT IS A STATIC FIRE?</m> &%&%It's a Test in which the Rocket fires its Engines for a few seconds without leaving. &%&%To test a particular Rocket, select it in the <m>VEHICLE WINDOW</m> and then click on the Static Fire button. &%&%It is not required but highly <m>RECOMMENDED</m>, as the rocket has a much better chance of succeeding in a mission.
 
 File: tutorial.txt (30)
-Original Translation: ex_droneships█<m>WHAT ARE DRONESHIPS?</m> &%&%They are required if you want to Land with a Rocket that flies to <m>Geostationary Orbit (GEO)</m>, or if the Rocket fairing is <m>85% FULL (has 4 or more slots)</m>. &%&%You will be able to Buy, Name, and Move them around the world in the <m>VEHICLES WINDOW</m>.
+Original Translation: ex_rocketLand█<m>HOW DO I LAND?</m> &%&%Rockets are divided into 2 types: Auto & Manual Landing. (and those which don't land at all lol) &%&%Manual Landing Rockets <m>REQUIRE YOU TO CLICK</m> on the button next to the rocket when it lands. You will also hear fast "clicking" sound. &%&%Automatic Landing Rockets will Land by themselves! &%&%Before a Rocket can Land, you have to Upgrade it. You'll do it in the <m>RESEARCH WINDOW</m>.
 
 File: tutorial.txt (31)
-Original Translation: ex_linklink█<m>WHAT IS LINKLINK?</m> &%&%It's a huge constellation of many thousands of small satellites in the <m>LOW EARTH'S ORBIT</m>. LinkLink will allow you to provide an internet connection in literally any place on the Earth. &%&%Build them in the <m>PRODUCTION WINDOW</m> and then send them with a Rocket just like a normal payload. &%Don't forget to <m>BUILD TERMINALS</m> on the ground!
+Original Translation: ex_droneships█<m>WHAT ARE DRONESHIPS?</m> &%&%They are required if you want to Land with a Rocket that flies to <m>Geostationary Orbit (GEO)</m>, or if the Rocket fairing is <m>85% FULL (has 4 or more slots)</m>. &%&%You will be able to Buy, Name, and Move them around the world in the <m>VEHICLES WINDOW</m>.
 
 File: tutorial.txt (32)
-Original Translation: ex_production█<m>PRODUCTION?</m> &%&%YES! You can Produce your <m>OWN</m> Payloads! &%Build a Giga factory first; then in the <m>PRODUCTION WINDOW</m>, you can choose what kind of Payload you want to Produce.
+Original Translation: ex_linklink█<m>WHAT IS LINKLINK?</m> &%&%It's a huge constellation of many thousands of small satellites in the <m>LOW EARTH'S ORBIT</m>. LinkLink will allow you to provide an internet connection in literally any place on the Earth. &%&%Build them in the <m>PRODUCTION WINDOW</m> and then send them with a Rocket just like a normal payload. &%Don't forget to <m>BUILD TERMINALS</m> on the ground!
 
 File: tutorial.txt (33)
-Original Translation: ex_mars█<m>MARS :o</m> &%&%Build an Infrastructure on Mars, then to transport the first people from Earth. (Once you have a lot of people on Mars they will start doing s... <m>human-reproduction-thing (~aka DNA sharing)</m>!) &%&%You can use <m>NUKES</m> to warm up the Mars and <m>TERRAFORM</m> it.
+Original Translation: ex_production█<m>PRODUCTION?</m> &%&%YES! You can Produce your <m>OWN</m> Payloads! &%Build a Giga factory first; then in the <m>PRODUCTION WINDOW</m>, you can choose what kind of Payload you want to Produce.
 
 File: tutorial.txt (34)
+Original Translation: ex_mars█<m>MARS :o</m> &%&%Build an Infrastructure on Mars, then to transport the first people from Earth. (Once you have a lot of people on Mars they will start doing s... <m>human-reproduction-thing (~aka DNA sharing)</m>!) &%&%You can use <m>NUKES</m> to warm up the Mars and <m>TERRAFORM</m> it.
+
+File: tutorial.txt (35)
 Original Translation: ex_endgame█<m>NUCLEAR BOMB GOES BRRR</m> &%&%I wanted to Congratulate you on your enormous Success. You have done something that others have found impossible. You have terraformed Mars! &%&%Please listen what I have to say and remember to respect <m>OUR</m> beautiful, colorful Earth and the nature. &%&%Thank you!
 
 File: buildings.txt (4)
@@ -944,9 +947,6 @@ Original Translation: prototype_starhopper█Spaceship Hopper
 
 File: levels.txt (145)
 Original Translation: prototype_starhopperDesc█This prototype will be able to tell you if the idea of building a plane-sized Spaceships is stupid or not.
-
-File: levels.txt (146)
-Original Translation: prototype_raptorVacEngine█Spaceship Vacum Engine
 
 File: levels.txt (147)
 Original Translation: prototype_raptorVacEngineDesc█Spaceship Vacum Engine will be used in your Spaceships when they are in Space.
@@ -2149,277 +2149,283 @@ File: vehicles.txt (41)
 Original Translation: droneship_buildCosts█Build costs
 
 File: vehicles.txt (42)
-Original Translation: earthPO█Parked on <color=#64B5F6>Earth's</color> Parking Orbit (Leaving in <b>{0}</b>)
+Original Translation: droneship_noDroneship█No Droneship (Rocket will burn after its Flight)
 
 File: vehicles.txt (43)
-Original Translation: marsPO█Parked on <color=#E17055>Mars'</color> Parking Orbit (Leaving in <b>{0}</b>)
+Original Translation: droneship_notAvailable█{0} is not available now.
 
 File: vehicles.txt (44)
-Original Translation: marsTraveling█Traveling to <color=#E17055>Mars</color> (Arriving in <b>{0}</b>)
+Original Translation: earthPO█Parked on <color=#64B5F6>Earth's</color> Parking Orbit (Leaving in <b>{0}</b>)
 
 File: vehicles.txt (45)
-Original Translation: earthTraveling█Traveling to <color=#64B5F6>Earth</color> (Arriving in <b>{0}</b>)
+Original Translation: marsPO█Parked on <color=#E17055>Mars'</color> Parking Orbit (Leaving in <b>{0}</b>)
 
 File: vehicles.txt (46)
-Original Translation: marsLanding█Landing on <color=#E17055>Mars</color>
+Original Translation: marsTraveling█Traveling to <color=#E17055>Mars</color> (Arriving in <b>{0}</b>)
 
 File: vehicles.txt (47)
-Original Translation: earthLanding█Landing on <color=#64B5F6>Earth</color>
+Original Translation: earthTraveling█Traveling to <color=#64B5F6>Earth</color> (Arriving in <b>{0}</b>)
 
 File: vehicles.txt (48)
-Original Translation: marsTryingLand█Trying to Land on <color=#E17055>Mars</color>
+Original Translation: marsLanding█Landing on <color=#E17055>Mars</color>
 
 File: vehicles.txt (49)
-Original Translation: earthTryingLand█Trying to Land on <color=#64B5F6>Earth</color>
+Original Translation: earthLanding█Landing on <color=#64B5F6>Earth</color>
 
 File: vehicles.txt (50)
-Original Translation: marsLanded█Landed on <color=#E17055>Mars</color>
+Original Translation: marsTryingLand█Trying to Land on <color=#E17055>Mars</color>
 
 File: vehicles.txt (51)
-Original Translation: onDroneship█On a Droneship. Coming back soon!
+Original Translation: earthTryingLand█Trying to Land on <color=#64B5F6>Earth</color>
 
 File: vehicles.txt (52)
-Original Translation: readyToLaunch█<b><color=#64B5F6>{0} of {1}</b></color>&%<size=70%>are ready to launch!
+Original Translation: marsLanded█Landed on <color=#E17055>Mars</color>
 
 File: vehicles.txt (53)
-Original Translation: readyToFly█Ready to Fly
+Original Translation: onDroneship█On a Droneship. Coming back soon!
 
 File: vehicles.txt (54)
-Original Translation: failureChance█&%Failure Chance: {0}%
+Original Translation: readyToLaunch█<b><color=#64B5F6>{0} of {1}</b></color>&%<size=70%>are ready to launch!
 
 File: vehicles.txt (55)
-Original Translation: actionRequired█Action Required
+Original Translation: readyToFly█Ready to Fly
 
 File: vehicles.txt (56)
-Original Translation: notBuiltYet█Not built yet
+Original Translation: failureChance█&%Failure Chance: {0}%
 
 File: vehicles.txt (57)
-Original Translation: constructing█Constructing...
+Original Translation: actionRequired█Action Required
 
 File: vehicles.txt (58)
-Original Translation: repairing█Refurbishing...
+Original Translation: notBuiltYet█Not built yet
 
 File: vehicles.txt (59)
-Original Translation: flying█Flying now
+Original Translation: constructing█Constructing...
 
 File: vehicles.txt (60)
-Original Translation: dockedToISS█Docked to ISS (Will come back soon.)
+Original Translation: repairing█Refurbishing...
 
 File: vehicles.txt (61)
-Original Translation: reusable█Reusable
+Original Translation: flying█Flying now
 
 File: vehicles.txt (62)
-Original Translation: manual█Manual
+Original Translation: dockedToISS█Docked to ISS (Will come back soon.)
 
 File: vehicles.txt (63)
-Original Translation: sideboosters█Sideboosters
+Original Translation: reusable█Reusable
 
 File: vehicles.txt (64)
-Original Translation: superheavy█Superheavy
+Original Translation: manual█Manual
 
 File: vehicles.txt (65)
-Original Translation: spaceshipsOnly█Spaceships only
+Original Translation: sideboosters█Sideboosters
 
 File: vehicles.txt (66)
-Original Translation: capsulesOnly█Capsules only
+Original Translation: superheavy█Superheavy
 
 File: vehicles.txt (67)
-Original Translation: fairingRecovery█Fairing recovery
+Original Translation: spaceshipsOnly█Spaceships only
 
 File: vehicles.txt (68)
-Original Translation: payload█Payload
+Original Translation: capsulesOnly█Capsules only
 
 File: vehicles.txt (69)
-Original Translation: crew█Crew
+Original Translation: fairingRecovery█Fairing recovery
 
 File: vehicles.txt (70)
-Original Translation: cargo█Cargo
+Original Translation: payload█Payload
 
 File: vehicles.txt (71)
-Original Translation: launchAll█Launch All
+Original Translation: crew█Crew
 
 File: vehicles.txt (72)
-Original Translation: launchSetup_header█Launch Setup
+Original Translation: cargo█Cargo
 
 File: vehicles.txt (73)
-Original Translation: launchSetup_missionName█Mission name...
+Original Translation: launchAll█Launch All
 
 File: vehicles.txt (74)
-Original Translation: launchSetup_mission█Mission
+Original Translation: launchSetup_header█Launch Setup
 
 File: vehicles.txt (75)
-Original Translation: launchSetup_noVehiclesFound█[No vehicles found.]
+Original Translation: launchSetup_missionName█Mission name...
 
 File: vehicles.txt (76)
-Original Translation: launchSetup_noRocketsFound█[No rockets found.]&%
+Original Translation: launchSetup_mission█Mission
 
 File: vehicles.txt (77)
-Original Translation: launchSetup_noSpaceshipsFound█[No spaceships found.]&%
+Original Translation: launchSetup_noVehiclesFound█[No vehicles found.]
 
 File: vehicles.txt (78)
-Original Translation: launchSetup_noCapsulesFound█[No capsules found.]
+Original Translation: launchSetup_noRocketsFound█[No rockets found.]&%
 
 File: vehicles.txt (79)
-Original Translation: launchSetup_noTankersFound█[No tankers found.]
+Original Translation: launchSetup_noSpaceshipsFound█[No spaceships found.]&%
 
 File: vehicles.txt (80)
-Original Translation: launchSetup_noPayloadsFound█[No capable payloads found.]
+Original Translation: launchSetup_noCapsulesFound█[No capsules found.]
 
 File: vehicles.txt (81)
-Original Translation: launchSetup_selectVehicle█Select vehicle
+Original Translation: launchSetup_noTankersFound█[No tankers found.]
 
 File: vehicles.txt (82)
-Original Translation: launchSetup_selectLaunchPad█Launch Pad
+Original Translation: launchSetup_noPayloadsFound█[No capable payloads found.]
 
 File: vehicles.txt (83)
-Original Translation: launchSetup_selectTanker█Orbital Tanker
+Original Translation: launchSetup_selectVehicle█Select vehicle
 
 File: vehicles.txt (84)
-Original Translation: launchSetup_spaceshipRequired█[Spaceship Required]
+Original Translation: launchSetup_selectLaunchPad█Launch Pad
 
 File: vehicles.txt (85)
-Original Translation: launchSetup_rocketRequired█[Rocket Required]
+Original Translation: launchSetup_selectTanker█Orbital Tanker
 
 File: vehicles.txt (86)
-Original Translation: launchSetup_superheavyRequired█[Superheavy Required]
+Original Translation: launchSetup_spaceshipRequired█[Spaceship Required]
 
 File: vehicles.txt (87)
-Original Translation: noPayloadsSelected█No Payloads selected!
+Original Translation: launchSetup_rocketRequired█[Rocket Required]
 
 File: vehicles.txt (88)
-Original Translation: noLaunchPadSelected█No LaunchPad selected!
+Original Translation: launchSetup_superheavyRequired█[Superheavy Required]
 
 File: vehicles.txt (89)
-Original Translation: noISSDocks█No space in the ISS!
+Original Translation: noPayloadsSelected█No Payloads selected!
 
 File: vehicles.txt (90)
-Original Translation: noTankerSelected█No Tanker selected!
+Original Translation: noLaunchPadSelected█No LaunchPad selected!
 
 File: vehicles.txt (91)
-Original Translation: noSpaceInParkingOrbit█No space in Parking Orbit! 25/25
+Original Translation: noISSDocks█No space in the ISS!
 
 File: vehicles.txt (92)
+Original Translation: noTankerSelected█No Tanker selected!
+
+File: vehicles.txt (93)
+Original Translation: noSpaceInParkingOrbit█No space in Parking Orbit! 25/25
+
+File: vehicles.txt (94)
 Original Translation: launchSetup_barge█Barge
 
-File: vehicles.txt (95)
+File: vehicles.txt (97)
 Original Translation: noLaumchPad█No LaunchPad
 
-File: vehicles.txt (96)
+File: vehicles.txt (98)
 Original Translation: launchSetup_testFlight█Test Flight
 
-File: vehicles.txt (97)
+File: vehicles.txt (99)
 Original Translation: launchSetup_concrete█Concrete
 
-File: vehicles.txt (98)
+File: vehicles.txt (100)
 Original Translation: launchSetup_cheese█Cheese
 
-File: vehicles.txt (99)
+File: vehicles.txt (101)
 Original Translation: launchSetup_pizza█Pizza
 
-File: vehicles.txt (100)
+File: vehicles.txt (102)
 Original Translation: launchSetup_earthPlush█Earth Plush
 
-File: vehicles.txt (101)
+File: vehicles.txt (103)
 Original Translation: launchSetup_everydayStickers█Everyday Stickers
 
-File: vehicles.txt (102)
+File: vehicles.txt (104)
 Original Translation: launchSetup_landingZone█Landing Zone
 
-File: vehicles.txt (103)
+File: vehicles.txt (105)
 Original Translation: launchSetup_success█Success
 
-File: vehicles.txt (104)
+File: vehicles.txt (106)
 Original Translation: launchSetup_crash█Crash
 
-File: vehicles.txt (105)
+File: vehicles.txt (107)
 Original Translation: failure█Failure
 
-File: vehicles.txt (106)
+File: vehicles.txt (108)
 Original Translation: noData█No data
 
-File: vehicles.txt (107)
+File: vehicles.txt (109)
 Original Translation: flights█Flights
 
-File: vehicles.txt (108)
+File: vehicles.txt (110)
 Original Translation: failures█Failures
 
-File: vehicles.txt (109)
+File: vehicles.txt (111)
 Original Translation: partialSuccess█Partial Success
 
-File: vehicles.txt (110)
+File: vehicles.txt (112)
 Original Translation: launchPanel_telemetry█Telemetry
 
-File: vehicles.txt (111)
+File: vehicles.txt (113)
 Original Translation: launchPanel_noSupportTelemetry█This rocket does not support telemetry.
 
-File: vehicles.txt (112)
+File: vehicles.txt (114)
 Original Translation: launchPanel_speed█Speed
 
-File: vehicles.txt (113)
+File: vehicles.txt (115)
 Original Translation: launchPanel_altitude█Altitude
 
-File: vehicles.txt (114)
+File: vehicles.txt (116)
 Original Translation: launchPanel_staticFire█Static fire
 
-File: vehicles.txt (115)
+File: vehicles.txt (117)
 Original Translation: launchPanel_speedMetric█km/h
 
-File: vehicles.txt (116)
+File: vehicles.txt (118)
 Original Translation: launchPanel_altitudeMetric█km
 
-File: vehicles.txt (117)
+File: vehicles.txt (119)
 Original Translation: buildPanel_moveToHangar█Move to hangar
 
-File: vehicles.txt (118)
+File: vehicles.txt (120)
 Original Translation: missionReportHeader█Mission report
 
-File: vehicles.txt (119)
+File: vehicles.txt (121)
 Original Translation: missionReportMissionName█Mission name:
 
-File: vehicles.txt (120)
+File: vehicles.txt (122)
 Original Translation: missionReportRocketName█Rocket:
 
-File: vehicles.txt (121)
+File: vehicles.txt (123)
 Original Translation: missionReportMissionResult█Mission Result
 
-File: vehicles.txt (122)
+File: vehicles.txt (124)
 Original Translation: missionReportLaunch█Launch
 
-File: vehicles.txt (123)
+File: vehicles.txt (125)
 Original Translation: missionReportDeploy█Deploy
 
-File: vehicles.txt (124)
+File: vehicles.txt (126)
 Original Translation: missionReportLanding█Landing
 
-File: vehicles.txt (125)
+File: vehicles.txt (127)
 Original Translation: missionReportFairingLanding█Fairing landing
 
-File: vehicles.txt (126)
+File: vehicles.txt (128)
 Original Translation: missionReportSecondVehicleLanding█Second vehicle landing
 
-File: vehicles.txt (127)
+File: vehicles.txt (129)
 Original Translation: missionReportMissionIncome█Mission income
 
-File: vehicles.txt (128)
+File: vehicles.txt (130)
 Original Translation: missionReportDamageCompensation█Damage compensation
 
-File: vehicles.txt (129)
+File: vehicles.txt (131)
 Original Translation: missionReportLandedRocket█Landed rocket
 
-File: vehicles.txt (130)
+File: vehicles.txt (132)
 Original Translation: missionReportSkillPoints█Skill points
 
-File: vehicles.txt (131)
+File: vehicles.txt (133)
 Original Translation: profit█Profit
 
-File: vehicles.txt (132)
+File: vehicles.txt (134)
 Original Translation: loss█Loss
 
-File: vehicles.txt (133)
+File: vehicles.txt (135)
 Original Translation: income█Income
 
-File: vehicles.txt (134)
+File: vehicles.txt (136)
 Original Translation: potentialLoss█Potential Loss
 
-File: vehicles.txt (135)
+File: vehicles.txt (137)
 Original Translation: potentialProfit█Potential Profit

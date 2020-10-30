@@ -26,6 +26,7 @@ vehicles_view█View
 
 land█Land
 
+launchCosts█Launch costs
 buildCosts█Build costs
 originalBuildCosts█Original build costs
 optimizedBuildCosts█Optimized build costs
@@ -56,6 +57,8 @@ rocketFinance█Finance
 droneship█Droneship
 droneship_moveCosts█Move costs
 droneship_buildCosts█Build costs
+droneship_noDroneship█No Droneship (Rocket will burn after its Flight)
+droneship_notAvailable█{0} is not available now.
 
 earthPO█Parked on <color=#64B5F6>Earth's</color> Parking Orbit (Leaving in <b>{0}</b>)
 marsPO█Parked on <color=#E17055>Mars'</color> Parking Orbit (Leaving in <b>{0}</b>)
@@ -119,6 +122,7 @@ noSpaceInParkingOrbit█No space in Parking Orbit! 25/25
 launchSetup_barge█Barge
 launchSetup_lz1█LZ-1
 launchSetup_lz2█LZ-2
+noLaumchPad█No LaunchPad
 
 launchSetup_testFlight█Test Flight
 launchSetup_concrete█Concrete
@@ -166,6 +170,7 @@ loss█Loss
 income█Income
 potentialLoss█Potential Loss
 potentialProfit█Potential Profit
+
 
 
 

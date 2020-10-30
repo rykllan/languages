@@ -56,3 +56,4 @@ company_profitPerYear█Promedio <mark=#E74C3C25>loss</mark> por año
 
 
 
+

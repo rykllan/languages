@@ -57,6 +57,8 @@ rocketFinance█Finance
 droneship█Droneship
 droneship_moveCosts█Move costs
 droneship_buildCosts█Build costs
+droneship_noDroneship█No Droneship (Rocket will burn after its Flight)
+droneship_notAvailable█{0} is not available now.
 
 earthPO█Geparkt auf Parkplatz-Umlaufbahn der <color=#64B5F6>Erde</color> (Verlässt in <b>{0}</b>)
 marsPO█Geparkt auf Parkplatz-Umlaufbahn vom <color=#E17055>Mars</color> (Verlässt in <b>{0}</b>)
@@ -168,6 +170,7 @@ loss█Loss
 income█Income
 potentialLoss█Potential Loss
 potentialProfit█Potential Profit
+
 
 
 

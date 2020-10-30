@@ -1,6 +1,7 @@
 
 
 tutorial█Tutoriel
+help█Help
 
 tutorial_welcome█Bienvenue
 tutorial_introduction█Introduction
@@ -54,6 +55,7 @@ ex_production█<m>PRODUCTION?</m> &%&%OUI! Vous pouvez produire vos <m>PROPRES<
 ex_mars█<m>MARS :o</m> &%&%Construisez une Infrastructure sur Mars, transportez ensuite les premières personnes depuis la Terre. (Une fois que vous aurez beaucoup de personnes sur Mars ils commenceront à faire des cho...<m>en rapport avec la reproduction humaine (~aka le partage d'ADN)</m>!) &%&%Vous pouvez utiliser des <m>BOMBES NUCLEAIRES</m> pour chauffer Mars et la <m>TERRAFORMER</m>.
 
 ex_endgame█<m>LES BOMBES NUCLEAIRES FONT BRRR</m> &%&%Je voulais vous féliciter pour votre succès énorme. Vous avez accompli ce que les autres estimaient impossible. Vous avez terraformé Mars! &%&%S'il vous plaît souvenez vous de respecter <m>NOTRE</m> magnifique, luxuriante planète Terre. &%&%Merci!
+
 
 
 

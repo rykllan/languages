@@ -6,41 +6,14 @@
 File: general.txt (25)
 Original Translation: orbit_iss█ISS
 
-File: general.txt (39)
-Original Translation: tanking█Fueling...
-
-File: general.txt (40)
-Original Translation: pressurizing█Pressurizing...
-
-File: general.txt (41)
-Original Translation: testing█Testing...
-
-File: general.txt (42)
-Original Translation: completing█Completing...
-
 File: tutorial.txt (0)
 Original Translation: tutorial█Tutorial
 
-File: tutorial.txt (15)
+File: tutorial.txt (1)
+Original Translation: help█Help
+
+File: tutorial.txt (16)
 Original Translation: tutorial_LinkLink█LinkLink
-
-File: company.txt (21)
-Original Translation: company_summary█Last 10 Years
-
-File: company.txt (23)
-Original Translation: company_expenses█Expenses
-
-File: company.txt (24)
-Original Translation: company_profitLoss█Profit/Loss
-
-File: company.txt (29)
-Original Translation: company_outcome█Expenses
-
-File: company.txt (33)
-Original Translation: company_research█Research
-
-File: company.txt (34)
-Original Translation: company_buildings█Buildings
 
 File: company.txt (36)
 Original Translation: company_linklink█LinkLink
@@ -50,9 +23,6 @@ Original Translation: payload_potato█Orbital Potato
 
 File: levels.txt (7)
 Original Translation: research_info█Info
-
-File: levels.txt (19)
-Original Translation: research_totalExpenses█Total Expenses
 
 File: levels.txt (136)
 Original Translation: upgrade_rideshare█Rideshare
@@ -69,122 +39,8 @@ Original Translation: dubbing█Dubbing: {0}
 File: modules.txt (3)
 Original Translation: module_factory_giga█Giga
 
-File: modules.txt (5)
-Original Translation: mdl_s_engine█Simple Engine
-
-File: modules.txt (6)
-Original Translation: mdl_a_engine█Advanced Engine
-
-File: modules.txt (7)
-Original Translation: mdl_a4_engine█4 Advanced Engines
-
-File: modules.txt (8)
-Original Translation: mdl_a9_engine█9 Advanced Engines
-
-File: modules.txt (9)
-Original Translation: mdl_m27_engine█37 Methane Engines
-
-File: modules.txt (11)
-Original Translation: mdl_s_fueltank█Small Fuel Tank
-
-File: modules.txt (12)
-Original Translation: mdl_m_fueltank█Medium Fuel Tank
-
-File: modules.txt (13)
-Original Translation: mdl_l_fueltank█Large Fuel Tank
-
-File: modules.txt (14)
-Original Translation: mdl_vl_fueltank█Super Fuel Tank
-
-File: modules.txt (16)
-Original Translation: mdl_s_computer█Simple Computer
-
-File: modules.txt (17)
-Original Translation: mdl_a_computer█Advanced Computer
-
-File: modules.txt (18)
-Original Translation: mdl_chip_computer█Computer Chip
-
-File: modules.txt (19)
-Original Translation: mdl_sn_computer█Skynet Computer
-
-File: modules.txt (20)
-Original Translation: mdl_booster_connector█Booster Connector
-
-File: modules.txt (21)
-Original Translation: mdl_camera█Camera
-
-File: modules.txt (22)
-Original Translation: mdl_s_altitude█Altitude Sensor
-
-File: modules.txt (23)
-Original Translation: mdl_s_heat█Heat Sensor
-
-File: modules.txt (24)
-Original Translation: mdl_s_battery█Small Battery
-
-File: modules.txt (25)
-Original Translation: mdl_a_battery█Large Battery
-
-File: modules.txt (26)
-Original Translation: mdl_a_antenna█Advanced Antenna
-
-File: modules.txt (27)
-Original Translation: mdl_s_antenna█Simple Antenna
-
 File: modules.txt (28)
 Original Translation: mdl_gps█GPS
-
-File: modules.txt (30)
-Original Translation: mdl_s_fairings█Small Fairing
-
-File: modules.txt (31)
-Original Translation: mdl_m_fairings█Medium Fairing
-
-File: modules.txt (32)
-Original Translation: mdl_l_fairings█Large Fairing
-
-File: modules.txt (33)
-Original Translation: mdl_vc_fairings█Vehicle Connector
-
-File: modules.txt (34)
-Original Translation: mdl_fairingParachutes█Fairing Parachutes
-
-File: modules.txt (36)
-Original Translation: mdl_a_gridfins█Aluminium Grid Fins
-
-File: modules.txt (37)
-Original Translation: mdl_t_gridfins█Titanium Grid Fins
-
-File: modules.txt (38)
-Original Translation: mdl_m_landingLegs█Manual Landing Legs
-
-File: modules.txt (39)
-Original Translation: mdl_a_landingLegs█Automatic Landing Legs
-
-File: modules.txt (41)
-Original Translation: mdl_light_structure█Light Body
-
-File: modules.txt (42)
-Original Translation: mdl_heavy_structure█Heavy Body
-
-File: modules.txt (43)
-Original Translation: mdl_a_escape_engines█Escape Engines
-
-File: modules.txt (44)
-Original Translation: mdl_a_parachutes█Advanced Parachutes
-
-File: modules.txt (45)
-Original Translation: mdl_s_parachutes█Simple Parachutes
-
-File: modules.txt (47)
-Original Translation: mdl_methane_fueltank█Methane Fuel Tank
-
-File: modules.txt (48)
-Original Translation: mdl_methane_engine█6 Methane Engines
-
-File: modules.txt (49)
-Original Translation: mdl_stainlesssteel_structure█Stainless Steel Body
 
 File: modules.txt (50)
 Original Translation: mdl_cargoUtility█Cargo Utility
@@ -195,11 +51,8 @@ Original Translation: mdl_crewUtility█Crew Utility
 File: modules.txt (52)
 Original Translation: mdl_fuelUtility█Fuel Utility
 
-File: vehicles.txt (17)
-Original Translation: launchCosts█Launch costs
+File: vehicles.txt (42)
+Original Translation: droneship_noDroneship█No Droneship (Rocket will burn after its Flight)
 
-File: vehicles.txt (23)
-Original Translation: move█Move
-
-File: vehicles.txt (95)
-Original Translation: noLaumchPad█No LaunchPad
+File: vehicles.txt (43)
+Original Translation: droneship_notAvailable█{0} is not available now.

@@ -71,9 +71,10 @@ mdl_methane_fueltank█Zbiornik metanu
 mdl_methane_engine█6 silników metanowych
 mdl_stainlesssteel_structure█Kadłub ze stali nierdzewnej
 
-mdl_cargoUtility█Cargo Utility
-mdl_crewUtility█Crew Utility
-mdl_fuelUtility█Fuel Utility
+mdl_cargoUtility█Wersja towarowa
+mdl_crewUtility█Wersja załogowa
+mdl_fuelUtility█Wersja cysternowa
+
 
 
 
