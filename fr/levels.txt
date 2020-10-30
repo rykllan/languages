@@ -65,8 +65,8 @@ task_LargeRocketStaticFireTest█Faites {0} essai(s) de tir statique(s) avec des
 task_HeavyRocketStaticFireTest█Faites {0} essai(s) de tir statique(s) avec des fusée(s) lourde(s)!
 task_GrasshopperTest█Testez {0} fusée(s) Hopper!
 
-task_RaptorVacEngineTest█Fire {0} Spaceship Vacum Engine(s)!
-task_RaptorEngineTest█Fire {0} Spaceship Engine(s)!
+task_RaptorVacEngineTest█Mettez à feu {0} moteur(s) Vacuum de navette!
+task_RaptorEngineTest█Mettez à feu {0} moteur(s) de navette!
 task_SnHop_20m_Test█Réussissez {0} bond(s) de 20m avec des fusées Hopper!
 task_SnHop_150m_Test█Réussissez {0} bond(s) de 150m pour le prototype de navette!
 task_SnHop_20km_Test█Réussissez {0} bond(s) de 20km pour le prototype de navette!
@@ -128,80 +128,80 @@ progress_cybercar█[<color=#81C784>PRODUIRE</color>] Cybercars
 progress_nuke█[<color=#81C784>PRODUIRE</color>] Bombes nucléaires
 
 vehicle_smallRocket█Petite fusée
-vehicle_smallRocketDesc█Une petite fusée peut seulement lancer des petites charges utiles en Orbite Terre Basse.
+vehicle_smallRocketDesc█Une petite fusée peut seulement lancer des petites charges utiles en Orbite Terre Basse (LEO).
 
-vehicle_mediumRocket█Medium Rocket
-vehicle_mediumRocketDesc█Medium rocket, after some Upgrades, can Land and send Cargo Capsules to the ISS. It can launch Medium Payloads to Earth Medium Orbit.
+vehicle_mediumRocket█Fusée moyenne
+vehicle_mediumRocketDesc█Une fusée moyenne, après quelques améliorations, peut atterrir et envoyer des capsules de cargaison vers l'ISS. Elle peut lancer des charges utiles moyennes en Orbite Moyenne de la Terre (MEO).
 
-vehicle_largeRocket█Large Rocket
-vehicle_largeRocketDesc█After Upgrades, it can automatically Land, send Crew Capsules to the ISS, Catch & reuse Fairings, and more. It can launch Medium Payloads to Earth Geostationary Orbit.
+vehicle_largeRocket█Grande fusée
+vehicle_largeRocketDesc█Après améliorations, elle peut atterrir automatiquement, envoyer des capsules d'équipage sur l'ISS, attraper et réutiliser les coiffes, et bien plus encore. Elle peut lancer les charges utiles moyennes en Orbite Géostationnaire (GEO).
 
-vehicle_heavyRocket█Heavy Rocket
-vehicle_heavyRocketDesc█"3 Large Rockets glued together". It can launch Large Payloads to Earth Geostationary Orbit and even Mars Orbit.
+vehicle_heavyRocket█Fusée lourde
+vehicle_heavyRocketDesc█"3 grandes fusées collées ensemble". Elle peut lancez des grandes charges utiles en Orbite Géostationnaire (GEO) de la Terre et même sur l'Orbite de Mars.
 
-vehicle_superheavyRocket█Superheavy Rocket
-vehicle_superheavyRocketDesc█Superheavy Rockets are fully Reusable and you don't have to Refurbish them after every flight. It requires a Spaceship.
+vehicle_superheavyRocket█Fusée superlourde
+vehicle_superheavyRocketDesc█Les fusées superlourdes sont totalement réutilisables et vous n'avez pas besoin de les entretenir après chaque envol. Elles ont besoin d'être associées avec une navette.
 
-vehicle_cargoCapsule█Cargo Capsule
-vehicle_cargoCapsuleDesc█Get NASA's contract for CRS missions and supply the International Space Station every 2 years.
+vehicle_cargoCapsule█Capsule de cargaison
+vehicle_cargoCapsuleDesc█Obtenez le contrat de la NASA pour la mission de service de ravitaillement commercial et fournissez la Station Spatiale Internationale tous les deux ans.
 
-vehicle_crewCapsule█Crew Capsule
-vehicle_crewCapsuleDesc█Get NASA's contract for CCP missions and send new Crew to the International Space Station every 2 years. In Crew Capsule, you can launch normal Cargo as well.
+vehicle_crewCapsule█Capsule d'équipage
+vehicle_crewCapsuleDesc█Obtenez le contrat de la NASA pour la mission du programme d'équipage commercial et envoyez des nouveaux membres à la Station Spatiale Internationale tous les deux ans. Dans une navette d'équipage, vous pouvez également lancer de la cargaison.
 
-vehicle_cargoSpaceship█Cargo Spaceship
-vehicle_cargoSpaceshipDesc█Send more Payloads to Earth's orbits, as well as to Mars! In order to Land on Mars, you will need Tanker Spaceship.
+vehicle_cargoSpaceship█Navette de cargaison
+vehicle_cargoSpaceshipDesc█Envoyez plus de charges utiles en orbite de la Terre, ou même de Mars! Pour atterrir sur Mars, vous aurez besoin d'une fusée de ravitaillement (Tanker).
 
-vehicle_crewSpaceship█Crew Spaceship
-vehicle_crewSpaceshipDesc█Send humans to the International Space Station or Mars Surface. 
+vehicle_crewSpaceship█Navette d'équipage
+vehicle_crewSpaceshipDesc█Envoyez des humainsSend humans to the International Space Station or Mars Surface. 
 
-vehicle_tankerSpaceship█Tanker Spaceship
-vehicle_tankerSpaceshipDesc█It's required to Refuel Spaceships on Earth's Orbit.
+vehicle_tankerSpaceship█Fusée de ravitaillement (Tanker)
+vehicle_tankerSpaceshipDesc█C'est nécessaire pour ravitailler vos navettes en orbite de la Terre.
 
-upgrade_basic█Basic
-upgrade_basicDesc█Build Costs & Explosions Rate reduction.
+upgrade_basic█Basique
+upgrade_basicDesc█Coûts de construction et risques d'explosion réduits.
 
-upgrade_telemetry█Telemetry
-upgrade_telemetryDesc█Allows you to see how Fast and High the rockets are.
+upgrade_telemetry█Télémetrie
+upgrade_telemetryDesc█Vous permet de voir à quelle vitesse et quelle hauteur sont les fusées.
 
-upgrade_webcast█Webcasts
-upgrade_webcastDesc█Allows you to see what the Rocket sees.
+upgrade_webcast█Diffusion
+upgrade_webcastDesc█Vous permet de voir ce que la fusée voit.
 
-upgrade_cargoCapsuleSupport█Cargo Capsule Support
-upgrade_cargoCapsuleSupportDesc█Allows you to launch Cargo Capsules with this Rocket.
+upgrade_cargoCapsuleSupport█Support de capsule de cargaison
+upgrade_cargoCapsuleSupportDesc█Vous permet d'envoyer des capsules de cargaison avec cette fusée.
 
-upgrade_crewCapsuleSupport█Crew Capsule Support
-upgrade_crewCapsuleSupportDesc█Allows you to launch Cargo and Crew Capsules with this Rocket.
+upgrade_crewCapsuleSupport█Support de capsule d'équipage
+upgrade_crewCapsuleSupportDesc█Vous permet d'envoyer des capsules de cargaison et d'équipage avec cette fusée.
 
-upgrade_manualLanding█Manual Landing
-upgrade_manualLandingDesc█Allows you to Manually Land with this rocket after its mission. Don't forget, that manually landing rockets require you to click the "Click to Land" button!
+upgrade_manualLanding█Atterrissage manuel
+upgrade_manualLandingDesc█Vous permet de faire atterrir votre fusée manuellement après sa mission. N'oubliez pas, un atterrissage manuel nécessite que vosu cliquiez le bouton "Cliquez pour atterrir"!
 
-upgrade_automaticLanding█Automatic Landing
-upgrade_automaticLandingDesc█This rocket will Land Automatically after its mission.
+upgrade_automaticLanding█Atterrissage automatique
+upgrade_automaticLandingDesc█Cette fusée atterrira automatiquement après sa mission.
 
-upgrade_fairingCatching█Fairing Catching
-upgrade_fairingCatchingDesc█You will be able to try to Catch the Fairings after rocket's mission.
+upgrade_fairingCatching█Rattrapage des coiffes
+upgrade_fairingCatchingDesc█Vous serez capable d'attraper les coiffes de la fusée après sa mission.
 
-upgrade_rideshare█Rideshare
-upgrade_rideshareDesc█Rideshare allows you to Launch More Payloads with one Rocket at once!
+upgrade_rideshare█Covoyage
+upgrade_rideshareDesc█Covoyage vous permet de de lancer plus de charges utiles avec la fusée!
 
 
-prototype_merlinEngine█Rocket Engine
-prototype_merlinEngineDesc█Rocket Engine is used in your normal rockets. This prototype will allow you to develop it even further!
+prototype_merlinEngine█Moteur de fusée
+prototype_merlinEngineDesc█Le moteur de fusée est utilisé pour vos fusées normales. Ce prototype vous permettra de le développer plus par la suite!
 
-prototype_grasshopper█Rocket Hopper
-prototype_grasshopperDesc█This prototype will allow you to Practice the Landings of your Rockets.
+prototype_grasshopper█Fusée Hopper
+prototype_grasshopperDesc█Ce prototype vous permettra de vous entrainer aux atterrissages de vos fusées.
 
-prototype_raptorEngine█Spaceship Engine
-prototype_raptorEngineDesc█Spaceship Engine will be used in your Spaceships and Superheavy Rockets. 
+prototype_raptorEngine█Moteur de navette spatiale
+prototype_raptorEngineDesc█Le moteur de navette spatiale sera utilisé pour vos navettes et vos fusées superlourdes.
 
 prototype_starhopper█Navette Hopper
 prototype_starhopperDesc█Ce prototype sera capable de vous dire si l'idée de construire un vaisseau de la taille d'un avion est stupide ou non.
 
-prototype_raptorVacEngine█Moteur de navette Vacuum
-prototype_raptorVacEngineDesc█Le moteur de navette Vacuum sera utilisé par vos navettes quand elles seront dans l'espace.
+prototype_raptorVacEngine█Moteur Vacuum de navette 
+prototype_raptorVacEngineDesc█Le moteur Vacuum de navette sera utilisé par vos navettes quand elles seront dans l'espace.
 
 prototype_spaceshipPrototype█Prototypes de navette
-prototype_spaceshipPrototypeDesc█Cette série de navettes améliorées vous permettra de maîtriser la production et la fiabilité des navettes.Series of improved Spaceship prototypes will allow you to master the Production and Reliability of the Spaceships.
+prototype_spaceshipPrototypeDesc█Cette série de navettes améliorées vous permettra de maîtriser la production et la fiabilité des navettes.
 
 
 test_engineShortFire█Court allumage
