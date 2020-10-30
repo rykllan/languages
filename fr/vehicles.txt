@@ -57,8 +57,8 @@ rocketFinance█Finances
 droneship█Barge de récupération
 droneship_moveCosts█Coût de déplacement
 droneship_buildCosts█Coût de construction
-droneship_noDroneship█No Droneship (Rocket will burn after its Flight)
-droneship_notAvailable█{0} is not available now.
+droneship_noDroneship█Pas de barge de récupération (la fusée brûlera dans l'atmosphère après son vol)
+droneship_notAvailable█{0} n'est pas disponible pour l'instant.
 
 earthPO█Garé sur le Parking Orbital de la <color=#64B5F6>Terre</color> (Quitte en <b>{0}</b>)
 marsPO█Garé sur le Parking Orbital de <color=#E17055>Mars</color> (Quitte en <b>{0}</b>)
