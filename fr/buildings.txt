@@ -65,7 +65,7 @@ medium_hangar_desc█Vous pouvez y stocker uniquement des fusées et capsules.
 large_hangar█Grand hangar
 large_hangar_desc█Vous pouvez y stocker plus de fusées et capsules.
 
-mega_hangar█Mega hangar
+mega_hangar█Méga hangar
 mega_hangar_desc█Vous pouvez y stocker uniquement des navettes spatiales et SuperHeavy.
 
 office█Bureau
@@ -74,7 +74,7 @@ office_desc█Les employés de bureau donne un pouvoir de négociation plus gran
 laboratory█Laboratoire
 laboratory_desc█Produit des points de compétences.
 
-megaLP█Mega pad de lancement
+megaLP█Méga pad de lancement
 megaLP_desc█Vous pouvez y lancer des navettes spatiales.
 
 smallTerminal█Petit terminal LinkLink
