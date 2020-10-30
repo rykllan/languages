@@ -42,7 +42,7 @@ map_settings_header█Options rapides
 map_settings_trackers_visible█Trackers des bâtiments
 map_settings_satellites_visible█Afficher les satellites
 map_settings_linklink_outline█Contour des LinkLink
-map_settings_mouseLight█Mouselight
+map_settings_mouseLight█Souris lumineuse
 
 earth█Terre
 mars█Mars
@@ -73,7 +73,7 @@ marsProductionHeader█<b>Production</b> <size=50%>/trimestre</size>
 marsUsageHeader█<b>Usage</b> <size=50%>/trimestre</size>
 marsStorageHeader█<b>Stockage</b>
 
-actionCamera█Action Camera
+actionCamera█Caméra d'activité
 switchView█Changer de vue
 
 sandbox█Bac à sable
