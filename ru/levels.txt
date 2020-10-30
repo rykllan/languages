@@ -83,7 +83,7 @@ task_BuildMegaLaunchPad█Построить "Мега-падов": {0}
 task_BuildLandingZone█Построить посадочных слощадок на Марсе: {0}
 task_BuildFuelFactory█Построить топливных фабрик на Марсе: {0}
 
-task_MarsOxygen█Transport {0} Oxygen to Mars with a Spaceship!
+task_MarsOxygen█Перевезите кислорода на Марс: {0}
 task_MarsMartians█Иметь марсиан: {0}
 task_MarsTerraform█Терраформировать Марс с помощью атомных бомб: {0}%
 
