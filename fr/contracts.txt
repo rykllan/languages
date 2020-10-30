@@ -66,7 +66,7 @@ payload_technician█Technicien
 payload_flatEarther█Murphy (Flatearther)
 
 contract_marsCamera█Trajet vers Mars
-payload_marsCamera█Caméra de Mars
+payload_marsCamera█Caméra sur Mars
 content_marsCamera█Lancez votre caméra de Mars avec votre Heavy Rocket vers l'orbite de Mars. Vous pourrez ensuite voir et intéragir avec Mars!
 
 
