@@ -7,7 +7,7 @@ contracts_menu_contracts█Contrats
 contracts_menu_offers█Offres
 
 contracts_payloads█{0} charges utiles
-contracts_availableIn█Disponible dans
+contracts_availableIn█Disponible en
 contracts_noRockets█Aucune fusée en capacité !
 contracts_negotiators█Negociateurs
 contracts_approx█Approx.
