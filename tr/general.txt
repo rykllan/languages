@@ -11,6 +11,7 @@ confirm_turnExpendable█İniş takımlarını gerçekten çıkarmak istiyor mus
 confirm_exitGame█Beni şimdi terk mi ediyorsun, he? :(
 confirm_exitMainMenu█Diğer oyunlar burada size kaydedilmemiş ilerlemenizin kaybedileceğini söyleyecektir.
 confirm_deleteSave█Belki bir dahaki sefere iflas etmeyeceksin.
+confirm_staticFire█Do you really want to skip the static fire for this booster? It will have a higher chance of an explosion!
 
 yes█Evet
 no█Hayır
@@ -41,13 +42,17 @@ map_settings_header█Hızlı Ayarlar
 map_settings_trackers_visible█İzleyici Görünür
 map_settings_satellites_visible█Uydular Görünür
 map_settings_linklink_outline█LinkLink Anahatları
+map_settings_mouseLight█Mouselight
 
 earth█Dünya
 mars█Mars
 
 switchPlanet█Gezegeni Değiştir
 
-tanking█Depolanıyor...
+tanking█Fueling...
+pressurizing█Pressurizing...
+testing█Testing...
+completing█Completing...
 
 marsDetails█Mars Ayrıntıları
 earthLikePlanet█Dünya benzeri Gezegen
@@ -67,6 +72,11 @@ unitsToProduce█Üretilecek Birimler: {0}
 marsProductionHeader█<b>Üretim</b> <size=50%>/çeyrek</size>
 marsUsageHeader█<b>Kullanım</b> <size=50%>/çeyrek</size>
 marsStorageHeader█<b>Depo</b>
+
+actionCamera█Action Camera
+switchView█Switch View
+
+sandbox█Sandbox
 
 
 

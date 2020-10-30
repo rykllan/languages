@@ -17,9 +17,9 @@ menu_gameMode█Tryb Gry
 menu_classic█<b>Klasyczny</b>&%<size=75%>Zagraj w tryb klasyczny, gdzie musisz stworzyć swoją firmę od zera.
 menu_sandbox█<b>Piaskownica</b>&%<size=75%>W piaskownicy wszystko jest odblokowane i nieskończone. Trochę nudne. 
 
-menu_difficulty█Trudność Gry
-menu_easy█<b>Łatwy</b>&%<size=75%>Graj łatwo jeśli jesteś łatwy. Po prostu wystrzel swoje duuuże rakiety.
-menu_hard█<b>Trudny</b>&%<size=75%>Dostępne wkrótce!
+menu_difficulty█Poziom trudności
+menu_easy█<b>Łatwy</b>&%<size=75%>Po prostu wystrzel swoje duuuże rakiety.
+menu_hard█<b>Trudny</b>&%<size=75%>Większe prawdopodobieństwo, że zbankrutujesz.
 
 menu_apply█Zatwierdź
 
@@ -33,9 +33,13 @@ menu_postprocessings█Efekty?
 menu_gameplay█Rozgrywka
 menu_autoSave█Auto zapis?
 menu_autoPause█Auto pauza?
-menu_alwaysDay█Zawsze Dzień?
-menu_hangarsVisual█Lepsze Hangary?
-menu_gameOverSetting█Gameover?
+menu_alwaysDay█Zawsze dzień?
+menu_hangarsVisual█Lepsze hangary?
+menu_gameOverSetting█Bankructwo?
+menu_tutorial█Tutorial?
+
+menu_cameraSensitivity█Czułość trybu kamery
+menu_buildSensitivity█Czułość trybu budowania
 
 menu_video█Wyświetlanie
 menu_fullscreen█Pełny ekran?
@@ -44,6 +48,7 @@ menu_vsync█V-Sync?
 menu_audio█Dźwięk
 menu_music█Muzyka?
 menu_sounds█Dźwięki?
+menu_tutorialVoice█Dźwięk tutoriala?
 
 menu_language█Język
 
@@ -52,6 +57,12 @@ menu_creators█Twórcy
 menu_collaboration█Współpraca
 menu_specialThanks█Specjalne Podziękowania
 menu_icons█Ikony pochodzą z Flaticon.com
+
+translated█<b>{0}</b>&%Przetłumaczono: {1}%&%{2}
+dubbing█Dubbing: {0}
+noDubbing█Bez Dubbingu
+
+
 
 
 

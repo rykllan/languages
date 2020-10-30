@@ -36,7 +36,7 @@ linkLink_system█System
 linkLink_production█Production
 linkLink_statistics█Statistics
 
-linkLink_100_required█You need at least <color=#64B5F6><b>100</b></color> LinkLinks in order to run the service.
+linkLink_100_required█You need at least <color=#64B5F6><b>420</b></color> LinkLinks in order to run the service.
 
 linkLink_run█Run LinkLink
 linkLink_customerPrice█Customer price (per month)
@@ -62,6 +62,10 @@ linkLink_welcome_content█Later in EarthX, you will be able to create your own 
 
 buildLinkLinkInGiga█Build LinkLink in any Giga Factory
 openGigaFactory█Open Giga Factory
+
+
+
+
 
 
 

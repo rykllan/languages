@@ -15,30 +15,50 @@ rocketRequiresCapsule█Roket (Kapsül gerektirir)
 rocketRequiresSpaceship█Roket (Uzay Aracı Gerektirir)
 
 vehicles█Araçlar
-vehicles_newProjectHeader█Yeni proje oluştur
-vehicles_newProjectButton█Yeni proje
+droneships█Droneships
 vehicles_newVehicleHeader█Yeni araç oluştur
 vehicles_newVehicleButton█Yeni araç
+
+nicknameInput█Enter nickname...
 
 vehicles_projects█Projeler
 vehicles_view█Görüntüle
 
 land█Arazi
 
-reusedVehicle█Yeniden kullanılan araç:
+launchCosts█Launch costs
 buildCosts█Maliyet oluştur
-buildTime█Yapım Zamanı
 originalBuildCosts█Orijinal yapım maliyetleri
 optimizedBuildCosts█Optimize edilmiş inşaat maliyetleri
-launchCosts█Fırlatma maliyetleri
 
 inQueue█In queue&%<size=14><b><color=#64B5F6>Modül derhal inşa edilecek
 
 build█İnşa Et
+move█Move
+staticFire█Static Fire
 built█İnşa Edilmiş
 launch█Fırlat
-repair█Tamir
-turnExpendable█Harcanabilir Dönüt
+repair█Refurbish
+turnExpendable█Last Flight
+skip█Skip
+
+detailedCosts█Detailed costs
+leftFairing█Left Fairing
+rightFairing█Right Fairing
+secondStage█Second Stage
+firstStage█First Stage
+generalRefurbishmentPrice█General refurbishment price
+
+xLeft█{0} left
+
+isRocketProfitable█Is this rocket profitable?
+rocketFinance█Finance
+
+droneship█Droneship
+droneship_moveCosts█Move costs
+droneship_buildCosts█Build costs
+droneship_noDroneship█No Droneship (Rocket will burn after its Flight)
+droneship_notAvailable█{0} is not available now.
 
 earthPO█Park edildi <color=#64B5F6>Dünya</color> Park Yörüngesi (Ayrılıyor <b>{0}</b>)
 marsPO█Park edildi <color=#E17055>Mars'</color> Park Yörüngesi (Ayrılıyor <b>{0}</b>)
@@ -49,16 +69,16 @@ earthLanding█İniş yapılıyor <color=#64B5F6>Dünya</color>
 marsTryingLand█Trying to Land on <color=#E17055>Mars</color>
 earthTryingLand█Trying to Land on <color=#64B5F6>Earth</color>
 marsLanded█İniş yapıldı <color=#E17055>Mars</color>
+onDroneship█On a Droneship. Coming back soon!
 
 readyToLaunch█<b><color=#64B5F6>{0} of {1}</b></color>&%<size=70%>fırlatılmaya hazır!
-
-capabilities█Yetenekler
-reliability█Güvenilirlik
-condition█Durum
+readyToFly█Ready to Fly
+failureChance█&%Failure Chance: {0}%
+actionRequired█Action Required
 
 notBuiltYet█Henüz inşa edilmedi
 constructing█Kuruluyor...
-repairing█Tamir Ediliyor...
+repairing█Refurbishing...
 flying█Şimdi uçuyor
 dockedToISS█ISS'ye yerleştirildi (Yakında geri gelecek.)
 
@@ -70,11 +90,6 @@ spaceshipsOnly█Yalnızca uzay gemileri
 capsulesOnly█Sadece kapsüller
 fairingRecovery█Karenaj geri dönüşüm
 
-landingNotSupported█İniş desteklenmiyor!&%İhtiyacın olan:<size=12><b>&%-Izgara Yüzgeçleri & İniş Takımı&%-Batarya&%-GPS (otomatik yeniden kullanılabilirlik için)&%-4 veya 9 Gelişmiş Motor</b></size>&%
-capsulesNotSupported█Kapsüller desteklenmiyor!&%İhtiyacın olan:<size=12><b>&%-Batarya&%-GPS&%-4 veya 9 Gelişmiş Motor</b></size>&%
-heavyNotSupported█Ağır roket desteklenmiyor!&%İhtiyacın olan:<size=12><b>&%-Otomatik yeniden kullanılabilirliğe sahip roket</b></size>&%
-fairingCatchingNotSupported█Karenaj desteklenmiyor!&%İhtiyacın olan:<size=12><b>&%-Otomatik yeniden kullanılabilirliğe sahip roket</b></size>&%
-
 payload█Yük
 crew█Ekip
 cargo█Kargo
@@ -85,14 +100,29 @@ launchSetup_header█Kurulumu Başlat
 launchSetup_missionName█Görev adı...
 launchSetup_mission█Görev
 launchSetup_noVehiclesFound█[Araç bulunamadı.]
+launchSetup_noRocketsFound█[No rockets found.]&%
+launchSetup_noSpaceshipsFound█[No spaceships found.]&%
+launchSetup_noCapsulesFound█[No capsules found.]
+launchSetup_noTankersFound█[No tankers found.]
 launchSetup_noPayloadsFound█[Yeterli yük bulunamadı.]
 launchSetup_selectVehicle█Araç seç
 launchSetup_selectLaunchPad█Fırlatma rampası seç
 launchSetup_selectTanker█Orbital Tanker
 
+launchSetup_spaceshipRequired█[Spaceship Required]
+launchSetup_rocketRequired█[Rocket Required]
+launchSetup_superheavyRequired█[Superheavy Required]
+
+noPayloadsSelected█No Payloads selected!
+noLaunchPadSelected█No LaunchPad selected!
+noISSDocks█No space in the ISS!
+noTankerSelected█No Tanker selected!
+noSpaceInParkingOrbit█No space in Parking Orbit! 25/25
+
 launchSetup_barge█Mavna
 launchSetup_lz1█LZ-1
 launchSetup_lz2█LZ-2
+noLaumchPad█No LaunchPad
 
 launchSetup_testFlight█Test uçuşu
 launchSetup_concrete█Beton
@@ -134,16 +164,16 @@ missionReportSecondVehicleLanding█İkinci araç inişi
 missionReportMissionIncome█Görev geliri
 missionReportDamageCompensation█Hasar tazminatı
 missionReportLandedRocket█Roket indi
-profit█kâr
-loss█zarar
+missionReportSkillPoints█Skill points
+profit█Profit
+loss█Loss
+income█Income
+potentialLoss█Potential Loss
+potentialProfit█Potential Profit
 
-creator_header█Yeni proje
-creator_vehicleName█Araç adı...
-creator_createProject█Proje oluştur
-creator_vehicleCanGoAnywhere█Bu araç istediğiniz yere gidebilir.
-creator_capsuleRocket█Bu roket sadece kapsülleri taşıyabilir.
-creator_spaceshipRocket█Bu roket sadece uzay gemilerini taşıyabilir.
-no_module_unlocked█Hiçbir modülün kilidi açılmadı.
+
+
+
 
 
 

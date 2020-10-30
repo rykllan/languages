@@ -1,14 +1,19 @@
 
 
-tooltip_companyProgress█Vállalat előrehaladása
+tooltip_companyProgress█Research
 tooltip_vehicles█Járművek
-tooltip_contracts█Szerződések
+tooltip_contracts█Contracts
 tooltip_news█Hírek
 tooltip_company█Vállalat
 tooltip_buildMode█Építő mód
 tooltip_money█Pénz
 tooltip_skillPoints█Képességpontok
 tooltip_linkLink█LinkLink
+tooltip_production█Production
+
+tooltip_thxKarolina█Thank you, Karolina! I got it!
+
+
 
 
 

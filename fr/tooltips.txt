@@ -1,14 +1,19 @@
 
 
-tooltip_companyProgress█Évolution de la compagnie
+tooltip_companyProgress█Recherches
 tooltip_vehicles█Véhicules
-tooltip_contracts█Missions
+tooltip_contracts█Contrats
 tooltip_news█Actualités
-tooltip_company█Compagnie
+tooltip_company█Entreprise
 tooltip_buildMode█Mode construction
 tooltip_money█Argent
 tooltip_skillPoints█Points de compétence
 tooltip_linkLink█LinkLink
+tooltip_production█Production
+
+tooltip_thxKarolina█Merci Karolina! J'ai compris!
+
+
 
 
 

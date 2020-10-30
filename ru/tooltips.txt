@@ -1,14 +1,19 @@
 
 
-tooltip_companyProgress█Прогресс компании
+tooltip_companyProgress█Исследования
 tooltip_vehicles█Проекты
-tooltip_contracts█Миссии
+tooltip_contracts█Контракты
 tooltip_news█Новости
 tooltip_company█Компания
 tooltip_buildMode█Строительство
 tooltip_money█Бюджет
 tooltip_skillPoints█Очки исследований
 tooltip_linkLink█LinkLink
+tooltip_production█Производство
+
+tooltip_thxKarolina█Спасибо, Каролина! Я понял!
+
+
 
 
 

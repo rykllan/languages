@@ -1,147 +1,232 @@
 
 
-levelTitle0█Firma zarejestrowana!
-levelTitle1█Początki
-levelTitle2█"Kiedy coś jest wystarczająco ważne, robisz to nawet jeśli szanse nie są na twoją korzyść." - Elon Musk
-levelTitle3█"Ś" jak Średnie
-levelTitle4█"Mogę albo patrzeć, jak to się dzieje, albo być tego częścią." - Elon Musk
-levelTitle5█Niezapomnij wylądować!
-levelTitle6█Dostawca
-levelTitle7█Akceleracja
-levelTitle8█Tintin
-levelTitle9█Akceleracja
-levelTitle10█Potęga komputerów
-levelTitle11█Złap!
-levelTitle12█Idziemy w masę!
-levelTitle13█LinkLink
-levelTitle14█Praktyka
-levelTitle15█Nie ładuj ludzi w owiewki.
-levelTitle16█Czynnik ludzki
-levelTitle17█Idziemy w wielkość
-levelTitle18█"Zrobimy to. Bóg jest moim wielkim świadkiem, jestem cholernie zdeterminowany, by to się udało." - Elon Musk
-levelTitle19█Bardzo Duża Rakieta
-levelTitle20█Loty Międzyplanetarne
-levelTitle21█Iskra
-levelTitle22█Infrastruktura
-levelTitle23█Gatunek Wieloplanetarny
-levelTitle24█Ekspansja
-levelTitle25█Droga
-levelTitle26█Cybermars
-levelTitle27█Samowystarczalne Miasto
-levelTitle28█Bomba Nuklearna Robi Brrrrr
-levelTitle29█Za gorąco
-levelTitle30█Za zimno
-levelTitle31█Dom 2.0
-levelTitle32█https://youtu.be/CfqCQQe2E2s
+research_header█Badania
+research_technology█Technologia
+research_prototypes█Prototypy
 
-progress_unlockAllModules█Odblokuj wszystkie moduły
-progress_launchSmallRockets█Odpal rakiety LEO: {0}
-progress_launchMediumRockets█Odpal rakiety MEO: {0}
-progress_launchLargeRockets█Odpal rakiety GEO: {0}
-progress_launchSuperheavyRockets█Odpal statek kosmiczny: {0}
-progress_launchToMars█Wyślij statki kosmiczne na Marsa: {0}
-progress_launchCargoCapsules█Wystrzel kapsuły ładunkowe: {0}
-progress_launchCrewCapsules█Wystrzel kapsuły załogowe: {0}
+research_back█Wróć
+research_view█Pokaż
 
-progress_landRockets█Wyląduj rakietami: {0}
-progress_landOnMars█Wyląduj na Marsie: {0}
-progress_reuseRockets█Użyj {0} rakiet ponownie!
-progress_catchFairings█Złap owiewki: {0}
+research_upgrades█Ulepszenia
+research_extras█Dodatki
+research_info█Info
 
-progress_launchPayloadsAtOnce█Wystrzel {0} ładunki na raz!
-progress_launchFromOwnLaunchPad█Wystrzel z własnego stanowiska: {0}
+research_locked█Zablokowane
+research_unlocked█Odblokowane
 
-progress_launchTesla█Wystrzel Auto!
-progress_launchCat█Wystrzel kota!
-progress_launchTechnician█Wystrzel technika!
-progress_launchPrologue█Wystrzel album SPATE: Prologue EP!
-progress_launchFlatearther█Wystrzel płaskoziemcę!
-progress_launchMattRescueMission█Wystrzel misję ratunkową!
-progress_launchMarsCamera█Wystrzel Marsjańską Kamerę!
+research_unlock█Odblokuj
+research_upgrade█Ulepsz
 
-progress_buildFactories█Zbuduj fabryki: {0}!
-progress_buildOffices█Zbuduj biura: {0}!
-progress_buildLaboratories█Zbuduj laboratoria: {0}!
-progress_buildMegaLaunchPads█Zbuduj mega stanowisko: {0}
-progress_buildMarsBuildings█Zbuduj budynki na Marsie: {0}!
-progress_buildFuelFactories█Zbuduj fabryki paliwa: {0}!
-progress_buildSteelFactories█Zbuduj fabryki zelaza: {0}!
-progress_buildLandingZones█Zbuduj strefy lądowania: {0}!
+research_flights█Loty
+research_successes█Sukcesy
+research_failures█Wybuchy
+research_cost█Koszt
+research_buildPrice█Koszt Budowy
+research_launchPrice█Koszt Startu
+research_totalIncome█Przychód (całość)
+research_totalExpenses█Wydatki (całość)
+research_totalLoss█Strata (całość)
+research_profit█Zysk
 
-progress_getContracts█Zdobądź kontrakty: {0}
-progress_launchLinkLinks█Wystrzel LinkLinki: {0}
-progress_reachLinkLinkUsers█Użytkownicy LinkLink: {0}
-progress_hireEmployees█Zatrudnij pracowników: {0}
-progress_martiansCount█Posiadaj Marsjaninów: {0}
-progress_marsTerraform█Terraformuj Marsa w {0}%
-progress_marsTransportOxygen█Przetransportuj jednostki Tlenu na Marsa: {0}
+research_vehicleName█Wpisz nazwę pojazdu...
 
-progress_maxOffices█Maks. Biur:
-progress_multiplePayloads█[<color=#81C784>FUNKCJA</color>] &%Wystartuj wiele ładunków na raz
-progress_fundraiserHats█[<color=#FF9F43>FUNDRAISING</color>] &%Sprzedaj czapki!
-progress_fundraiserBricks█[<color=#FF9F43>FUNDRAISING</color>] &%Sprzedaj cegły!
-progress_fundraiserNAF█[<color=#FF9F43>FUNDRAISING</color>] &%Sprzedaj (nie)miotacze ognia!
-progress_fundraiserRocketquilla█[<color=#FF9F43>FUNDRAISING</color>] &%Sprzedaj rocketquille!
-progress_fundraiserShorts█[<color=#FF9F43>FUNDRAISING</color>] &%Sprzedaj krótkie szorty!
+research_milestones█Osiągnięcia
+research_availableTests█Dostępne Testy
 
-progress_issSupplierMission█Misja Specjalna: <b><color=#64B5F6>Zaopatrywanie MSK
-progress_issCrewMission█Misja Specjalna: <b><color=#64B5F6>Komercyjne Loty Załogowe MSK
-progress_teslaRoadsterMission█Misja Specjalna: <b><color=#64B5F6>Auto w Kosmosie
-progress_catMission█Misja Specjalna: <b><color=#64B5F6>Kot Astronauty
-progress_technicianMission█Misja Specjalna: <b><color=#64B5F6>Technik w walizce
-progress_truthMission█Misja Specjalna: <b><color=#64B5F6>Prawda
-progress_mattMission█Misja Specjalna: <b><color=#64B5F6>Matt
-progress_spateMission█Misja Specjalna: <b><color=#64B5F6>Prologue EP
+research_test█Testuj
+research_testCompleted█Zakończono
 
-progress_smallFactory█[<color=#E74C3C>BUDYNEK</color>] &%Mała Fabryka
-progress_mediumFactory█[<color=#E74C3C>BUDYNEK</color>] &%Średnia Fabryka
-progress_largeFactory█[<color=#E74C3C>BUDYNEK</color>] &%Duża Fabryka
-progress_gigaFactory█[<color=#E74C3C>BUDYNEK</color>] &%Giga Fabryka
+research_prototypeBuilt█{0} został zbudowany.
 
-progress_smallHangar█[<color=#E74C3C>BUDYNEK</color>] &%Mały Hangar
-progress_mediumHangar█[<color=#E74C3C>BUDYNEK</color>] &%Średni Hangar
-progress_largeHangar█[<color=#E74C3C>BUDYNEK</color>] &%Duży Hangar
-progress_megaHangar█[<color=#E74C3C>BUDYNEK</color>] &%Mega Hangar
+task_SkillPoints█Wymagane punkty doświadczenia: {0} 
+task_LaunchPayloads█Ładunki do wystrzelenia w kosmos: {0} 
+task_Money█Wymagany budżet: {0} <color=#16A085>$</color>  
 
-progress_linkLinkSmallTerminal█[<color=#E74C3C>BUDYNEK</color>] &%Mały Terminal LinkLink
-progress_linkLinkLargeTerminal█[<color=#E74C3C>BUDYNEK</color>] &%Duży Terminal LinkLink
+task_LaunchSmallRocket█Małe rakiety do wystrzelenia: {0} 
+task_LaunchMediumRocket█Średnie rakiety do wystrzelenia: {0} 
+task_LaunchLargeRocket█Duże rakiety do wystrzelenia: {0} 
+task_LaunchHeavyRocket█Ciężkie rakiety do wystrzelenia: {0} 
 
-progress_megaLaunchPad█[<color=#E74C3C>BUDYNEK</color>] &%Mega Stanowisko
+task_LaunchSpaceshipOrbit█Wystrzelone Statki Kosmiczne na orbitę Ziemi: {0} 
+task_LaunchSpaceshipMars█Wystrzelone Statki Kosmiczne na orbitę Marsa: {0} 
 
-progress_smallHotel█[<color=#E74C3C>BUDYNEK</color>] &%Mały Hotel
-progress_mediumHotel█[<color=#E74C3C>BUDYNEK</color>] &%Średni Hotel
-progress_largeHotel█[<color=#E74C3C>BUDYNEK</color>] &%Duży Hotel
+task_LaunchCargoCapsule█Wystrzelone Kapsuły Towarowe do ISS: {0} 
+task_LaunchCrewCapsule█Wystrzelone Kapsuły Załogowe do ISS: {0} 
 
-progress_mediumGreenhouse█[<color=#E74C3C>BUDYNEK</color>] &%Średnia Szklarnia
-progress_largeGreenhouse█[<color=#E74C3C>BUDYNEK</color>] &%Duża Szklarnia
+task_LandManually█Ręczne lądowania rakiet: {0} 
+task_LandAutomatically█Automatycznie lądowania rakiet: {0} 
+task_ReuseRockets█Ponownie wykorzystane rakiety: {0} 
+task_LandOnMars█Lądowania Statków Kosmicznych na Marsie: {0} 
+task_CatchFairings█Owiewki do złapania: {0} 
 
-progress_smallSolar█[<color=#E74C3C>BUDYNEK</color>] &%Małe Panele Słoneczne
-progress_mediumSolar█[<color=#E74C3C>BUDYNEK</color>] &%Średnie Panele Słoneczne
+task_MerlinEngineTest█Silniki rakietowe do przetestowania: {0} 
+task_MediumRocketStaticFireTest█Testy Statyczne dla Średnich Rakiet: {0} 
+task_LargeRocketStaticFireTest█Testy Statyczne dla Dużych Rakiet: {0} 
+task_HeavyRocketStaticFireTest█Testy Statyczne dla Ciężkich Rakiet: {0} 
+task_GrasshopperTest█Prototypy rakiet do przetestowania: {0} 
 
-progress_smallWater█[<color=#E74C3C>BUDYNEK</color>] &%Małe Zbiorniki na Wodę
-progress_mediumWater█[<color=#E74C3C>BUDYNEK</color>] &%Średnie Zbiorniki na Wodę
-progress_largeWater█[<color=#E74C3C>BUDYNEK</color>] &%Duże Zbiorniki na Wodę
+task_RaptorVacEngineTest█Odpalone Silniki Próżniowe dla Statków Kosmicznych: {0} 
+task_RaptorEngineTest█Odpalone silniki dla Statków Kosmicznych: {0} 
+task_SnHop_20m_Test█Ukończone skoki na 20m dla Skoczka Statku Kosmicznego: {0} 
+task_SnHop_150m_Test█Ukończone skoki na 150m dla Prototypu Statku Kosmicznego: {0} 
+task_SnHop_20km_Test█Ukończone skoki na 20km dla Prototypu Statku Kosmicznego: {0} 
 
-progress_smallFuel█[<color=#E74C3C>BUDYNEK</color>] &%Małe Zbiorniki na Paliwo
-progress_mediumFuel█[<color=#E74C3C>BUDYNEK</color>] &%Średnie Zbiorniki na Paliwo
-progress_largeFuel█[<color=#E74C3C>BUDYNEK</color>] &%Duże Zbiorniki na Paliwo
+task_LaunchMarsCamera█Ukończ misję Marsjańskiej Kamery!
+task_LaunchTinTin█Ukończ misję TinTin!
 
-progress_waterFactory█[<color=#E74C3C>BUDYNEK</color>] &%Fabryka Wody
-progress_fuelFactory█[<color=#E74C3C>BUDYNEK</color>] &%Fabryka Paliwa
-progress_steelFactory█[<color=#E74C3C>BUDYNEK</color>] &%Fabryka Zelaza
+task_LinkLinksTotal█LinkLinki do wystrzelenia: {0} 
+task_LinkLinkCustomers█Wymagani użytkownicy LinkLink: {0} 
 
-progress_landingZone█[<color=#E74C3CBUDYNEK</color>] &%Strefa Lądowania
+task_BuildSmallTerminals█Małe Terminale LinkLink do wybudowania: {0} 
+task_BuildLargeTerminals█Duże Terminale LinkLink do wybudowania: {0} 
+task_BuildMegaLaunchPad█Mega Stanowiska do wybudowania: {0} 
+task_BuildLandingZone█Lądowiska na Marsie: {0} 
+task_BuildFuelFactory█Fabryki paliwa na Marsie: {0} 
 
-progress_linkLink30█[<color=#81C784>FUNKCJA</color>] &%LinkLink (60)
-progress_materials20█[<color=#81C784>FUNKCJA</color>] &%Materiały (35)
-progress_oxygen40█[<color=#81C784>FUNKCJA</color>] &%Tlen (40)
-progress_martians15█[<color=#81C784>FUNKCJA</color>] &%Marsjanie (15)
-progress_cybercar3█[<color=#81C784>FUNKCJA</color>] &%Cyberauta (3)
-progress_nuke3█[<color=#81C784>FUNKCJA</color>] &%Bomba Nuklearna (3)
+task_MarsOxygen█Przetransportowane jednostki powietrza na Marsa: {0} 
+task_MarsMartians█Mieszkańcy Marsa: {0} 
+task_MarsTerraform█Poziom terraformacji Marsa: {0}% 
 
-progress_linkLinkCapacity50█[<color=#81C784>LinkLink</color>] Wydajność LinkLink +50%
-progress_linkLinkCapacity25█[<color=#81C784>LinkLink</color>] Wydajność LinkLink +25%
-progress_linkLinkCosts█[<color=#81C784>LinkLink</color>] Koszt LinkLink -25%
+task_BuildWaterFactory█Posiadane marsjańskie fabryki wody: {0} 
+task_BuildMediumGreenhouse█Posiadane marsjańskie szklarnie: {0} 
+task_BuildSmallHotel█Posiadane marsjańskie Małe Hotele: {0} 
+task_BuildMediumHotel█Posiadane marsjańskie Średnie Hotele: {0} 
+task_BuildSmallWaterStorage█Posiadane marsjańskie małe Zbiorniki Wody: {0} 
+task_BuildMediumWaterStorage█Posiadane marsjańskie średnie Zbiorniki Wody: {0} 
+task_BuildSmallFuelStorage█Posiadane marsjańskie małe Zbiorniki Paliwa: {0} 
+task_BuildMediumFuelStorage█Posiadane marsjańskie średnie Zbiorniki Paliwa: {0} 
+
+task_BuildFactory█Fabryki do zbudowania: {0} 
+task_BuildOffice█Biura do zbudowania: {0} 
+
+progress_fundraiserHats█[<color=#FF9F43>ZBIÓRKA PIENIĘDZY</color>] Sprzedaj Czapki!
+progress_fundraiserBricks█[<color=#FF9F43>ZBIÓRKA PIENIĘDZY</color>] Sprzedaj Cegły!
+progress_fundraiserNAF█[<color=#FF9F43>ZBIÓRKA PIENIĘDZY</color>] Sprzedaj (nie)Miotacze Ognia!
+progress_fundraiserRocketquilla█[<color=#FF9F43>ZBIÓRKA PIENIĘDZY</color>] Sprzedaj Rakietoquille!
+progress_fundraiserShorts█[<color=#FF9F43>ZBIÓRKA PIENIĘDZY</color>] Sprzedaj Krótkie Szorty!
+progress_fundraiserDesc█Użyj Zbiórek Pieniedzy w okienku Firmy.
+
+progress_droneshipName█Barka
+progress_droneshipDesc█Kiedy Owiewka Rakiety jest prawie pełna (4+ sloty), będziesz musiał wylądować na Barce. Zarządzaj Barkiami w okienku z Pojazdami.
+
+progress_issSupplierMission█[<color=#d95eff>MISJA</color>] Program Zaopatrywania ISS
+progress_issCrewMission█[<color=#d95eff>MISJA</color>] Program Załogowy na ISS
+progress_teslaRoadsterMission█[<color=#d95eff>MISJA</color>] Czerwone Auto
+progress_catMission█[<color=#d95eff>MISJA</color>] Kot
+progress_technicianMission█[<color=#d95eff>MISJA</color>] Technik w Walizce
+progress_truthMission█[<color=#d95eff>MISJA</color>] Prawda
+progress_marsCameraMission█[<color=#d95eff>MISJA</color>] Marsjańska Kamera
+progress_tinTinMission█[<color=#d95eff>MISJA</color>] TinTin
+progress_mattMission█[<color=#d95eff>MISJA</color>] Matt
+progress_spateMission█[<color=#d95eff>MISJA</color>] Prologue EP
+
+progress_linkLink█[<color=#81C784>PRODUKUJ</color>] LinkLinki
+progress_materials█[<color=#81C784>PRODUKUJ</color>] Materiały
+progress_oxygen█[<color=#81C784>PRODUKUJ</color>] Powietrze
+progress_martians█[<color=#81C784>PRODUKUJ</color>] Marsjanie
+progress_cybercar█[<color=#81C784>PRODUKUJ</color>] Cyberauta
+progress_nuke█[<color=#81C784>PRODUKUJ</color>] Atomówki
+
+vehicle_smallRocket█Mała Rakieta
+vehicle_smallRocketDesc█Mała rakieta może wystrzelić tylko małe ładunki na niską orbitę ziemską.
+
+vehicle_mediumRocket█Średnia Rakieta
+vehicle_mediumRocketDesc█Średnia Rakieta, po kilku ulepszeniach, może lądować i wysyłać Kapsuły Towarowe do ISS. Może wystrzelić średnie ładunki na średnią orbitę.
+
+vehicle_largeRocket█Duża Rakieta
+vehicle_largeRocketDesc█Po ulepszeniach może automatycznie lądować, wysyłać Kapsuły Załogowe do ISS, łapać i ponownie wykorzystywać owiewki i wiele innych. Może wysyłać średnie ładunki na orbitę geostacjonarną.
+
+vehicle_heavyRocket█Ciężka Rakieta
+vehicle_heavyRocketDesc█"3 Duże Rakiety sklejone w jedną". Może wysyłać duże ładunki na orbitę geostacjonarną oraz orbitę Marsa.
+
+vehicle_superheavyRocket█Rakieta Superheavy
+vehicle_superheavyRocketDesc█Rakiety Superheavy są w pełni wielokrotnego użytku i nie musisz ich odnawiać po każdym locie. Wymagają statku kosmicznego.
+
+vehicle_cargoCapsule█Kapsuła Towarowa
+vehicle_cargoCapsuleDesc█Zdobądź kontrakt NASA na misje CRS i zaopatruj Międzynarodową Stację Kosmiczną co 2 lata.
+
+vehicle_crewCapsule█Kapsuła Załogowa
+vehicle_crewCapsuleDesc█Zdobądź kontrakt NASA na misje CCP i wysyłaj nowe załogi do Międzynarodowej Stacji Kosmicznej co 2 lata. W kapsule załogowej można również wystrzelić normalny ładunek.
+
+vehicle_cargoSpaceship█Towarowy Statek Kosmiczny
+vehicle_cargoSpaceshipDesc█Wyślij więcej ładunków na orbity Ziemi, jak i na Marsa! Aby wylądować na Marsie, potrzebny będzie statek kosmiczny typu Cysterna.
+
+vehicle_crewSpaceship█Załogowy Statek Kosmiczny
+vehicle_crewSpaceshipDesc█Wyślij ludzi na Międzynarodową Stację Kosmiczną lub Powierzchnię Marsa. 
+
+vehicle_tankerSpaceship█Cysterna
+vehicle_tankerSpaceshipDesc█Jest wymagana do tankowania statków kosmicznych na orbicie ziemskiej przed odlotem na Marsa.
+
+upgrade_basic█Podstawowe
+upgrade_basicDesc█Redukcja kosztów budowy i prawdopodobieństwa wybuchu.
+
+upgrade_telemetry█Telemetria
+upgrade_telemetryDesc█Pozwala zobaczyć prędkość i wysokość aktualnie wystrzelonej rakiety.
+
+upgrade_webcast█Webcasty
+upgrade_webcastDesc█Pozwala zobaczyć to, co widzi rakieta.
+
+upgrade_cargoCapsuleSupport█Wsparcie Kapsuł Towarowych
+upgrade_cargoCapsuleSupportDesc█Pozwala na wystrzelenie Kapsuł Towarowych za pomocą tej rakiety.
+
+upgrade_crewCapsuleSupport█Wsparcie Kapsuł Załogowych
+upgrade_crewCapsuleSupportDesc█Pozwala na wystrzelenie Kapsuł Towarowych i Załogowych za pomocą tej rakiety.
+
+upgrade_manualLanding█Ręczne Lądowanie
+upgrade_manualLandingDesc█Pozwala na ręczne wylądowanie tą rakietą po zakończeniu misji. Nie zapomnij, że ręczne lądowanie rakiet wymaga kliknięcia przycisku "Wyląduj"!
+
+upgrade_automaticLanding█Automatyczne Lądowanie
+upgrade_automaticLandingDesc█Ta rakieta wyląduje automatycznie po swojej misji.
+
+upgrade_fairingCatching█Łapanie Owiewek
+upgrade_fairingCatchingDesc█Będziesz mógł spróbować złapać Owiewki podczas misji.
+
+upgrade_rideshare█Rideshare
+upgrade_rideshareDesc█Rideshare pozwala wystrzelić więcej ładunków za pomocą jednej rakiety jednocześnie!
+
+
+prototype_merlinEngine█Silnik Rakietowy
+prototype_merlinEngineDesc█Silnik Rakietowy jest używany w normalnych rakietach. Ten prototyp pozwoli ci go jeszcze bardziej rozwinąć!
+
+prototype_grasshopper█Prototyp Rakiety
+prototype_grasshopperDesc█Ten prototyp pozwoli ci ćwiczyć lądowanie twoich rakiet.
+
+prototype_raptorEngine█Silnik Statku Kosmicznego
+prototype_raptorEngineDesc█Ten silnik będzie używany w twoich statkach kosmicznych i rakietach Superheavy. 
+
+prototype_starhopper█Skoczek Statku Kosmicznego
+prototype_starhopperDesc█Ten prototyp będzie w stanie powiedzieć, czy pomysł zbudowania statku kosmicznego wielkości samolotu jest głupi, czy nie.
+
+prototype_raptorVacEngine█Silnik Próżniowy Statku Kosmicznego
+prototype_raptorVacEngineDesc█Ten silnik będzie używany w twoich statkach kosmicznych, gdy znajdą się one w przestrzeni kosmicznej.
+
+prototype_spaceshipPrototype█Prototyp Statku Kosmicznego
+prototype_spaceshipPrototypeDesc█Seria ulepszonych prototypów statków kosmicznych pozwoli ci opanować ich produkcję i niezawodność.
+
+
+test_engineShortFire█Krótki Zapłon
+test_engineShortFireDesc█Aby sprawdzić, czy silnik odpala się prawidłowo.
+
+test_engineFullLenghtFire█Pełny Zapłon
+test_engineFullLenghtFireDesc█Aby sprawdzić, czy silnik będzie działał w czasie trwania pełnego lotu.
+
+test_tanking█Test Tankowania
+test_tankingDesc█Żeby sprawdzić, czy zbiornik paliwa przecieka.
+
+test_pressure█Test Ciśnienia
+test_pressureDesc█Aby sprawdzić, czy zbiornik poradzi sobie z wymaganym ciśnieniem.
+
+test_staticFire█Test Statyczny
+test_staticFireDesc█Aby sprawdzić, czy silniki współpracują poprawnie ze zbiornikiem paliwa.
+
+test_hop20m█Skok na 20m
+test_hop20mDesc█Aby sprawdzić, czy silnik jest stabilny podczas krótkiego lotu na 20m.
+
+test_hop150m█Skok na 150m
+test_hop150mDesc█Aby sprawdzić, czy pojazd jest stabilny podczas dłuższego lotu.
+
+test_hop20km█Skok na 20km
+test_hop20kmDesc█Aby sprawdzić, czy pojazd może wylądować.
 
 
 

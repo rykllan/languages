@@ -36,6 +36,9 @@ buildingSetup_negotiationPower█Siła negocjacji
 
 buildingSetup_vehicleStored█Przechowywane pojazdy
 
+noGigaFound█[Nieznaleziono Giga Fabryk]
+unitsToBuild█Sztuki do wyprodukowania...
+
 buildingSetup_employees█<size=14>{0} pracowników</size>&%{1} <color=#16A085>$</color> za rok&%<size=14>{2} <color=#16A085>$</color> za każdy
 buildingSetup_manageEmployees█Zatrudnij pracowników
 
@@ -66,7 +69,7 @@ mega_hangar█Mega Hangar
 mega_hangar_desc█Możesz przechowywać tylko statki kosmiczne oraz Superheavy.
 
 office█Biuro
-office_desc█Pracownicy biurowi dają Ci większą siłę negocjacyjną (możesz zaoferować wyższą cenę przy negocjacjach).
+office_desc█Pracownicy biurowi dają ci większą siłę negocjacyjną (możesz zaoferować wyższą cenę przy negocjacjach).
 
 laboratory█Laboratorium
 laboratory_desc█Produkuje punkty doświadczenia.
@@ -98,7 +101,7 @@ waterFactory_desc█Produkuje Wodę i Tlen.
 fuelFactory█Fabryka Paliwa
 fuelFactory_desc█Produkuje Paliwo.
 
-steelFactory█Fabryka Zelaza
+steelFactory█Fabryka Żelaza
 steelFactory_desc█Produkuje Materiały i Cyberauta.
 
 mediumGreenhouse█Średnia Szklarnia
@@ -142,6 +145,10 @@ lp_xichang█Xichang
 lp_rocketComplex█Port Prywatny
 lp_australia█Woomera
 lp_india█Satish Dhawan
+
+
+
+
 
 
 

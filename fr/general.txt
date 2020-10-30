@@ -3,14 +3,15 @@
 gameSaved█La partie a été sauvegardée automatiquement. Pas de panique !
 gameLoaded█La partie a fini de se charger. Amuse-toi bien !
 
-confirm█Are you sure?
-confirm_removeVehicle█Do you really want to remove this vehicle?
-confirm_destroyBuilding█Do you really want to destroy this building?
-confirm_abortRocket█Do you really want to abort that rocket?
-confirm_turnExpendable█Do you really want to remove the landing gear? The rocket will burn in the atmosphere after the flight.
-confirm_exitGame█You leave me now, huh? :(
-confirm_exitMainMenu█Other games would tell you here, that your unsaved progress will be lost.
-confirm_deleteSave█Maybe next time you will not bankrupt.
+confirm█Etes-vous sûr?
+confirm_removeVehicle█Voulez-vous vraiment retirer ce véhicule ?
+confirm_destroyBuilding█Voulez-vous vraiment détruire ce batiment ?
+confirm_abortRocket█Veux-tu vraiment abandonner cette fusée ?
+confirm_turnExpendable█Voulez-vous vraiment retirer l'équipement d'atterrissage? La fusée ira brûler dans l'atmosphère après l'envol.
+confirm_exitGame█Vous nous quittez maintenant, huh? :(
+confirm_exitMainMenu█Les autres jeux vous diriez ici que votre progression non sauvegardée sera perdue.
+confirm_deleteSave█Vous ne ferez peut-être pas faillite la prochaine fois.
+confirm_staticFire█Voulez-vous vraiment passer l'essai de tir statique pour cette fusée? Ceci engendrera un plus grand risque d'explosion!
 
 yes█Oui
 no█Non
@@ -20,53 +21,62 @@ enterText█Taper texte...
 
 notification█Notification
 
-payload_size_verySmall█Très petit(e)
-payload_size_small█Petit(e)		
-payload_size_medium█Moyen(ne)
-payload_size_large█Grand(e)
-payload_size_veryLarge█Très grand(e)
+payload_size_verySmall█Très petite
+payload_size_small█Petite	
+payload_size_medium█Moyenne
+payload_size_large█Grande
+payload_size_veryLarge█Très grande
 orbit_so█Sur orbite
-orbit_leo█OTB
+orbit_leo█LEO
 orbit_meo█MEO
 orbit_geo█GEO
-orbit_iss█SSI
-orbit_marsOrbit█Mars Orbit
-orbit_marsSurface█Mars Surface
+orbit_iss█ISS
+orbit_marsOrbit█Orbite de Mars
+orbit_marsSurface█Surface de Mars
 
-vehicle_cargo█Cargo
-vehicle_crew█Crew
-vehicle_tanker█Tanker
+vehicle_cargo█Cargaison
+vehicle_crew█Equipage
+vehicle_tanker█Fusée de ravitaillement (Tanker)
 
-map_settings_header█Quick Settings
-map_settings_trackers_visible█Trackers Visible
-map_settings_satellites_visible█Satellites Visible
-map_settings_linklink_outline█LinkLink Outline
+map_settings_header█Options rapides
+map_settings_trackers_visible█Trackers des bâtiments
+map_settings_satellites_visible█Afficher les satellites
+map_settings_linklink_outline█Contour des LinkLink
+map_settings_mouseLight█Souris lumineuse
 
-earth█Earth
+earth█Terre
 mars█Mars
 
-switchPlanet█Switch Planet
+switchPlanet█Changer de planète
 
-tanking█Tanking...
+tanking█Ravitaillement en carburant...
+pressurizing█Pressurisation...
+testing█Test...
+completing█Finalisation...
 
-marsDetails█Mars Details
-earthLikePlanet█Earth-like Planet
+marsDetails█Détails de Mars
+earthLikePlanet█Planète similaire à la Terre
 
-martians█Martians
-materials█Materials
-electricity█Electricity
-food█Food
-water█Water
-oxygen█Oxygen
-fuel█Fuel
+martians█Martiens
+materials█Matériaux
+electricity█Electricité
+food█Nourriture
+water█Eau
+oxygen█Oxygène
+fuel█Carburant
 cybercars█Cybercars
-nuke█Nuke
+nuke█Bombe nucléaire
 
-unitsToProduce█Units to Produce: {0}
+unitsToProduce█Unité à produire: {0}
 
-marsProductionHeader█<b>Production</b> <size=50%>/quarter</size>
-marsUsageHeader█<b>Usage</b> <size=50%>/quarter</size>
-marsStorageHeader█<b>Storage</b>
+marsProductionHeader█<b>Production</b> <size=50%>/trimestre</size>
+marsUsageHeader█<b>Usage</b> <size=50%>/trimestre</size>
+marsStorageHeader█<b>Stockage</b>
+
+actionCamera█Caméra d'activité
+switchView█Changer de vue
+
+sandbox█Bac à sable
 
 
 

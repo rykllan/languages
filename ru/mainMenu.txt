@@ -19,7 +19,7 @@ menu_sandbox█<b>Песочница</b>&%<size=75%>В песочнице всё
 
 menu_difficulty█Сложность
 menu_easy█<b>Легко</b>&%<size=75%>Запустите "Легко", если вы хотите легко играть. Просто запускайте эти большие ракеты.
-menu_hard█<b>Трудно</b>&%<size=75%>Скоро!
+menu_hard█<b>Трудно</b>&%<size=75%>Более высокий шанс стать банкротом.
 
 menu_apply█Принять
 
@@ -35,7 +35,11 @@ menu_autoSave█Автосохранение
 menu_autoPause█Автопауза
 menu_alwaysDay█Постоянный день
 menu_hangarsVisual█Ракеты в ангаре
-menu_gameOverSetting█Gameover?
+menu_gameOverSetting█Банкротство
+menu_tutorial█Туториал
+
+menu_cameraSensitivity█Чувствительность камеры
+menu_buildSensitivity█Чувствительность мыши при строительстве
 
 menu_video█Видео
 menu_fullscreen█Полный экран
@@ -44,6 +48,7 @@ menu_vsync█Верт. синхр.
 menu_audio█Аудио
 menu_music█Музыка
 menu_sounds█Звуки
+menu_tutorialVoice█Голос туториала
 
 menu_language█Язык
 
@@ -52,6 +57,12 @@ menu_creators█Авторы
 menu_collaboration█Коллаборация
 menu_specialThanks█Специальные благодарности
 menu_icons█Иконки из Flaticon.com
+
+translated█<b>{0}</b>&%Переведено: {1}%&%{2}
+dubbing█Озвучено: {0}
+noDubbing█Английская озвучка
+
+
 
 
 

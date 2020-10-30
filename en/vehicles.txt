@@ -15,30 +15,50 @@ rocketRequiresCapsule█Rocket (Requires Capsule)
 rocketRequiresSpaceship█Rocket (Requires Spaceship)
 
 vehicles█Vehicles
-vehicles_newProjectHeader█Create new project
-vehicles_newProjectButton█New project
+droneships█Droneships
 vehicles_newVehicleHeader█Create new vehicle
 vehicles_newVehicleButton█New vehicle
+
+nicknameInput█Enter nickname...
 
 vehicles_projects█Projects
 vehicles_view█View
 
 land█Land
 
-reusedVehicle█Reused vehicle:
+launchCosts█Launch costs
 buildCosts█Build costs
-buildTime█Build time
 originalBuildCosts█Original build costs
 optimizedBuildCosts█Optimized build costs
-launchCosts█Launch costs
 
 inQueue█In queue&%<size=14><b><color=#64B5F6>Module will be built in a moment
 
 build█Build
+move█Move
+staticFire█Static Fire
 built█Built
 launch█Launch
-repair█Repair
-turnExpendable█Turn Expendable
+repair█Refurbish
+turnExpendable█Last Flight
+skip█Skip
+
+detailedCosts█Detailed costs
+leftFairing█Left Fairing
+rightFairing█Right Fairing
+secondStage█Second Stage
+firstStage█First Stage
+generalRefurbishmentPrice█General refurbishment price
+
+xLeft█{0} left
+
+isRocketProfitable█Is this rocket profitable?
+rocketFinance█Finance
+
+droneship█Droneship
+droneship_moveCosts█Move costs
+droneship_buildCosts█Build costs
+droneship_noDroneship█No Droneship (Rocket will burn after its Flight)
+droneship_notAvailable█{0} is not available now.
 
 earthPO█Parked on <color=#64B5F6>Earth's</color> Parking Orbit (Leaving in <b>{0}</b>)
 marsPO█Parked on <color=#E17055>Mars'</color> Parking Orbit (Leaving in <b>{0}</b>)
@@ -49,16 +69,16 @@ earthLanding█Landing on <color=#64B5F6>Earth</color>
 marsTryingLand█Trying to Land on <color=#E17055>Mars</color>
 earthTryingLand█Trying to Land on <color=#64B5F6>Earth</color>
 marsLanded█Landed on <color=#E17055>Mars</color>
+onDroneship█On a Droneship. Coming back soon!
 
 readyToLaunch█<b><color=#64B5F6>{0} of {1}</b></color>&%<size=70%>are ready to launch!
-
-capabilities█Capabilities
-reliability█Reliability
-condition█Condition
+readyToFly█Ready to Fly
+failureChance█&%Failure Chance: {0}%
+actionRequired█Action Required
 
 notBuiltYet█Not built yet
 constructing█Constructing...
-repairing█Repairing...
+repairing█Refurbishing...
 flying█Flying now
 dockedToISS█Docked to ISS (Will come back soon.)
 
@@ -70,11 +90,6 @@ spaceshipsOnly█Spaceships only
 capsulesOnly█Capsules only
 fairingRecovery█Fairing recovery
 
-landingNotSupported█Landing not supported!&%You need:<size=12><b>&%-Grid Fins & Landing Legs&%-Battery&%-GPS (for automatic reusability)&%-4 or 9 Advanced Engines</b></size>&%
-capsulesNotSupported█Capsules not supported!&%You need:<size=12><b>&%-Battery&%-GPS&%-4 or 9 Advanced Engines</b></size>&%
-heavyNotSupported█Heavy rocket not supported!&%You need:<size=12><b>&%-Rocket with automatic reusability</b></size>&%
-fairingCatchingNotSupported█Fairing catching not supported!&%You need:<size=12><b>&%-Rocket with automatic reusability</b></size>&%
-
 payload█Payload
 crew█Crew
 cargo█Cargo
@@ -85,14 +100,29 @@ launchSetup_header█Launch Setup
 launchSetup_missionName█Mission name...
 launchSetup_mission█Mission
 launchSetup_noVehiclesFound█[No vehicles found.]
+launchSetup_noRocketsFound█[No rockets found.]&%
+launchSetup_noSpaceshipsFound█[No spaceships found.]&%
+launchSetup_noCapsulesFound█[No capsules found.]
+launchSetup_noTankersFound█[No tankers found.]
 launchSetup_noPayloadsFound█[No capable payloads found.]
 launchSetup_selectVehicle█Select vehicle
 launchSetup_selectLaunchPad█Launch Pad
 launchSetup_selectTanker█Orbital Tanker
 
+launchSetup_spaceshipRequired█[Spaceship Required]
+launchSetup_rocketRequired█[Rocket Required]
+launchSetup_superheavyRequired█[Superheavy Required]
+
+noPayloadsSelected█No Payloads selected!
+noLaunchPadSelected█No LaunchPad selected!
+noISSDocks█No space in the ISS!
+noTankerSelected█No Tanker selected!
+noSpaceInParkingOrbit█No space in Parking Orbit! 25/25
+
 launchSetup_barge█Barge
 launchSetup_lz1█LZ-1
 launchSetup_lz2█LZ-2
+noLaumchPad█No LaunchPad
 
 launchSetup_testFlight█Test Flight
 launchSetup_concrete█Concrete
@@ -134,16 +164,16 @@ missionReportSecondVehicleLanding█Second vehicle landing
 missionReportMissionIncome█Mission income
 missionReportDamageCompensation█Damage compensation
 missionReportLandedRocket█Landed rocket
-profit█profit
-loss█loss
+missionReportSkillPoints█Skill points
+profit█Profit
+loss█Loss
+income█Income
+potentialLoss█Potential Loss
+potentialProfit█Potential Profit
 
-creator_header█New project
-creator_vehicleName█Vehicle name...
-creator_createProject█Create project
-creator_vehicleCanGoAnywhere█This vehicle can go to any place you want.
-creator_capsuleRocket█This rocket can only carry the capsules.
-creator_spaceshipRocket█This rocket can only carry the spaceships.
-no_module_unlocked█No module is unlocked.
+
+
+
 
 
 

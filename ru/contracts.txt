@@ -50,7 +50,7 @@ payload_crs█CRS-{0} (Снабжение МКС)
 contract_ccp█Commercial Crew Program
 payload_ccp█CCP-{0} (Экипаж МКС)
 
-payload_tintin█Tintin AB (LinkLink Test)
+payload_tintin█Tintin AB (Тест LinkLink)
 
 contract_tesla█Starman
 payload_tesla█Tesla Roadster
@@ -66,7 +66,7 @@ payload_technician█Инженер
 payload_flatEarther█Мёрфи (Плоскоземельщик)
 
 contract_marsCamera█Путешествие к марсу
-payload_marsCamera█Камера для Марса
+payload_marsCamera█Камера к Марсу
 content_marsCamera█Запустите камеру на вашей Heavy-ракете на орбиту Марса. После этого вы сможете видеть Марс и взаимодействовать с ним!
 
 
@@ -77,6 +77,10 @@ content_spate█Молодой музыкальный продюсер из Фи
 contract_matt█Спасение Мэтта
 payload_matt█Миссия по спасению Мэтта
 content_matt█Есть новое предложение от NASA. Цель миссии - отправить космический корабль на Марс, чтобы вернуть Мэтта на Землю.
+
+
+
+
 
 
 

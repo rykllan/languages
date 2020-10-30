@@ -36,14 +36,14 @@ linkLink_system█System
 linkLink_production█Produkcja
 linkLink_statistics█Statystyki
 
-linkLink_100_required█Potrzebujesz conajmniej <color=#64B5F6><b>100</b></color> LinkLinków aby uruchomić usługę. 
+linkLink_100_required█Potrzebujesz przynajmniej <color=#64B5F6><b>420</b></color> LinkLinków aby uruchomić tę usługę.
 
 linkLink_run█Uruchom LinkLink
 linkLink_customerPrice█Cena za usługę (za miesiąc)
 linkLink_customersHistory█Historia Użytkowników
 linkLink_serviceDown█Problemy techniczne usługi LinkLink. Technicy pracują ciężko, aby to naprawić. (może to potrwać nawet rok)
 
-linkLink_build█Zbuduj LinkLinka
+linkLink_build█Zbuduj LinkLinki
 
 linkLink_totalCustomers█Użytkownicy
 linkLink_totalLinkLinks█LinkLinki
@@ -62,6 +62,10 @@ linkLink_welcome_content█Tutaj będziesz mógł stworzyć własną konstelacj�
 
 buildLinkLinkInGiga█Zbuduj LinkLinki w Giga Fabryce
 openGigaFactory█Otwórz Giga Fabrykę
+
+
+
+
 
 
 

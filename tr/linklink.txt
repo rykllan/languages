@@ -36,7 +36,7 @@ linkLink_system█Sistem
 linkLink_production█Üretim
 linkLink_statistics█İstatistikler
 
-linkLink_100_required█Hizmeti çalıştırmak için en az <color=#64B5F6><b>100</b></color> LinkLink'e ihtiyacınız var.
+linkLink_100_required█You need at least <color=#64B5F6><b>420</b></color> LinkLinks in order to run the service.
 
 linkLink_run█LinkLink'i çalıştır
 linkLink_customerPrice█Müşteri fiyatı (aylık)
@@ -62,6 +62,10 @@ linkLink_welcome_content█EarthX'te daha sonra , dünya çapında uygun fiyatl�
 
 buildLinkLinkInGiga█Herhangi bir Giga Fabrikasında LinkLink oluşturun
 openGigaFactory█Giga Fabrikasını Aç
+
+
+
+
 
 
 

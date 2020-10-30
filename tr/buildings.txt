@@ -36,6 +36,9 @@ buildingSetup_negotiationPower█Müzakere gücü
 
 buildingSetup_vehicleStored█Depolanan araçlar
 
+noGigaFound█[No giga factories found.]
+unitsToBuild█Units to build...
+
 buildingSetup_employees█<size=14>{0} çalışanlar</size>&%{1} <color=#16A085>$</color> / yıllık&%<size=14>{2} <color=#16A085>$</color> / her biri
 buildingSetup_manageEmployees█Çalışanları yönetin
 
@@ -142,6 +145,10 @@ lp_xichang█Xichang
 lp_rocketComplex█Private Uzay Üssü
 lp_australia█Woomera
 lp_india█Satish Dhawan
+
+
+
+
 
 
 

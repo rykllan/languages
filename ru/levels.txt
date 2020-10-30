@@ -1,147 +1,232 @@
 
 
-levelTitle0█Зарегестрированная компания
-levelTitle1█Стартап
-levelTitle2█"Когда что-то достаточно важно, вы делаете это, даже если шансы не в вашу пользу." - Илон Маск
-levelTitle3█"С" как Средний
-levelTitle4█"Я мог бы либо наблюдать за этим, либо быть частью этого." - Илон Маск
-levelTitle5█Не забудьте про посадку
-levelTitle6█Поставщик
-levelTitle7█Ускорение
-levelTitle8█Тинтин
-levelTitle9█Ускорение
-levelTitle10█Мощь компьютеров
-levelTitle11█Поймай это!
-levelTitle12█Становимся мощными
-levelTitle13█LinkLink
-levelTitle14█Практика
-levelTitle15█Не оставляйте людей внутри обтекателя
-levelTitle16█Человеческий фактор
-levelTitle17█Становимся большими
-levelTitle18█"Мы собираемся сделать это. Поскольку Бог - мой кровавый свидетель, я одержим желанием заставить его работать." - Илон Маск
-levelTitle19█Big Fu*king Rocket
-levelTitle20█Становимся мультиланетарными
-levelTitle21█Искра
-levelTitle22█Инфраструктура
-levelTitle23█Мультипланетарный вид
-levelTitle24█Экспансия
-levelTitle25█Путь
-levelTitle26█Кибермарс
-levelTitle27█Самостоятельный город
-levelTitle28█haha nuclear bombs go brrrrr
-levelTitle29█Очень горячо
-levelTitle30█Очень холодно
-levelTitle31█Земля 2.0
-levelTitle32█https://youtu.be/CfqCQQe2E2s
+research_header█Исследования
+research_technology█Технологии
+research_prototypes█Прототипы
 
-progress_unlockAllModules█Разблокировать все модули
-progress_launchSmallRockets█Запустить НОО-ракет: {0}
-progress_launchMediumRockets█Запустить MEO-ракет: {0}
-progress_launchLargeRockets█Запустить GEO-ракет: {0}
-progress_launchSuperheavyRockets█Запустить Spaceship: {0}
-progress_launchToMars█Запустить Spaceship к Марсу: {0}
-progress_launchCargoCapsules█Запустить грузовых кораблей: {0}
-progress_launchCrewCapsules█Запустить пилотируемых кораблей: {0}
+research_back█Назад
+research_view█Ракеты
 
-progress_landRockets█Посадить ракет: {0}
-progress_landOnMars█Посадить Spaceship на Марс: {0}
-progress_reuseRockets█Повторно использовать ракет: {0}
-progress_catchFairings█Поймать обтекателей: {0}
+research_upgrades█Улучшения
+research_extras█Экстра
+research_info█Инфо
 
-progress_launchPayloadsAtOnce█Запустить за раз нагрузки: {0}
-progress_launchFromOwnLaunchPad█Запустить ракет с собственных площадок: {0}
+research_locked█Заблокировано
+research_unlocked█Открыто
 
-progress_launchTesla█Запустить автомобиль
-progress_launchCat█Запустить кота!
-progress_launchTechnician█Запустить инженера!
-progress_launchPrologue█Запустить SPATE's Prologue EP!
-progress_launchFlatearther█Запустить плоскоземельщика Мёрфи!
-progress_launchMattRescueMission█Запустить миссию по спасению Мэтта!
-progress_launchMarsCamera█Запустить камеру к Марсу!
+research_unlock█Разблок.
+research_upgrade█Улучш.
 
-progress_buildFactories█Построить фабрик: {0}
-progress_buildOffices█Построить офисов: {0}
-progress_buildLaboratories█Построить лабораторий: {0}
-progress_buildMegaLaunchPads█Построить "Мега-падов": {0}
-progress_buildMarsBuildings█Построить зданий на Марсе: {0}
-progress_buildFuelFactories█Построить топливных заводов: {0}
-progress_buildSteelFactories█Построить стальных заодов: {0}
-progress_buildLandingZones█Построить посадочных площадок: {0}
+research_flights█Запуски
+research_successes█Успешно
+research_failures█Неудачно
+research_cost█Стоимость
+research_buildPrice█Стоимость произв.
+research_launchPrice█Стоимость запуска
+research_totalIncome█Выручка
+research_totalExpenses█Затраты
+research_totalLoss█Убыток
+research_profit█Прибыль
 
-progress_getContracts█Получить контрактов: {0}
-progress_launchLinkLinks█Запустить спутников LinkLink: {0}
-progress_reachLinkLinkUsers█Пользователей LinkLink: {0}
-progress_hireEmployees█Нанять сотрудников: {0}
-progress_martiansCount█Людей на Марсе: {0}
-progress_marsTerraform█Терраформировать Марс на {0}%
-progress_marsTransportOxygen█Транспортировать кислорода на Марс: {0}
+research_vehicleName█Введите имя ракеты...
 
-progress_maxOffices█Макс. офисов:
-progress_multiplePayloads█[<color=#81C784>ВОЗМОЖНОСТЬ</color>] &%Запуск неск. нагрузок за раз!
-progress_fundraiserHats█[<color=#FF9F43>ФИНАНСИРОВАНИЕ</color>] &%Продажа кепок!
-progress_fundraiserBricks█[<color=#FF9F43>ФИНАНСИРОВАНИЕ</color>] &%Продажа кирпичей!
-progress_fundraiserNAF█[<color=#FF9F43>ФИНАНСИРОВАНИЕ</color>] &%Продажа (не) огнемётов!
-progress_fundraiserRocketquilla█[<color=#FF9F43>ФИНАНСИРОВАНИЕ</color>] &%Продажа рокеткилы!
-progress_fundraiserShorts█[<color=#FF9F43>ФИНАНСИРОВАНИЕ</color>] &%Продажа коротких шорт!
+research_milestones█Задачи
+research_availableTests█Доступные тесты
 
-progress_issSupplierMission█Специальная миссия: <b><color=#64B5F6>Снабжение МКС
-progress_issCrewMission█Специальная миссия: <b><color=#64B5F6>Коммерческие экипажи для МКС
-progress_teslaRoadsterMission█Специальная миссия: <b><color=#64B5F6>Автомобиль
-progress_catMission█Специальная миссия: <b><color=#64B5F6>Кот астронавта
-progress_technicianMission█Специальная миссия: <b><color=#64B5F6>Инженер в чемодане
-progress_truthMission█Специальная миссия: <b><color=#64B5F6>Вера
-progress_mattMission█Специальная миссия: <b><color=#64B5F6>Мэтт
-progress_spateMission█Специальная миссия: <b><color=#64B5F6>Prologue EP
+research_test█Протестировать
+research_testCompleted█Завершено
 
-progress_smallFactory█[<color=#E74C3C>ЗДАНИЕ</color>] &%Малая фабрика
-progress_mediumFactory█[<color=#E74C3C>ЗДАНИЕ</color>] &%Средняя фабрика
-progress_largeFactory█[<color=#E74C3C>ЗДАНИЕ</color>] &%Большая фабрика
-progress_gigaFactory█[<color=#E74C3C>ЗДАНИЕ</color>] &%Гигафабрика
+research_prototypeBuilt█Произведёно: {0}
 
-progress_smallHangar█[<color=#E74C3C>ЗДАНИЕ</color>] &%Малый ангар
-progress_mediumHangar█[<color=#E74C3C>ЗДАНИЕ</color>] &%Средний ангар
-progress_largeHangar█[<color=#E74C3C>ЗДАНИЕ</color>] &%Большой ангар
-progress_megaHangar█[<color=#E74C3C>ЗДАНИЕ</color>] &%"Мега-ангар"
+task_SkillPoints█Иметь очков исследований: {0}
+task_LaunchPayloads█Запустить нагрузок: {0}
+task_Money█Иметь {0} <color=#16A085>$</color>
 
-progress_linkLinkSmallTerminal█[<color=#E74C3C>ЗДАНИЕ</color>] &%Малый терминал LinkLink
-progress_linkLinkLargeTerminal█[<color=#E74C3C>ЗДАНИЕ</color>] &%Большой терминал LinkLink
+task_LaunchSmallRocket█Запустить лёгких ракет: {0}
+task_LaunchMediumRocket█Запустить средних ракет: {0}
+task_LaunchLargeRocket█Запустить больших ракет {0}
+task_LaunchHeavyRocket█Запустить тяжёлых ракет {0}
 
-progress_megaLaunchPad█[<color=#E74C3C>ЗДАНИЕ</color>] &%"Мега-пад"
+task_LaunchSpaceshipOrbit█Запустить Spaceship на орбиту Земли: {0}
+task_LaunchSpaceshipMars█Запустить Spaceship к Марсу: {0}
 
-progress_smallHotel█[<color=#E74C3C>ЗДАНИЕ</color>] &%Малый отель
-progress_mediumHotel█[<color=#E74C3C>ЗДАНИЕ</color>] &%Средний отель
-progress_largeHotel█[<color=#E74C3C>ЗДАНИЕ</color>] &%Большой отель
+task_LaunchCargoCapsule█Запустить грузовых кораблей к МКС: {0}
+task_LaunchCrewCapsule█Запустить пилотируемых кораблей к МКС: {0}
 
-progress_mediumGreenhouse█[<color=#E74C3C>ЗДАНИЕ</color>] &%Средняя теплица
-progress_largeGreenhouse█[<color=#E74C3C>ЗДАНИЕ</color>] &%Большая теплица
+task_LandManually█Посадить ступеней вручную: {0}
+task_LandAutomatically█Посадить ступеней автоматически: {0}
+task_ReuseRockets█Повторно использовать ракет: {0}
+task_LandOnMars█Посадить Spaceship на Марс: {0}
+task_CatchFairings█Поймать обтекателей: {0}
 
-progress_smallSolar█[<color=#E74C3C>ЗДАНИЕ</color>] &%Малая солнечная панель
-progress_mediumSolar█[<color=#E74C3C>ЗДАНИЕ</color>] &%Средняя солнечная панель
+task_MerlinEngineTest█Протестировать ракетных двигателей: {0}
+task_MediumRocketStaticFireTest█Провести прожиг средних ракет: {0}
+task_LargeRocketStaticFireTest█Провести прожиг больших ракет: {0}
+task_HeavyRocketStaticFireTest█Провести прожиг тяжёлых ракет: {0}
+task_GrasshopperTest█Протестироать Rockethopper: {0}
 
-progress_smallWater█[<color=#E74C3C>ЗДАНИЕ</color>] &%Малый водный резервуар
-progress_mediumWater█[<color=#E74C3C>ЗДАНИЕ</color>] &%Средний водный резервуар
-progress_largeWater█[<color=#E74C3C>ЗДАНИЕ</color>] &%Большой водный резервуар
+task_RaptorVacEngineTest█Провести прожиг вакуумных двигателей Spaceship: {0}
+task_RaptorEngineTest█Провести прожиг двигателей Spaceship: {0}
+task_SnHop_20m_Test█Провести прыжков на 20 м: {0}
+task_SnHop_150m_Test█Провести прыжков на 150 м: {0}
+task_SnHop_20km_Test█Провести прыжков на 20 км: {0}
 
-progress_smallFuel█[<color=#E74C3C>ЗДАНИЕ</color>] &%Малый топливный резервуар
-progress_mediumFuel█[<color=#E74C3C>ЗДАНИЕ</color>] &%Средний топливный резервуар
-progress_largeFuel█[<color=#E74C3C>ЗДАНИЕ</color>] &%Большой топливный резервуар
+task_LaunchMarsCamera█Завершите миссию с камерой для Марса
+task_LaunchTinTin█Заверщите миссию с TinTin
 
-progress_waterFactory█[<color=#E74C3C>ЗДАНИЕ</color>] &%Фабрика по производству воды
-progress_fuelFactory█[<color=#E74C3C>ЗДАНИЕ</color>] &%Топливная фабрика
-progress_steelFactory█[<color=#E74C3C>ЗДАНИЕ</color>] &%Стальная фабрика
+task_LinkLinksTotal█Иметь спутников LinkLink на орбите: {0}
+task_LinkLinkCustomers█Иметь клиентов LinkzLink: {0}
 
-progress_landingZone█[<color=#E74C3C>ЗДАНИЕ</color>] &%Посадочная площадка
+task_BuildSmallTerminals█Построить малых терминалов LinkLink: {0}
+task_BuildLargeTerminals█Построить больших терминалов LinkLink: {0}
+task_BuildMegaLaunchPad█Построить "Мега-падов": {0}
+task_BuildLandingZone█Построить посадочных слощадок на Марсе: {0}
+task_BuildFuelFactory█Построить топливных фабрик на Марсе: {0}
 
-progress_linkLink30█[<color=#81C784>ВОЗМОЖНОСТЬ</color>] &%LinkLink (60)
-progress_materials20█[<color=#81C784>ВОЗМОЖНОСТЬ</color>] &%Материалы (35)
-progress_oxygen40█[<color=#81C784>ВОЗМОЖНОСТЬ</color>] &%Кислород (40)
-progress_martians15█[<color=#81C784>ВОЗМОЖНОСТЬ</color>] &%Марсиане (15)
-progress_cybercar3█[<color=#81C784>ВОЗМОЖНОСТЬ</color>] &%Киберкар (3)
-progress_nuke3█[<color=#81C784>ВОЗМОЖНОСТЬ</color>] &%Атомная бомба (3)
+task_MarsOxygen█Перевезите кислорода на Марс: {0}
+task_MarsMartians█Иметь марсиан: {0}
+task_MarsTerraform█Терраформировать Марс с помощью атомных бомб: {0}%
 
-progress_linkLinkCapacity50█[<color=#81C784>LinkLink</color>] Вместимость LinkLink +50%
-progress_linkLinkCapacity25█[<color=#81C784>LinkLink</color>] Вместимость LinkLink +25%
-progress_linkLinkCosts█[<color=#81C784>LinkLink</color>] Стоимость производства LinkLink -25%
+task_BuildWaterFactory█Построить фабрик по производству воды: {0}
+task_BuildMediumGreenhouse█Построить теплиц: {0}
+task_BuildSmallHotel█Построить малых отелей: {0}
+task_BuildMediumHotel█Построить средних отелей: {0}
+task_BuildSmallWaterStorage█Построить малых водных резервуаров: {0}
+task_BuildMediumWaterStorage█Построить средних водных резервуаров: {0}
+task_BuildSmallFuelStorage█Построить малых топливных резервуаров: {0}
+task_BuildMediumFuelStorage█Построить средних топливных резервуаров: {0}
+
+task_BuildFactory█Построить заводов: {0}
+task_BuildOffice█Построить офисов: {0}
+
+progress_fundraiserHats█[<color=#FF9F43>ФИНАНСИРОВАНИЕ</color>] Продажа кепок
+progress_fundraiserBricks█[<color=#FF9F43>ФИНАНСИРОВАНИЕ</color>] Продажа кирпичей
+progress_fundraiserNAF█[<color=#FF9F43>ФИНАНСИРОВАНИЕ</color>] Продажа (не) огнемётов
+progress_fundraiserRocketquilla█[<color=#FF9F43>ФИНАНСИРОВАНИЕ</color>] Продажа рокеткилы
+progress_fundraiserShorts█[<color=#FF9F43>ФИНАНСИРОВАНИЕ</color>] Продажа коротких шорт
+progress_fundraiserDesc█Воспользуйтесь финансированием в окне "Компания"
+
+progress_droneshipName█Баржа
+progress_droneshipDesc█Если обтекатель заполнен на 4 или более единиц, то вам потребуется возвращать ступень на баржу. Баржи доступно в окне "Проекты"
+
+progress_issSupplierMission█[<color=#d95eff>МИССИЯ</color>] Commercial Resupply Service
+progress_issCrewMission█[<color=#d95eff>МИССИЯ</color>] Commercial Crew Program
+progress_teslaRoadsterMission█[<color=#d95eff>МИССИЯ</color>] Roadster
+progress_catMission█[<color=#d95eff>МИССИЯ</color>] мяу... Мяу... МЯУ!!!
+progress_technicianMission█[<color=#d95eff>МИССИЯ</color>] Чрезвычайная ситуация
+progress_truthMission█[<color=#d95eff>МИССИЯ</color>] Вера
+progress_marsCameraMission█[<color=#d95eff>МИССИЯ</color>] Камера к Марсу
+progress_tinTinMission█[<color=#d95eff>МИССИЯ</color>] TinTin
+progress_mattMission█[<color=#d95eff>МИССИЯ</color>] Спасение Мэтта
+progress_spateMission█[<color=#d95eff>МИССИЯ</color>] Prologue EP
+
+progress_linkLink█[<color=#81C784>ПРОИЗВОДСТВО</color>] Спутники LinkLink
+progress_materials█[<color=#81C784>ПРОИЗВОДСТВО</color>] Материалы
+progress_oxygen█[<color=#81C784>ПРОИЗВОДСТВО</color>] Кислород
+progress_martians█[<color=#81C784>ПРОИЗВОДСТВО</color>] Марсиане
+progress_cybercar█[<color=#81C784>ПРОИЗВОДСТВО</color>] Киберкары
+progress_nuke█[<color=#81C784>ПРОИЗВОДСТВО</color>] Атомные бомбы
+
+vehicle_smallRocket█Лёгкая ракета
+vehicle_smallRocketDesc█Лёгкие ракеты могут запускать только Мал. нагрузку на НОО.
+
+vehicle_mediumRocket█Средняя ракета
+vehicle_mediumRocketDesc█Средняя ракета после некоторых улучшений сможет возвращать ступени и отправлять грузовые корабли на МКС. Эта ракета может запускать Сред. нагрузку на MEO.
+
+vehicle_largeRocket█Большая ракета
+vehicle_largeRocketDesc█После улучшений эта ракета сможет автоматически возвращать ступени, отправлять пилотируемые корабли на МКС, возвращать обтекатели для их повторного использования и многое другое. Эта ракета может запускать Сред. нагрузку на GEO.
+
+vehicle_heavyRocket█Тяжёлая ракета
+vehicle_heavyRocketDesc█"3 ракеты, объединённые вместе". Эта ракета может запускать Бол. нагрузку на GEO и даже на орбиту Марса
+
+vehicle_superheavyRocket█Сверхтяжёлая ракета
+vehicle_superheavyRocketDesc█Сверхтяжёлые ракеты полностью многоразовые и вам не потребуется обслуживать их после каждого полёта. Для запуска требуется Spaceship.
+
+vehicle_cargoCapsule█Грузовой корабль
+vehicle_cargoCapsuleDesc█Вы получите контракт от NASA по доставке груза на МКС и сможете снабжать её каждые 2 года.
+
+vehicle_crewCapsule█Пилотируемый корабль
+vehicle_crewCapsuleDesc█Вы получите контракт от NASA по доставке астронавтов на МКС и сможете запускать их туда каждые 2 года. В пилотируемом корабле вы также можете перевозить груз.
+
+vehicle_cargoSpaceship█Грузовой Spaceship
+vehicle_cargoSpaceshipDesc█Отправьляйте больше нагрузки на орбиту и даже к Марсу! Для отправки Spaceship на Марс вам потребуется танкер
+
+vehicle_crewSpaceship█Пилотируемый Spaceship
+vehicle_crewSpaceshipDesc█Отправляйте людей на МКС или к Марсу
+
+vehicle_tankerSpaceship█Spaceship-танкер
+vehicle_tankerSpaceshipDesc█Требуется для дозаправки Spaceship на орбите
+
+upgrade_basic█Базовое
+upgrade_basicDesc█Стоимость производства и шанс взрыва станут меньше
+
+upgrade_telemetry█Телеметрия
+upgrade_telemetryDesc█Позволяет увидеть насколько быстра и далека ракета
+
+upgrade_webcast█Трансляция
+upgrade_webcastDesc█Позволяет увидеть кадры с самой ракеты
+
+upgrade_cargoCapsuleSupport█Адаптер грузового корабля
+upgrade_cargoCapsuleSupportDesc█Позволяет запускать грузовые корабли на этой ракете
+
+upgrade_crewCapsuleSupport█Адаптер пилотируемого корабля
+upgrade_crewCapsuleSupportDesc█Позволяет запускать пилотируемые корабли на этой ракете
+
+upgrade_manualLanding█Ручная посадка
+upgrade_manualLandingDesc█Позволяет вам вручную сажать ступень ракеты после запуска. Не забудьте, что вам придётся нажать на кнопку "Посадить"
+
+upgrade_automaticLanding█Автоматическая посадка
+upgrade_automaticLandingDesc█Ступень этой ракеты приземлится автоматически после запуска
+
+upgrade_fairingCatching█Ловля обтекателей
+upgrade_fairingCatchingDesc█Вы можете попробовать поймать обтекатели после запуска ракеты
+
+upgrade_rideshare█Совместный запуск
+upgrade_rideshareDesc█Совместный запуск позволяет запускать больше нагрузок на одной ракете
+
+
+prototype_merlinEngine█Двигатель ракеты 
+prototype_merlinEngineDesc█Двигатель ракеты используется на обычных ракетах (очевидно). Этот прототип позволит вам улучшать его ещё дальше!
+
+prototype_grasshopper█Rockethopper
+prototype_grasshopperDesc█Этот прототип позволит вам практиковаться в посадке ступеней ваших ракет.
+
+prototype_raptorEngine█Двигатель Spaceship
+prototype_raptorEngineDesc█Этот двигатель будет использован на Spaceship и сверхтяжёлой ракете.
+
+prototype_starhopper█Spaceship Hopper
+prototype_starhopperDesc█Этот прототип покажет, будет ли идея построить самолёто-подобный Spaceship удачной или нет.
+
+prototype_raptorVacEngine█Вакуумный двигатель Spaceship
+prototype_raptorVacEngineDesc█Этот двигатель будет использован на Spaceship, когда он находится в вакууме.
+
+prototype_spaceshipPrototype█Прототип Spaceship
+prototype_spaceshipPrototypeDesc█Серия улучшенных прототипов Spaceship позволит вам отполировать производтсвенные процессы и надёжность Spaceship
+
+
+test_engineShortFire█Короткий прожиг
+test_engineShortFireDesc█Убедиться в том, что двигатель может запускаться
+
+test_engineFullLenghtFire█Полноценный прожиг
+test_engineFullLenghtFireDesc█Убедиться в том, что двигатель может работать требуемое время
+
+test_tanking█Тест заправки
+test_tankingDesc█Убедиться в том, что бак не протекает
+
+test_pressure█Тест давления
+test_pressureDesc█Убедиться в том, что бак может держать требуемое давление
+
+test_staticFire█Прожиг
+test_staticFireDesc█Убедиться в том, что двигатели могут работать с баками нормально
+
+test_hop20m█Прыжок на 20 м
+test_hop20mDesc█Убедиться в том, что прототип стабилен во время короткого прыжка
+
+test_hop150m█Прыжок на 150 м
+test_hop150mDesc█Убедиться в том, что прототип стабилен во время длительного прыжка
+
+test_hop20km█Прыжок на 20 км
+test_hop20kmDesc█Убедиться в том, что прототип способен приземлиться после полёта
 
 
 

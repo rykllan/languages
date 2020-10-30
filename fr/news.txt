@@ -152,7 +152,7 @@ news_iss_2007q3_header█Harmony (Nœud 2) mis en orbite - reliera les modules D
 news_iss_2007q3_content█La mission de la navette Discovery, qui a mis en orbite le 23 octobre 2007 le module Harmony (Nœud 2), s'est terminée avec succès. Harmony est une sorte de séparateur qui combinera les trois modules ensemble - module américain, japonais (qui rejoindra la station plus tard), et européen (le laboratoire Columbus sera mis en orbite probablement au début de 2008). Il est équipé de racks contenant des instruments chargés de traiter l'électricité et de la transmettre aux modules mentionnés ci-dessus. &%&%Selon l'accord entre la NASA et l'ESA, le nœud 2 a été construit par la société italienne Alenia Spazio, dans son centre de Turin.
 
 news_iss_2008q1_header█Le laboratoire européen Columbus a rejoint la SSI !
-news_iss_2008q1_content█La Station spatiale internationale s'agrandit. Dans le cadre du vol 1E - STS-122 de la navette Atlantis, un autre énorme module a été lancé en orbite. Les expériences scientifiques qui y seront menées couvriront des domaines de recherche tels que la biologie végétale, l'exobiologie, l'héliophysique, la physiologie humaine et la physique des fluides. &%&%Columbus pèse plus de 10 tonnes et a été construit en 10 ans.
+news_iss_2008q1_content█La Station Spatiale Internationale s'agrandit. Dans le cadre du vol 1E - STS-122 de la navette Atlantis, un autre énorme module a été lancé en orbite. Les expériences scientifiques qui y seront menées couvriront des domaines de recherche tels que la biologie végétale, l'exobiologie, l'héliophysique, la physiologie humaine et la physique des fluides. &%&%Columbus pèse plus de 10 tonnes et a été construit en 10 ans.
 
 news_iss_2008q2_header█La navette Endeavour a livré la première partie du module japonais Kibo sur la SSI.
 news_iss_2008q2_content█Tel que conçu par l'Agence japonaise d'exploration aérospatiale, le principal objectif de Kibo (JEM) est de mener des expériences scientifiques dans le vide. Le JEM disposera de stations permettant à deux personnes de travailler simultanément, mais le laboratoire pourra accueillir jusqu'à quatre membres d'équipage de la Station spatiale internationale. &%&%Au cours de la mission du ferry Endeavour, il y a eu également un échange de membres d'équipage de l'Expédition 16.
@@ -174,62 +174,66 @@ news_iss_2011q1_content█Aujourd'hui à 14h50, le module Leonardo (PMM) qui se 
 
 
 
-news_flat_earth_contract_name█The Truth
-news_flat_earth_contract_desc█Good morning,&%&%My name is Murphy. I'm the president of the American Flat Earth Society. We want to disprove once and for all the myth about round Earth. I'm interested in flying into space, making movies and taking pictures.&%&%Can you accept this offer?
+news_flat_earth_contract_name█La vérité
+news_flat_earth_contract_desc█Bonjour à tous,&%&%je m'apelle Murphy. Je suis le président de la American Flat Earth Society. Nous voulons démentir une fois pour toute le mythe que la Terre serait ronde. Je serais intéressé de voyager dans l'espace, faire des films et prendre des photos.&%&%Acceptez-vous cette offre?
 
-news_flat_earth_accepted_header█The flatearthers are flying into space - they want to prove to everyone that our planet is flat.
-news_flat_earth_accepted_content█At today's press conference, Murphy announced that he was successful in collecting the money for his space flight.&%&%Murphy bought his space ticket from the {0} - the flight will take place within the next year.
+news_flat_earth_accepted_header█Les flatearthers volent vers l'espace - ils veulent prouver à tout le monde que notre planète est plate.
+news_flat_earth_accepted_content█Lors de la conférence d'aujourd'hui, Murphy a annoncé qu'il a réussi à réunir les fonds pour son vol spatial.&%&%Murphy a apporté son ticket pour l'espace depuis {0} - le vol aura lieu d'ici l'année prochaine.
 
-news_flat_earth_declined_header█{0} accused of hiding the truth. He refused the space flight to the president of the Flat Earth Society.
-news_flat_earth_declined_content█"{0} has received a great offer from us. He didn't take it - so we can be sure what he's hiding from us." - this is how Murphy, president of the American Society of the Flat Earth, commented on the whole situation. &%&%Flights into space not for everyone? The CEO of {0} has not commented on the situation.
+news_flat_earth_declined_header█{0} accusé de cacher la vérité. Il a refusé le vol spatial du président de la Flat Earth Society.
+news_flat_earth_declined_content█"{0} a reçu une belle offre de notre part. Il ne l'a pas pris - donc nous pouvons être sûr de ce qu'il nous cache." - voici comment Murphy, president de la société américaine Flat Earth, a commenté l'ensemble de la situation. &%&%Les vols vers l'espace ne sont pas pour tout le monde? Le PDG de {0} n'a fait aucun commentaire sur la situation.
 
-news_flat_earth_ready_header█Space training completed. Murphy will see if the Earth is flat.
-news_flat_earth_ready_content█The CEO of the space company {0} confirmed today that the President of the Flat Earth Society is ready to fly.&%&%Will we all finally know the truth?
+news_flat_earth_ready_header█Entraînement spatial terminé. Murphy verra bien si la Terre est plate.
+news_flat_earth_ready_content█Le PDG de l'entreprise spatiale {0} a confirmé aujourd'hui que le président de la Flat Earth Society est prêt pour son vol.&%&%Va-t-on finalement connaître la vérité?
 
-news_flat_earth_success_header█{0} mission with Murphy aboard successful! What did he see from the capsule?
-news_flat_earth_success_content█The tourist mission with the president of the Flat Earth Society was successful. After a several days in space, Murphy did not want to answer the journalists' questions. Looking sad, Murphy immediately went to the hotel.&%&%He does not answer the phone.
+news_flat_earth_success_header█{0} mission avec Murphy à bord réussie! Qu'a-t-il vu depuis la capsule?
+news_flat_earth_success_content█La mission touristique avec le président de la Flat Earth Society est un succès. Après plusieurs jours dans l'espace, Murphy n'a pas voulu répondre aux questions des journalistes. L'air triste, Murphy est immédiatement parti à l'hôtel.&%&%Il ne répond pas au téléphone.
 
-news_flat_earth_afterSuccess_header█Murphy publicly apologizes.
-news_flat_earth_afterSuccess_content█"I saw it with my own eyes! She's not flat. She's like a ball, you understand that? Up there, looking at our planet... ...I realized I've been fooled all my life. And I've been cheating on others. I'm sorry." - said the former president of the Flat Earth Society in a video published on his new YouTube channel.&%&%Mira, the newly elected president said Murphy was lying, or was cheated by {1}. "What if the capsule had monitors instead of windows and displayed a picture of round Earth?"
+news_flat_earth_afterSuccess_header█Murphy s'excuse publiquement.
+news_flat_earth_afterSuccess_content█"Je l'ai vu de mes propres yeux! Elle n'est pas plate. Elle est telle une balle, vous comprenez? Là-haut, regardant notre planète... ...J'ai réalisé que je me suis leurré toute ma vie. Et j'ai trompé les autres. Je suis désolé." - a témoigné l'ancien président de la Flat Earth Society dans une vidéo publié sur sa nouvelle chaîne YouTube.&%&%Mira, la présidente nouvelle élue a déclaré que Murphy mentait, ou a été trompé par {1}. "Et si la capsule avait des écrans qui affichaient une image de la Terre ronde?"
 
-news_flat_earth_failure_header█{0}'s rocket, together with Murphy, exploded before entering the orbit. The causes of the disaster are being investigated.
-news_flat_earth_failure_content█On board the rocket was Murphy, who, thanks to the space flight, was going to gain the final proof that the Earth is flat.&%&%The Vice President of the Flat Earth Society issued a short statement: "It certainly crashed into the dome. Murphy is a hero, he sacrificed his life to show us the truth."
-
-
-
-
-
-news_spate_accept_header█Space campaign of the new SPATE album. His album will fly to the ISS.
-news_spate_accept_content█Music producer SPATE has signed a contract with {0}, thanks to which his latest album will fly to the ISS. &%&%The album will be shipped with the next supply mission in a few months. &%&%Are the members of the International Space Station already preparing a big music party?
-
-news_spate_success_header█First party on the ISS.
-news_spate_success_content█After the company {0} delivered the SPATE's newest album as part of a marketing campaign, the astronauts held a really loud (but inaudible) party on the International Space Station. &%&%Can the ISS structure withstand such a well played bass?
-
-
-opportunity2019Q1_header█NASA officially ends the Opportunity Rover mission
-opportunity2019Q1_content█15 years - that's how long the mission of Opportunity's rover, which landed on the red planet on 25 February 2004, lasted. &%&%Unfortunately, the last attempts to contact Opportunity, which was stuck asleep since June 2018, were unsuccessful - the solar cells used to power the equipment on board the rover were covered with sand as a result of a general planetary sand-storm. &%&%For 15 years of work, Opportunity sent countless data to Earth and contributed to many discoveries - he observed cirrus clouds in Mars atmosphere, and made astronomical observations impossible to make from Earth, such as the transit of Mars moons on the background of the solar shield.
+news_flat_earth_failure_header█La fusée de {0}, avec Murphy à son bord, a explosé avant d'entrer en orbite. Les causes de ce désastre sont sous enquête.
+news_flat_earth_failure_content█A bord de la fusée il y avait Murphy, qui, grâce au voyage spatial, était sur le point d'avoir la preuve finale que la Terre est plate.&%&%Le Vice-President de la Flat Earth Society a publié une brève déclaration: "Il s'est certainement écrasé sur le dôme. Murphy est un héro, il a sacrifié sa vie pour nous montrer la vérité."
 
 
 
 
-matt_entry_header█Tragedy on Mars - astronaut Matt is dead
-matt_entry_content█A huge sandstorm on Mars took a deadly toll. NASA's team, which has been stationed on Mars for several days, was forced to return to Earth. &%&%Unfortunately, the team is coming back in a reduced formation - while escaping to the space shuttle, which is to ensure safe return to our blue planet, one of the astronauts remained at the base. As we managed to find out from NASA representatives, the reason was to be a problem with the suit. &%&%The base was probably destroyed by a raging storm - there is no contact with Matt.
 
-matt_expansion_header█NASA is sharing the good news. We managed to get in touch with Matt who stayed on Mars - the astronaut is alive!
-matt_expansion_content█At NASA's press conference, the CEO shared good news with journalists. The astronaut remained in contact with the rest of the destroyed Martian base. &%&%NASA is currently preparing a rescue mission plan. As we have unofficially learned, the only technology that allows a rapid deployment of a rescue mission has {0}.
+news_spate_accept_header█La campagne de marketing spatiale du nouveau album de SPATE prend place! Son album volera jusque la SSI.
+news_spate_accept_content█Le producteur de musique SPATE a signé un contrat avec {0}, grâce à qui son nouvel album volera jusque la SSI. &%&%L'album sera expédié avec la prochaine mission de ravitaillement dans quelques mois. &%&%Est-ce que les membres de la Station Spatiale Internationale sont prêts à faire la fête avec du gros son?
 
-matt_accept_header█NASA's joint rescue mission together with {1}. 
-matt_accept_content█Both companies announced today that they are beginning work on rescuing the remaining astronaut on Mars. &%&%{0} will send one of their rockets to the red planet to bring Matt safely to Earth. &%&%The flight is due to take place in a few days.
-
-matt_decline_header█NASA has its hands tied. {0} will not send a rescue mission to Mars.
-matt_decline_content█Unfortunately, our assumptions turned out to be correct. {1}, the CEO of {0} has refused to help NASA. The reason for this is that the mission's too long and the flight calendar for {0} is very tight. &%&%The company managed by {1} was the only one with the right technology to send a rescue mission.
-
-matt_success_header█Hope for Matt. {1}'s rescue mission completed successfully.
-matt_success_content█We did it! {1} and the CEO of NASA have reason to be pleased. &%&%Matt, who stayed on Mars in a sandstorm-damaged base, will soon be flying home. &%&%We hope that the next manned missions to Mars will take place without sad surprises.
+news_spate_success_header█Première teuf sur la SSI.
+news_spate_success_content█Après que l'entreprise {0} a délivré le nouvel album de SPATE en guise de sa nouvelle campagne de marketing, les astronautes ont organisé une grosse (mais inaudible) fête sur la Station Spatiale Internationale. &%&%Est-ce que la structure de la SSI peut supporter une si bonne basse?
 
 
-matt_failure_header█The {1}'s rescue mission will not happen. {0}'s rocket exploded during launch.
-matt_failure_content█Today we witnessed dramatic events that took place in the atmosphere. Specially prepared, unmanned ship, which was supposed to reach Mars with a rescue mission, burned down in the atmosphere. &%&%It was the last attempt to save Matt waiting for help in the destroyed Martian base. {1} and NASA no longer have the right rockets. &%&%Rest in peace, Matt.
+opportunity2019Q1_header█NASA abandonne officiellement la mission de l'Opportunity Rover
+opportunity2019Q1_content█15 années - il s'agit de la durée de la mission du rover Opportunity, qui a atteri sur la planète rouge le 25 février 2004. &%&%Malheureusement, les dernières tentatives de contacter l'Opportunity, qui était bloqué en veille depuis juin 2018, ont été vaines - les cellules solaires utilisées pour alimenter l'équipement à bord du rover ont été recouvert de sable à cause d'une tempête de sable généralisée sur la planète. &%&%Pour 15 années de travail, Opportunity envoya un nombre incalculables de données sur Terre et a contribué à de nombreuses découvertes - il observa des nuages cirrus dans l'atmosphère de Mars, et fit des observations astronomiques impossible à réaliser depuis la Terre, tels que les transitions sur lunes de Mars sur un arrière-plan de bouclier solaire.
+
+
+
+
+matt_entry_header█Tragédie sur Mars - l'astronaute Matt est mort
+matt_entry_content█Une énorme tempête de sable a fait des ravages mortels sur Mars. L'équipe de la NASA, qui été basée sur Mars depuis plusieurs jours, a été forcé de retourner sur Terre. &%&%Malheureusement, l'équipe est revenue avec une équipe réduite - en s'échappant de la navette spatiale, qui assurer un retour en sécurité vers notre planète bleue, un des astronautes est resté à la base. De ce qu'on a pu découvrir d'un représentant de la NASA, la cause venait d'un problème avec la combinaison. &%&%La base a probablement été détruite par la rage de la tempête - il n'y a plus de contact avec Matt.
+
+matt_expansion_header█La NASA nous partage de bonnes nouvelles. Nous avons pu entrer en contact avec Matt qui est resté sur Mars - l'astronaute est vivant!
+matt_expansion_content█Lors de la conférence de presse de la NASE, le PDF a partagé la bonne nouvelle avec les journalistes. L'astronaute est resté en contact avec ce qu'il restait de la base martienne détruite. &%&%La NASA prépare actuellement une mission de sauvetage. De ce que nous avons appris officieusement, la seule technologie qui permettrait de déployer rapidement une telle mission de sauvetage est possédée par {0}.
+
+matt_accept_header█La NASA se joint à la mission de sauvetage avec {1}. 
+matt_accept_content█Les deux entreprises ont annoncé aujourd'hui qu'elles commenceraient à travailler sur le sauvetage de l'astronaute resté sur Mars. &%&%{0} enverra une de ses fusées sur la planète rouge pour ramener Matt sain et sauf sur Terre. &%&%Le vol devrait avoir lieu dans quelques jours.
+
+matt_decline_header█NASA a les mains liées. {0} n'enverra pas de mission de sauvetage sur Mars.
+matt_decline_content█Malheureusement, nos craintes se sont avérées correctes. {1}, PDG de {0} a refusé d'aider la NASA. La raison serait que la mission est trop longue et que les délais de l'échéance calendaire pour {0} seraient trop serrés. &%&%L'entreprise gérée par {1} était la seule avec la technologie capable de mener cette mission de sauvetage.
+
+matt_success_header█Espoir pour Matt. La mission de sauvetage de {1} s'est passée avec succès.
+matt_success_content█Nous l'avons fait! {1} et le PDG de la NASA ont raison de se réjouir. &%&%Matt, qui est resté sur Mars dans une base endommagée par la tempête de sable, rentrera bientôt à la maison. &%&%Nous espérons que la prochaine mission humaine vers Mars se passera sans mauvaises surprises.
+
+
+matt_failure_header█La mission de sauvetage de {1} n'aura pas lieu. La fusée de {0} a explosé lors du lancement.
+matt_failure_content█Aujourd'hui nous sommes témoins d'événements dramatiques occurant dans l'atmosphère. Spécifiquement préparé, vaisseau sans personne à bord, qui était supposé atteindre Mars pour une mission de sauvetage, a brûler dans l'atmosphère. &%&%C'était la dernière tentative pour sauver Matt qui attend de l'aide dans la base martienne détruite. {1} et la NASA n'ont plus aucune fusée valide pour cette mission. &%&%Rest in peace, Matt.
+
+
+
+
 
 
 

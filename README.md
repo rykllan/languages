@@ -18,8 +18,6 @@ Latin American Spanish: Daniel Yah
 
 Turkish: Mehmet Tandoğan from https://turkceoyunmerkezi.com/
 
-French: Paola Sanchez & Clovis Chateau
-
-Weldsh: Sbaeneg
+French: Clovis Chateau & Péran Capouillez
 
 Big thanks to Krzysztof Gmyr for organizing the team & helping with the corrections!

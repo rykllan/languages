@@ -21,42 +21,36 @@ rocketquillas█Rocketquillas
 shorts█Short Shorts
 use█Use
 
-company_progressHeader█Company Progress
-company_progressLevel█Level
-company_progressNewStuff█New Stuff
-company_progressCompleteChallenges█Complete Challenges <size=70%>(<color=#E74C3C>**</color> = optional)
-company_progressNextLevel█Next Level
-company_progressPreviousLevel█Previous Level
-locked█Locked
-unlock█Unlock
-unlocked█Unlocked
-upgrade█Upgrade
-XskillPoints█skill points
-
-upgradeHeader█<b>UPGRADE</b>&%<size=13><color=#64B5F6>15 skill points
-upgrade_reliability█<b>Reliability:</b> <color=#81C784>+10%
-upgrade_buildCost█<b>Build cost:</b> <color=#81C784>-10%
-upgrade_buildTime█<b>Build time:</b> <color=#81C784>-10%
-
 company_menu_finance█Finance
 company_menu_flights█Flights
 company_menu_competition█Competition
 
-company_summary█Finance Summary (Last 10 Years)&%<size=14>Where do you spend most money?
+company_summary█Last 10 Years
+
+company_income█Income
+company_expenses█Expenses
+company_profitLoss█Profit/Loss
 
 company_successes█Successes
 company_failures█Failures
 company_flights█Flights
 company_income█Income
-company_outcome█Outcome
+company_outcome█Expenses
 company_balance█Balance
 
 company_launches█Launches
 company_construction█Construction
+company_research█Research
+company_buildings█Buildings
 company_employees█Employees
+company_linklink█LinkLink
 company_others█Others
 company_lossPerYear█Average <mark=#E74C3C25>loss</mark> per year
 company_profitPerYear█Average <mark=#64B5F625>profit</mark> per year
+
+
+
+
 
 
 

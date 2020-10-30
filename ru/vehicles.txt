@@ -15,30 +15,50 @@ rocketRequiresCapsule█Ракета (требует корабль)
 rocketRequiresSpaceship█Ракета (требует корабль Spaceship)
 
 vehicles█Ракеты
-vehicles_newProjectHeader█Создать новый проект
-vehicles_newProjectButton█Новый проект
+droneships█Баржи
 vehicles_newVehicleHeader█Создать новую ракету
 vehicles_newVehicleButton█Новая ракета
+
+nicknameInput█Введите имя...
 
 vehicles_projects█Проекты
 vehicles_view█Просмотр
 
 land█Посадить
 
-reusedVehicle█Повт. исп. ракета:
+launchCosts█Стоимость запуска
 buildCosts█Стоимость производства
-buildTime█Время производства
 originalBuildCosts█Ориг. стоимость произв.
 optimizedBuildCosts█Оптимальная стоимость произв.
-launchCosts█Стоимость запуска
 
 inQueue█В очереди&%<size=14><b><color=#64B5F6>Модуль скоро будет произведён
 
 build█Произвести
+move█Переместить
+staticFire█Прожиг
 built█Произведено
 launch█Запустить
-repair█Починить
-turnExpendable█Сделать одноразовой
+repair█Обслужить
+turnExpendable█Последний полёт
+skip█Пропустить
+
+detailedCosts█Детальная стоимость
+leftFairing█Левый обтекатель
+rightFairing█Правый обтекатель
+secondStage█Вторая ступень
+firstStage█Первая ступень
+generalRefurbishmentPrice█Общая стоимость обслуживания
+
+xLeft█Осталось: {0}
+
+isRocketProfitable█Прибыльна ли эта ракета?
+rocketFinance█Финансы
+
+droneship█Баржа
+droneship_moveCosts█Стоимость перемещения
+droneship_buildCosts█Стоимость произв.
+droneship_noDroneship█Без баржи (ступень сгорит в атмосфере)
+droneship_notAvailable█Баржа "{0}" сейчас не доступна.
 
 earthPO█Находится на Парковочной орбите <color=#64B5F6>Земли</color> (Отправление в <b>{0}</b>)
 marsPO█Находится на Парковочной орбите <color=#E17055>Марса</color> (Отправление в <b>{0}</b>)
@@ -46,19 +66,19 @@ marsTraveling█В полёте к <color=#E17055>Марсу</color> (Прибы
 earthTraveling█В полёте к <color=#64B5F6>Земле</color> (Прибытие в <b>{0}</b>)
 marsLanding█Садится на <color=#E17055>Марс</color>
 earthLanding█Садится на <color=#64B5F6>Землю</color>
-marsTryingLand█Trying to Land on <color=#E17055>Mars</color>
-earthTryingLand█Trying to Land on <color=#64B5F6>Earth</color>
+marsTryingLand█Пытается сесть на <color=#E17055>Марс</color>
+earthTryingLand█Пытается сесть на <color=#64B5F6>Землю</color>
 marsLanded█На поверхности <color=#E17055>Марса</color>
+onDroneship█На барже. Скоро вернётся назад!
 
 readyToLaunch█<b><color=#64B5F6>{0} из {1}</b></color>&%<size=70%>готовы к запуску!
-
-capabilities█Возможности
-reliability█Надёжность
-condition█Состояние
+readyToFly█Готов к полёту
+failureChance█&%Шанс неудачи: {0}%
+actionRequired█Требуется действие
 
 notBuiltYet█Ещё не произведено
 constructing█Производство...
-repairing█Ремонт...
+repairing█Обслуживание...
 flying█В полёте
 dockedToISS█Пристыковано к МКС (скоро вернётся)
 
@@ -70,11 +90,6 @@ spaceshipsOnly█Только Spaceship
 capsulesOnly█Только корабли
 fairingRecovery█Возврат обтекателей
 
-landingNotSupported█Посадка не поддерживается!&%Вам требуются:<size=12><b>&%-Решётчатые рули & Посадочные опоры&%-Аккумулятор&%-GPS (для автоматической посадки)&%-4 или 9 продвинутых двигателя</b></size>&%
-capsulesNotSupported█Корабли не поддерживаются!&%Вам требуются:<size=12><b>&%-Аккумулятор&%-GPS&%-4 или 9 продвинутых двигателя</b></size>&%
-heavyNotSupported█Heavy-ракета не поддерживается!&%You need:<size=12><b>&%-Ракета с автоматической посадкой</b></size>&%
-fairingCatchingNotSupported█Возврат обтекателей не поддерживается!&%Вам требуется:<size=12><b>&%-Ракета с автоматической посадкой</b></size>&%
-
 payload█Нагрузка
 crew█Экипаж
 cargo█Груз
@@ -85,14 +100,29 @@ launchSetup_header█Настройка запуска
 launchSetup_missionName█Название миссии...
 launchSetup_mission█Миссия
 launchSetup_noVehiclesFound█[Не найдено ракет.]
+launchSetup_noRocketsFound█[Ракета не найдена.]&%
+launchSetup_noSpaceshipsFound█[Spaceship не найден.]&%
+launchSetup_noCapsulesFound█[Корабль не найден.]
+launchSetup_noTankersFound█[Танкер не найден.]
 launchSetup_noPayloadsFound█[Не найдено нагрузки.]
 launchSetup_selectVehicle█Выберите ракету
 launchSetup_selectLaunchPad█Выберите площадку
 launchSetup_selectTanker█Орбитальный танкер
 
+launchSetup_spaceshipRequired█[Требуется Spaceship]
+launchSetup_rocketRequired█[Требуется ракета]
+launchSetup_superheavyRequired█[Требуется сверхтяжёлая ракета]
+
+noPayloadsSelected█Не выбрана нагрузка!
+noLaunchPadSelected█Не выбрана стартовая площадка!
+noISSDocks█Недостаточно места на МКС!
+noTankerSelected█Не выбран танкер!
+noSpaceInParkingOrbit█Недостаточно места на парковочной орбите! 25/25
+
 launchSetup_barge█Баржа
 launchSetup_lz1█LZ-1
 launchSetup_lz2█LZ-2
+noLaumchPad█Без космодрома
 
 launchSetup_testFlight█Тестовый полёт
 launchSetup_concrete█Бетон
@@ -134,16 +164,16 @@ missionReportSecondVehicleLanding█Посадка корабля
 missionReportMissionIncome█Доход с миссии
 missionReportDamageCompensation█Компенсация урона
 missionReportLandedRocket█Севшая первая ступень
-profit█прибыль
-loss█убыток
+missionReportSkillPoints█Очки исследований
+profit█Прибыль
+loss█Убыток
+income█Выручка
+potentialLoss█Потенциальный убыток
+potentialProfit█Потенциальная прибыль
 
-creator_header█Новый проект
-creator_vehicleName█Название ракеты...
-creator_createProject█Создать проект
-creator_vehicleCanGoAnywhere█Эта ракета может отправиться в любое место.
-creator_capsuleRocket█Эта ракета может поддерживать только капсулы.
-creator_spaceshipRocket█Эта ракета может поддерживать только Spaceship.
-no_module_unlocked█Нет разблокированных модулей.
+
+
+
 
 
 

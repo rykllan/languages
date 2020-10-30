@@ -11,6 +11,7 @@ confirm_turnExpendable█Do you really want to remove the landing gear? The rock
 confirm_exitGame█Máris elmész, mi? :(
 confirm_exitMainMenu█Other games would tell you here, that your unsaved progress will be lost.
 confirm_deleteSave█Talán legközelebb nem kerülsz csődbe.
+confirm_staticFire█Do you really want to skip the static fire for this booster? It will have a higher chance of an explosion!
 
 yes█Igen
 no█Nem
@@ -41,13 +42,17 @@ map_settings_header█Quick Settings
 map_settings_trackers_visible█Trackers Visible
 map_settings_satellites_visible█Satellites Visible
 map_settings_linklink_outline█LinkLink Outline
+map_settings_mouseLight█Mouselight
 
 earth█Earth
 mars█Mars
 
 switchPlanet█Switch Planet
 
-tanking█Tanking...
+tanking█Fueling...
+pressurizing█Pressurizing...
+testing█Testing...
+completing█Completing...
 
 marsDetails█Mars Details
 earthLikePlanet█Earth-like Planet
@@ -67,6 +72,11 @@ unitsToProduce█Units to Produce: {0}
 marsProductionHeader█<b>Production</b> <size=50%>/quarter</size>
 marsUsageHeader█<b>Usage</b> <size=50%>/quarter</size>
 marsStorageHeader█<b>Storage</b>
+
+actionCamera█Action Camera
+switchView█Switch View
+
+sandbox█Sandbox
 
 
 

@@ -3,29 +3,56 @@
 --- NOT TRANSLATED ---
 
 
-File: general.txt (26)
-Original Translation: orbit_marsSurface█Mars Surface
+File: general.txt (25)
+Original Translation: orbit_iss█ISS
+
+File: tutorial.txt (0)
+Original Translation: tutorial█Tutorial
+
+File: tutorial.txt (1)
+Original Translation: help█Help
+
+File: tutorial.txt (16)
+Original Translation: tutorial_LinkLink█LinkLink
+
+File: company.txt (36)
+Original Translation: company_linklink█LinkLink
 
 File: contracts.txt (38)
 Original Translation: payload_potato█Orbital Potato
 
-File: levels.txt (26)
-Original Translation: levelTitle26█Cybermars
+File: levels.txt (7)
+Original Translation: research_info█Info
 
-File: levels.txt (32)
-Original Translation: levelTitle32█https://youtu.be/CfqCQQe2E2s
+File: levels.txt (136)
+Original Translation: upgrade_rideshare█Rideshare
 
 File: linklink.txt (17)
 Original Translation: linkLink_system█System
 
-File: mainMenu.txt (28)
-Original Translation: menu_gameOverSetting█Gameover?
+File: mainMenu.txt (29)
+Original Translation: menu_tutorial█Tutorial?
 
-File: modules.txt (16)
+File: mainMenu.txt (45)
+Original Translation: dubbing█Dubbing: {0}
+
+File: modules.txt (3)
 Original Translation: module_factory_giga█Giga
 
-File: vehicles.txt (35)
-Original Translation: marsTryingLand█Trying to Land on <color=#E17055>Mars</color>
+File: modules.txt (28)
+Original Translation: mdl_gps█GPS
 
-File: vehicles.txt (36)
-Original Translation: earthTryingLand█Trying to Land on <color=#64B5F6>Earth</color>
+File: modules.txt (50)
+Original Translation: mdl_cargoUtility█Cargo Utility
+
+File: modules.txt (51)
+Original Translation: mdl_crewUtility█Crew Utility
+
+File: modules.txt (52)
+Original Translation: mdl_fuelUtility█Fuel Utility
+
+File: vehicles.txt (42)
+Original Translation: droneship_noDroneship█No Droneship (Rocket will burn after its Flight)
+
+File: vehicles.txt (43)
+Original Translation: droneship_notAvailable█{0} is not available now.

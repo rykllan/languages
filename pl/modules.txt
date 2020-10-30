@@ -1,19 +1,5 @@
 
 
-type_fairings█Owiewki
-type_fuelTank█Zbiornik Paliwa
-type_engine█Silnik
-type_computer█Komputer
-type_gridFins█Lotki
-type_landingLegs█Podwozie
-type_battery█Bateria
-type_other█Inne
-type_body█Konstrukcja
-type_parachutes█Spadochron
-type_sensors█Sensor
-type_antenna█Antena
-type_utility█Typ
-
 module_factory_small█Mały
 module_factory_medium█Średni
 module_factory_large█Duży
@@ -21,72 +7,77 @@ module_factory_giga█Giga
 
 ---Engines---█---Engines---
 
-mdl_s_engine█Prosty Silnik,Wymagany do małych rakiet.
-mdl_a_engine█Zaawansowany Silnik,Wymagany do średnich rakiet.
-mdl_a4_engine█4 Zaawansowane Silniki,Wymagane do ręcznie lądujących/wynoszących kapsuły rakiet.
-mdl_a9_engine█9 Zaawansowanych Silników,Wymagane do dużych/automatycznie lądujących rakiet.
-mdl_m27_engine█37 Metanowych Silników,Wymagane do ogromnych rakiet.
+mdl_s_engine█Prosty Silnik
+mdl_a_engine█Zaawansowany Silnik
+mdl_a4_engine█4 Zaawansowane Silniki
+mdl_a9_engine█9 Zaawansowanych Silników
+mdl_m27_engine█37 Silników Metanowych
 
 
 ---FuelTanks---█---FuelTanks---
 
-mdl_s_fueltank█Mały Zbiornik Paliwa,Wymagany do małych rakiet.
-mdl_m_fueltank█Średni Zbiornik Paliwa,Wymagany do średnich/wynoszących kapsuły rakiet.
-mdl_l_fueltank█Duży Zbiornik Paliwa,Wymagany do dużych/automatycznie lądujących rakiet.
-mdl_vl_fueltank█Ogromny Zbiornik Paliwa,Wymagany do ogromnych/wynoszących statki kosmiczne rakiet.
+mdl_s_fueltank█Mały zbiornik paliwa
+mdl_m_fueltank█Średni zbiornik paliwa
+mdl_l_fueltank█Duży zbiornik paliwa
+mdl_vl_fueltank█Ogromny zbiornik paliwa
 
 
 ---Computers---█---Computers---
 
-mdl_s_computer█Prosty Komputer,Wymagany do małych i średnich rakiet.
-mdl_a_computer█Zaawansowany Komputer,Wymagany do dużych/lądujących/wynoszących kapsuły rakiet.
-mdl_sn_computer█Komputer Skynet,Wymagany do ogromnych/wynoszących statki kosmiczne rakiet.
-mdl_s_battery█Mała Bateria,Wymagana do ręcznie lądujących/wynoszących kapsuły rakiet.
-mdl_a_battery█Zaawansowana Bateria,Wymagana do automatycznie lądujących/dużych rakiet.
-mdl_gps█GPS,Wymagany do rakiet wynoszących kapsuły/automatycznie lądujących.
+mdl_s_computer█Prosty komputer
+mdl_a_computer█Zaawansowany komputer
+mdl_chip_computer█Chip
+mdl_sn_computer█Komputer Skynet
+mdl_booster_connector█Łącznik boosterów
+mdl_camera█Kamera
+mdl_s_altitude█Czujnik wysokości
+mdl_s_heat█Czujnik ciepła
+mdl_s_battery█Mała bateria
+mdl_a_battery█Duża bateria
+mdl_a_antenna█Zaawansowana antena
+mdl_s_antenna█Prosta antena
+mdl_gps█GPS
 
 
 ---Fairings---█---Fairings---
 
-mdl_s_fairings█Małe Owiewki,Wymagane do małych rakiet.
-mdl_m_fairings█Średnie Owiewki,Wymagane do średnich rakiet.
-mdl_l_fairings█Duże Owiewki,Wymagane do dużych rakiet.
-mdl_vc_fairings█Złącze Pojazdów,Wymagane do rakiet wynoszących kapsuły i statki kosmiczne.
-mdl_fairingParachutes█Spadochron do Owiewek,Lądująca rakieta jest wymagana, aby odzyskać owiewki.
+mdl_s_fairings█Małe owiewki
+mdl_m_fairings█Średnie owiewki
+mdl_l_fairings█Duże owiewki 
+mdl_vc_fairings█Łącznik pojazdów
+mdl_fairingParachutes█Spadochron owiewek
 
 
 ---Landing Stuff---█---Landing Stuff---
 
-mdl_a_gridfins█Aluminiowe Lotki,Wymagane do ręcznie lądujących rakiet.
-mdl_t_gridfins█Tytanowe Lotki,Wymagane do automatycznie lądujących rakiet.
-mdl_m_landingLegs█Ręczne Podwozie,Wymagane do ręcznie lądujących rakiet.
-mdl_a_landingLegs█Automatyczne Podwozie,Wymagane do automatycznie lądujących rakiet.
-mdl_booster_connector█Łącznik Boosterów,Wymagane do ciężkich rakiet.
+mdl_a_gridfins█Aluminiowe lotki
+mdl_t_gridfins█Tytanowe lotki
+mdl_m_landingLegs█Manualne nóżki
+mdl_a_landingLegs█Automatyczne nóżki
 
 
 ---Capsule Stuff---█---Capsule Stuff---
 
-mdl_light_structure█Lekka Konstrukcja,Wymagana do kapsuł ładunkowych.
-mdl_heavy_structure█Ciężka Konstrukcja,Wymagana do kapsuł załogowych.
-mdl_chip_computer█Czip Komputerowy,Wymagany do zbudowania kapsuły.
-mdl_a_antenna█Zaawansowana Antena,Wymagana do kapsuł załogowych.
-mdl_s_antenna█Prosta Antena,Wymagana do kapsuł ładunkowych.
-mdl_a_escape_engines█Zaawansowane Silniczki,Wymagane do kapsuł załogowych.
-mdl_s_escape_engines█Proste Silniczki,Wymagane do kapsuł załogowych.
-mdl_a_parachutes█Zaawansowany Spadochron,Wymagany do kapsuł załogowych.
-mdl_s_parachutes█Prosty Spadochron,Wymagana do kapsuł ładunkowych.
-mdl_camera█Kamera,Kamera pozwala Ci widzieć to, co widzi twoja rakieta.
-mdl_s_altitude(capsule)█Sensor Wysokości,Wymagany do kapsuł załogowych.
-mdl_s_altitude(rocket)█Sensor Wysokości,Ten sensor pozwala Ci zobaczyć więcej danych podczas lotu twojej rakiety.
-mdl_s_heat█Sensor Ciepła,Wymagany do kapsuł załogowych.
----Spaceship Stuff---█---Spaceship Stuff---
-mdl_methane_fueltank█Zbiornik Metanu,Wymagany do zbudowania statku kosmicznego.
-mdl_methane_engine█6 Metanowych Silników,Wymagane do zbudowania statku kosmicznego.
-mdl_stainlesssteel_structure█Stalowa Konstrukcja,Wymagana do zbudowania statku kosmicznego.
+mdl_light_structure█Lekkie poszycie
+mdl_heavy_structure█Ciężkie poszycie
+mdl_a_escape_engines█Silniki ucieczkowe
+mdl_a_parachutes█Zaawansowany spadochron
+mdl_s_parachutes█Prosty spadochron
 
-mdl_cargoUtility█Typ Towarowy,Towarowy Statek Kosmiczny
-mdl_crewUtility█Typ Załogowy,Załogowy Statek Kosmiczny
-mdl_fuelUtility█Typ Cysterny,Cysternowy Statek Kosmiczny
+
+---Spaceship Stuff---█---Spaceship Stuff---
+
+mdl_methane_fueltank█Zbiornik metanu
+mdl_methane_engine█6 silników metanowych
+mdl_stainlesssteel_structure█Kadłub ze stali nierdzewnej
+
+mdl_cargoUtility█Wersja towarowa
+mdl_crewUtility█Wersja załogowa
+mdl_fuelUtility█Wersja cysternowa
+
+
+
+
 
 
 
