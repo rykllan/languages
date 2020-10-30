@@ -26,7 +26,7 @@ contracts_offer_accept█Accepter l'offre
 contracts_offer_accepted█Vous avez accepté cette offre.
 
 deadline_critical█Critique !
-deadline_launchNow█Lancer maintenant !
+deadline_launchNow█Lancez la charge maintenant !
 deadline_yearLeft█1 an restant !
 deadline_yearsLeft█{0} an(s) restant !
 
