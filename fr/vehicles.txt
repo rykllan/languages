@@ -15,18 +15,18 @@ rocketRequiresCapsule█Fusée (Requiert capsule)
 rocketRequiresSpaceship█Fusée (Requiert navette spatiale)
 
 vehicles█Véhicules
-droneships█Droneships
+droneships█Barges de récupération
 vehicles_newVehicleHeader█Créer un nouveau véhicule
 vehicles_newVehicleButton█Nouveau véhicule
 
-nicknameInput█Enter nickname...
+nicknameInput█Entrer pseudo...
 
 vehicles_projects█Projets
 vehicles_view█Voir
 
 land█Atterrir
 
-launchCosts█Launch costs
+launchCosts█Coûts de lancement
 buildCosts█Coûts de production
 originalBuildCosts█Coûts de production originaux
 optimizedBuildCosts█Coûts de production optimisés
@@ -34,51 +34,51 @@ optimizedBuildCosts█Coûts de production optimisés
 inQueue█En file d'attente&%<size=14><b><color=#64B5F6>Le module sera construit dans un petit moment
 
 build█Construire		
-move█Move
-staticFire█Static Fire
+move█Déplacer
+staticFire█Essai de tir statique
 built█Construit
 launch█Lancer
-repair█Refurbish
-turnExpendable█Last Flight
-skip█Skip
+repair█Remettre à neuf
+turnExpendable█Dernier vol
+skip█Passer
 
-detailedCosts█Detailed costs
-leftFairing█Left Fairing
-rightFairing█Right Fairing
-secondStage█Second Stage
-firstStage█First Stage
-generalRefurbishmentPrice█General refurbishment price
+detailedCosts█Coûts détaillés
+leftFairing█Coiffe gauche
+rightFairing█Coiffe droite
+secondStage█Deuxième étape
+firstStage█Première étape
+generalRefurbishmentPrice█Prix général de la remise à neuf
 
-xLeft█{0} left
+xLeft█{0} restant(s)
 
-isRocketProfitable█Is this rocket profitable?
-rocketFinance█Finance
+isRocketProfitable█Est-ce que cette fusée est rentable?
+rocketFinance█Finances
 
-droneship█Droneship
-droneship_moveCosts█Move costs
-droneship_buildCosts█Build costs
+droneship█Barge de récupération
+droneship_moveCosts█Coût de déplacement
+droneship_buildCosts█Coût de construction
 
 earthPO█Garé sur le Parking Orbital de la <color=#64B5F6>Terre</color> (Quitte en <b>{0}</b>)
 marsPO█Garé sur le Parking Orbital de <color=#E17055>Mars</color> (Quitte en <b>{0}</b>)
 marsTraveling█Voyage vers <color=#E17055>Mars</color> (Arrive en <b>{0}</b>)
-earthTraveling█Traveling to <color=#64B5F6>Earth</color> (Arriving in <b>{0}</b>)
+earthTraveling█Voyage vers la <color=#64B5F6>Terre</color> (Arrive en <b>{0}</b>)
 marsLanding█En train d'atterir sur <color=#E17055>Mars</color>
 earthLanding█En train d'atterir sur <color=#64B5F6>Earth</color>
 marsTryingLand█Essaie d'atterir sur <color=#E17055>Mars</color>
 earthTryingLand█Essaie d'atterir sur <color=#64B5F6>Earth</color>
 marsLanded█Atteri sur <color=#E17055>Mars</color>
-onDroneship█On a Droneship. Coming back soon!
+onDroneship█Sur une barge de récupération. Reviens bientôt!
 
 readyToLaunch█<b><color=#64B5F6>{0} des {1}</b></color>&%<size=70%>sont prêts au lancement!
-readyToFly█Ready to Fly
-failureChance█&%Failure Chance: {0}%
-actionRequired█Action Required
+readyToFly█Prêt au décollage
+failureChance█&%Risque de défaillance: {0}%
+actionRequired█Action requise
 
 notBuiltYet█Pas encore construit
 constructing█En construction...
-repairing█Refurbishing...
+repairing█En cours de réparation...
 flying█En vol
-dockedToISS█Atterri à la SSI (Reviendra bientôt.)
+dockedToISS█Amarré à l'ISS (Reviendra bientôt.)
 
 reusable█Réutilisable
 manual█Manuel
@@ -98,29 +98,29 @@ launchSetup_header█Préparation du lancement
 launchSetup_missionName█Titre de la mission...
 launchSetup_mission█Mission
 launchSetup_noVehiclesFound█[Aucun véhicule trouvé.]
-launchSetup_noRocketsFound█[No rockets found.]&%
-launchSetup_noSpaceshipsFound█[No spaceships found.]&%
-launchSetup_noCapsulesFound█[No capsules found.]
-launchSetup_noTankersFound█[No tankers found.]
-launchSetup_noPayloadsFound█[Aucune charge en capacité trouvée.]
+launchSetup_noRocketsFound█[Aucune fusée trouvée.]&%
+launchSetup_noSpaceshipsFound█[Aucune navette spatiale trouvée.]&%
+launchSetup_noCapsulesFound█[Aucune capsule trouvée.]
+launchSetup_noTankersFound█[Aucun tanker trouvé.]
+launchSetup_noPayloadsFound█[Aucune charge utile trouvée.]
 launchSetup_selectVehicle█Sélectionner un véhicule
 launchSetup_selectLaunchPad█Sélectionner une rampe
 launchSetup_selectTanker█Vaisseau de ravitaillement en orbite
 
-launchSetup_spaceshipRequired█[Spaceship Required]
-launchSetup_rocketRequired█[Rocket Required]
-launchSetup_superheavyRequired█[Superheavy Required]
+launchSetup_spaceshipRequired█[Navette requise]
+launchSetup_rocketRequired█[Fusée requise]
+launchSetup_superheavyRequired█[Superlourd requis]
 
-noPayloadsSelected█No Payloads selected!
-noLaunchPadSelected█No LaunchPad selected!
-noISSDocks█No space in the ISS!
-noTankerSelected█No Tanker selected!
-noSpaceInParkingOrbit█No space in Parking Orbit! 25/25
+noPayloadsSelected█Pas de charge utile sélectionnée!
+noLaunchPadSelected█Pas de rampe de lancement de selectionnée!
+noISSDocks█Pas de dock libre sur l'ISS!
+noTankerSelected█Pas de vaisseau de ravitaillement (Tanker) de sélectionné!
+noSpaceInParkingOrbit█Pas d'espace sur le Parking Orbital! 25/25
 
 launchSetup_barge█Barge
 launchSetup_lz1█LZ-1
 launchSetup_lz2█LZ-2
-noLaumchPad█No LaunchPad
+noLaumchPad█Pas de rampe de lancement
 
 launchSetup_testFlight█Vol test
 launchSetup_concrete█Béton
@@ -142,7 +142,7 @@ launchPanel_telemetry█Télémetrie
 launchPanel_noSupportTelemetry█Cette fusée de supporte pas la télémétrie.
 launchPanel_speed█Vitesse
 launchPanel_altitude█Altitude
-launchPanel_staticFire█Feu statique
+launchPanel_staticFire█Essai de tir statique
 launchPanel_speedMetric█km/h
 launchPanel_altitudeMetric█km
 
@@ -162,12 +162,12 @@ missionReportSecondVehicleLanding█Atterrissage du second véhicule
 missionReportMissionIncome█Revenus de la mission
 missionReportDamageCompensation█Compensation des dégâts
 missionReportLandedRocket█Fusée atterrie
-missionReportSkillPoints█Skill points
-profit█Profit
-loss█Loss
-income█Income
-potentialLoss█Potential Loss
-potentialProfit█Potential Profit
+missionReportSkillPoints█Points de compétence
+profit█Bénéfices
+loss█Pertes
+income█Revenus
+potentialLoss█Pertes potentielles
+potentialProfit█Bénéfices potentiels
 
 
 
