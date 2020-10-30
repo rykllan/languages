@@ -56,7 +56,7 @@ contract_tesla█Starman
 payload_tesla█Tesla Roadster
 
 contract_potato█Charges utiles d'essai
-payload_potato█Patate orbital
+payload_potato█Patate orbitale
 
 contract_balwina█meow... Meow... MEOW!!!
 
