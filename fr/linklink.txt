@@ -36,7 +36,7 @@ linkLink_system█Système
 linkLink_production█Production
 linkLink_statistics█Statistiques
 
-linkLink_100_required█You need at least <color=#64B5F6><b>420</b></color> LinkLinks in order to run the service.
+linkLink_100_required█Vous avez besoin d'au moins <color=#64B5F6><b>420</b></color> LinkLinks pour faire fonctionner le service.
 
 linkLink_run█Lancer LinkLink
 linkLink_customerPrice█Prix de l'abonnement client (par mois)
@@ -47,7 +47,7 @@ linkLink_build█Construire LinkLink
 
 linkLink_totalCustomers█Utilisateurs
 linkLink_totalLinkLinks█LinkLinks totaux 
-linkLink_income█Revenu annuel
+linkLink_income█Revenus annuel
 linkLink_stability█Stabilité de la connexion
 linkLink_capacity█Capacité LinkLink (Utilisateurs max)
 linkLink_terminalCapacity█Capacité des terminaux (Utilisateurs max)
