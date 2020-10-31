@@ -65,11 +65,11 @@ task_LargeRocketStaticFireTest█Faites {0} essai(s) de tir statique(s) avec des
 task_HeavyRocketStaticFireTest█Faites {0} essai(s) de tir statique(s) avec des fusée(s) lourde(s)!
 task_GrasshopperTest█Testez {0} fusée(s) Hopper!
 
-task_RaptorVacEngineTest█Mettez à feu {0} moteur(s) Vacuum de navette!
-task_RaptorEngineTest█Mettez à feu {0} moteur(s) de navette!
+task_RaptorVacEngineTest█Mettez à feu {0} moteurs Vacuum de navette!
+task_RaptorEngineTest█Mettez à feu {0} moteurs de navette!
 task_SnHop_20m_Test█Réussissez {0} bond(s) de 20m avec des fusées Hopper!
-task_SnHop_150m_Test█Réussissez {0} bond(s) de 150m pour le prototype de navette!
-task_SnHop_20km_Test█Réussissez {0} bond(s) de 20km pour le prototype de navette!
+task_SnHop_150m_Test█Réussissez {0} bond de 150m avec le prototype de navette Hopper!
+task_SnHop_20km_Test█Réussissez {0} bond(s) de 20km avec le prototype de navette!
 
 task_LaunchMarsCamera█Réussissez la mission de caméra sur Mars!
 task_LaunchTinTin█Réussissez la mission TinTin!
