@@ -51,10 +51,10 @@ medium_factory█Usine moyenne
 medium_factory_desc█Vous pouvez y construire des modules petits et moyens.
 
 large_factory█Grande usine
-large_factory_desc█Vous pouvez y construire tout type de véhicule sauf des navettes spatiales et SuperHeavy.
+large_factory_desc█Vous pouvez y construire tout type de véhicules sauf des navettes spatiales et Superlourdes.
 
 giga_factory█Giga usine
-giga_factory_desc█Vous pouvez y construire tous types de véhicules et satellites.
+giga_factory_desc█Vous pouvez y construire tous les types de véhicules et satellites.
 
 small_hangar█Petit hangar
 small_hangar_desc█Vous pouvez y stocker uniquement des fusées.
