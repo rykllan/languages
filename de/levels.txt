@@ -1,81 +1,81 @@
 
 
-research_header█Research
+research_header█Forschung
 research_technology█Technology
-research_prototypes█Prototypes
+research_prototypes█Prototypen
 
-research_back█Back
-research_view█View
+research_back█Zurück
+research_view█Zeige
 
 research_upgrades█Upgrades
 research_extras█Extras
 research_info█Info
 
-research_locked█Locked
-research_unlocked█Unlocked
+research_locked█Gesperrt
+research_unlocked█Freigeschaltet
 
-research_unlock█Unlock
+research_unlock█freischalten
 research_upgrade█Upgrade
 
-research_flights█Flights
-research_successes█Successes
-research_failures█Failures
-research_cost█Cost
-research_buildPrice█Build Price
-research_launchPrice█Launch Price
-research_totalIncome█Total Income
-research_totalExpenses█Total Expenses
-research_totalLoss█Total Loss
-research_profit█Profit
+research_flights█Flüge
+research_successes█Erfolge
+research_failures█Fehlschläge
+research_cost█Kosten
+research_buildPrice█Baukosten
+research_launchPrice█Startpreis
+research_totalIncome█Gesamteinnahmen
+research_totalExpenses█Gesamtausgaben
+research_totalLoss█Gesamtverlust
+research_profit█Gewinn
 
-research_vehicleName█Enter vehicle name...
+research_vehicleName█Fahrzeugname eingeben...
 
-research_milestones█Milestones
-research_availableTests█Available Tests
+research_milestones█Meilensteine
+research_availableTests█Verfügbare Tests
 
 research_test█Test
-research_testCompleted█Completed
+research_testCompleted█Abgeschlossen
 
-research_prototypeBuilt█{0} has been built.
+research_prototypeBuilt█{0} wurde gebaut.
 
-task_SkillPoints█Have {0} Skill Points! 
-task_LaunchPayloads█Launch {0} Payloads into Space! 
-task_Money█Have {0} <color=#16A085>$</color>! 
+task_SkillPoints█Haben {0} Fähigkeitspunkte! 
+task_LaunchPayloads█Starte {0} Nutzlasten in den Weltraum! 
+task_Money█Habe {0} <color=#16A085>$</color>! 
 
-task_LaunchSmallRocket█Launch {0} Small Rocket(s)!
-task_LaunchMediumRocket█Launch {0} Medium Rocket(s)!
-task_LaunchLargeRocket█Launch {0} Large Rocket(s)!
-task_LaunchHeavyRocket█Launch {0} Heavy Rocket(s)!
+task_LaunchSmallRocket█Starte {0} kleine Rakete(n)!
+task_LaunchMediumRocket█Starte {0} mittlere Rakete(n)!
+task_LaunchLargeRocket█Starte {0} große Rakete(n)!
+task_LaunchHeavyRocket█Starte {0} schwere Rakete(n)!
 
-task_LaunchSpaceshipOrbit█Launch {0} Spaceship(s) to Earth's Orbit!
-task_LaunchSpaceshipMars█Launch {0} Spaceship(s) to Mars!
+task_LaunchSpaceshipOrbit█Starte {0} Raumschiff(e) in die Erdumlaufbahn!
+task_LaunchSpaceshipMars█Starte {0} Raumschiff(e) zum Mars!
 
-task_LaunchCargoCapsule█Launch {0} Cargo Capsule(s) to the ISS!
-task_LaunchCrewCapsule█Launch {0} Crew Capsule(s) to the ISS!
+task_LaunchCargoCapsule█Starte {0} Frachtkapsel(n) zur ISS!
+task_LaunchCrewCapsule█Starte {0} Mannschaftskapsel(n) zur ISS!
 
-task_LandManually█Manually Land with {0} Rocket(s)!
-task_LandAutomatically█Automatically Land with {0} Rocket(s)!
-task_ReuseRockets█Reuse {0} Rocket(s)!
-task_LandOnMars█Land with {0} Spaceship(s) on Mars!
-task_CatchFairings█Catch {0} Fairings!
+task_LandManually█Lande mit {0} Rakete(n) von Hand!
+task_LandAutomatically█Lande automatisch mit {0} Rakete(n)!
+task_ReuseRockets█Verwende {0} Rakete(n) wieder!
+task_LandOnMars█Lande mit {0} Raumschiff(en) auf dem Mars!
+task_CatchFairings█Fange {0} Verkleidung(en)!
 
-task_MerlinEngineTest█Test {0} Rocket Engine(s)!
+task_MerlinEngineTest█Teste {0} Raketenantrieb(e)!
 task_MediumRocketStaticFireTest█Static fire {0} Medium Rocket(s)!
 task_LargeRocketStaticFireTest█Static fire {0} Large Rocket(s)!
 task_HeavyRocketStaticFireTest█Static fire {0} Heavy Rocket(s)!
-task_GrasshopperTest█Test {0} Rocket Hopper(s)!
+task_GrasshopperTest█Teste {0} Rocket Hopper!
 
-task_RaptorVacEngineTest█Fire {0} Spaceship Vacum Engine(s)!
-task_RaptorEngineTest█Fire {0} Spaceship Engine(s)!
+task_RaptorVacEngineTest█Zünde {0} Raumschiff-Vakuumtriebwerk(e)!
+task_RaptorEngineTest█Zünde {0} Raumschifftriebwerk(e)!
 task_SnHop_20m_Test█Complete {0} 20m Hop(s) for Spaceship Hopper!
 task_SnHop_150m_Test█Complete {0} 150m Hop(s) for Spaceship Prototype!
 task_SnHop_20km_Test█Complete {0} 20km Hop(s) for Spaceship Prototype!
 
-task_LaunchMarsCamera█Complete Mars Camera Mission!
-task_LaunchTinTin█Complete TinTin Mission!
+task_LaunchMarsCamera█Beende die Mars-Kamera-Mission!
+task_LaunchTinTin█Beende die TinTin-Mission!
 
-task_LinkLinksTotal█Have {0} LinkLinks on Earth's Orbit!
-task_LinkLinkCustomers█Have {0} LinkLink Customers! 
+task_LinkLinksTotal█Habe {0} LinkLink(s) in der Erdumlaufbahn!
+task_LinkLinkCustomers█Habe {0} LinkLink-Kunden! 
 
 task_BuildSmallTerminals█Build {0} Small LinkLink Terminal(s)!
 task_BuildLargeTerminals█Build {0} Large LinkLink Terminal(s)!

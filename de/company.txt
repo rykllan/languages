@@ -25,23 +25,23 @@ company_menu_finance█Finanzen
 company_menu_flights█Flüge
 company_menu_competition█Konkurrenz
 
-company_summary█Last 10 Years
+company_summary█Letzten 10 Jahre
 
 company_income█Einkommen
-company_expenses█Expenses
-company_profitLoss█Profit/Loss
+company_expenses█Ausgaben
+company_profitLoss█Gewinn/Verlust
 
 company_successes█Erfolge
 company_failures█Fehlschläge
 company_flights█Flüge
 company_income█Einkommen
-company_outcome█Expenses
+company_outcome█Profit
 company_balance█Bilanz
 
 company_launches█Starts
 company_construction█Konstruktionen
-company_research█Research
-company_buildings█Buildings
+company_research█Forschung
+company_buildings█Gebäude
 company_employees█Mitarbeiter
 company_linklink█LinkLink
 company_others█Anderes

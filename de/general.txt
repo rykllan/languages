@@ -11,7 +11,7 @@ confirm_turnExpendable█Willst du wirklich das Fahrwerk ausbauen? Die Rakete wi
 confirm_exitGame█Du verlässt mich jetzt, hm? :(
 confirm_exitMainMenu█Andere Spiele würden dir hier mittelen, dass nicht gespeicherte Daten verloren gehen.
 confirm_deleteSave█Vielleicht gehst du nächstes mal nicht Bankrot.
-confirm_staticFire█Do you really want to skip the static fire for this booster? It will have a higher chance of an explosion!
+confirm_staticFire█Willst du wirklich das static Fire für diesen Booster überspringen? Das Risiko einer Explosion wird größer sein!
 
 yes█Ja
 no█Nein
@@ -42,17 +42,17 @@ map_settings_header█Quick Settings
 map_settings_trackers_visible█Trackers Visible
 map_settings_satellites_visible█Satelliten sichtbar
 map_settings_linklink_outline█LinkLink Outline
-map_settings_mouseLight█Mouselight
+map_settings_mouseLight█Cursorlicht
 
 earth█Erde
 mars█Mars
 
 switchPlanet█Planet wechseln
 
-tanking█Fueling...
+tanking█Betankung...
 pressurizing█Pressurizing...
-testing█Testing...
-completing█Completing...
+testing█Testen...
+completing█Fertigstellung...
 
 marsDetails█Marsdetails
 earthLikePlanet█Erdähnlicher Planet
@@ -73,8 +73,8 @@ marsProductionHeader█<b>Produktion</b> <size=50%>/Quartier</size>
 marsUsageHeader█<b>Benutzung</b> <size=50%>/Quartier</size>
 marsStorageHeader█<b>Speicher</b>
 
-actionCamera█Action Camera
-switchView█Switch View
+actionCamera█Action-Cam
+switchView█Ansicht umschalten
 
 sandbox█Sandbox
 
