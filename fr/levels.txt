@@ -69,7 +69,7 @@ task_RaptorVacEngineTest█Mettez à feu {0} moteurs Vacuum de navette!
 task_RaptorEngineTest█Mettez à feu {0} moteurs de navette!
 task_SnHop_20m_Test█Réussissez {0} bond(s) de 20m avec des fusées Hopper!
 task_SnHop_150m_Test█Réussissez {0} bond de 150m avec le prototype de navette Hopper!
-task_SnHop_20km_Test█Réussissez {0} bond(s) de 20km avec le prototype de navette!
+task_SnHop_20km_Test█Réussissez {0} bonds de 20km avec le prototype de navette!
 
 task_LaunchMarsCamera█Réussissez la mission de caméra sur Mars!
 task_LaunchTinTin█Réussissez la mission TinTin!
