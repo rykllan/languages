@@ -173,7 +173,7 @@ upgrade_crewCapsuleSupport█Support de capsule d'équipage
 upgrade_crewCapsuleSupportDesc█Vous permet d'envoyer des capsules de cargaison et d'équipage avec cette fusée.
 
 upgrade_manualLanding█Atterrissage manuel
-upgrade_manualLandingDesc█Vous permet de faire atterrir votre fusée manuellement après sa mission. N'oubliez pas, un atterrissage manuel nécessite que vosu cliquiez le bouton "Cliquez pour atterrir"!
+upgrade_manualLandingDesc█Vous permet de faire atterrir votre fusée manuellement après sa mission. N'oubliez pas, un atterrissage manuel nécessite que vous cliquiez le bouton "Atterrir"!
 
 upgrade_automaticLanding█Atterrissage automatique
 upgrade_automaticLandingDesc█Cette fusée atterrira automatiquement après sa mission.
