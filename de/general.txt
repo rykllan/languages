@@ -11,7 +11,7 @@ confirm_turnExpendable█Willst du wirklich das Fahrwerk ausbauen? Die Rakete wi
 confirm_exitGame█Du verlässt mich jetzt, hm? :(
 confirm_exitMainMenu█Andere Spiele würden dir hier mittelen, dass nicht gespeicherte Daten verloren gehen.
 confirm_deleteSave█Vielleicht gehst du nächstes mal nicht Bankrot.
-confirm_staticFire█Willst du wirklich das static Fire für diesen Booster überspringen? Das Risiko einer Explosion wird größer sein!
+confirm_staticFire█Willst du wirklich den Antriebstest für diesen Booster überspringen? Das Risiko einer Explosion wird größer sein!
 
 yes█Ja
 no█Nein

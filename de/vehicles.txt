@@ -35,7 +35,7 @@ inQueue█In der Warteschlange&%<size=14><b><color=#64B5F6>Modul wir in kürze g
 
 build█Bauen
 move█Verschieben
-staticFire█Static Fire
+staticFire█Antriebstest
 built█Gebaut
 launch█Starten
 repair█Instand setzen
