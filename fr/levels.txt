@@ -152,7 +152,7 @@ vehicle_cargoSpaceship█Navette de cargaison
 vehicle_cargoSpaceshipDesc█Envoyez plus de charges utiles en orbite de la Terre, ou même de Mars! Pour atterrir sur Mars, vous aurez besoin d'une fusée de ravitaillement (Tanker).
 
 vehicle_crewSpaceship█Navette d'équipage
-vehicle_crewSpaceshipDesc█Envoyez des humainsSend humans to the International Space Station or Mars Surface. 
+vehicle_crewSpaceshipDesc█Envoyez des humains sur la Station Spatiale Internationale ou sur la surface de Mars.
 
 vehicle_tankerSpaceship█Fusée de ravitaillement (Tanker)
 vehicle_tankerSpaceshipDesc█C'est nécessaire pour ravitailler vos navettes en orbite de la Terre.
