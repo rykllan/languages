@@ -3,20 +3,5 @@
 --- NOT TRANSLATED ---
 
 
-File: tutorial.txt (1)
-Original Translation: help█Help
-
-File: company.txt (29)
-Original Translation: company_outcome█Expenses
-
-File: levels.txt (63)
-Original Translation: task_MarsOxygen█Transport {0} Oxygen to Mars with a Spaceship!
-
-File: linklink.txt (20)
-Original Translation: linkLink_100_required█You need at least <color=#64B5F6><b>420</b></color> LinkLinks in order to run the service.
-
-File: vehicles.txt (42)
-Original Translation: droneship_noDroneship█No Droneship (Rocket will burn after its Flight)
-
-File: vehicles.txt (43)
-Original Translation: droneship_notAvailable█{0} is not available now.
+File: vehicles.txt (91)
+Original Translation: noVehicleSelected█No Vehicle selected!

@@ -2296,136 +2296,139 @@ File: vehicles.txt (90)
 Original Translation: noLaunchPadSelected█No LaunchPad selected!
 
 File: vehicles.txt (91)
-Original Translation: noISSDocks█No space in the ISS!
+Original Translation: noVehicleSelected█No Vehicle selected!
 
 File: vehicles.txt (92)
-Original Translation: noTankerSelected█No Tanker selected!
+Original Translation: noISSDocks█No space in the ISS!
 
 File: vehicles.txt (93)
-Original Translation: noSpaceInParkingOrbit█No space in Parking Orbit! 25/25
+Original Translation: noTankerSelected█No Tanker selected!
 
 File: vehicles.txt (94)
+Original Translation: noSpaceInParkingOrbit█No space in Parking Orbit! 25/25
+
+File: vehicles.txt (95)
 Original Translation: launchSetup_barge█Barge
 
-File: vehicles.txt (97)
+File: vehicles.txt (98)
 Original Translation: noLaumchPad█No LaunchPad
 
-File: vehicles.txt (98)
+File: vehicles.txt (99)
 Original Translation: launchSetup_testFlight█Test Flight
 
-File: vehicles.txt (99)
+File: vehicles.txt (100)
 Original Translation: launchSetup_concrete█Concrete
 
-File: vehicles.txt (100)
+File: vehicles.txt (101)
 Original Translation: launchSetup_cheese█Cheese
 
-File: vehicles.txt (101)
+File: vehicles.txt (102)
 Original Translation: launchSetup_pizza█Pizza
 
-File: vehicles.txt (102)
+File: vehicles.txt (103)
 Original Translation: launchSetup_earthPlush█Earth Plush
 
-File: vehicles.txt (103)
+File: vehicles.txt (104)
 Original Translation: launchSetup_everydayStickers█Everyday Stickers
 
-File: vehicles.txt (104)
+File: vehicles.txt (105)
 Original Translation: launchSetup_landingZone█Landing Zone
 
-File: vehicles.txt (105)
+File: vehicles.txt (106)
 Original Translation: launchSetup_success█Success
 
-File: vehicles.txt (106)
+File: vehicles.txt (107)
 Original Translation: launchSetup_crash█Crash
 
-File: vehicles.txt (107)
+File: vehicles.txt (108)
 Original Translation: failure█Failure
 
-File: vehicles.txt (108)
+File: vehicles.txt (109)
 Original Translation: noData█No data
 
-File: vehicles.txt (109)
+File: vehicles.txt (110)
 Original Translation: flights█Flights
 
-File: vehicles.txt (110)
+File: vehicles.txt (111)
 Original Translation: failures█Failures
 
-File: vehicles.txt (111)
+File: vehicles.txt (112)
 Original Translation: partialSuccess█Partial Success
 
-File: vehicles.txt (112)
+File: vehicles.txt (113)
 Original Translation: launchPanel_telemetry█Telemetry
 
-File: vehicles.txt (113)
+File: vehicles.txt (114)
 Original Translation: launchPanel_noSupportTelemetry█This rocket does not support telemetry.
 
-File: vehicles.txt (114)
+File: vehicles.txt (115)
 Original Translation: launchPanel_speed█Speed
 
-File: vehicles.txt (115)
+File: vehicles.txt (116)
 Original Translation: launchPanel_altitude█Altitude
 
-File: vehicles.txt (116)
+File: vehicles.txt (117)
 Original Translation: launchPanel_staticFire█Static fire
 
-File: vehicles.txt (117)
+File: vehicles.txt (118)
 Original Translation: launchPanel_speedMetric█km/h
 
-File: vehicles.txt (118)
+File: vehicles.txt (119)
 Original Translation: launchPanel_altitudeMetric█km
 
-File: vehicles.txt (119)
+File: vehicles.txt (120)
 Original Translation: buildPanel_moveToHangar█Move to hangar
 
-File: vehicles.txt (120)
+File: vehicles.txt (121)
 Original Translation: missionReportHeader█Mission report
 
-File: vehicles.txt (121)
+File: vehicles.txt (122)
 Original Translation: missionReportMissionName█Mission name:
 
-File: vehicles.txt (122)
+File: vehicles.txt (123)
 Original Translation: missionReportRocketName█Rocket:
 
-File: vehicles.txt (123)
+File: vehicles.txt (124)
 Original Translation: missionReportMissionResult█Mission Result
 
-File: vehicles.txt (124)
+File: vehicles.txt (125)
 Original Translation: missionReportLaunch█Launch
 
-File: vehicles.txt (125)
+File: vehicles.txt (126)
 Original Translation: missionReportDeploy█Deploy
 
-File: vehicles.txt (126)
+File: vehicles.txt (127)
 Original Translation: missionReportLanding█Landing
 
-File: vehicles.txt (127)
+File: vehicles.txt (128)
 Original Translation: missionReportFairingLanding█Fairing landing
 
-File: vehicles.txt (128)
+File: vehicles.txt (129)
 Original Translation: missionReportSecondVehicleLanding█Second vehicle landing
 
-File: vehicles.txt (129)
+File: vehicles.txt (130)
 Original Translation: missionReportMissionIncome█Mission income
 
-File: vehicles.txt (130)
+File: vehicles.txt (131)
 Original Translation: missionReportDamageCompensation█Damage compensation
 
-File: vehicles.txt (131)
+File: vehicles.txt (132)
 Original Translation: missionReportLandedRocket█Landed rocket
 
-File: vehicles.txt (132)
+File: vehicles.txt (133)
 Original Translation: missionReportSkillPoints█Skill points
 
-File: vehicles.txt (133)
+File: vehicles.txt (134)
 Original Translation: profit█Profit
 
-File: vehicles.txt (134)
+File: vehicles.txt (135)
 Original Translation: loss█Loss
 
-File: vehicles.txt (135)
+File: vehicles.txt (136)
 Original Translation: income█Income
 
-File: vehicles.txt (136)
+File: vehicles.txt (137)
 Original Translation: potentialLoss█Potential Loss
 
-File: vehicles.txt (137)
+File: vehicles.txt (138)
 Original Translation: potentialProfit█Potential Profit

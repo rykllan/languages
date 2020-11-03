@@ -21,17 +21,11 @@ Original Translation: orbit_geo█GEO
 File: general.txt (25)
 Original Translation: orbit_iss█ISS
 
-File: general.txt (35)
-Original Translation: map_settings_mouseLight█Mouselight
-
 File: general.txt (37)
 Original Translation: mars█Mars
 
 File: general.txt (52)
 Original Translation: cybercars█Cybercars
-
-File: general.txt (58)
-Original Translation: actionCamera█Action Camera
 
 File: tutorial.txt (1)
 Original Translation: help█Help
@@ -120,12 +114,6 @@ Original Translation: research_extras█Extras
 File: levels.txt (7)
 Original Translation: research_info█Info
 
-File: levels.txt (49)
-Original Translation: task_RaptorVacEngineTest█Fire {0} Spaceship Vacum Engine(s)!
-
-File: levels.txt (50)
-Original Translation: task_RaptorEngineTest█Fire {0} Spaceship Engine(s)!
-
 File: levels.txt (86)
 Original Translation: progress_teslaRoadsterMission█[<color=#d95eff>MISSION</color>] Roadster
 
@@ -137,132 +125,6 @@ Original Translation: progress_mattMission█[<color=#d95eff>MISSION</color>] Ma
 
 File: levels.txt (93)
 Original Translation: progress_spateMission█[<color=#d95eff>MISSION</color>] Prologue EP
-
-File: levels.txt (102)
-Original Translation: vehicle_mediumRocket█Medium Rocket
-
-File: levels.txt (103)
-Original Translation: vehicle_mediumRocketDesc█Medium rocket, after some Upgrades, can Land and send Cargo Capsules to the ISS. It can launch Medium Payloads to Earth Medium Orbit.
-
-File: levels.txt (104)
-Original Translation: vehicle_largeRocket█Large Rocket
-
-File: levels.txt (105)
-Original Translation: vehicle_largeRocketDesc█After Upgrades, it can automatically Land, send Crew Capsules to the ISS, Catch & reuse Fairings, and more. It can launch Medium Payloads to Earth Geostationary Orbit.
-
-File: levels.txt (106)
-Original Translation: vehicle_heavyRocket█Heavy Rocket
-
-File: levels.txt (107)
-Original Translation: vehicle_heavyRocketDesc█"3 Large Rockets glued together". It can launch Large Payloads to Earth Geostationary Orbit and even Mars Orbit.
-
-File: levels.txt (108)
-Original Translation: vehicle_superheavyRocket█Superheavy Rocket
-
-File: levels.txt (109)
-Original Translation: vehicle_superheavyRocketDesc█Superheavy Rockets are fully Reusable and you don't have to Refurbish them after every flight. It requires a Spaceship.
-
-File: levels.txt (110)
-Original Translation: vehicle_cargoCapsule█Cargo Capsule
-
-File: levels.txt (111)
-Original Translation: vehicle_cargoCapsuleDesc█Get NASA's contract for CRS missions and supply the International Space Station every 2 years.
-
-File: levels.txt (112)
-Original Translation: vehicle_crewCapsule█Crew Capsule
-
-File: levels.txt (113)
-Original Translation: vehicle_crewCapsuleDesc█Get NASA's contract for CCP missions and send new Crew to the International Space Station every 2 years. In Crew Capsule, you can launch normal Cargo as well.
-
-File: levels.txt (114)
-Original Translation: vehicle_cargoSpaceship█Cargo Spaceship
-
-File: levels.txt (115)
-Original Translation: vehicle_cargoSpaceshipDesc█Send more Payloads to Earth's orbits, as well as to Mars! In order to Land on Mars, you will need Tanker Spaceship.
-
-File: levels.txt (116)
-Original Translation: vehicle_crewSpaceship█Crew Spaceship
-
-File: levels.txt (117)
-Original Translation: vehicle_crewSpaceshipDesc█Send humans to the International Space Station or Mars Surface. 
-
-File: levels.txt (118)
-Original Translation: vehicle_tankerSpaceship█Tanker Spaceship
-
-File: levels.txt (119)
-Original Translation: vehicle_tankerSpaceshipDesc█It's required to Refuel Spaceships on Earth's Orbit.
-
-File: levels.txt (120)
-Original Translation: upgrade_basic█Basic
-
-File: levels.txt (121)
-Original Translation: upgrade_basicDesc█Build Costs & Explosions Rate reduction.
-
-File: levels.txt (122)
-Original Translation: upgrade_telemetry█Telemetry
-
-File: levels.txt (123)
-Original Translation: upgrade_telemetryDesc█Allows you to see how Fast and High the rockets are.
-
-File: levels.txt (124)
-Original Translation: upgrade_webcast█Webcasts
-
-File: levels.txt (125)
-Original Translation: upgrade_webcastDesc█Allows you to see what the Rocket sees.
-
-File: levels.txt (126)
-Original Translation: upgrade_cargoCapsuleSupport█Cargo Capsule Support
-
-File: levels.txt (127)
-Original Translation: upgrade_cargoCapsuleSupportDesc█Allows you to launch Cargo Capsules with this Rocket.
-
-File: levels.txt (128)
-Original Translation: upgrade_crewCapsuleSupport█Crew Capsule Support
-
-File: levels.txt (129)
-Original Translation: upgrade_crewCapsuleSupportDesc█Allows you to launch Cargo and Crew Capsules with this Rocket.
-
-File: levels.txt (130)
-Original Translation: upgrade_manualLanding█Manual Landing
-
-File: levels.txt (131)
-Original Translation: upgrade_manualLandingDesc█Allows you to Manually Land with this rocket after its mission. Don't forget, that manually landing rockets require you to click the "Click to Land" button!
-
-File: levels.txt (132)
-Original Translation: upgrade_automaticLanding█Automatic Landing
-
-File: levels.txt (133)
-Original Translation: upgrade_automaticLandingDesc█This rocket will Land Automatically after its mission.
-
-File: levels.txt (134)
-Original Translation: upgrade_fairingCatching█Fairing Catching
-
-File: levels.txt (135)
-Original Translation: upgrade_fairingCatchingDesc█You will be able to try to Catch the Fairings after rocket's mission.
-
-File: levels.txt (136)
-Original Translation: upgrade_rideshare█Rideshare
-
-File: levels.txt (137)
-Original Translation: upgrade_rideshareDesc█Rideshare allows you to Launch More Payloads with one Rocket at once!
-
-File: levels.txt (138)
-Original Translation: prototype_merlinEngine█Rocket Engine
-
-File: levels.txt (139)
-Original Translation: prototype_merlinEngineDesc█Rocket Engine is used in your normal rockets. This prototype will allow you to develop it even further!
-
-File: levels.txt (140)
-Original Translation: prototype_grasshopper█Rocket Hopper
-
-File: levels.txt (141)
-Original Translation: prototype_grasshopperDesc█This prototype will allow you to Practice the Landings of your Rockets.
-
-File: levels.txt (142)
-Original Translation: prototype_raptorEngine█Spaceship Engine
-
-File: levels.txt (143)
-Original Translation: prototype_raptorEngineDesc█Spaceship Engine will be used in your Spaceships and Superheavy Rockets. 
 
 File: linklink.txt (18)
 Original Translation: linkLink_production█Production
@@ -291,29 +153,26 @@ Original Translation: tooltip_production█Production
 File: vehicles.txt (1)
 Original Translation: capsule█Capsule
 
-File: vehicles.txt (42)
-Original Translation: droneship_noDroneship█No Droneship (Rocket will burn after its Flight)
-
-File: vehicles.txt (43)
-Original Translation: droneship_notAvailable█{0} is not available now.
-
 File: vehicles.txt (76)
 Original Translation: launchSetup_mission█Mission
 
-File: vehicles.txt (94)
+File: vehicles.txt (91)
+Original Translation: noVehicleSelected█No Vehicle selected!
+
+File: vehicles.txt (95)
 Original Translation: launchSetup_barge█Barge
 
-File: vehicles.txt (101)
+File: vehicles.txt (102)
 Original Translation: launchSetup_pizza█Pizza
 
-File: vehicles.txt (106)
+File: vehicles.txt (107)
 Original Translation: launchSetup_crash█Crash
 
-File: vehicles.txt (115)
+File: vehicles.txt (116)
 Original Translation: launchPanel_altitude█Altitude
 
-File: vehicles.txt (117)
+File: vehicles.txt (118)
 Original Translation: launchPanel_speedMetric█km/h
 
-File: vehicles.txt (118)
+File: vehicles.txt (119)
 Original Translation: launchPanel_altitudeMetric█km

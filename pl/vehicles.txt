@@ -115,6 +115,7 @@ launchSetup_superheavyRequired█[Wymagana Rakieta Superheavy]
 
 noPayloadsSelected█Nie wybrano ładunków!
 noLaunchPadSelected█Nie wybrano stanowiska!
+noVehicleSelected█Nie wybrano pojazdów!
 noISSDocks█Brak miejsca na ISS!
 noTankerSelected█Nie wybrano cysterny!
 noSpaceInParkingOrbit█Brak miejsca na orbicie parkingowej! 25/25
@@ -170,6 +171,7 @@ loss█Strata
 income█Wpływ
 potentialLoss█Potencjalna Strata
 potentialProfit█Potencjalny Zysk
+
 
 
 

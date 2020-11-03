@@ -115,6 +115,7 @@ launchSetup_superheavyRequired█[Superlourd requis]
 
 noPayloadsSelected█Pas de charge utile sélectionnée!
 noLaunchPadSelected█Pas de rampe de lancement de selectionnée!
+noVehicleSelected█No Vehicle selected!
 noISSDocks█Pas de dock libre sur l'ISS!
 noTankerSelected█Pas de vaisseau de ravitaillement (Tanker) de sélectionné!
 noSpaceInParkingOrbit█Pas d'espace sur le Parking Orbital! 25/25
@@ -170,6 +171,7 @@ loss█Pertes
 income█Revenus
 potentialLoss█Pertes potentielles
 potentialProfit█Bénéfices potentiels
+
 
 
 

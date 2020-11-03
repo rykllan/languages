@@ -1888,46 +1888,49 @@ File: vehicles.txt (90)
 Original Translation: noLaunchPadSelected█No LaunchPad selected!
 
 File: vehicles.txt (91)
-Original Translation: noISSDocks█No space in the ISS!
+Original Translation: noVehicleSelected█No Vehicle selected!
 
 File: vehicles.txt (92)
-Original Translation: noTankerSelected█No Tanker selected!
+Original Translation: noISSDocks█No space in the ISS!
 
 File: vehicles.txt (93)
-Original Translation: noSpaceInParkingOrbit█No space in Parking Orbit! 25/25
+Original Translation: noTankerSelected█No Tanker selected!
 
 File: vehicles.txt (94)
+Original Translation: noSpaceInParkingOrbit█No space in Parking Orbit! 25/25
+
+File: vehicles.txt (95)
 Original Translation: launchSetup_barge█Barge
 
-File: vehicles.txt (97)
+File: vehicles.txt (98)
 Original Translation: noLaumchPad█No LaunchPad
 
-File: vehicles.txt (101)
+File: vehicles.txt (102)
 Original Translation: launchSetup_pizza█Pizza
 
-File: vehicles.txt (110)
+File: vehicles.txt (111)
 Original Translation: failures█Failures
 
-File: vehicles.txt (117)
+File: vehicles.txt (118)
 Original Translation: launchPanel_speedMetric█km/h
 
-File: vehicles.txt (118)
+File: vehicles.txt (119)
 Original Translation: launchPanel_altitudeMetric█km
 
-File: vehicles.txt (132)
+File: vehicles.txt (133)
 Original Translation: missionReportSkillPoints█Skill points
 
-File: vehicles.txt (133)
+File: vehicles.txt (134)
 Original Translation: profit█Profit
 
-File: vehicles.txt (134)
+File: vehicles.txt (135)
 Original Translation: loss█Loss
 
-File: vehicles.txt (135)
+File: vehicles.txt (136)
 Original Translation: income█Income
 
-File: vehicles.txt (136)
+File: vehicles.txt (137)
 Original Translation: potentialLoss█Potential Loss
 
-File: vehicles.txt (137)
+File: vehicles.txt (138)
 Original Translation: potentialProfit█Potential Profit

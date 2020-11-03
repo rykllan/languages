@@ -57,3 +57,4 @@ company_profitPerYear█Средние <mark=#E74C3C25>доходы</mark> за 
 
 
 
+

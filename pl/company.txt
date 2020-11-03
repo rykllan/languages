@@ -57,3 +57,4 @@ company_profitPerYear█Średni <mark=#E74C3C25>przychód</mark> na rok
 
 
 
+

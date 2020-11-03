@@ -9,9 +9,6 @@ Original Translation: orbit_iss█ISS
 File: tutorial.txt (0)
 Original Translation: tutorial█Tutorial
 
-File: tutorial.txt (1)
-Original Translation: help█Help
-
 File: tutorial.txt (16)
 Original Translation: tutorial_LinkLink█LinkLink
 
@@ -42,17 +39,5 @@ Original Translation: module_factory_giga█Giga
 File: modules.txt (28)
 Original Translation: mdl_gps█GPS
 
-File: modules.txt (50)
-Original Translation: mdl_cargoUtility█Cargo Utility
-
-File: modules.txt (51)
-Original Translation: mdl_crewUtility█Crew Utility
-
-File: modules.txt (52)
-Original Translation: mdl_fuelUtility█Fuel Utility
-
-File: vehicles.txt (42)
-Original Translation: droneship_noDroneship█No Droneship (Rocket will burn after its Flight)
-
-File: vehicles.txt (43)
-Original Translation: droneship_notAvailable█{0} is not available now.
+File: vehicles.txt (91)
+Original Translation: noVehicleSelected█No Vehicle selected!

@@ -1083,158 +1083,23 @@ Original Translation: tooltip_production█Production
 File: tooltips.txt (10)
 Original Translation: tooltip_thxKarolina█Thank you, Karolina! I got it!
 
-File: vehicles.txt (10)
-Original Translation: droneships█Droneships
-
-File: vehicles.txt (13)
-Original Translation: nicknameInput█Enter nickname...
-
-File: vehicles.txt (17)
-Original Translation: launchCosts█Launch costs
-
-File: vehicles.txt (23)
-Original Translation: move█Move
-
-File: vehicles.txt (24)
-Original Translation: staticFire█Static Fire
-
-File: vehicles.txt (27)
-Original Translation: repair█Refurbish
-
-File: vehicles.txt (28)
-Original Translation: turnExpendable█Last Flight
-
-File: vehicles.txt (29)
-Original Translation: skip█Skip
-
-File: vehicles.txt (30)
-Original Translation: detailedCosts█Detailed costs
-
-File: vehicles.txt (31)
-Original Translation: leftFairing█Left Fairing
-
-File: vehicles.txt (32)
-Original Translation: rightFairing█Right Fairing
-
-File: vehicles.txt (33)
-Original Translation: secondStage█Second Stage
-
-File: vehicles.txt (34)
-Original Translation: firstStage█First Stage
-
-File: vehicles.txt (35)
-Original Translation: generalRefurbishmentPrice█General refurbishment price
-
-File: vehicles.txt (36)
-Original Translation: xLeft█{0} left
-
-File: vehicles.txt (37)
-Original Translation: isRocketProfitable█Is this rocket profitable?
-
-File: vehicles.txt (38)
-Original Translation: rocketFinance█Finance
-
-File: vehicles.txt (39)
-Original Translation: droneship█Droneship
-
-File: vehicles.txt (40)
-Original Translation: droneship_moveCosts█Move costs
-
-File: vehicles.txt (41)
-Original Translation: droneship_buildCosts█Build costs
-
-File: vehicles.txt (42)
-Original Translation: droneship_noDroneship█No Droneship (Rocket will burn after its Flight)
-
-File: vehicles.txt (43)
-Original Translation: droneship_notAvailable█{0} is not available now.
-
 File: vehicles.txt (50)
 Original Translation: marsTryingLand█Trying to Land on <color=#E17055>Mars</color>
 
 File: vehicles.txt (51)
 Original Translation: earthTryingLand█Trying to Land on <color=#64B5F6>Earth</color>
 
-File: vehicles.txt (53)
-Original Translation: onDroneship█On a Droneship. Coming back soon!
-
-File: vehicles.txt (55)
-Original Translation: readyToFly█Ready to Fly
-
-File: vehicles.txt (56)
-Original Translation: failureChance█&%Failure Chance: {0}%
-
-File: vehicles.txt (57)
-Original Translation: actionRequired█Action Required
-
-File: vehicles.txt (60)
-Original Translation: repairing█Refurbishing...
-
 File: vehicles.txt (64)
 Original Translation: manual█Manual
 
-File: vehicles.txt (78)
-Original Translation: launchSetup_noRocketsFound█[No rockets found.]&%
-
-File: vehicles.txt (79)
-Original Translation: launchSetup_noSpaceshipsFound█[No spaceships found.]&%
-
-File: vehicles.txt (80)
-Original Translation: launchSetup_noCapsulesFound█[No capsules found.]
-
-File: vehicles.txt (81)
-Original Translation: launchSetup_noTankersFound█[No tankers found.]
-
-File: vehicles.txt (86)
-Original Translation: launchSetup_spaceshipRequired█[Spaceship Required]
-
-File: vehicles.txt (87)
-Original Translation: launchSetup_rocketRequired█[Rocket Required]
-
-File: vehicles.txt (88)
-Original Translation: launchSetup_superheavyRequired█[Superheavy Required]
-
-File: vehicles.txt (89)
-Original Translation: noPayloadsSelected█No Payloads selected!
-
-File: vehicles.txt (90)
-Original Translation: noLaunchPadSelected█No LaunchPad selected!
-
 File: vehicles.txt (91)
-Original Translation: noISSDocks█No space in the ISS!
+Original Translation: noVehicleSelected█No Vehicle selected!
 
-File: vehicles.txt (92)
-Original Translation: noTankerSelected█No Tanker selected!
-
-File: vehicles.txt (93)
-Original Translation: noSpaceInParkingOrbit█No space in Parking Orbit! 25/25
-
-File: vehicles.txt (97)
-Original Translation: noLaumchPad█No LaunchPad
-
-File: vehicles.txt (101)
+File: vehicles.txt (102)
 Original Translation: launchSetup_pizza█Pizza
 
-File: vehicles.txt (117)
+File: vehicles.txt (118)
 Original Translation: launchPanel_speedMetric█km/h
 
-File: vehicles.txt (118)
+File: vehicles.txt (119)
 Original Translation: launchPanel_altitudeMetric█km
-
-File: vehicles.txt (132)
-Original Translation: missionReportSkillPoints█Skill points
-
-File: vehicles.txt (133)
-Original Translation: profit█Profit
-
-File: vehicles.txt (134)
-Original Translation: loss█Loss
-
-File: vehicles.txt (135)
-Original Translation: income█Income
-
-File: vehicles.txt (136)
-Original Translation: potentialLoss█Potential Loss
-
-File: vehicles.txt (137)
-Original Translation: potentialProfit█Potential Profit

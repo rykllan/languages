@@ -57,3 +57,4 @@ company_profitPerYear█Cyfartaledd <mark=#64B5F625>profit</mark> Y blwyddyn
 
 
 
+
