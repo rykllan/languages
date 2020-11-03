@@ -1,15 +1,15 @@
 
 
-tooltip_companyProgress█Research
+tooltip_companyProgress█Forschung
 tooltip_vehicles█Fahrzeuge
-tooltip_contracts█Contracts
+tooltip_contracts█Verträge
 tooltip_news█News
 tooltip_company█Unternehmen
 tooltip_buildMode█Baumodus
 tooltip_money█Geld
 tooltip_skillPoints█Skillpunkte
 tooltip_linkLink█LinkLink
-tooltip_production█Production
+tooltip_production█Produktion
 
 tooltip_thxKarolina█Thank you, Karolina! I got it!
 

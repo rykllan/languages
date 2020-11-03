@@ -5,71 +5,71 @@ module_factory_medium█Mittel
 module_factory_large█Groß
 module_factory_giga█Giga
 
----Engines---█---Engines---
+---Engines---█---Triebwerke---
 
-mdl_s_engine█Simple Engine
-mdl_a_engine█Advanced Engine
-mdl_a4_engine█4 Advanced Engines
-mdl_a9_engine█9 Advanced Engines
-mdl_m27_engine█37 Methane Engines
-
-
----FuelTanks---█---FuelTanks---
-
-mdl_s_fueltank█Small Fuel Tank
-mdl_m_fueltank█Medium Fuel Tank
-mdl_l_fueltank█Large Fuel Tank
-mdl_vl_fueltank█Super Fuel Tank
+mdl_s_engine█Einfaches Triebwerk
+mdl_a_engine█Fortgeschrittenes Triebwerk
+mdl_a4_engine█4 Fortgeschrittene Triebwerke
+mdl_a9_engine█9 Fortgeschrittene Triebwerke
+mdl_m27_engine█37 Methan-Triebwerke
 
 
----Computers---█---Computers---
+---FuelTanks---█---Kraftstofftanks---
 
-mdl_s_computer█Simple Computer
-mdl_a_computer█Advanced Computer
-mdl_chip_computer█Computer Chip
-mdl_sn_computer█Skynet Computer
-mdl_booster_connector█Booster Connector
-mdl_camera█Camera
-mdl_s_altitude█Altitude Sensor
-mdl_s_heat█Heat Sensor
-mdl_s_battery█Small Battery
-mdl_a_battery█Large Battery
-mdl_a_antenna█Advanced Antenna
-mdl_s_antenna█Simple Antenna
+mdl_s_fueltank█Kleiner Kraftstofftank
+mdl_m_fueltank█Mittlerer Kraftstofftank
+mdl_l_fueltank█Großer Kraftstofftank
+mdl_vl_fueltank█Mega Kraftstofftank
+
+
+---Computers---█---Computer---
+
+mdl_s_computer█Kleiner Computer
+mdl_a_computer█Fortgeschrittener Computer
+mdl_chip_computer█Computerchip
+mdl_sn_computer█Skynet-Computer
+mdl_booster_connector█Booster-Verbindung
+mdl_camera█Kamera
+mdl_s_altitude█Höhenmesser
+mdl_s_heat█Wärmefühler
+mdl_s_battery█Kleine Batterie
+mdl_a_battery█Große Batterie
+mdl_a_antenna█Fortgeschrittene Antenne
+mdl_s_antenna█Einfache Antenne
 mdl_gps█GPS
 
 
----Fairings---█---Fairings---
+---Fairings---█---Verkleidungen---
 
-mdl_s_fairings█Small Fairing
-mdl_m_fairings█Medium Fairing
-mdl_l_fairings█Large Fairing
-mdl_vc_fairings█Vehicle Connector
-mdl_fairingParachutes█Fairing Parachutes
+mdl_s_fairings█Kleine Verkleidung
+mdl_m_fairings█Mittlere Verkleidung
+mdl_l_fairings█Große Verkleidung
+mdl_vc_fairings█Fahrzeug-Verbinder
+mdl_fairingParachutes█Fallschirme für Verkleidungen
 
 
----Landing Stuff---█---Landing Stuff---
+---Landing Stuff---█---Landungs-Zeug---
 
 mdl_a_gridfins█Aluminium Grid Fins
 mdl_t_gridfins█Titanium Grid Fins
-mdl_m_landingLegs█Manual Landing Legs
-mdl_a_landingLegs█Automatic Landing Legs
+mdl_m_landingLegs█Manuelle Landebeine
+mdl_a_landingLegs█Automatische Landebeine
 
 
----Capsule Stuff---█---Capsule Stuff---
+---Capsule Stuff---█---Kapsel-Zeug---
 
-mdl_light_structure█Light Body
-mdl_heavy_structure█Heavy Body
-mdl_a_escape_engines█Escape Engines
-mdl_a_parachutes█Advanced Parachutes
-mdl_s_parachutes█Simple Parachutes
+mdl_light_structure█Leichter Körper
+mdl_heavy_structure█Schwerer Körper
+mdl_a_escape_engines█Rettungstriebwerke
+mdl_a_parachutes█Fortgeschrittene Fallschirme
+mdl_s_parachutes█Einfache Fallschirme
 
 
----Spaceship Stuff---█---Spaceship Stuff---
+---Spaceship Stuff---█---Raumschiff-Zeug---
 
-mdl_methane_fueltank█Methane Fuel Tank
-mdl_methane_engine█6 Methane Engines
-mdl_stainlesssteel_structure█Stainless Steel Body
+mdl_methane_fueltank█Methan-Kraftstofftank
+mdl_methane_engine█6 Methan-Triebwerke
+mdl_stainlesssteel_structure█Körper aus Edelstahl
 
 mdl_cargoUtility█Cargo Utility
 mdl_crewUtility█Crew Utility

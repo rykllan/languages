@@ -19,7 +19,7 @@ menu_sandbox█<b>Sandbox</b>&%<size=75%>Im Sandbox-Modus ist alles freigeschalt
 
 menu_difficulty█Spielschwierigkeit
 menu_easy█<b>Einfach</b>&%<size=75%>Spiele leicht, wenn du leicht spielen willst. Starte einfach diese großen Raketen.
-menu_hard█<b>Hard</b>&%<size=75%>Higher probability you go bankrupt.
+menu_hard█<b>Hart</b>&%<Größe=75%>Höhere Wahrscheinlichkeit, dass du bankrott gehst.
 
 menu_apply█Übernehmen
 
@@ -38,7 +38,7 @@ menu_hangarsVisual█Hangars sichtbar?
 menu_gameOverSetting█Gameover?
 menu_tutorial█Tutorial?
 
-menu_cameraSensitivity█Camera Sensitivity
+menu_cameraSensitivity█Kamera-Empfindlichkeit
 menu_buildSensitivity█Build Sensitivity
 
 menu_video█Video
@@ -48,7 +48,7 @@ menu_vsync█V-Sync?
 menu_audio█Audio
 menu_music█Musik?
 menu_sounds█Sounds?
-menu_tutorialVoice█Tutorial Voice?
+menu_tutorialVoice█Tutorialstimme?
 
 menu_language█Sprache
 
@@ -58,7 +58,7 @@ menu_collaboration█Zusammenarbeit
 menu_specialThanks█Besonderer Dank
 menu_icons█Icons von Flaticon.com
 
-translated█<b>{0}</b>&%Translated: {1}%&%{2}
+translated█<b>{0}</b>&%Übersetzt: {1}%&%{2}
 dubbing█Dubbing: {0}
 noDubbing█No Dubbing
 
