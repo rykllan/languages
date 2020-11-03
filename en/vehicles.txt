@@ -115,6 +115,7 @@ launchSetup_superheavyRequired█[Superheavy Required]
 
 noPayloadsSelected█No Payloads selected!
 noLaunchPadSelected█No LaunchPad selected!
+noVehicleSelected█No Vehicle selected!
 noISSDocks█No space in the ISS!
 noTankerSelected█No Tanker selected!
 noSpaceInParkingOrbit█No space in Parking Orbit! 25/25
