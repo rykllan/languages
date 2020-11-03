@@ -65,11 +65,11 @@ task_LargeRocketStaticFireTest█Faites {0} essai(s) de tir statique(s) avec des
 task_HeavyRocketStaticFireTest█Faites {0} essai(s) de tir statique(s) avec des fusée(s) lourde(s)!
 task_GrasshopperTest█Testez {0} fusée(s) Hopper!
 
-task_RaptorVacEngineTest█Mettez à feu {0} moteur(s) Vacuum de navette!
-task_RaptorEngineTest█Mettez à feu {0} moteur(s) de navette!
+task_RaptorVacEngineTest█Mettez à feu {0} moteurs Vacuum de navette!
+task_RaptorEngineTest█Mettez à feu {0} moteurs de navette!
 task_SnHop_20m_Test█Réussissez {0} bond(s) de 20m avec des fusées Hopper!
-task_SnHop_150m_Test█Réussissez {0} bond(s) de 150m pour le prototype de navette!
-task_SnHop_20km_Test█Réussissez {0} bond(s) de 20km pour le prototype de navette!
+task_SnHop_150m_Test█Réussissez {0} bond de 150m avec le prototype de navette Hopper!
+task_SnHop_20km_Test█Réussissez {0} bonds de 20km avec le prototype de navette!
 
 task_LaunchMarsCamera█Réussissez la mission de caméra sur Mars!
 task_LaunchTinTin█Réussissez la mission TinTin!
@@ -152,7 +152,7 @@ vehicle_cargoSpaceship█Navette de cargaison
 vehicle_cargoSpaceshipDesc█Envoyez plus de charges utiles en orbite de la Terre, ou même de Mars! Pour atterrir sur Mars, vous aurez besoin d'une fusée de ravitaillement (Tanker).
 
 vehicle_crewSpaceship█Navette d'équipage
-vehicle_crewSpaceshipDesc█Envoyez des humainsSend humans to the International Space Station or Mars Surface. 
+vehicle_crewSpaceshipDesc█Envoyez des humains sur la Station Spatiale Internationale ou sur la surface de Mars.
 
 vehicle_tankerSpaceship█Fusée de ravitaillement (Tanker)
 vehicle_tankerSpaceshipDesc█C'est nécessaire pour ravitailler vos navettes en orbite de la Terre.
@@ -173,7 +173,7 @@ upgrade_crewCapsuleSupport█Support de capsule d'équipage
 upgrade_crewCapsuleSupportDesc█Vous permet d'envoyer des capsules de cargaison et d'équipage avec cette fusée.
 
 upgrade_manualLanding█Atterrissage manuel
-upgrade_manualLandingDesc█Vous permet de faire atterrir votre fusée manuellement après sa mission. N'oubliez pas, un atterrissage manuel nécessite que vosu cliquiez le bouton "Cliquez pour atterrir"!
+upgrade_manualLandingDesc█Vous permet de faire atterrir votre fusée manuellement après sa mission. N'oubliez pas, un atterrissage manuel nécessite que vous cliquiez le bouton "Atterrir"!
 
 upgrade_automaticLanding█Atterrissage automatique
 upgrade_automaticLandingDesc█Cette fusée atterrira automatiquement après sa mission.
