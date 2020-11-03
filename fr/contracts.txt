@@ -7,7 +7,7 @@ contracts_menu_contracts█Contrats
 contracts_menu_offers█Offres
 
 contracts_payloads█{0} charges utiles
-contracts_availableIn█Disponible dans
+contracts_availableIn█Disponible en
 contracts_noRockets█Aucune fusée en capacité !
 contracts_negotiators█Negociateurs
 contracts_approx█Approx.
@@ -26,7 +26,7 @@ contracts_offer_accept█Accepter l'offre
 contracts_offer_accepted█Vous avez accepté cette offre.
 
 deadline_critical█Critique !
-deadline_launchNow█Lancer maintenant !
+deadline_launchNow█Lancez la charge maintenant !
 deadline_yearLeft█1 an restant !
 deadline_yearsLeft█{0} an(s) restant !
 
@@ -66,7 +66,7 @@ payload_technician█Technicien
 payload_flatEarther█Murphy (Flatearther)
 
 contract_marsCamera█Trajet vers Mars
-payload_marsCamera█Caméra de Mars
+payload_marsCamera█Caméra sur Mars
 content_marsCamera█Lancez votre caméra de Mars avec votre Heavy Rocket vers l'orbite de Mars. Vous pourrez ensuite voir et intéragir avec Mars!
 
 
