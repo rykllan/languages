@@ -42,7 +42,7 @@ repair█Обслужить
 turnExpendable█Последний полёт
 skip█Пропустить
 
-turnExpendableTooltip█This rocket will not land after its mission. You will be able to take more payloads in the last flight.
+turnExpendableTooltip█Эта ступень ракеты не вернётся на землю после этой миссии. Вы сможете взять больше нагрузки в последнем полёте.
 
 detailedCosts█Детальная стоимость
 leftFairing█Левый обтекатель
@@ -117,7 +117,7 @@ launchSetup_superheavyRequired█[Требуется сверхтяжёлая р
 
 noPayloadsSelected█Не выбрана нагрузка!
 noLaunchPadSelected█Не выбрана стартовая площадка!
-noVehicleSelected█No Vehicle selected!
+noVehicleSelected█Не выбрана ракета/корабль!
 noISSDocks█Недостаточно места на МКС!
 noTankerSelected█Не выбран танкер!
 noSpaceInParkingOrbit█Недостаточно места на парковочной орбите! 25/25
