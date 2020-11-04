@@ -48,9 +48,9 @@ company_others█Другое
 company_lossPerYear█Средние <mark=#E74C3C25>затраты</mark> за год
 company_profitPerYear█Средние <mark=#E74C3C25>доходы</mark> за год
 
-graphTooltip_successes█{0} successes
-graphTooltip_failures█{0} failures
-graphTooltip_flights█{0} flights
+graphTooltip_successes█Успешных: {0}
+graphTooltip_failures█Неудачных: {0}
+graphTooltip_flights█Полётов: {0}
 
 
 
