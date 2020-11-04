@@ -73,6 +73,7 @@ notYetUnlocked█Not unlocked yet!
 marsProductionHeader█<b>Production</b> <size=50%>/quarter</size>
 marsUsageHeader█<b>Usage</b> <size=50%>/quarter</size>
 marsStorageHeader█<b>Storage</b>
+marsTerraforming█Mars Terraforming ({0}%)
 
 actionCamera█Action Camera
 switchView█Switch View
