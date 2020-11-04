@@ -29,6 +29,8 @@ buildingSetup_produce█Произвести
 returnToEarth█Вернуть на Землю
 returnToEarthShort█Вернуть
 
+buildingGuide█Press <b>ESC</b> to cancel&%Press <b>Q</b> or <b>E</b> to rotate&%Hold <b>SHIFT</b> to place more
+
 buildingSetup_negotiationPowerEachEmployee█Сила переговоров от сотрудников
 buildingSetup_negotiationPowerBuilding█Сила переговоров от здания
 buildingSetup_oneEmployee█Один сотрудник
@@ -145,6 +147,7 @@ lp_xichang█Сичан
 lp_rocketComplex█Приватный космодром
 lp_australia█Вумера
 lp_india█Космический центр им. Сатиша Дхавана
+
 
 
 

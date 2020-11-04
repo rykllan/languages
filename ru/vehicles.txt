@@ -42,6 +42,8 @@ repair█Обслужить
 turnExpendable█Последний полёт
 skip█Пропустить
 
+turnExpendableTooltip█This rocket will not land after its mission. You will be able to take more payloads in the last flight.
+
 detailedCosts█Детальная стоимость
 leftFairing█Левый обтекатель
 rightFairing█Правый обтекатель
@@ -171,6 +173,7 @@ loss█Убыток
 income█Выручка
 potentialLoss█Потенциальный убыток
 potentialProfit█Потенциальная прибыль
+
 
 
 

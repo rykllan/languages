@@ -29,6 +29,8 @@ buildingSetup_produce█Produce
 returnToEarth█Return to Earth
 returnToEarthShort█Return
 
+buildingGuide█Press <b>ESC</b> to cancel&%Press <b>Q</b> or <b>E</b> to rotate&%Hold <b>SHIFT</b> to place more
+
 buildingSetup_negotiationPowerEachEmployee█Alkalmazottak tárgyalási ereje
 buildingSetup_negotiationPowerBuilding█Épületek tárgyalási ereje
 buildingSetup_oneEmployee█Egy alkalmazott
@@ -145,6 +147,7 @@ lp_xichang█Xichang
 lp_rocketComplex█Private Spaceport
 lp_australia█Woomera
 lp_india█Satish Dhawan
+
 
 
 

@@ -29,6 +29,8 @@ buildingSetup_produce█Cynhyrchu
 returnToEarth█Ynol I'r ddear
 returnToEarthShort█Ynol
 
+buildingGuide█Press <b>ESC</b> to cancel&%Press <b>Q</b> or <b>E</b> to rotate&%Hold <b>SHIFT</b> to place more
+
 buildingSetup_negotiationPowerEachEmployee█Pwer Trafod am pob gweithwyr
 buildingSetup_negotiationPowerBuilding█Pwer trafod am yr adeilad
 buildingSetup_oneEmployee█Un gweithwyr
@@ -145,6 +147,7 @@ lp_xichang█Xichang
 lp_rocketComplex█Porthladd gofod preifat
 lp_australia█Woomera
 lp_india█Satish Dhawan
+
 
 
 

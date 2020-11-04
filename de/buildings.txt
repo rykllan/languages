@@ -29,6 +29,8 @@ buildingSetup_produce█Produziere
 returnToEarth█Zurück zur Erde
 returnToEarthShort█Rückkehr
 
+buildingGuide█Press <b>ESC</b> to cancel&%Press <b>Q</b> or <b>E</b> to rotate&%Hold <b>SHIFT</b> to place more
+
 buildingSetup_negotiationPowerEachEmployee█Verhandlungsmacht für jeden Mitarbeiter
 buildingSetup_negotiationPowerBuilding█Verhandlungsmacht des Gebäudes
 buildingSetup_oneEmployee█Ein Mitarbeiter
@@ -145,6 +147,7 @@ lp_xichang█Xichang
 lp_rocketComplex█Private Spaceport
 lp_australia█Woomera
 lp_india█Satish Dhawan
+
 
 
 

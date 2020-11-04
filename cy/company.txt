@@ -48,6 +48,9 @@ company_others█Arall
 company_lossPerYear█Cyfartaledd <mark=#E74C3C25>loss</mark> Y blwyddyn
 company_profitPerYear█Cyfartaledd <mark=#64B5F625>profit</mark> Y blwyddyn
 
+graphTooltip_successes█{0} successes
+graphTooltip_failures█{0} failures
+graphTooltip_flights█{0} flights
 
 
 

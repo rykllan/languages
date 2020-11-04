@@ -68,15 +68,18 @@ cybercars█Киберкар
 nuke█Атомная бомба
 
 unitsToProduce█Единиц для производства: {0}
+notYetUnlocked█Not unlocked yet!
 
 marsProductionHeader█<b>Производство</b> <size=50%>за квартал</size>
 marsUsageHeader█<b>Потребление</b> <size=50%>за квартал</size>
 marsStorageHeader█<b>Хранение</b>
+marsTerraforming█Mars Terraforming ({0}%)
 
 actionCamera█Камера
 switchView█Изменить ракурс
 
 sandbox█Песочница
+
 
 
 

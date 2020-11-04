@@ -42,6 +42,8 @@ repair█Instand setzen
 turnExpendable█Letzter Flug
 skip█Überspringen
 
+turnExpendableTooltip█This rocket will not land after its mission. You will be able to take more payloads in the last flight.
+
 detailedCosts█Kosten im Detail
 leftFairing█Linke Verkleidung
 rightFairing█Rechte Verkleidung
@@ -171,6 +173,7 @@ loss█Verlust
 income█Einnahmen
 potentialLoss█Potentieller Verlust
 potentialProfit█Potentieller Profit
+
 
 
 

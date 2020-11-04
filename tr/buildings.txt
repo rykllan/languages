@@ -29,6 +29,8 @@ buildingSetup_produce█Üretim
 returnToEarth█Dünya'ya dön
 returnToEarthShort█Dön
 
+buildingGuide█Press <b>ESC</b> to cancel&%Press <b>Q</b> or <b>E</b> to rotate&%Hold <b>SHIFT</b> to place more
+
 buildingSetup_negotiationPowerEachEmployee█Her çalışan için müzakere gücü
 buildingSetup_negotiationPowerBuilding█Yapı müzakere gücü
 buildingSetup_oneEmployee█Bir çalışan
@@ -145,6 +147,7 @@ lp_xichang█Xichang
 lp_rocketComplex█Private Uzay Üssü
 lp_australia█Woomera
 lp_india█Satish Dhawan
+
 
 
 

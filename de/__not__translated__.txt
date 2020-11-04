@@ -42,7 +42,13 @@ Original Translation: pressurizing█Pressurizing...
 File: general.txt (52)
 Original Translation: cybercars█Cybercars
 
-File: general.txt (60)
+File: general.txt (55)
+Original Translation: notYetUnlocked█Not unlocked yet!
+
+File: general.txt (59)
+Original Translation: marsTerraforming█Mars Terraforming ({0}%)
+
+File: general.txt (62)
 Original Translation: sandbox█Sandbox
 
 File: tutorial.txt (0)
@@ -102,40 +108,43 @@ Original Translation: building_hangar█Hangar
 File: buildings.txt (14)
 Original Translation: buildingSetup_setup█Setup
 
-File: buildings.txt (47)
+File: buildings.txt (23)
+Original Translation: buildingGuide█Press <b>ESC</b> to cancel&%Press <b>Q</b> or <b>E</b> to rotate&%Hold <b>SHIFT</b> to place more
+
+File: buildings.txt (48)
 Original Translation: mega_hangar█Mega Hangar
 
-File: buildings.txt (93)
+File: buildings.txt (94)
 Original Translation: lp_cape█Cape Canaveral
 
-File: buildings.txt (94)
+File: buildings.txt (95)
 Original Translation: lp_vandenberg█Vandenberg
 
-File: buildings.txt (95)
+File: buildings.txt (96)
 Original Translation: lp_pacificSpaceport█Pacific Spaceport
 
-File: buildings.txt (96)
+File: buildings.txt (97)
 Original Translation: lp_guiana█Guiana
 
-File: buildings.txt (97)
+File: buildings.txt (98)
 Original Translation: lp_midAtlanticSpaceport█Atlantic Spaceport
 
-File: buildings.txt (98)
+File: buildings.txt (99)
 Original Translation: lp_balkonur█Baikonur
 
-File: buildings.txt (99)
+File: buildings.txt (100)
 Original Translation: lp_plesetsk█Plesetsk
 
-File: buildings.txt (100)
+File: buildings.txt (101)
 Original Translation: lp_xichang█Xichang
 
-File: buildings.txt (101)
+File: buildings.txt (102)
 Original Translation: lp_rocketComplex█Private Spaceport
 
-File: buildings.txt (102)
+File: buildings.txt (103)
 Original Translation: lp_australia█Woomera
 
-File: buildings.txt (103)
+File: buildings.txt (104)
 Original Translation: lp_india█Satish Dhawan
 
 File: company.txt (15)
@@ -143,6 +152,15 @@ Original Translation: rocketquillas█Rocketquillas
 
 File: company.txt (36)
 Original Translation: company_linklink█LinkLink
+
+File: company.txt (40)
+Original Translation: graphTooltip_successes█{0} successes
+
+File: company.txt (41)
+Original Translation: graphTooltip_failures█{0} failures
+
+File: company.txt (42)
+Original Translation: graphTooltip_flights█{0} flights
 
 File: contracts.txt (46)
 Original Translation: contract_spate█SPATE: Prologue EP
@@ -345,9 +363,6 @@ Original Translation: prototype_raptorEngineDesc█Spaceship Engine will be used
 File: levels.txt (144)
 Original Translation: prototype_starhopper█Spaceship Hopper
 
-File: levels.txt (145)
-Original Translation: prototype_starhopperDesc█This prototype will be able to tell you if the idea of building a plane-sized Spaceships is stupid or not.
-
 File: levels.txt (147)
 Original Translation: prototype_raptorVacEngineDesc█Spaceship Vacum Engine will be used in your Spaceships when they are in Space.
 
@@ -438,32 +453,35 @@ Original Translation: tooltip_news█News
 File: tooltips.txt (10)
 Original Translation: tooltip_thxKarolina█Thank you, Karolina! I got it!
 
-File: vehicles.txt (66)
+File: vehicles.txt (30)
+Original Translation: turnExpendableTooltip█This rocket will not land after its mission. You will be able to take more payloads in the last flight.
+
+File: vehicles.txt (67)
 Original Translation: superheavy█Superheavy
 
-File: vehicles.txt (76)
+File: vehicles.txt (77)
 Original Translation: launchSetup_mission█Mission
 
-File: vehicles.txt (85)
+File: vehicles.txt (86)
 Original Translation: launchSetup_selectTanker█Orbital Tanker
 
-File: vehicles.txt (91)
+File: vehicles.txt (92)
 Original Translation: noVehicleSelected█No Vehicle selected!
 
-File: vehicles.txt (102)
+File: vehicles.txt (103)
 Original Translation: launchSetup_pizza█Pizza
 
-File: vehicles.txt (104)
+File: vehicles.txt (105)
 Original Translation: launchSetup_everydayStickers█Everyday Stickers
 
-File: vehicles.txt (118)
+File: vehicles.txt (119)
 Original Translation: launchPanel_speedMetric█km/h
 
-File: vehicles.txt (119)
+File: vehicles.txt (120)
 Original Translation: launchPanel_altitudeMetric█km
 
-File: vehicles.txt (126)
+File: vehicles.txt (127)
 Original Translation: missionReportDeploy█Deploy
 
-File: vehicles.txt (134)
+File: vehicles.txt (135)
 Original Translation: profit█Profit

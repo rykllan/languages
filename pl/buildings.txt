@@ -29,6 +29,8 @@ buildingSetup_produce█Produkuj
 returnToEarth█Wróć na Ziemię
 returnToEarthShort█Powrót
 
+buildingGuide█Wciśnij <b>ESC</b> aby anulować&%Wciśnij <b>Q</b> lub <b>E</b> aby obrócić&%Przytrzymaj <b>SHIFT</b> aby zbudować więcej
+
 buildingSetup_negotiationPowerEachEmployee█Siła negocjacji za 1 pracownika
 buildingSetup_negotiationPowerBuilding█Ogólna siła negocjacji budynku
 buildingSetup_oneEmployee█Jeden pracownik
@@ -145,6 +147,7 @@ lp_xichang█Xichang
 lp_rocketComplex█Port Prywatny
 lp_australia█Woomera
 lp_india█Satish Dhawan
+
 
 
 

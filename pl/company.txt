@@ -45,9 +45,12 @@ company_buildings█Budynki
 company_employees█Pracownicy
 company_linklink█LinkLink
 company_others█Inne
-company_lossPerYear█Średnia <mark=#E74C3C25>strata</mark> na rok
+company_lossPerYear█Średnie <mark=#E74C3C25>wydatki</mark> na rok
 company_profitPerYear█Średni <mark=#E74C3C25>przychód</mark> na rok
 
+graphTooltip_successes█{0} sukcesów
+graphTooltip_failures█{0} wybuchów
+graphTooltip_flights█{0} lotów
 
 
 

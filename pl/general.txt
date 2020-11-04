@@ -68,15 +68,18 @@ cybercars█Cyberauta
 nuke█Atomówka
 
 unitsToProduce█Sztuki do wyprodukowania: {0}
+notYetUnlocked█Zablokowane
 
 marsProductionHeader█<b>Produkcja</b> <size=50%>/kwartał</size>
 marsUsageHeader█<b>Użycie</b> <size=50%>/kwartał</size>
 marsStorageHeader█<b>Magazynowanie</b>
+marsTerraforming█Terraformowanie Marsa ({0}%)
 
 actionCamera█Kamera Akcji
 switchView█Przełącz Widok
 
 sandbox█Piaskownica
+
 
 
 

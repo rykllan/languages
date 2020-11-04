@@ -68,15 +68,18 @@ cybercars█Cybercars
 nuke█Atombombe
 
 unitsToProduce█Zu produzierende Einheiten: {0}
+notYetUnlocked█Not unlocked yet!
 
 marsProductionHeader█<b>Produktion</b> <size=50%>/Quartier</size>
 marsUsageHeader█<b>Benutzung</b> <size=50%>/Quartier</size>
 marsStorageHeader█<b>Speicher</b>
+marsTerraforming█Mars Terraforming ({0}%)
 
 actionCamera█Action-Cam
 switchView█Ansicht umschalten
 
 sandbox█Sandbox
+
 
 
 

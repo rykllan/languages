@@ -45,9 +45,12 @@ company_buildings█Buildings
 company_employees█Employees
 company_linklink█LinkLink
 company_others█Others
-company_lossPerYear█Average <mark=#E74C3C25>loss</mark> per year
-company_profitPerYear█Average <mark=#64B5F625>profit</mark> per year
+company_lossPerYear█Average <mark=#E74C3C25>expenses</mark> per year
+company_profitPerYear█Average <mark=#64B5F625>income</mark> per year
 
+graphTooltip_successes█{0} successes
+graphTooltip_failures█{0} failures
+graphTooltip_flights█{0} flights
 
 
 

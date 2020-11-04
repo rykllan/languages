@@ -48,6 +48,9 @@ company_others█Diğerleri
 company_lossPerYear█Ortalama <mark=#E74C3C25>loss</mark> yıl başına
 company_profitPerYear█Ortalama <mark=#64B5F625>profit</mark> yıl başına
 
+graphTooltip_successes█{0} successes
+graphTooltip_failures█{0} failures
+graphTooltip_flights█{0} flights
 
 
 

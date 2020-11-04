@@ -42,6 +42,8 @@ repair█Odnów
 turnExpendable█Ostatni lot
 skip█Pomiń
 
+turnExpendableTooltip█Rakieta nie wyląduje po swojej misji. Będziesz nią mógł zabrać więcej ładunku.
+
 detailedCosts█Koszt
 leftFairing█Lewa Owiewka
 rightFairing█Prawa Owiewka
@@ -171,6 +173,7 @@ loss█Strata
 income█Wpływ
 potentialLoss█Potencjalna Strata
 potentialProfit█Potencjalny Zysk
+
 
 
 

@@ -48,6 +48,9 @@ company_others█Others
 company_lossPerYear█Average <mark=#E74C3C25>loss</mark> per year
 company_profitPerYear█Average <mark=#E74C3C25>loss</mark> per year
 
+graphTooltip_successes█{0} successes
+graphTooltip_failures█{0} failures
+graphTooltip_flights█{0} flights
 
 
 

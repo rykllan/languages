@@ -6,14 +6,32 @@
 File: general.txt (25)
 Original Translation: orbit_iss█ISS
 
+File: general.txt (55)
+Original Translation: notYetUnlocked█Not unlocked yet!
+
+File: general.txt (59)
+Original Translation: marsTerraforming█Mars Terraforming ({0}%)
+
 File: tutorial.txt (0)
 Original Translation: tutorial█Tutorial
 
 File: tutorial.txt (16)
 Original Translation: tutorial_LinkLink█LinkLink
 
+File: buildings.txt (23)
+Original Translation: buildingGuide█Press <b>ESC</b> to cancel&%Press <b>Q</b> or <b>E</b> to rotate&%Hold <b>SHIFT</b> to place more
+
 File: company.txt (36)
 Original Translation: company_linklink█LinkLink
+
+File: company.txt (40)
+Original Translation: graphTooltip_successes█{0} successes
+
+File: company.txt (41)
+Original Translation: graphTooltip_failures█{0} failures
+
+File: company.txt (42)
+Original Translation: graphTooltip_flights█{0} flights
 
 File: contracts.txt (38)
 Original Translation: payload_potato█Orbital Potato
@@ -39,5 +57,5 @@ Original Translation: module_factory_giga█Giga
 File: modules.txt (28)
 Original Translation: mdl_gps█GPS
 
-File: vehicles.txt (91)
-Original Translation: noVehicleSelected█No Vehicle selected!
+File: vehicles.txt (30)
+Original Translation: turnExpendableTooltip█This rocket will not land after its mission. You will be able to take more payloads in the last flight.

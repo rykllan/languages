@@ -48,6 +48,9 @@ company_others█Anderes
 company_lossPerYear█Durchschnittlicher <mark=#E74C3C25>Verlust</mark> pro Jahr
 company_profitPerYear█Durchschnittlicher <mark=#64B5F625>Gewinn</mark> pro Jahr
 
+graphTooltip_successes█{0} successes
+graphTooltip_failures█{0} failures
+graphTooltip_flights█{0} flights
 
 
 

@@ -27,6 +27,12 @@ Original Translation: mars█Mars
 File: general.txt (52)
 Original Translation: cybercars█Cybercars
 
+File: general.txt (55)
+Original Translation: notYetUnlocked█Not unlocked yet!
+
+File: general.txt (59)
+Original Translation: marsTerraforming█Mars Terraforming ({0}%)
+
 File: tutorial.txt (1)
 Original Translation: help█Help
 
@@ -54,22 +60,25 @@ Original Translation: buildingSetup_modules█Modules
 File: buildings.txt (19)
 Original Translation: buildingSetup_queue█Queue
 
-File: buildings.txt (94)
+File: buildings.txt (23)
+Original Translation: buildingGuide█Press <b>ESC</b> to cancel&%Press <b>Q</b> or <b>E</b> to rotate&%Hold <b>SHIFT</b> to place more
+
+File: buildings.txt (95)
 Original Translation: lp_vandenberg█Vandenberg
 
-File: buildings.txt (98)
+File: buildings.txt (99)
 Original Translation: lp_balkonur█Baikonur
 
-File: buildings.txt (99)
+File: buildings.txt (100)
 Original Translation: lp_plesetsk█Plesetsk
 
-File: buildings.txt (100)
+File: buildings.txt (101)
 Original Translation: lp_xichang█Xichang
 
-File: buildings.txt (102)
+File: buildings.txt (103)
 Original Translation: lp_australia█Woomera
 
-File: buildings.txt (103)
+File: buildings.txt (104)
 Original Translation: lp_india█Satish Dhawan
 
 File: company.txt (30)
@@ -80,6 +89,15 @@ Original Translation: company_construction█Construction
 
 File: company.txt (36)
 Original Translation: company_linklink█LinkLink
+
+File: company.txt (40)
+Original Translation: graphTooltip_successes█{0} successes
+
+File: company.txt (41)
+Original Translation: graphTooltip_failures█{0} failures
+
+File: company.txt (42)
+Original Translation: graphTooltip_flights█{0} flights
 
 File: contracts.txt (0)
 Original Translation: contracts_header█Missions
@@ -153,26 +171,29 @@ Original Translation: tooltip_production█Production
 File: vehicles.txt (1)
 Original Translation: capsule█Capsule
 
-File: vehicles.txt (76)
+File: vehicles.txt (30)
+Original Translation: turnExpendableTooltip█This rocket will not land after its mission. You will be able to take more payloads in the last flight.
+
+File: vehicles.txt (77)
 Original Translation: launchSetup_mission█Mission
 
-File: vehicles.txt (91)
+File: vehicles.txt (92)
 Original Translation: noVehicleSelected█No Vehicle selected!
 
-File: vehicles.txt (95)
+File: vehicles.txt (96)
 Original Translation: launchSetup_barge█Barge
 
-File: vehicles.txt (102)
+File: vehicles.txt (103)
 Original Translation: launchSetup_pizza█Pizza
 
-File: vehicles.txt (107)
+File: vehicles.txt (108)
 Original Translation: launchSetup_crash█Crash
 
-File: vehicles.txt (116)
+File: vehicles.txt (117)
 Original Translation: launchPanel_altitude█Altitude
 
-File: vehicles.txt (118)
+File: vehicles.txt (119)
 Original Translation: launchPanel_speedMetric█km/h
 
-File: vehicles.txt (119)
+File: vehicles.txt (120)
 Original Translation: launchPanel_altitudeMetric█km

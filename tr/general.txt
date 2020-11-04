@@ -68,15 +68,18 @@ cybercars█Siber Arabalar
 nuke█Nükleer Silah
 
 unitsToProduce█Üretilecek Birimler: {0}
+notYetUnlocked█Not unlocked yet!
 
 marsProductionHeader█<b>Üretim</b> <size=50%>/çeyrek</size>
 marsUsageHeader█<b>Kullanım</b> <size=50%>/çeyrek</size>
 marsStorageHeader█<b>Depo</b>
+marsTerraforming█Mars Terraforming ({0}%)
 
 actionCamera█Action Camera
 switchView█Switch View
 
 sandbox█Sandbox
+
 
 
 
