@@ -195,7 +195,7 @@ prototype_raptorEngine█Spaceship Engine
 prototype_raptorEngineDesc█Spaceship Engine will be used in your Spaceships and Superheavy Rockets. 
 
 prototype_starhopper█Spaceship Hopper
-prototype_starhopperDesc█This prototype will be able to tell you if the idea of building a plane-sized Spaceships is stupid or not.
+prototype_starhopperDesc█This prototype will be able to tell you if the idea of building plane-sized Spaceships is stupid or not.
 
 prototype_raptorVacEngine█Spaceship Vacuum Engine
 prototype_raptorVacEngineDesc█Spaceship Vacum Engine will be used in your Spaceships when they are in Space.
