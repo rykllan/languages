@@ -22,7 +22,7 @@ enterText█Taper texte...
 notification█Notification
 
 payload_size_verySmall█Très petite
-payload_size_small█Petite	
+payload_size_small█Petite
 payload_size_medium█Moyenne
 payload_size_large█Grande
 payload_size_veryLarge█Très grande
