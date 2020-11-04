@@ -60,13 +60,13 @@ task_LandOnMars█Посадить Spaceship на Марс: {0}
 task_CatchFairings█Поймать обтекателей: {0}
 
 task_MerlinEngineTest█Протестировать ракетных двигателей: {0}
-task_MediumRocketStaticFireTest█Провести прожиг средних ракет: {0}
-task_LargeRocketStaticFireTest█Провести прожиг больших ракет: {0}
-task_HeavyRocketStaticFireTest█Провести прожиг тяжёлых ракет: {0}
+task_MediumRocketStaticFireTest█Провести прожигов средних ракет: {0}
+task_LargeRocketStaticFireTest█Провести прожигов больших ракет: {0}
+task_HeavyRocketStaticFireTest█Провести прожигов тяжёлых ракет: {0}
 task_GrasshopperTest█Протестироать Rockethopper: {0}
 
-task_RaptorVacEngineTest█Провести прожиг вакуумных двигателей Spaceship: {0}
-task_RaptorEngineTest█Провести прожиг двигателей Spaceship: {0}
+task_RaptorVacEngineTest█Провести прожигов вакуумных двигателей Spaceship: {0}
+task_RaptorEngineTest█Провести прожигов двигателей Spaceship: {0}
 task_SnHop_20m_Test█Провести прыжков на 20 м: {0}
 task_SnHop_150m_Test█Провести прыжков на 150 м: {0}
 task_SnHop_20km_Test█Провести прыжков на 20 км: {0}
