@@ -29,6 +29,8 @@ buildingSetup_produce█Produce
 returnToEarth█Return to Earth
 returnToEarthShort█Return
 
+buildingGuide█Press <b>ESC</b> to cancel&%Press <b>Q</b> or <b>E</b> to rotate&%Hold <b>SHIFT</b> to place more
+
 buildingSetup_negotiationPowerEachEmployee█Negotiation power for each employee
 buildingSetup_negotiationPowerBuilding█Building negotiation power
 buildingSetup_oneEmployee█One employee
