@@ -7,7 +7,7 @@ news_technology_content_p14█You've been waiting for this, haven't you? We have
 
 news_technology_content_p21█{1}: "The rockets we are currently developing are far from competitive. Let's hope it's not just a simple boast to make more profits on the stock market. Does {0} really have better technologies? Will we ever set foot on Mars? 
 news_technology_content_p22█"We hope to look to the future. Improvements of our rockets will not only allow us to carry larger charges into orbit. This is the beginning of the path that mankind will follow over the next decades. - {1}, {0}. 
-news_technology_content_p23█The new generation engine presented by %company name% has just passed its first successful tests last year. {1} announced that within 10 years the engine will be on the board of one of the rockets to test it in the vacuum of space. Do the competitors have a reason to fear?
+news_technology_content_p23█The new generation engine presented by {1} has just passed its first successful tests last year. {1} announced that within 10 years the engine will be on the board of one of the rockets to test it in the vacuum of space. Do the competitors have a reason to fear?
 news_technology_content_p24█"I'm sure it'll work!", says {1} at yesterday's conference. He wants to recover the rockets that fell to the Earth after the launch of the payload into orbit. A rocket falling at a very high speed would open the parachute at the right time and then fall into the ocean. This is another step towards cheaper flights into space and to Mars! 
 
 news_technology_content_p31█We are looking forward to hearing more good news about {0}!
