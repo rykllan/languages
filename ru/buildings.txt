@@ -29,7 +29,7 @@ buildingSetup_produce█Произвести
 returnToEarth█Вернуть на Землю
 returnToEarthShort█Вернуть
 
-buildingGuide█Press <b>ESC</b> to cancel&%Press <b>Q</b> or <b>E</b> to rotate&%Hold <b>SHIFT</b> to place more
+buildingGuide█Нажмите <b>ESC</b> для отмены&%Нажмите <b>Q</b> или <b>E</b> для вращения&%Удерживайте <b>SHIFT</b> для размещения больше, чем 1 здание
 
 buildingSetup_negotiationPowerEachEmployee█Сила переговоров от сотрудников
 buildingSetup_negotiationPowerBuilding█Сила переговоров от здания
